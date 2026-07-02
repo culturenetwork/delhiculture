@@ -79,8 +79,8 @@ a { color: inherit; }
 
 .wordmark {
   font-weight: 400;
-  font-size: 28px;
-  letter-spacing: -0.015em;
+  font-size: 20px;
+  letter-spacing: -0.01em;
   text-decoration: none;
   color: var(--ink);
 }
@@ -91,7 +91,6 @@ a { color: inherit; }
 
 .wordmark__culture {
   font-weight: 700;
-  font-style: italic;
 }
 
 .masthead__date {
