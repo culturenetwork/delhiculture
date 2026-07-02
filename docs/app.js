@@ -102,12 +102,35 @@
     grid.appendChild(frag);
   }
 
+  const CATEGORY_COLORS = {
+    "Heritage": "--cat-heritage",
+    "Archaeology": "--cat-archaeology",
+    "Architecture": "--cat-architecture",
+    "Urbanism": "--cat-urbanism",
+    "Landscape": "--cat-landscape",
+    "Museum": "--cat-museum",
+    "Photography": "--cat-photography",
+    "Indian Classical": "--cat-classical",
+    "Jazz": "--cat-jazz",
+    "Dance": "--cat-dance",
+    "Theatre": "--cat-theatre",
+    "Film": "--cat-film",
+    "Book Talk": "--cat-book",
+    "Children": "--cat-children",
+    "Festival": "--cat-festival",
+  };
+
   function buildCard(ev) {
     const a = document.createElement("a");
     a.className = "card";
     a.href = ev.url || "#";
     a.target = "_blank";
     a.rel = "noopener noreferrer";
+
+    const colorVar = CATEGORY_COLORS[ev.category];
+    if (colorVar) {
+      a.style.setProperty("--cat-color", "var(" + colorVar + ")");
+    }
 
     if (ev.image) {
       const img = document.createElement("img");
