@@ -263,6 +263,17 @@ a { color: inherit; }
   font-size: 12px;
 }
 
+.footer p {
+  margin: 0 0 6px;
+}
+
+.footer__network {
+  color: var(--muted);
+  font-family: var(--font-mono);
+  font-size: 11px;
+  letter-spacing: 0.02em;
+}
+
 /* ---------- accessibility / motion ---------- */
 
 @media (prefers-reduced-motion: reduce) {
