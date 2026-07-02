@@ -1,6 +1,20 @@
 {
-  "count": 3,
+  "count": 4,
   "events": [
+    {
+      "category": "Museum",
+      "date": "2026-06-12",
+      "description": "",
+      "end_date": "2026-07-05",
+      "image": null,
+      "score": 85,
+      "source": "bikanerhouse",
+      "tags": [],
+      "time": null,
+      "title": "Waves of Impasto",
+      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/7",
+      "venue": "Bikaner House"
+    },
     {
       "category": "Museum",
       "date": "2026-07-02",
