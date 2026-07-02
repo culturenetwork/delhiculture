@@ -1,34 +1,20 @@
 {
-  "count": 2,
+  "count": 1,
   "events": [
     {
       "category": "Cultural",
-      "date": "2026-07-02",
+      "date": "2026-07-03",
       "description": "",
       "end_date": null,
       "image": "https://iicdelhi.in/themes/custom/quokka/img/SVG/open_tab.svg",
       "score": 50,
       "source": "iic",
       "tags": [],
-      "time": "02:00 PM",
-      "title": "BOOK DISCUSSION GROUP  The Universe Is Pranking Us: A Journey through Philosophy and Physics of a Reality That Thrives on Uncertainty",
-      "url": "https://iicdelhi.in/programmes/book-discussion-group-universe-pranking-us-journey-through-philosophy-and-physics",
-      "venue": "Conference Room II, IIC main"
-    },
-    {
-      "category": "Cultural",
-      "date": "2026-07-02",
-      "description": "",
-      "end_date": null,
-      "image": "https://iicdelhi.in/themes/custom/quokka/img/SVG/open_tab.svg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "06:00 PM",
-      "title": "IIC Double Bill : Music & Dance Recitals",
-      "url": "https://iicdelhi.in/programmes/iic-double-bill-music-dance-recitals-3",
-      "venue": "C.D. Deshmukh Auditorium, IIC main"
+      "time": "11:00 AM",
+      "title": "Exhibition-Cafe Decking By Anupriya Roy, watercolour artist,",
+      "url": "https://iicdelhi.in/programmes/exhibition-cafe-decking-anupriya-roy-watercolour-artist",
+      "venue": "Art Gallery, IIC Annexe"
     }
   ],
-  "generated_at": "2026-07-02"
+  "generated_at": "2026-07-03"
 }

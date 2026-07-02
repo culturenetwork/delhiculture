@@ -1,48 +1,6 @@
 {
-  "count": 58,
+  "count": 55,
   "events": [
-    {
-      "category": "Cultural",
-      "date": "2026-07-10",
-      "description": "",
-      "end_date": null,
-      "image": "https://iicdelhi.in/themes/custom/quokka/img/SVG/open_tab.svg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "06:00 PM",
-      "title": "BOOK DISCUSSION GROUP  -Wild Capital: Discovering Nature in Delhi",
-      "url": "https://iicdelhi.in/programmes/book-discussion-group-wild-capital-discovering-nature-delhi",
-      "venue": "Conference Room II, IIC main"
-    },
-    {
-      "category": "Cultural",
-      "date": "2026-07-10",
-      "description": "",
-      "end_date": null,
-      "image": "https://iicdelhi.in/themes/custom/quokka/img/SVG/open_tab.svg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "Calm Waters, Rising Tide: Stability as the Foundation for Indian Ocean Growth",
-      "url": "https://iicdelhi.in/programmes/calm-waters-rising-tide-stability-foundation-indian-ocean-growth",
-      "venue": "Conference Room I, IIC main"
-    },
-    {
-      "category": "Cultural",
-      "date": "2026-07-10",
-      "description": "",
-      "end_date": null,
-      "image": "https://iicdelhi.in/themes/custom/quokka/img/SVG/open_tab.svg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "06:00 PM",
-      "title": "On Doing Theory in India",
-      "url": "https://iicdelhi.in/programmes/doing-theory-india",
-      "venue": "Seminar Rooms 1,2,3"
-    },
     {
       "category": "Book Talk",
       "date": "2026-07-11",
@@ -814,5 +772,5 @@
       "venue": "C.D. Deshmukh Auditorium, IIC main"
     }
   ],
-  "generated_at": "2026-07-02"
+  "generated_at": "2026-07-03"
 }
