@@ -1,5 +1,5 @@
 {
-  "count": 55,
+  "count": 54,
   "events": [
     {
       "category": "Book Talk",
@@ -28,20 +28,6 @@
       "title": "Tragedy Mein Comedy",
       "url": "https://indiahabitat.org/Events_details/1293",
       "venue": "The Stein Auditorium"
-    },
-    {
-      "category": "Cultural",
-      "date": "2026-07-11",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-06/WhatsApp%20Image%202026-06-29%20at%2011.41.28%20AM.jpeg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "An Evening of Indian Classical Music",
-      "url": "https://iicdelhi.in/programmes/evening-indian-classical-music-0",
-      "venue": "C.D. Deshmukh Auditorium, IIC main"
     },
     {
       "category": "Book Talk",

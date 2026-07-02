@@ -1,6 +1,34 @@
 {
-  "count": 70,
+  "count": 71,
   "events": [
+    {
+      "category": "Museum",
+      "date": "2026-07-02",
+      "description": "",
+      "end_date": "2026-07-06",
+      "image": null,
+      "score": 85,
+      "source": "bikanerhouse",
+      "tags": [],
+      "time": null,
+      "title": "Across Ages -Indigenous Identities",
+      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/7",
+      "venue": "Bikaner House"
+    },
+    {
+      "category": "Museum",
+      "date": "2026-07-03",
+      "description": "",
+      "end_date": "2026-07-07",
+      "image": null,
+      "score": 85,
+      "source": "bikanerhouse",
+      "tags": [],
+      "time": null,
+      "title": "Teen Manzar- Stories of the Wild, the World & the Unseen",
+      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/7",
+      "venue": "Bikaner House"
+    },
     {
       "category": "Cultural",
       "date": "2026-07-03",
@@ -28,6 +56,20 @@
       "title": "Western Choral Music",
       "url": "https://indiahabitat.org/Events_details/1285",
       "venue": "The Stein Auditorium"
+    },
+    {
+      "category": "Museum",
+      "date": "2026-07-05",
+      "description": "",
+      "end_date": "2027-06-12",
+      "image": null,
+      "score": 85,
+      "source": "bikanerhouse",
+      "tags": [],
+      "time": null,
+      "title": "Waves of Impasto",
+      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/7",
+      "venue": "Bikaner House"
     },
     {
       "category": "Cultural",
@@ -198,20 +240,6 @@
       "venue": "Conference Room I, IIC main"
     },
     {
-      "category": "Cultural",
-      "date": "2026-07-10",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-06/Website%20Programme%20Image_10%20July%202026_1_0.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "06:00 PM",
-      "title": "On Doing Theory in India",
-      "url": "https://iicdelhi.in/programmes/doing-theory-india",
-      "venue": "Seminar Rooms 1,2,3"
-    },
-    {
       "category": "Book Talk",
       "date": "2026-07-11",
       "description": "",
@@ -238,20 +266,6 @@
       "title": "Tragedy Mein Comedy",
       "url": "https://indiahabitat.org/Events_details/1293",
       "venue": "The Stein Auditorium"
-    },
-    {
-      "category": "Cultural",
-      "date": "2026-07-11",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-06/WhatsApp%20Image%202026-06-29%20at%2011.41.28%20AM.jpeg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "An Evening of Indian Classical Music",
-      "url": "https://iicdelhi.in/programmes/evening-indian-classical-music-0",
-      "venue": "C.D. Deshmukh Auditorium, IIC main"
     },
     {
       "category": "Book Talk",
