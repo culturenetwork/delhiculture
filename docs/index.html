@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>DelhiCulture — What to see in Delhi today</title>
+<meta name="description" content="A curated index of exhibitions, talks, music, theatre and heritage events in Delhi. No ticketing, no clutter — just what's on.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header class="masthead">
+  <div class="masthead__row">
+    <a href="/" class="wordmark">DelhiCulture</a>
+    <span class="masthead__date" id="masthead-date"></span>
+  </div>
+  <p class="masthead__strap">An index of what's culturally worthwhile in Delhi.</p>
+</header>
+
+<nav class="jumpnav" aria-label="Sections">
+  <a href="#today">Today</a>
+  <a href="#week">This Week</a>
+  <a href="#month">This Month</a>
+</nav>
+
+<main id="main">
+
+  <section class="section" id="today">
+    <div class="section__eyebrow"><span class="eyebrow-index">01</span> Today in Delhi</div>
+    <div class="card-grid" id="grid-today" data-empty-copy="Nothing new listed for today yet. Check back this evening, or see this week below.">
+      <p class="loading">Loading —</p>
+    </div>
+  </section>
+
+  <section class="section" id="week">
+    <div class="section__eyebrow"><span class="eyebrow-index">02</span> This Week</div>
+    <div class="card-grid" id="grid-week" data-empty-copy="Nothing new listed for this week yet.">
+      <p class="loading">Loading —</p>
+    </div>
+  </section>
+
+  <section class="section" id="month">
+    <div class="section__eyebrow"><span class="eyebrow-index">03</span> This Month</div>
+    <div class="card-grid" id="grid-month" data-empty-copy="Nothing new listed for this month yet.">
+      <p class="loading">Loading —</p>
+    </div>
+  </section>
+
+</main>
+
+<footer class="footer">
+  <p>DelhiCulture is a curated index, not a publisher or ticketing platform. Every listing links to its source — buy tickets and confirm details there. Updated daily. <span id="footer-generated"></span></p>
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>

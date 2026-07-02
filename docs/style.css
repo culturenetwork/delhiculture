@@ -1,0 +1,249 @@
+/* ============================================================
+   DelhiCulture — design tokens
+   Palette:  bg #FFFFFF · ink #111111 · muted #6B6B6B
+             hairline #E2E0DA · accent #C1401F (used only for
+             eyebrows + category tags — architectural redline)
+   Type:     Inter (display/body) · IBM Plex Mono (metadata,
+             the "index card" register — dates, times, category
+             codes read like catalog annotations)
+   Layout:   dense multi-column index, sharp corners, no shadow,
+             no animation.
+   ============================================================ */
+
+:root {
+  --bg: #ffffff;
+  --ink: #111111;
+  --muted: #6b6b6b;
+  --hairline: #e2e0da;
+  --accent: #c1401f;
+  --card-bg: #fefefd;
+
+  --font-display: "Inter", -apple-system, "Helvetica Neue", Arial, sans-serif;
+  --font-mono: "IBM Plex Mono", "SF Mono", Menlo, monospace;
+
+  --gutter: 20px;
+  --max-width: 1400px;
+}
+
+* { box-sizing: border-box; }
+
+html { -webkit-text-size-adjust: 100%; }
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--ink);
+  font-family: var(--font-display);
+  font-size: 15px;
+  line-height: 1.45;
+  -webkit-font-smoothing: antialiased;
+}
+
+a { color: inherit; }
+
+/* ---------- masthead ---------- */
+
+.masthead {
+  max-width: var(--max-width);
+  margin: 0 auto;
+  padding: 28px var(--gutter) 14px;
+  border-bottom: 1px solid var(--hairline);
+}
+
+.masthead__row {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 12px;
+}
+
+.wordmark {
+  font-weight: 700;
+  font-size: 20px;
+  letter-spacing: -0.01em;
+  text-decoration: none;
+  color: var(--ink);
+}
+
+.masthead__date {
+  font-family: var(--font-mono);
+  font-size: 12px;
+  color: var(--muted);
+  white-space: nowrap;
+}
+
+.masthead__strap {
+  margin: 6px 0 0;
+  color: var(--muted);
+  font-size: 14px;
+}
+
+/* ---------- jump nav ---------- */
+
+.jumpnav {
+  max-width: var(--max-width);
+  margin: 0 auto;
+  padding: 10px var(--gutter);
+  display: flex;
+  gap: 20px;
+  border-bottom: 1px solid var(--hairline);
+  position: sticky;
+  top: 0;
+  background: var(--bg);
+  z-index: 10;
+}
+
+.jumpnav a {
+  font-family: var(--font-mono);
+  font-size: 12px;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  text-decoration: none;
+  color: var(--muted);
+  border-bottom: 1px solid transparent;
+  padding-bottom: 2px;
+}
+
+.jumpnav a:hover,
+.jumpnav a:focus-visible {
+  color: var(--ink);
+  border-bottom-color: var(--ink);
+}
+
+/* ---------- sections ---------- */
+
+.section {
+  max-width: var(--max-width);
+  margin: 0 auto;
+  padding: 40px var(--gutter) 8px;
+}
+
+.section__eyebrow {
+  font-family: var(--font-mono);
+  font-size: 12px;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--accent);
+  margin-bottom: 16px;
+  padding-bottom: 10px;
+  border-bottom: 1px solid var(--hairline);
+}
+
+.eyebrow-index {
+  color: var(--muted);
+  margin-right: 6px;
+}
+
+.loading,
+.empty-state {
+  font-family: var(--font-mono);
+  font-size: 13px;
+  color: var(--muted);
+  padding: 24px 0 40px;
+}
+
+/* ---------- card grid ---------- */
+
+.card-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap: 1px;
+  background: var(--hairline);
+  border: 1px solid var(--hairline);
+}
+
+.card {
+  background: var(--card-bg);
+  padding: 16px 16px 18px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  text-decoration: none;
+  color: var(--ink);
+  min-height: 168px;
+}
+
+.card:hover .card__title,
+.card:focus-visible .card__title {
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+.card:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: -2px;
+}
+
+.card__meta {
+  display: flex;
+  justify-content: space-between;
+  gap: 8px;
+  font-family: var(--font-mono);
+  font-size: 11px;
+  color: var(--muted);
+}
+
+.card__category {
+  color: var(--accent);
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+
+.card__image {
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  object-fit: cover;
+  background: #f2f1ee;
+  display: block;
+}
+
+.card__title {
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 1.3;
+  letter-spacing: -0.005em;
+}
+
+.card__venue {
+  font-size: 13px;
+  color: var(--muted);
+}
+
+.card__time {
+  font-family: var(--font-mono);
+  font-size: 11px;
+  color: var(--muted);
+}
+
+.card__desc {
+  font-size: 13px;
+  color: #3a3a3a;
+  line-height: 1.4;
+  margin-top: auto;
+  padding-top: 4px;
+}
+
+/* ---------- footer ---------- */
+
+.footer {
+  max-width: var(--max-width);
+  margin: 40px auto 0;
+  padding: 18px var(--gutter) 60px;
+  border-top: 1px solid var(--hairline);
+  color: var(--muted);
+  font-size: 12px;
+}
+
+/* ---------- accessibility / motion ---------- */
+
+@media (prefers-reduced-motion: reduce) {
+  * { transition: none !important; }
+}
+
+/* ---------- responsive ---------- */
+
+@media (max-width: 640px) {
+  .masthead__row { align-items: flex-start; flex-direction: column; gap: 2px; }
+  .card-grid { grid-template-columns: 1fr; }
+  .section { padding-top: 28px; }
+}
