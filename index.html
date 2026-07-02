@@ -3,25 +3,275 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
 <title>Delhi Culture</title>
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+<link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@400;700&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+
 <style>
+
+:root{
+    --bg:#faf9f6;
+    --text:#222;
+    --muted:#666;
+    --line:#e6e2db;
+    --card:#ffffff;
+}
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
 body{
-    font-family:system-ui,-apple-system,BlinkMacSystemFont,sans-serif;
-    max-width:800px;
-    margin:60px auto;
-    padding:20px;
+    background:var(--bg);
+    color:var(--text);
+    font-family:Inter,sans-serif;
     line-height:1.6;
 }
-h1{font-size:48px;margin-bottom:10px;}
+
+.container{
+    width:min(1180px,92%);
+    margin:auto;
+}
+
+header{
+    padding:70px 0 45px;
+    border-bottom:1px solid var(--line);
+}
+
+h1{
+    font-family:"Libre Baskerville",serif;
+    font-size:3.4rem;
+    font-weight:700;
+}
+
+.tagline{
+    margin-top:18px;
+    color:var(--muted);
+    font-size:1.15rem;
+    max-width:720px;
+}
+
+nav{
+    margin-top:35px;
+    display:flex;
+    gap:35px;
+    font-weight:500;
+}
+
+nav a{
+    color:#222;
+    text-decoration:none;
+}
+
+section{
+    padding:55px 0;
+}
+
+.section-title{
+    font-family:"Libre Baskerville",serif;
+    font-size:2rem;
+    margin-bottom:28px;
+}
+
+.grid{
+    display:grid;
+    grid-template-columns:repeat(auto-fit,minmax(300px,1fr));
+    gap:28px;
+}
+
+.card{
+    background:var(--card);
+    border-radius:14px;
+    overflow:hidden;
+    border:1px solid var(--line);
+    transition:.25s;
+}
+
+.card:hover{
+    transform:translateY(-5px);
+    box-shadow:0 18px 40px rgba(0,0,0,.08);
+}
+
+.card img{
+    width:100%;
+    aspect-ratio:16/10;
+    object-fit:cover;
+}
+
+.content{
+    padding:22px;
+}
+
+.category{
+    font-size:.82rem;
+    letter-spacing:.08em;
+    color:#888;
+    text-transform:uppercase;
+}
+
+.title{
+    font-family:"Libre Baskerville",serif;
+    font-size:1.4rem;
+    margin:8px 0 10px;
+}
+
+.meta{
+    color:#666;
+    font-size:.95rem;
+    margin-bottom:12px;
+}
+
+.description{
+    color:#444;
+}
+
+footer{
+    border-top:1px solid var(--line);
+    padding:50px 0 70px;
+    color:#777;
+    text-align:center;
+}
+
 </style>
+
 </head>
+
 <body>
+
+<header>
+
+<div class="container">
 
 <h1>Delhi Culture</h1>
 
-<p>A curated guide to Delhi's art, architecture, heritage and ideas.</p>
+<p class="tagline">
+A curated guide to Delhi's architecture, heritage, art, design,
+music, theatre and ideas.
+</p>
 
-<p>Website coming soon.</p>
+<nav>
+<a href="#">Today</a>
+<a href="#">This Week</a>
+<a href="#">This Month</a>
+<a href="#">About</a>
+</nav>
+
+</div>
+
+</header>
+
+<div class="container">
+
+<section>
+
+<h2 class="section-title">Today in Delhi</h2>
+
+<div class="grid">
+
+<div class="card">
+
+<img src="https://images.unsplash.com/photo-1516483638261-f4dbaf036963?auto=format&fit=crop&w=1200&q=80">
+
+<div class="content">
+
+<div class="category">Architecture</div>
+
+<div class="title">Architecture Lecture</div>
+
+<div class="meta">
+7:00 PM · India International Centre
+</div>
+
+<div class="description">
+An evening lecture exploring the relationship between public space,
+memory and the evolving Indian city.
+</div>
+
+</div>
+
+</div>
+
+<div class="card">
+
+<img src="https://images.unsplash.com/photo-1518998053901-5348d3961a04?auto=format&fit=crop&w=1200&q=80">
+
+<div class="content">
+
+<div class="category">Exhibition</div>
+
+<div class="title">Contemporary Art</div>
+
+<div class="meta">
+NGMA
+</div>
+
+<div class="description">
+A major exhibition bringing together contemporary artists from across India.
+</div>
+
+</div>
+
+</div>
+
+<div class="card">
+
+<img src="https://images.unsplash.com/photo-1529429617124-aee711a5ac1c?auto=format&fit=crop&w=1200&q=80">
+
+<div class="content">
+
+<div class="category">Heritage Walk</div>
+
+<div class="title">Mehrauli Walk</div>
+
+<div class="meta">
+8:00 AM · Mehrauli Archaeological Park
+</div>
+
+<div class="description">
+A guided walk through one of Delhi's richest historical landscapes.
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</section>
+
+<section>
+
+<h2 class="section-title">This Week in Delhi</h2>
+
+<p style="color:#666;">
+Upcoming exhibitions, lectures, performances and heritage walks.
+</p>
+
+</section>
+
+<section>
+
+<h2 class="section-title">This Month in Delhi</h2>
+
+<p style="color:#666;">
+Long-running exhibitions, festivals and cultural programmes.
+</p>
+
+</section>
+
+</div>
+
+<footer>
+
+Delhi Culture · Launching Soon
+
+</footer>
 
 </body>
 </html>
