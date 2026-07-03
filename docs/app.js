@@ -144,18 +144,33 @@
   };
   const DEFAULT_HEX = "#6b6b6b";
 
-  // Real venue images go here — drop the file into docs/images/venues/
-  // and add an entry mapping the EXACT venue string (as it appears in
-  // events.json) to it. `fit: "cover"` for real photos (fills the frame,
-  // crops edges — looks best for photography). `fit: "contain"` for
-  // logos/wordmarks (shown in full on a white background — cropping a
-  // logo can cut off part of the mark or make text illegible). Venue
-  // name must match exactly, including punctuation — check events.json
-  // if a mapping doesn't seem to apply.
-  const VENUE_IMAGES = {
-    "Bikaner House": { src: "images/venues/bikaner-house.jpg", fit: "contain" },
-    // "India International Centre": { src: "images/venues/iic.jpg", fit: "cover" },
-    // "India Habitat Centre": { src: "images/venues/ihc.jpg", fit: "cover" },
+  // Real institution images go here — drop the file into
+  // docs/images/venues/ and map it to the collector's `source` id, NOT
+  // the literal venue string. This matters because a single institution
+  // reports multiple room-level venues (IHC events show up with venues
+  // like "The Stein Auditorium" or "Near the IHC Information Centre" —
+  // those are rooms inside India Habitat Centre, not separate venues).
+  // Keying on `source` means every event from that collector gets the
+  // right institution image regardless of which specific room hosted it.
+  // `fit: "cover"` for real photos, `fit: "contain"` for logos/wordmarks
+  // (shown in full on white — cropping a logo can cut off the mark or
+  // make text illegible).
+  const SOURCE_IMAGES = {
+    bikanerhouse: { src: "images/venues/bikaner-house.jpg", fit: "contain" },
+    // iic: { src: "images/venues/iic.jpg", fit: "cover" },
+    // ihc: { src: "images/venues/ihc.jpg", fit: "cover" },
+    // ignca: { src: "images/venues/ignca.jpg", fit: "contain" },
+  };
+
+  // Canonical institution name per source, used ONLY to generate the
+  // monogram placeholder's initials when no real image exists yet — so
+  // an IHC event held in "The Stein Auditorium" falls back to "IHC",
+  // not "TSA".
+  const SOURCE_NAMES = {
+    iic: "India International Centre",
+    ihc: "India Habitat Centre",
+    bikanerhouse: "Bikaner House",
+    ignca: "IGNCA",
   };
 
   function venueInitials(venueName) {
@@ -168,9 +183,10 @@
       .toUpperCase();
   }
 
-  function buildFallbackImage(venueName, category) {
-    const hex = CATEGORY_HEX[category] || DEFAULT_HEX;
-    const initials = venueInitials(venueName);
+  function buildFallbackImage(ev) {
+    const hex = CATEGORY_HEX[ev.category] || DEFAULT_HEX;
+    const nameForInitials = SOURCE_NAMES[ev.source] || ev.venue;
+    const initials = venueInitials(nameForInitials);
     const svg =
       '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 338">' +
       '<rect width="600" height="338" fill="' + hex + '" fill-opacity="0.08"/>' +
@@ -198,28 +214,28 @@
     img.alt = "";
     img.loading = "lazy";
 
-    const venueEntry = VENUE_IMAGES[ev.venue];
+    const sourceEntry = SOURCE_IMAGES[ev.source];
 
     if (ev.image) {
       img.src = ev.image;
-    } else if (venueEntry) {
-      img.src = venueEntry.src;
-      if (venueEntry.fit === "contain") {
+    } else if (sourceEntry) {
+      img.src = sourceEntry.src;
+      if (sourceEntry.fit === "contain") {
         img.classList.add("card__image--contain");
       }
     } else {
-      img.src = buildFallbackImage(ev.venue, ev.category);
+      img.src = buildFallbackImage(ev);
     }
 
-    // if a REAL image (event photo or venue image) fails to load, drop
-    // to the generated placeholder rather than leaving a broken icon —
-    // but never retry on the placeholder itself, or a bad category/venue
-    // combo could loop.
+    // if a REAL image (event photo or institution image) fails to load,
+    // drop to the generated placeholder rather than leaving a broken
+    // icon — but never retry on the placeholder itself, or a bad
+    // category/source combo could loop.
     img.onerror = function () {
       if (img.dataset.fallenBack) return;
       img.dataset.fallenBack = "1";
       img.classList.remove("card__image--contain");
-      img.src = buildFallbackImage(ev.venue, ev.category);
+      img.src = buildFallbackImage(ev);
     };
     a.appendChild(img);
 
