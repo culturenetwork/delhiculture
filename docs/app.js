@@ -157,8 +157,8 @@
   // make text illegible).
   const SOURCE_IMAGES = {
     bikanerhouse: { src: "images/venues/bikaner-house.jpg", fit: "contain" },
+    ihc: { src: "images/venues/ihc.jpg", fit: "contain" },
     // iic: { src: "images/venues/iic.jpg", fit: "cover" },
-    // ihc: { src: "images/venues/ihc.jpg", fit: "cover" },
     // ignca: { src: "images/venues/ignca.jpg", fit: "contain" },
   };
 
