@@ -3,48 +3,6 @@
   "events": [
     {
       "category": "Book Talk",
-      "date": "2026-07-11",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 75,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "Beyond Borders: How Decentralised Energy is Redrawing the World Map",
-      "url": "https://indiahabitat.org/Events_details/1292",
-      "venue": "Gulmohar"
-    },
-    {
-      "category": "Theatre",
-      "date": "2026-07-11",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 65,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:30 PM",
-      "title": "Tragedy Mein Comedy",
-      "url": "https://indiahabitat.org/Events_details/1293",
-      "venue": "The Stein Auditorium"
-    },
-    {
-      "category": "Cultural",
-      "date": "2026-07-11",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-06/WhatsApp%20Image%202026-06-29%20at%2011.41.28%20AM.jpeg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "An Evening of Indian Classical Music",
-      "url": "https://iicdelhi.in/programmes/evening-indian-classical-music-0",
-      "venue": "C.D. Deshmukh Auditorium, IIC main"
-    },
-    {
-      "category": "Book Talk",
       "date": "2026-07-13",
       "description": "",
       "end_date": null,
@@ -184,6 +142,20 @@
       "venue": "Art Gallery, IIC Annexe"
     },
     {
+      "category": "Dance & Music",
+      "date": "2026-07-16",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 50,
+      "source": "ihc",
+      "tags": [],
+      "time": "7:00 PM",
+      "title": "Celebrating the Birth Centenary of Kathak maestro Late Pt. Kundan Lal Gangani. Day 2",
+      "url": "https://indiahabitat.org/Events_details/1299",
+      "venue": "The Stein Auditorium"
+    },
+    {
       "category": "Cultural",
       "date": "2026-07-16",
       "description": "",
@@ -307,6 +279,20 @@
       "time": "5:00 PM",
       "title": "Bunkar… Stories Woven Anew",
       "url": "https://indiahabitat.org/Events_details/1303",
+      "venue": "The Stein Auditorium"
+    },
+    {
+      "category": "Theatre",
+      "date": "2026-07-18",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 65,
+      "source": "ihc",
+      "tags": [],
+      "time": "7:30 PM",
+      "title": "Bunkar… Stories Woven Anew",
+      "url": "https://indiahabitat.org/Events_details/1306",
       "venue": "The Stein Auditorium"
     },
     {
@@ -647,6 +633,20 @@
     },
     {
       "category": "Cultural",
+      "date": "2026-07-27",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_27%20July%202026%20%281%29.jpg",
+      "score": 50,
+      "source": "iic",
+      "tags": [],
+      "time": "06:30 PM",
+      "title": "Film-  Victoria",
+      "url": "https://iicdelhi.in/programmes/film-victoria",
+      "venue": "C.D. Deshmukh Auditorium, IIC main"
+    },
+    {
+      "category": "Cultural",
       "date": "2026-07-28",
       "description": "",
       "end_date": null,
@@ -758,5 +758,5 @@
       "venue": "C.D. Deshmukh Auditorium, IIC main"
     }
   ],
-  "generated_at": "2026-07-03"
+  "generated_at": "2026-07-04"
 }
