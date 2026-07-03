@@ -1,5 +1,5 @@
 {
-  "count": 13,
+  "count": 14,
   "events": [
     {
       "category": "Indian Classical",
@@ -182,6 +182,20 @@
       "title": "Calm Waters, Rising Tide: Stability as the Foundation for Indian Ocean Growth",
       "url": "https://iicdelhi.in/programmes/calm-waters-rising-tide-stability-foundation-indian-ocean-growth",
       "venue": "Conference Room I, IIC main"
+    },
+    {
+      "category": "Cultural",
+      "date": "2026-07-10",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-06/Website%20Programme%20Image_10%20July%202026_1_0.jpg",
+      "score": 50,
+      "source": "iic",
+      "tags": [],
+      "time": "06:00 PM",
+      "title": "On Doing Theory in India",
+      "url": "https://iicdelhi.in/programmes/doing-theory-india",
+      "venue": "Seminar Rooms 1,2,3"
     }
   ],
   "generated_at": "2026-07-03"

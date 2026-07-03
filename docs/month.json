@@ -30,6 +30,20 @@
       "venue": "The Stein Auditorium"
     },
     {
+      "category": "Cultural",
+      "date": "2026-07-11",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-06/WhatsApp%20Image%202026-06-29%20at%2011.41.28%20AM.jpeg",
+      "score": 50,
+      "source": "iic",
+      "tags": [],
+      "time": "06:30 PM",
+      "title": "An Evening of Indian Classical Music",
+      "url": "https://iicdelhi.in/programmes/evening-indian-classical-music-0",
+      "venue": "C.D. Deshmukh Auditorium, IIC main"
+    },
+    {
       "category": "Book Talk",
       "date": "2026-07-13",
       "description": "",
@@ -258,12 +272,12 @@
       "date": "2026-07-17",
       "description": "",
       "end_date": null,
-      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_17%20July%202026.jpg",
       "score": 50,
       "source": "iic",
       "tags": [],
       "time": "06:30 PM",
-      "title": "Performance ■ Rhythms of Maharashtra: Lavani & Jogwa",
+      "title": "Performance - Rhythms of Maharashtra: Lavani & Jogwa",
       "url": "https://iicdelhi.in/programmes/performance-rhythms-maharashtra-lavani-jogwa",
       "venue": "C.D. Deshmukh Auditorium, IIC main"
     },
@@ -616,20 +630,6 @@
       "title": "The Playboy of the Western World",
       "url": "https://indiahabitat.org/Events_details/1317",
       "venue": "The Stein Auditorium"
-    },
-    {
-      "category": "Cultural",
-      "date": "2026-07-27",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-06/Website%20Programme%20Image_27%20July%202026.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "06:00 PM",
-      "title": "BOOK DISCUSSION GROUP  -Busy Women: Building Commerce and Culture in Middle India",
-      "url": "https://iicdelhi.in/programmes/book-discussion-group-busy-women-building-commerce-and-culture-middle-india",
-      "venue": "Conference Room II, IIC main"
     },
     {
       "category": "Cultural",

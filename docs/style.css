@@ -226,6 +226,16 @@ a { color: inherit; }
   display: block;
 }
 
+/* For venue logos/wordmarks (as opposed to real event photos) — shown in
+   full rather than cropped, since cropping a logo can cut off part of
+   the mark or make text illegible. */
+.card__image--contain {
+  object-fit: contain;
+  background: #ffffff;
+  padding: 24px;
+  box-sizing: border-box;
+}
+
 .card__title {
   font-weight: 600;
   font-size: 16px;
