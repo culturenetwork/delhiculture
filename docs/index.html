@@ -5,6 +5,12 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>DelhiCulture — What to see in Delhi today</title>
 <meta name="description" content="A curated index of exhibitions, talks, music, theatre and heritage events in Delhi. No ticketing, no clutter — just what's on.">
+<link rel="canonical" href="https://delhiculture.com/">
+<meta property="og:title" content="DelhiCulture — What to see in Delhi today">
+<meta property="og:description" content="A curated index of exhibitions, talks, music, theatre and heritage events in Delhi.">
+<meta property="og:url" content="https://delhiculture.com/">
+<meta property="og:type" content="website">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' fill='%23111111'/%3E%3Ctext x='32' y='43' font-family='monospace' font-size='28' fill='%23ffffff' text-anchor='middle'%3EDC%3C/text%3E%3C/svg%3E">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
@@ -26,28 +32,48 @@
   <a href="#month">Next 30 Days</a>
 </nav>
 
+<div class="controls" aria-label="Filter and view options">
+  <span class="controls__label">Filter</span>
+  <div class="filters" id="filter-cats" role="group" aria-label="Filter by category"></div>
+  <div class="controls__divider" aria-hidden="true"></div>
+  <div class="filters" id="filter-venues" role="group" aria-label="Filter by institution"></div>
+  <div class="viewtoggle" role="group" aria-label="View">
+    <button type="button" class="chip" data-view="grid" aria-pressed="true">Grid</button>
+    <button type="button" class="chip" data-view="list" aria-pressed="false">Index</button>
+  </div>
+</div>
+
 <main id="main">
+
+  <section class="section" id="highlights" hidden>
+    <div class="section__eyebrow"><span class="eyebrow-index">00</span> Worth Planning For</div>
+    <div class="hl-grid" id="grid-highlights"></div>
+  </section>
 
   <section class="section" id="today">
     <div class="section__eyebrow"><span class="eyebrow-index">01</span> Today in Delhi</div>
-    <div class="card-grid" id="grid-today" data-empty-copy="Nothing new listed for today yet. Check back this evening, or see the next 7 days below.">
+    <div class="section__body" id="grid-today" data-empty-copy="Nothing new listed for today yet. Check back this evening, or see the next 7 days below.">
       <p class="loading">Loading —</p>
     </div>
   </section>
 
   <section class="section" id="week">
     <div class="section__eyebrow"><span class="eyebrow-index">02</span> Next 7 Days</div>
-    <div class="card-grid" id="grid-week" data-empty-copy="Nothing new listed for the next 7 days yet.">
+    <div class="section__body" id="grid-week" data-empty-copy="Nothing new listed for the next 7 days yet.">
       <p class="loading">Loading —</p>
     </div>
   </section>
 
   <section class="section" id="month">
     <div class="section__eyebrow"><span class="eyebrow-index">03</span> Next 30 Days</div>
-    <div class="card-grid" id="grid-month" data-empty-copy="Nothing new listed for the next 30 days yet.">
+    <div class="section__body" id="grid-month" data-empty-copy="Nothing new listed for the next 30 days yet.">
       <p class="loading">Loading —</p>
     </div>
   </section>
+
+  <noscript>
+    <div class="section"><p class="empty-state">Listings need JavaScript to load. The raw data is at <a href="events.json">events.json</a>.</p></div>
+  </noscript>
 
 </main>
 

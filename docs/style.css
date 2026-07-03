@@ -1,13 +1,16 @@
 /* ============================================================
-   DelhiCulture — design tokens
+   DelhiCulture — design tokens (v2)
    Palette:  bg #FFFFFF · ink #111111 · muted #6B6B6B
-             hairline #E2E0DA · accent #C1401F (used only for
-             eyebrows + category tags — architectural redline)
-   Type:     Inter (display/body) · IBM Plex Mono (metadata,
-             the "index card" register — dates, times, category
-             codes read like catalog annotations)
+             hairline #E2E0DA · accent #C1401F (eyebrows + focus
+             only — architectural redline)
+   Type:     Inter (display/body) · IBM Plex Mono (metadata —
+             the "index card" register)
    Layout:   dense multi-column index, sharp corners, no shadow,
              no animation.
+   v2 adds:  filter chips, Grid/Index view toggle, date-group
+             headings, highlights strip, three new category hues
+             (Exhibition / Talk / Music — mirrored in app.js
+             CATEGORY_HEX; keep in sync).
    ============================================================ */
 
 :root {
@@ -18,9 +21,7 @@
   --accent: #c1401f;
   --card-bg: #fefefd;
 
-  /* Category palette — muted, one hue family per discipline, used only
-     as a left-edge stripe + the category label text. Kept desaturated
-     so the grid still reads as quiet/editorial rather than a color chart. */
+  /* Category palette — muted, one hue family per discipline. */
   --cat-heritage: #a13a2e;
   --cat-archaeology: #a15c2e;
   --cat-architecture: #35577d;
@@ -36,6 +37,9 @@
   --cat-book: #7a5230;
   --cat-children: #c0703f;
   --cat-festival: #957a2e;
+  --cat-exhibition: #8a5a44;
+  --cat-talk: #5a6b7d;
+  --cat-music: #4a7a6a;
   --cat-default: #6b6b6b;
 
   --font-display: "Inter", -apple-system, "Helvetica Neue", Arial, sans-serif;
@@ -47,7 +51,7 @@
 
 * { box-sizing: border-box; }
 
-html { -webkit-text-size-adjust: 100%; }
+html { -webkit-text-size-adjust: 100%; scroll-padding-top: 48px; }
 
 body {
   margin: 0;
@@ -85,13 +89,8 @@ a { color: inherit; }
   color: var(--ink);
 }
 
-.wordmark__delhi {
-  font-weight: 400;
-}
-
-.wordmark__culture {
-  font-weight: 700;
-}
+.wordmark__delhi { font-weight: 400; }
+.wordmark__culture { font-weight: 700; }
 
 .masthead__date {
   font-family: var(--font-mono);
@@ -133,10 +132,80 @@ a { color: inherit; }
 }
 
 .jumpnav a:hover,
-.jumpnav a:focus-visible {
+.jumpnav a:focus-visible,
+.jumpnav a.is-active {
   color: var(--ink);
   border-bottom-color: var(--ink);
 }
+
+/* ---------- controls: filters + view toggle ---------- */
+
+.controls {
+  max-width: var(--max-width);
+  margin: 0 auto;
+  padding: 12px var(--gutter);
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 8px 14px;
+  border-bottom: 1px solid var(--hairline);
+}
+
+.controls__label {
+  font-family: var(--font-mono);
+  font-size: 10px;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--muted);
+  margin-right: -4px;
+}
+
+.filters {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  align-items: center;
+}
+
+.chip {
+  font-family: var(--font-mono);
+  font-size: 11px;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: var(--muted);
+  background: transparent;
+  border: 1px solid var(--hairline);
+  border-radius: 0;
+  padding: 4px 9px;
+  cursor: pointer;
+}
+
+.chip:hover { color: var(--ink); border-color: var(--ink); }
+
+.chip[aria-pressed="true"] {
+  color: var(--bg);
+  background: var(--ink);
+  border-color: var(--ink);
+}
+
+.chip:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 1px;
+}
+
+.controls__divider {
+  width: 1px;
+  align-self: stretch;
+  background: var(--hairline);
+}
+
+.viewtoggle {
+  display: flex;
+  gap: 0;
+  margin-left: auto;
+}
+
+.viewtoggle .chip + .chip { border-left: 0; }
 
 /* ---------- sections ---------- */
 
@@ -169,6 +238,31 @@ a { color: inherit; }
   color: var(--muted);
   padding: 24px 0 40px;
 }
+
+.link-reset {
+  font-family: var(--font-mono);
+  font-size: 13px;
+  color: var(--ink);
+  background: none;
+  border: none;
+  border-bottom: 1px solid var(--ink);
+  padding: 0 0 1px;
+  cursor: pointer;
+}
+
+/* ---------- date group headings ---------- */
+
+.date-heading {
+  font-family: var(--font-mono);
+  font-size: 11px;
+  font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--muted);
+  margin: 22px 0 8px;
+}
+
+.date-heading:first-child { margin-top: 0; }
 
 /* ---------- card grid ---------- */
 
@@ -226,9 +320,7 @@ a { color: inherit; }
   display: block;
 }
 
-/* For venue logos/wordmarks (as opposed to real event photos) — shown in
-   full rather than cropped, since cropping a logo can cut off part of
-   the mark or make text illegible. */
+/* venue logos/wordmarks — shown in full rather than cropped */
 .card__image--contain {
   object-fit: contain;
   background: #ffffff;
@@ -262,6 +354,110 @@ a { color: inherit; }
   padding-top: 4px;
 }
 
+/* ---------- index (list) view ---------- */
+
+.index-list {
+  border-top: 1px solid var(--hairline);
+}
+
+.row {
+  display: grid;
+  grid-template-columns: 200px minmax(0, 1fr) 220px;
+  gap: 4px 16px;
+  align-items: baseline;
+  padding: 10px 4px 10px 12px;
+  border-bottom: 1px solid var(--hairline);
+  border-left: 3px solid var(--cat-color, var(--cat-default));
+  text-decoration: none;
+  color: var(--ink);
+}
+
+.row:hover .row__title,
+.row:focus-visible .row__title {
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+.row:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: -2px;
+}
+
+.row__meta {
+  display: flex;
+  gap: 12px;
+  font-family: var(--font-mono);
+  font-size: 11px;
+  color: var(--muted);
+  white-space: nowrap;
+}
+
+.row__time { min-width: 64px; }
+
+.row__title {
+  font-weight: 600;
+  font-size: 15px;
+  line-height: 1.35;
+}
+
+.row__venue {
+  font-size: 13px;
+  color: var(--muted);
+  text-align: right;
+}
+
+/* ---------- highlights strip ---------- */
+
+.hl-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(210px, 1fr));
+  gap: 1px;
+  background: var(--hairline);
+  border: 1px solid var(--hairline);
+}
+
+.hl-card {
+  background: var(--card-bg);
+  padding: 12px 12px 14px;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  text-decoration: none;
+  color: var(--ink);
+  border-left: 3px solid var(--cat-color, var(--cat-default));
+}
+
+.hl-card:hover .hl-card__title,
+.hl-card:focus-visible .hl-card__title {
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+.hl-card:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: -2px;
+}
+
+.hl-card__meta {
+  display: flex;
+  justify-content: space-between;
+  gap: 8px;
+  font-family: var(--font-mono);
+  font-size: 10.5px;
+  color: var(--muted);
+}
+
+.hl-card__title {
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 1.3;
+}
+
+.hl-card__venue {
+  font-size: 12px;
+  color: var(--muted);
+}
+
 /* ---------- footer ---------- */
 
 .footer {
@@ -273,9 +469,7 @@ a { color: inherit; }
   font-size: 12px;
 }
 
-.footer p {
-  margin: 0 0 6px;
-}
+.footer p { margin: 0 0 6px; }
 
 .footer__network {
   color: var(--muted);
@@ -296,4 +490,23 @@ a { color: inherit; }
   .masthead__row { align-items: flex-start; flex-direction: column; gap: 2px; }
   .card-grid { grid-template-columns: 1fr; }
   .section { padding-top: 28px; }
+
+  .controls { padding: 10px var(--gutter); }
+  .controls__divider { display: none; }
+  .viewtoggle { margin-left: 0; width: 100%; }
+
+  .row {
+    grid-template-columns: 1fr;
+    gap: 2px;
+    padding-right: 0;
+  }
+  .row__venue { text-align: left; }
+}
+
+/* ---------- print: the index should photocopy well ---------- */
+
+@media print {
+  .jumpnav, .controls, .card__image { display: none; }
+  .card, .row, .hl-card { border-left-color: #999; }
+  body { font-size: 12px; }
 }
