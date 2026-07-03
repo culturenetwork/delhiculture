@@ -54,44 +54,47 @@
     "Photography": "--cat-photography",
     "Indian Classical": "--cat-classical",
     "Jazz": "--cat-jazz",
-    "Dance": "--cat-dance",
     "Dance & Music": "--cat-dance",
     "Theatre": "--cat-theatre",
     "Film": "--cat-film",
-    "Film & Talk": "--cat-film",
-    "Film & Theatre": "--cat-film",
     "Book Talk": "--cat-book",
     "Children": "--cat-children",
     "Festival": "--cat-festival",
     "Exhibition": "--cat-exhibition",
     "Talk": "--cat-talk",
-    "Music": "--cat-music",
   };
 
   var CATEGORY_HEX = {
-    "Heritage": "#a13a2e",
-    "Archaeology": "#a15c2e",
-    "Architecture": "#35577d",
-    "Urbanism": "#3d6e78",
-    "Landscape": "#4c7a52",
-    "Museum": "#9c7d2e",
-    "Photography": "#6b5a8a",
-    "Indian Classical": "#a1447a",
-    "Jazz": "#b8752b",
-    "Dance": "#b04a72",
-    "Dance & Music": "#b04a72",
-    "Theatre": "#6a4d8f",
-    "Film": "#4a4a4a",
-    "Film & Talk": "#4a4a4a",
-    "Film & Theatre": "#4a4a4a",
-    "Book Talk": "#7a5230",
-    "Children": "#c0703f",
-    "Festival": "#957a2e",
-    "Exhibition": "#8a5a44",
-    "Talk": "#5a6b7d",
-    "Music": "#4a7a6a",
+    "Heritage": "#b0392a",
+    "Archaeology": "#b3612a",
+    "Architecture": "#2f5e96",
+    "Urbanism": "#2f7d8c",
+    "Landscape": "#3f8a4d",
+    "Museum": "#ab8420",
+    "Photography": "#6f56a0",
+    "Indian Classical": "#b83e85",
+    "Jazz": "#c77c1f",
+    "Dance & Music": "#c2426f",
+    "Theatre": "#7345a6",
+    "Film": "#3d3d3d",
+    "Book Talk": "#8a5526",
+    "Children": "#d0722f",
+    "Festival": "#a58722",
+    "Exhibition": "#9c5a38",
+    "Talk": "#4f6e8f",
   };
   var DEFAULT_HEX = "#6b6b6b";
+
+  /* Engine categories folded into a single display/filter category.
+     Applied before refinement, so the filter bar never shows near-
+     duplicate chips (Dance / Music / Dance & Music, Film & Talk, …).
+     These should eventually migrate into normalize.py's canonical set. */
+  var CANONICAL_CATEGORIES = {
+    "Dance": "Dance & Music",
+    "Music": "Dance & Music",
+    "Film & Talk": "Film",
+    "Film & Theatre": "Theatre",
+  };
 
   /* Display-level category refinement for events the engine labelled
      with the generic fallback. Rule-based keyword matching only —
@@ -101,17 +104,18 @@
     [/\bfilms?\b|\bcinema\b|\bscreening\b/i, "Film"],
     [/\bexhibition\b|\binstallation\b/i, "Exhibition"],
     [/\bbook discussion\b|\bbook talk\b|\bpoetry\b|\bkavita\b|\bpoems?\b/i, "Book Talk"],
-    [/\bkathak\b|\bbharatanatyam\b|\bodissi\b|\bkuchipudi\b|\bdance\b/i, "Dance"],
+    [/\bkathak\b|\bbharatanatyam\b|\bodissi\b|\bkuchipudi\b|\bdance\b/i, "Dance & Music"],
     [/\barchaeolog/i, "Archaeology"],
     [/\bheritage\b/i, "Heritage"],
     [/\bphotograph/i, "Photography"],
     [/\btheatre\b|\btheater\b/i, "Theatre"],
-    [/\brecitals?\b|\bconcert\b|\bchoral\b|\bmusic\b|\bpiano\b|\bsitar\b|\bsarod\b/i, "Music"],
+    [/\brecitals?\b|\bconcert\b|\bchoral\b|\bmusic\b|\bpiano\b|\bsitar\b|\bsarod\b/i, "Dance & Music"],
     [/\blecture\b|\bdialogues?\b|\bdiscussion\b|\btalk\b|\bseminar\b|\bpanel\b|\bcolloquium\b/i, "Talk"],
   ];
 
   function refinedCategory(ev) {
     var cat = ev.category || "";
+    if (CANONICAL_CATEGORIES[cat]) cat = CANONICAL_CATEGORIES[cat];
     if (!GENERIC_CATEGORIES[cat]) return cat;
     var hay = (ev.title || "") + " " + (ev.venue || "");
     for (var i = 0; i < REFINE_RULES.length; i++) {

@@ -21,26 +21,30 @@
   --accent: #c1401f;
   --card-bg: #fefefd;
 
-  /* Category palette — muted, one hue family per discipline. */
-  --cat-heritage: #a13a2e;
-  --cat-archaeology: #a15c2e;
-  --cat-architecture: #35577d;
-  --cat-urbanism: #3d6e78;
-  --cat-landscape: #4c7a52;
-  --cat-museum: #9c7d2e;
-  --cat-photography: #6b5a8a;
-  --cat-classical: #a1447a;
-  --cat-jazz: #b8752b;
-  --cat-dance: #b04a72;
-  --cat-theatre: #6a4d8f;
-  --cat-film: #4a4a4a;
-  --cat-book: #7a5230;
-  --cat-children: #c0703f;
-  --cat-festival: #957a2e;
-  --cat-exhibition: #8a5a44;
-  --cat-talk: #5a6b7d;
-  --cat-music: #4a7a6a;
+  /* Category palette — one hue family per discipline. v2.1: saturation
+     lifted a notch so the stripes carry the calendar, but still short of
+     primary-color territory. Mirrored in app.js CATEGORY_HEX — keep in
+     sync. --cat-dance now serves the combined "Dance & Music". */
+  --cat-heritage: #b0392a;
+  --cat-archaeology: #b3612a;
+  --cat-architecture: #2f5e96;
+  --cat-urbanism: #2f7d8c;
+  --cat-landscape: #3f8a4d;
+  --cat-museum: #ab8420;
+  --cat-photography: #6f56a0;
+  --cat-classical: #b83e85;
+  --cat-jazz: #c77c1f;
+  --cat-dance: #c2426f;
+  --cat-theatre: #7345a6;
+  --cat-film: #3d3d3d;
+  --cat-book: #8a5526;
+  --cat-children: #d0722f;
+  --cat-festival: #a58722;
+  --cat-exhibition: #9c5a38;
+  --cat-talk: #4f6e8f;
   --cat-default: #6b6b6b;
+
+  --stripe: 4px;
 
   --font-display: "Inter", -apple-system, "Helvetica Neue", Arial, sans-serif;
   --font-mono: "IBM Plex Mono", "SF Mono", Menlo, monospace;
@@ -86,7 +90,15 @@ a { color: inherit; }
   font-size: 20px;
   letter-spacing: -0.01em;
   text-decoration: none;
-  color: var(--ink);
+  color: var(--accent);
+}
+
+/* brand names picked out in the accent red wherever they appear in copy */
+.brand-red { color: var(--accent); }
+
+::selection {
+  background: var(--accent);
+  color: #ffffff;
 }
 
 .wordmark__delhi { font-weight: 400; }
@@ -283,7 +295,7 @@ a { color: inherit; }
   text-decoration: none;
   color: var(--ink);
   min-height: 168px;
-  border-left: 3px solid var(--cat-color, var(--cat-default));
+  border-left: var(--stripe) solid var(--cat-color, var(--cat-default));
 }
 
 .card:hover .card__title,
@@ -367,7 +379,7 @@ a { color: inherit; }
   align-items: baseline;
   padding: 10px 4px 10px 12px;
   border-bottom: 1px solid var(--hairline);
-  border-left: 3px solid var(--cat-color, var(--cat-default));
+  border-left: var(--stripe) solid var(--cat-color, var(--cat-default));
   text-decoration: none;
   color: var(--ink);
 }
@@ -424,7 +436,7 @@ a { color: inherit; }
   gap: 6px;
   text-decoration: none;
   color: var(--ink);
-  border-left: 3px solid var(--cat-color, var(--cat-default));
+  border-left: var(--stripe) solid var(--cat-color, var(--cat-default));
 }
 
 .hl-card:hover .hl-card__title,
