@@ -1,5 +1,5 @@
 {
-  "count": 53,
+  "count": 54,
   "events": [
     {
       "category": "Book Talk",
@@ -244,7 +244,7 @@
       "date": "2026-07-17",
       "description": "",
       "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_17%20July%202026.jpg",
+      "image": "https://aws-static.iicdelhi.in/2026-07/IMG-20260702-WA0033.jpg",
       "score": 50,
       "source": "iic",
       "tags": [],
@@ -616,6 +616,20 @@
       "title": "The Playboy of the Western World",
       "url": "https://indiahabitat.org/Events_details/1317",
       "venue": "The Stein Auditorium"
+    },
+    {
+      "category": "Library Programmes",
+      "date": "2026-07-27",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-06/Website%20Programme%20Image_27%20July%202026.jpg",
+      "score": 50,
+      "source": "iic",
+      "tags": [],
+      "time": "06:00 PM",
+      "title": "BOOK DISCUSSION GROUP  -Busy Women: Building Commerce and Culture in Middle India",
+      "url": "https://iicdelhi.in/programmes/book-discussion-group-busy-women-building-commerce-and-culture-middle-india",
+      "venue": "Conference Room II, IIC main"
     },
     {
       "category": "Film Club",

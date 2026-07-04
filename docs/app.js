@@ -716,7 +716,7 @@
      update: bump FRONTEND_BUILD.seq (and set .date to that day) with
      every same-day release; it drops off naturally the next day. */
   var BASELINE_DATE = "2026-07-04"; // rel 1.0
-  var FRONTEND_BUILD = { date: "2026-07-04", seq: 3 };
+  var FRONTEND_BUILD = { date: "2026-07-04", seq: 4 };
 
   /* Fallback source for the publish time: every publish is a git commit,
      so the repo's public commit API is ground truth when the CDN chain
