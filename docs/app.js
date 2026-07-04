@@ -1391,7 +1391,7 @@
      update: bump FRONTEND_BUILD.seq (and set .date to that day) with
      every same-day release; it drops off naturally the next day. */
   var BASELINE_DATE = "2026-07-04"; // rel 1.0
-  var FRONTEND_BUILD = { date: "2026-07-04", seq: 6 }; // v3 frontend
+  var FRONTEND_BUILD = { date: "2026-07-04", seq: 7 }; // v3.1 cache-busting
 
   var COMMIT_TIME_API =
     "https://api.github.com/repos/culturenetwork/delhiculture/commits?path=docs/today.json&per_page=1";

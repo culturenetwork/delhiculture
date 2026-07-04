@@ -72,19 +72,19 @@
       "venue": "Bikaner House"
     },
     {
-      "category": "Indian Classical",
-      "date": "2026-07-04",
+      "category": "Cultural",
+      "date": "2026-07-05",
       "description": "",
       "end_date": null,
       "image": null,
-      "score": 80,
+      "score": 50,
       "source": "ihc",
       "tags": [],
-      "time": "7:30 PM",
-      "title": "Western Choral Music",
-      "url": "https://indiahabitat.org/Events_details/1285",
-      "venue": "The Stein Auditorium"
+      "time": "11:00 AM",
+      "title": "The IHC Free Book X'Change",
+      "url": "https://indiahabitat.org/Events_details/1286",
+      "venue": "Near the IHC Information Centre"
     }
   ],
-  "generated_at": "2026-07-04"
+  "generated_at": "2026-07-05"
 }

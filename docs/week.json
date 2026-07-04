@@ -1,20 +1,6 @@
 {
-  "count": 17,
+  "count": 16,
   "events": [
-    {
-      "category": "Cultural",
-      "date": "2026-07-05",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 50,
-      "source": "ihc",
-      "tags": [],
-      "time": "11:00 AM",
-      "title": "The IHC Free Book X'Change",
-      "url": "https://indiahabitat.org/Events_details/1286",
-      "venue": "Near the IHC Information Centre"
-    },
     {
       "category": "Book Talk",
       "date": "2026-07-06",
@@ -240,5 +226,5 @@
       "venue": "C.D. Deshmukh Auditorium, IIC main"
     }
   ],
-  "generated_at": "2026-07-04"
+  "generated_at": "2026-07-05"
 }
