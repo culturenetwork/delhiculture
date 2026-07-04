@@ -457,6 +457,14 @@
     var host = document.getElementById("grid-highlights");
     if (!sectionEl || !host) return;
 
+    /* The strip is the editorial default view. When the reader filters,
+       they're searching — hide it so results aren't pushed below the
+       fold (especially on mobile). */
+    if (state.category || state.source) {
+      sectionEl.hidden = true;
+      return;
+    }
+
     var picks = allEvents()
       .filter(function (ev) { return (ev.score || 0) >= HIGHLIGHT_MIN_SCORE; })
       .sort(function (a, b) {
@@ -716,7 +724,7 @@
      update: bump FRONTEND_BUILD.seq (and set .date to that day) with
      every same-day release; it drops off naturally the next day. */
   var BASELINE_DATE = "2026-07-04"; // rel 1.0
-  var FRONTEND_BUILD = { date: "2026-07-04", seq: 4 };
+  var FRONTEND_BUILD = { date: "2026-07-04", seq: 5 };
 
   /* Fallback source for the publish time: every publish is a git commit,
      so the repo's public commit API is ground truth when the CDN chain
