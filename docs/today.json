@@ -1,5 +1,5 @@
 {
-  "count": 4,
+  "count": 6,
   "events": [
     {
       "category": "Museum",
@@ -17,6 +17,20 @@
     },
     {
       "category": "Museum",
+      "date": "2026-07-01",
+      "description": "The exhibition presents a body of drawing-based paintings that explore the fragmented realities of contemporary urban existence. Rooted in Indian aesthetic traditions yet shaped by a globalized and technologized visual culture, the works weave together mythology, memory, satire,",
+      "end_date": "2026-07-14",
+      "image": "https://aws-static.iicdelhi.in/2026-05/Website%20Programme%20Image_1%20July%202026.jpg",
+      "score": 85,
+      "source": "iic",
+      "tags": [],
+      "time": "11:00 AM",
+      "title": "EXHIBITION- NEO, URBAN, AVATAR: A Mythopoesis of the Contemporary Times",
+      "url": "https://iicdelhi.in/programmes/exhibition-neo-urban-avatar-mythopoesis-contemporary-times",
+      "venue": "Art Gallery, Kamaladevi Complex, IIC"
+    },
+    {
+      "category": "Museum",
       "date": "2026-07-02",
       "description": "",
       "end_date": "2026-07-06",
@@ -28,6 +42,20 @@
       "title": "Across Ages -Indigenous Identities",
       "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/7",
       "venue": "Bikaner House"
+    },
+    {
+      "category": "Museum",
+      "date": "2026-07-03",
+      "description": "Cafe Decking By Anupriya Roy, watercolour artist, her works reflect on the social and cultural landscapes that shape contemporary city life, transforming ordinary settings into evocative visual narratives.",
+      "end_date": "2026-07-11",
+      "image": "https://aws-static.iicdelhi.in/2026-06/Website%20Programme%20Image_3%20July%202026.jpg",
+      "score": 85,
+      "source": "iic",
+      "tags": [],
+      "time": "11:00 AM",
+      "title": "Exhibition-Cafe Decking By Anupriya Roy, watercolour artist,",
+      "url": "https://iicdelhi.in/programmes/exhibition-cafe-decking-anupriya-roy-watercolour-artist",
+      "venue": "Art Gallery, IIC Annexe"
     },
     {
       "category": "Museum",

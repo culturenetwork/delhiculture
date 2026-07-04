@@ -716,7 +716,7 @@
      update: bump FRONTEND_BUILD.seq (and set .date to that day) with
      every same-day release; it drops off naturally the next day. */
   var BASELINE_DATE = "2026-07-04"; // rel 1.0
-  var FRONTEND_BUILD = { date: "2026-07-04", seq: 1 };
+  var FRONTEND_BUILD = { date: "2026-07-04", seq: 2 };
 
   function releaseLabel(iso) {
     var base = parseISODate(BASELINE_DATE);
@@ -733,7 +733,7 @@
     var d = new Date(LAST_MODIFIED);
     if (isNaN(d)) return null;
     return d.toLocaleTimeString("en-IN", {
-      hour: "numeric", minute: "2-digit", hour12: true, timeZone: "Asia/Kolkata",
+      hour: "numeric", minute: "2-digit", second: "2-digit", hour12: true, timeZone: "Asia/Kolkata",
     }).toLowerCase();
   }
 

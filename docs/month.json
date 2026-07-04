@@ -16,7 +16,21 @@
       "venue": "Gulmohar"
     },
     {
-      "category": "Cultural",
+      "category": "Book Talk",
+      "date": "2026-07-13",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-06/Website%20Programme%20Image_13%20July%202026.jpg",
+      "score": 75,
+      "source": "iic",
+      "tags": [],
+      "time": "06:00 PM",
+      "title": "Still Exceptional? India's Democracy in Comparative and Historical Perspective",
+      "url": "https://iicdelhi.in/programmes/still-exceptional-indias-democracy-comparative-and-historical-perspective",
+      "venue": "Conference Room I, IIC main"
+    },
+    {
+      "category": "Film Club",
       "date": "2026-07-13",
       "description": "",
       "end_date": null,
@@ -28,20 +42,6 @@
       "title": "Film- Magazine",
       "url": "https://iicdelhi.in/programmes/film-magazine",
       "venue": "C.D. Deshmukh Auditorium, IIC main"
-    },
-    {
-      "category": "Cultural",
-      "date": "2026-07-13",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-06/Website%20Programme%20Image_13%20July%202026.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "06:00 PM",
-      "title": "Still Exceptional? India's Democracy in Comparative and Historical Perspective",
-      "url": "https://iicdelhi.in/programmes/still-exceptional-indias-democracy-comparative-and-historical-perspective",
-      "venue": "Conference Room I, IIC main"
     },
     {
       "category": "Indian Classical",
@@ -86,6 +86,48 @@
       "venue": "C.D. Deshmukh Auditorium, IIC main"
     },
     {
+      "category": "Museum",
+      "date": "2026-07-15",
+      "description": "Human Relation with House Bird A solo exhibition by Rahul Gupta, Delhi-based visual artist, his artistic practice engages with themes of environmental change, memory, and human–nature relationships.",
+      "end_date": "2026-07-21",
+      "image": "https://aws-static.iicdelhi.in/2026-06/Website%20Programme%20Image_15%20July%202026_1.jpg",
+      "score": 85,
+      "source": "iic",
+      "tags": [],
+      "time": "11:00 AM",
+      "title": "EXHIBITION -Human Relation with House Bird",
+      "url": "https://iicdelhi.in/programmes/exhibition-human-relation-house-bird",
+      "venue": "Art Gallery, IIC Annexe"
+    },
+    {
+      "category": "Book Talk",
+      "date": "2026-07-15",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-06/Website%20Programme%20Image_15%20July%202026.jpg",
+      "score": 75,
+      "source": "iic",
+      "tags": [],
+      "time": "10:00 AM",
+      "title": "DIALOGUES IN HEALTH AND WELLNESS",
+      "url": "https://iicdelhi.in/programmes/dialogues-health-and-wellness-35",
+      "venue": "Seminar Rooms 1,2,3"
+    },
+    {
+      "category": "Book Talk",
+      "date": "2026-07-15",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-06/Website%20Programme%20Image_15%20July%202026_2.jpg",
+      "score": 75,
+      "source": "iic",
+      "tags": [],
+      "time": "06:30 PM",
+      "title": "DURGABAI DESHMUKH MEMORIAL LECTURE 2026",
+      "url": "https://iicdelhi.in/programmes/durgabai-deshmukh-memorial-lecture-2026",
+      "venue": "C.D. Deshmukh Auditorium, IIC main"
+    },
+    {
       "category": "Dance & Music",
       "date": "2026-07-15",
       "description": "",
@@ -100,46 +142,18 @@
       "venue": "The Stein Auditorium"
     },
     {
-      "category": "Cultural",
-      "date": "2026-07-15",
+      "category": "Book Talk",
+      "date": "2026-07-16",
       "description": "",
       "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-06/Website%20Programme%20Image_15%20July%202026.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "10:00 AM",
-      "title": "DIALOGUES IN HEALTH AND WELLNESS",
-      "url": "https://iicdelhi.in/programmes/dialogues-health-and-wellness-35",
-      "venue": "Seminar Rooms 1,2,3"
-    },
-    {
-      "category": "Cultural",
-      "date": "2026-07-15",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-06/Website%20Programme%20Image_15%20July%202026_2.jpg",
-      "score": 50,
+      "image": "https://aws-static.iicdelhi.in/2026-06/Website%20Programme%20Image%20_16%20July%202026.jpg",
+      "score": 75,
       "source": "iic",
       "tags": [],
       "time": "06:30 PM",
-      "title": "DURGABAI DESHMUKH MEMORIAL LECTURE 2026",
-      "url": "https://iicdelhi.in/programmes/durgabai-deshmukh-memorial-lecture-2026",
-      "venue": "C.D. Deshmukh Auditorium, IIC main"
-    },
-    {
-      "category": "Cultural",
-      "date": "2026-07-15",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-06/Website%20Programme%20Image_15%20July%202026_1.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "11:00 AM",
-      "title": "EXHIBITION -Human Relation with House Bird",
-      "url": "https://iicdelhi.in/programmes/exhibition-human-relation-house-bird",
-      "venue": "Art Gallery, IIC Annexe"
+      "title": "CLEAN AIR DIALOGUES",
+      "url": "https://iicdelhi.in/programmes/clean-air-dialogues-0",
+      "venue": "Lecture Room II, IIC Annexe"
     },
     {
       "category": "Dance & Music",
@@ -156,21 +170,7 @@
       "venue": "The Stein Auditorium"
     },
     {
-      "category": "Cultural",
-      "date": "2026-07-16",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-06/Website%20Programme%20Image%20_16%20July%202026.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "CLEAN AIR DIALOGUES",
-      "url": "https://iicdelhi.in/programmes/clean-air-dialogues-0",
-      "venue": "Lecture Room II, IIC Annexe"
-    },
-    {
-      "category": "Cultural",
+      "category": "Film Club",
       "date": "2026-07-16",
       "description": "",
       "end_date": null,
@@ -196,6 +196,20 @@
       "title": "An Evening of Indian Classical Music",
       "url": "https://indiahabitat.org/Events_details/1301",
       "venue": "The Theatre"
+    },
+    {
+      "category": "Book Talk",
+      "date": "2026-07-17",
+      "description": "",
+      "end_date": null,
+      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "score": 75,
+      "source": "iic",
+      "tags": [],
+      "time": "06:30 PM",
+      "title": "ART MATTERS",
+      "url": "https://iicdelhi.in/programmes/art-matters-279",
+      "venue": "Seminar Rooms 1,2,3"
     },
     {
       "category": "Book Talk",
@@ -230,20 +244,6 @@
       "date": "2026-07-17",
       "description": "",
       "end_date": null,
-      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "ART MATTERS",
-      "url": "https://iicdelhi.in/programmes/art-matters-279",
-      "venue": "Seminar Rooms 1,2,3"
-    },
-    {
-      "category": "Cultural",
-      "date": "2026-07-17",
-      "description": "",
-      "end_date": null,
       "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_17%20July%202026.jpg",
       "score": 50,
       "source": "iic",
@@ -251,6 +251,20 @@
       "time": "06:30 PM",
       "title": "Performance - Rhythms of Maharashtra: Lavani & Jogwa",
       "url": "https://iicdelhi.in/programmes/performance-rhythms-maharashtra-lavani-jogwa",
+      "venue": "C.D. Deshmukh Auditorium, IIC main"
+    },
+    {
+      "category": "Book Talk",
+      "date": "2026-07-18",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-06/Website%20Programme%20Image_18%20July%202026_1.jpg",
+      "score": 75,
+      "source": "iic",
+      "tags": [],
+      "time": "06:30 PM",
+      "title": "9TH NELSON MANDELA LECTURE",
+      "url": "https://iicdelhi.in/programmes/9th-nelson-mandela-lecture",
       "venue": "C.D. Deshmukh Auditorium, IIC main"
     },
     {
@@ -300,20 +314,6 @@
       "date": "2026-07-18",
       "description": "",
       "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-06/Website%20Programme%20Image_18%20July%202026_1.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "9TH NELSON MANDELA LECTURE",
-      "url": "https://iicdelhi.in/programmes/9th-nelson-mandela-lecture",
-      "venue": "C.D. Deshmukh Auditorium, IIC main"
-    },
-    {
-      "category": "Cultural",
-      "date": "2026-07-18",
-      "description": "",
-      "end_date": null,
       "image": null,
       "score": 50,
       "source": "ihc",
@@ -324,7 +324,7 @@
       "venue": "The Habitat Lounge"
     },
     {
-      "category": "Cultural",
+      "category": "Seminars",
       "date": "2026-07-18",
       "description": "",
       "end_date": null,
@@ -352,12 +352,12 @@
       "venue": "The Stein Auditorium"
     },
     {
-      "category": "Cultural",
+      "category": "Book Talk",
       "date": "2026-07-20",
       "description": "",
       "end_date": null,
       "image": "https://aws-static.iicdelhi.in/2026-06/Website%20Programme%20Image_20%20July%202026%20%281%29.jpg",
-      "score": 50,
+      "score": 75,
       "source": "iic",
       "tags": [],
       "time": "06:30 PM",
@@ -366,7 +366,21 @@
       "venue": "Seminar Rooms 1,2,3"
     },
     {
-      "category": "Cultural",
+      "category": "Book Talk",
+      "date": "2026-07-20",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-06/Website%20Programme%20Image_20%20July%202026_1.jpg",
+      "score": 75,
+      "source": "iic",
+      "tags": [],
+      "time": "06:30 PM",
+      "title": "The Extraordinary Science of The Ordinary World: The Legacy of Pierre-Gilles De Gennes",
+      "url": "https://iicdelhi.in/programmes/extraordinary-science-ordinary-world-legacy-pierre-gilles-de-gennes",
+      "venue": "Lecture Room II, IIC Annexe"
+    },
+    {
+      "category": "Film Club",
       "date": "2026-07-20",
       "description": "",
       "end_date": null,
@@ -380,18 +394,18 @@
       "venue": "C.D. Deshmukh Auditorium, IIC main"
     },
     {
-      "category": "Cultural",
-      "date": "2026-07-20",
+      "category": "Book Talk",
+      "date": "2026-07-21",
       "description": "",
       "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-06/Website%20Programme%20Image_20%20July%202026_1.jpg",
-      "score": 50,
+      "image": "https://aws-static.iicdelhi.in/2026-06/Website%20Programme%20Image_21%20July%202026.jpg",
+      "score": 75,
       "source": "iic",
       "tags": [],
-      "time": "06:30 PM",
-      "title": "The Extraordinary Science of The Ordinary World: The Legacy of Pierre-Gilles De Gennes",
-      "url": "https://iicdelhi.in/programmes/extraordinary-science-ordinary-world-legacy-pierre-gilles-de-gennes",
-      "venue": "Lecture Room II, IIC Annexe"
+      "time": "06:00 PM",
+      "title": "BOOK DISCUSSION GROUP  Games Hospitals Play: Decoding Your Private Healthcare Experience",
+      "url": "https://iicdelhi.in/programmes/book-discussion-group-games-hospitals-play-decoding-your-private-healthcare-experience",
+      "venue": "Conference Room I, IIC main"
     },
     {
       "category": "Film",
@@ -408,21 +422,7 @@
       "venue": "The Stein Auditorium"
     },
     {
-      "category": "Cultural",
-      "date": "2026-07-21",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-06/Website%20Programme%20Image_21%20July%202026.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "06:00 PM",
-      "title": "BOOK DISCUSSION GROUP  Games Hospitals Play: Decoding Your Private Healthcare Experience",
-      "url": "https://iicdelhi.in/programmes/book-discussion-group-games-hospitals-play-decoding-your-private-healthcare-experience",
-      "venue": "Conference Room I, IIC main"
-    },
-    {
-      "category": "Cultural",
+      "category": "Film Club",
       "date": "2026-07-21",
       "description": "",
       "end_date": null,
@@ -436,12 +436,12 @@
       "venue": "C.D. Deshmukh Auditorium, IIC main"
     },
     {
-      "category": "Cultural",
+      "category": "Museum",
       "date": "2026-07-22",
-      "description": "",
-      "end_date": null,
+      "description": "A photography exhibition curated by Amit Mehra, photographer, curator, and founder of the UNSUNG project, an ongoing initiative that celebrates the lives and contributions of extraordinary yet often overlooked individuals.",
+      "end_date": "2026-08-04",
       "image": "https://aws-static.iicdelhi.in/2026-06/Website%20Programme%20Image_22%20July%202026.jpg",
-      "score": 50,
+      "score": 85,
       "source": "iic",
       "tags": [],
       "time": "11:00 AM",
@@ -450,12 +450,12 @@
       "venue": "Art Gallery, Kamaladevi Complex, IIC"
     },
     {
-      "category": "Cultural",
+      "category": "Film",
       "date": "2026-07-22",
       "description": "",
       "end_date": null,
       "image": "https://aws-static.iicdelhi.in/2026-06/Website%20Programme%20Image_22%20July%202026_1.jpg",
-      "score": 50,
+      "score": 55,
       "source": "iic",
       "tags": [],
       "time": "06:30 PM",
@@ -506,6 +506,20 @@
       "venue": "C.D. Deshmukh Auditorium, IIC main"
     },
     {
+      "category": "Book Talk",
+      "date": "2026-07-24",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-06/Website%20Programme%20Image_24%20July%202026%20%281%29.jpg",
+      "score": 75,
+      "source": "iic",
+      "tags": [],
+      "time": "06:30 PM",
+      "title": "MUSIC APPRECIATION PROMOTION",
+      "url": "https://iicdelhi.in/programmes/music-appreciation-promotion-355",
+      "venue": "Lecture Room II, IIC Annexe"
+    },
+    {
       "category": "Dance",
       "date": "2026-07-24",
       "description": "",
@@ -534,20 +548,6 @@
       "venue": "Gulmohar"
     },
     {
-      "category": "Cultural",
-      "date": "2026-07-24",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-06/Website%20Programme%20Image_24%20July%202026%20%281%29.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "MUSIC APPRECIATION PROMOTION",
-      "url": "https://iicdelhi.in/programmes/music-appreciation-promotion-355",
-      "venue": "Lecture Room II, IIC Annexe"
-    },
-    {
       "category": "Film",
       "date": "2026-07-25",
       "description": "",
@@ -562,7 +562,7 @@
       "venue": "Gulmohar"
     },
     {
-      "category": "Cultural",
+      "category": "Library Programmes",
       "date": "2026-07-25",
       "description": "",
       "end_date": null,
@@ -590,12 +590,12 @@
       "venue": "Online"
     },
     {
-      "category": "Cultural",
+      "category": "Museum",
       "date": "2026-07-26",
-      "description": "",
-      "end_date": null,
+      "description": "A Solo Exhibition by Ravi Kant Jha, National award-winning artist, his practice investigates themes of consciousness, memory, and transformation.",
+      "end_date": "2026-08-02",
       "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_26%20July%202026.png",
-      "score": 50,
+      "score": 85,
       "source": "iic",
       "tags": [],
       "time": "11:00 AM",
@@ -618,7 +618,7 @@
       "venue": "The Stein Auditorium"
     },
     {
-      "category": "Cultural",
+      "category": "Film Club",
       "date": "2026-07-27",
       "description": "",
       "end_date": null,
@@ -632,12 +632,12 @@
       "venue": "C.D. Deshmukh Auditorium, IIC main"
     },
     {
-      "category": "Cultural",
+      "category": "Book Talk",
       "date": "2026-07-28",
       "description": "",
       "end_date": null,
       "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
-      "score": 50,
+      "score": 75,
       "source": "iic",
       "tags": [],
       "time": "06:30 PM",
@@ -646,12 +646,12 @@
       "venue": "Lecture Room II, IIC Annexe"
     },
     {
-      "category": "Cultural",
+      "category": "Book Talk",
       "date": "2026-07-28",
       "description": "",
       "end_date": null,
       "image": "https://aws-static.iicdelhi.in/2026-06/Website%20Programme%20Image_28%20July%202026%20%281%29.jpg",
-      "score": 50,
+      "score": 75,
       "source": "iic",
       "tags": [],
       "time": "06:30 PM",
@@ -716,7 +716,7 @@
       "venue": "The Stein Auditorium"
     },
     {
-      "category": "Cultural",
+      "category": "Library Programmes",
       "date": "2026-07-31",
       "description": "",
       "end_date": null,
