@@ -716,7 +716,28 @@
      update: bump FRONTEND_BUILD.seq (and set .date to that day) with
      every same-day release; it drops off naturally the next day. */
   var BASELINE_DATE = "2026-07-04"; // rel 1.0
-  var FRONTEND_BUILD = { date: "2026-07-04", seq: 2 };
+  var FRONTEND_BUILD = { date: "2026-07-04", seq: 3 };
+
+  /* Fallback source for the publish time: every publish is a git commit,
+     so the repo's public commit API is ground truth when the CDN chain
+     doesn't pass a Last-Modified header through. One request per page
+     load, and only when the header is missing. */
+  var COMMIT_TIME_API =
+    "https://api.github.com/repos/culturenetwork/delhiculture/commits?path=docs/today.json&per_page=1";
+  var triedCommitTimeApi = false;
+
+  function fetchCommitTime(iso) {
+    fetch(COMMIT_TIME_API)
+      .then(function (r) { return r.ok ? r.json() : null; })
+      .then(function (list) {
+        var c = list && list[0] && list[0].commit && list[0].commit.committer;
+        if (c && c.date) {
+          LAST_MODIFIED = c.date; // ISO UTC, e.g. 2026-07-04T06:05:15Z
+          setGeneratedAt(iso);    // re-render the footer with the time
+        }
+      })
+      .catch(function () { /* footer just shows the rel number */ });
+  }
 
   function releaseLabel(iso) {
     var base = parseISODate(BASELINE_DATE);
@@ -748,6 +769,11 @@
     if (rel) parts.push("rel " + rel);
     el.textContent = "Last updated " + iso +
       (parts.length ? " (" + parts.join(" / ") + ")" : "") + ".";
+
+    if (!time && !triedCommitTimeApi) {
+      triedCommitTimeApi = true;
+      fetchCommitTime(iso);
+    }
   }
 
   /* Active state on the jump nav as sections scroll past. Guarded —
