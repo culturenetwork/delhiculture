@@ -205,9 +205,17 @@
     }
   }
 
+  /* Wall-clock time of the last pipeline publish, read from the HTTP
+     Last-Modified header GitHub Pages serves for the data files — no
+     engine change needed to show an update time. */
+  var LAST_MODIFIED = null;
+
   async function fetchJSON(file) {
     var res = await fetch(file, { cache: "no-store" });
     if (!res.ok) throw new Error(file + " " + res.status);
+    if ((file === "today.json" || file === "events.json") && res.headers && res.headers.get) {
+      LAST_MODIFIED = res.headers.get("last-modified") || LAST_MODIFIED;
+    }
     return res.json();
   }
 
@@ -701,10 +709,45 @@
     grid.textContent = "Couldn't load listings right now — try refreshing.";
   }
 
+  /* ---------- release stamp ----------
+     rel 1.<N> where N = days since BASELINE_DATE, driven by the data's
+     generated_at — increments automatically with each day's pipeline
+     run. A third component appears only on days we ship a frontend
+     update: bump FRONTEND_BUILD.seq (and set .date to that day) with
+     every same-day release; it drops off naturally the next day. */
+  var BASELINE_DATE = "2026-07-04"; // rel 1.0
+  var FRONTEND_BUILD = { date: "2026-07-04", seq: 1 };
+
+  function releaseLabel(iso) {
+    var base = parseISODate(BASELINE_DATE);
+    var d = parseISODate(iso);
+    if (!base || !d) return null;
+    var minor = Math.max(0, Math.round((d - base) / 86400000));
+    var label = "1." + minor;
+    if (FRONTEND_BUILD.date === iso) label += "." + FRONTEND_BUILD.seq;
+    return label;
+  }
+
+  function publishTimeIST() {
+    if (!LAST_MODIFIED) return null;
+    var d = new Date(LAST_MODIFIED);
+    if (isNaN(d)) return null;
+    return d.toLocaleTimeString("en-IN", {
+      hour: "numeric", minute: "2-digit", hour12: true, timeZone: "Asia/Kolkata",
+    }).toLowerCase();
+  }
+
   function setGeneratedAt(iso) {
     if (!iso) return;
     var el = document.getElementById("footer-generated");
-    if (el) el.textContent = "Last updated " + iso + ".";
+    if (!el) return;
+    var parts = [];
+    var time = publishTimeIST();
+    if (time) parts.push(time);
+    var rel = releaseLabel(iso);
+    if (rel) parts.push("rel " + rel);
+    el.textContent = "Last updated " + iso +
+      (parts.length ? " (" + parts.join(" / ") + ")" : "") + ".";
   }
 
   /* Active state on the jump nav as sections scroll past. Guarded —
