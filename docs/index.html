@@ -16,13 +16,25 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="style.css">
+<script>
+/* apply saved theme before first paint to avoid a flash */
+(function () {
+  try {
+    var t = localStorage.getItem("dc-theme");
+    if (t === "dark" || t === "light") document.documentElement.setAttribute("data-theme", t);
+  } catch (e) {}
+})();
+</script>
 </head>
 <body>
 
 <header class="masthead">
   <div class="masthead__row">
     <a href="/" class="wordmark"><span class="wordmark__delhi">Delhi</span><span class="wordmark__culture">Culture</span></a>
-    <span class="masthead__date" id="masthead-date"></span>
+    <div class="masthead__right">
+      <span class="masthead__date" id="masthead-date"></span>
+      <button type="button" class="theme-toggle" id="theme-toggle" aria-label="Switch between light and dark">◐</button>
+    </div>
   </div>
   <p class="masthead__strap">Everything worth seeing in Delhi — exhibitions, talks, music, theatre, heritage. Updated daily.</p>
 </header>
@@ -31,6 +43,10 @@
   <a href="#today">Today</a>
   <a href="#week">Next 7 Days</a>
   <a href="#month">Next 30 Days</a>
+  <div class="searchbox" role="search">
+    <input type="search" id="search-input" placeholder="Search listings…" aria-label="Search listings" autocomplete="off">
+    <span class="searchbox__hint" aria-hidden="true">/</span>
+  </div>
 </nav>
 
 <div class="controls" aria-label="Filter and view options">
@@ -38,11 +54,19 @@
   <div class="filters" id="filter-cats" role="group" aria-label="Filter by category"></div>
   <div class="controls__divider" aria-hidden="true"></div>
   <div class="filters" id="filter-venues" role="group" aria-label="Filter by institution"></div>
+  <div class="controls__divider" aria-hidden="true"></div>
+  <div class="filters" role="group" aria-label="Lenses">
+    <button type="button" class="chip chip--lens" data-lens="weekend" aria-pressed="false">This Weekend</button>
+    <button type="button" class="chip chip--lens" data-lens="saved" aria-pressed="false">★ Saved</button>
+  </div>
+  <span class="result-count" id="result-count" hidden aria-live="polite"></span>
   <div class="viewtoggle" role="group" aria-label="View">
     <button type="button" class="chip" data-view="grid" aria-pressed="true">Grid</button>
     <button type="button" class="chip" data-view="list" aria-pressed="false">Index</button>
   </div>
 </div>
+
+<section class="lead" id="lead" hidden aria-label="Today's pick"></section>
 
 <main id="main">
 
@@ -77,6 +101,12 @@
   </noscript>
 
 </main>
+
+<div class="overlay" id="overlay" hidden>
+  <div class="detail" id="detail"></div>
+</div>
+
+<div class="toast" id="toast" hidden role="status"></div>
 
 <footer class="footer">
   <p class="footer__links"><a href="/about.html">About</a> · <a href="mailto:suggest@delhiculture.com">Suggest an event</a></p>

@@ -1,22 +1,28 @@
 /*
- * DelhiCulture frontend — v2.
+ * DelhiCulture frontend — v3.
  * No framework, no build step. Fetches the JSON the engine publishes
  * and renders it. Falls back to events.json with client-side bucketing
  * if the bucket files aren't reachable, so the page never sits blank.
+ * The JSON contract is unchanged from v1/v2 — the engine needs no changes.
  *
- * New in v2 (all display-level, JSON contract unchanged):
+ * Carried over from v2:
  *   - Category + venue (institution) filters
  *   - Grid / Index view toggle (preference kept in localStorage)
- *   - Date-grouped listings in the 7-day / 30-day sections
- *   - "Worth planning for" highlights strip driven by the existing
- *     `score` field from ranking.py — no AI, no new data
- *   - Display-level category refinement: events the engine left as
- *     generic "Cultural" are re-labelled from title keywords
- *     (rule-based; the same rules should eventually migrate into
- *     normalize.py so the JSON itself improves — see IMPLEMENTATION.md)
- *   - ALL-CAPS source titles are shown in title case
- *   - Known filler images (IIC's default placeholder) treated as absent
- *   - "Ongoing · until …" marker for multi-day events spanning today
+ *   - Date-grouped listings, highlights strip, category refinement,
+ *     title-case normalisation, filler-image handling, "Ongoing" marker,
+ *     release stamp in the footer
+ *
+ * New in v3 (all display-level, JSON contract unchanged):
+ *   - Instant search across title / venue / description / category
+ *   - Shareable state: filters, search, lens and view live in the URL
+ *   - Lead story hero — the single best-scored event with a real image
+ *   - Event detail overlay: full description, map link, direct source
+ *     link, add-to-calendar (.ics), save, copy-link. Cards open the
+ *     overlay; the source link inside goes to the institution's page.
+ *   - Saved events (star, kept in localStorage) + "Saved" lens
+ *   - "This Weekend" lens
+ *   - Dark mode toggle (auto via prefers-color-scheme, choice persisted)
+ *   - "/" focuses search, Esc closes the overlay
  */
 
 (function () {
@@ -28,7 +34,11 @@
     view: readPref("dc-view", "grid"), // "grid" | "list"
     category: null,                    // active category filter or null
     source: null,                      // active institution filter or null
+    query: "",                         // search text
+    lens: "all",                       // "all" | "weekend" | "saved"
   };
+
+  var SAVED = loadSaved();
 
   var BUCKETS = { today: [], week: [], month: [] };
 
@@ -85,10 +95,7 @@
   };
   var DEFAULT_HEX = "#6b6b6b";
 
-  /* Engine categories folded into a single display/filter category.
-     Applied before refinement, so the filter bar never shows near-
-     duplicate chips (Dance / Music / Dance & Music, Film & Talk, …).
-     These should eventually migrate into normalize.py's canonical set. */
+  /* Engine categories folded into a single display/filter category. */
   var CANONICAL_CATEGORIES = {
     "Dance": "Dance & Music",
     "Music": "Dance & Music",
@@ -126,10 +133,6 @@
 
   /* ---------- institutions ---------- */
 
-  /* Real institution images: drop the file into docs/images/venues/ and
-     map it to the collector's `source` id, NOT the literal venue string
-     (IHC reports room-level venues like "The Stein Auditorium").
-     fit: "cover" for photos, "contain" for logos/wordmarks. */
   var SOURCE_IMAGES = {
     bikanerhouse: { src: "images/venues/bikaner-house.jpg", fit: "contain" },
     ihc: { src: "images/venues/ihc.jpg", fit: "contain" },
@@ -151,9 +154,15 @@
     ignca: "IGNCA",
   };
 
-  /* Known filler/default images that sources return when an event has
-     no real image — treat as absent so the institution fallback chain
-     kicks in instead of a generic stock frame. */
+  /* Where "get me there" should point — venue-level address queries.
+     Falls back to "<venue>, New Delhi". */
+  var SOURCE_MAP_QUERY = {
+    iic: "India International Centre, 40 Max Mueller Marg, New Delhi",
+    ihc: "India Habitat Centre, Lodhi Road, New Delhi",
+    bikanerhouse: "Bikaner House, Pandara Road, India Gate, New Delhi",
+    ignca: "IGNCA, Janpath, New Delhi",
+  };
+
   var BAD_IMAGE_PATTERNS = ["/img/default/"];
 
   function realImage(ev) {
@@ -164,14 +173,129 @@
     return ev.image;
   }
 
+  /* ---------- event identity (for saving + deep links) ---------- */
+
+  function eventId(ev) {
+    var slug = String(ev.title || "")
+      .toLowerCase()
+      .replace(/[^a-z0-9]+/g, "-")
+      .replace(/^-+|-+$/g, "")
+      .slice(0, 60);
+    return (ev.date || "") + "~" + slug;
+  }
+
+  function findEventById(id) {
+    var evs = allEvents();
+    for (var i = 0; i < evs.length; i++) {
+      if (eventId(evs[i]) === id) return evs[i];
+    }
+    return null;
+  }
+
+  /* ---------- saved events ---------- */
+
+  function loadSaved() {
+    try {
+      var raw = window.localStorage.getItem("dc-saved");
+      var arr = raw ? JSON.parse(raw) : [];
+      var set = {};
+      if (Object.prototype.toString.call(arr) === "[object Array]") {
+        arr.forEach(function (id) { set[id] = true; });
+      }
+      return set;
+    } catch (e) {
+      return {};
+    }
+  }
+
+  function persistSaved() {
+    try {
+      window.localStorage.setItem("dc-saved", JSON.stringify(Object.keys(SAVED)));
+    } catch (e) { /* non-fatal */ }
+  }
+
+  function isSaved(ev) { return !!SAVED[eventId(ev)]; }
+
+  function toggleSaved(ev) {
+    var id = eventId(ev);
+    if (SAVED[id]) delete SAVED[id];
+    else SAVED[id] = true;
+    persistSaved();
+    syncStars(id, !!SAVED[id]);
+    if (state.lens === "saved") renderAll();
+  }
+
+  function syncStars(id, on) {
+    var stars = document.querySelectorAll('.star[data-id="' + cssEscape(id) + '"]');
+    for (var i = 0; i < stars.length; i++) {
+      stars[i].setAttribute("aria-pressed", String(on));
+      stars[i].textContent = on ? "★" : "☆";
+      stars[i].setAttribute("aria-label", on ? "Remove from saved" : "Save this event");
+    }
+  }
+
+  function cssEscape(s) {
+    if (window.CSS && CSS.escape) return CSS.escape(s);
+    return s.replace(/[^a-zA-Z0-9_-]/g, "\\$&");
+  }
+
+  function makeStar(ev) {
+    var btn = document.createElement("button");
+    btn.type = "button";
+    btn.className = "star";
+    var on = isSaved(ev);
+    btn.dataset.id = eventId(ev);
+    btn.textContent = on ? "★" : "☆";
+    btn.setAttribute("aria-pressed", String(on));
+    btn.setAttribute("aria-label", on ? "Remove from saved" : "Save this event");
+    btn.addEventListener("click", function (e) {
+      e.stopPropagation();
+      e.preventDefault();
+      toggleSaved(ev);
+    });
+    return btn;
+  }
+
+  /* ---------- URL state (shareable views) ---------- */
+
+  var URL_KEYS = { category: "cat", source: "venue", query: "q", lens: "lens", view: "view" };
+
+  function readURLState() {
+    var params = new URLSearchParams(window.location.search);
+    if (params.get("cat")) state.category = params.get("cat");
+    if (params.get("venue")) state.source = params.get("venue");
+    if (params.get("q")) state.query = params.get("q");
+    var lens = params.get("lens");
+    if (lens === "weekend" || lens === "saved") state.lens = lens;
+    var view = params.get("view");
+    if (view === "grid" || view === "list") state.view = view;
+    return params.get("e"); // deep-linked event id, if any
+  }
+
+  function updateURL() {
+    var params = new URLSearchParams();
+    if (state.category) params.set(URL_KEYS.category, state.category);
+    if (state.source) params.set(URL_KEYS.source, state.source);
+    if (state.query) params.set(URL_KEYS.query, state.query);
+    if (state.lens !== "all") params.set(URL_KEYS.lens, state.lens);
+    if (openEventId) params.set("e", openEventId);
+    var qs = params.toString();
+    var url = window.location.pathname + (qs ? "?" + qs : "") + window.location.hash;
+    try {
+      window.history.replaceState(null, "", url);
+    } catch (e) { /* file:// etc. — non-fatal */ }
+  }
+
   /* ---------- boot ---------- */
 
   var mastheadDate = document.getElementById("masthead-date");
   if (mastheadDate) mastheadDate.textContent = formatLongDate(new Date());
 
+  bindThemeToggle();
   init();
 
   async function init() {
+    var deepLinkId = readURLState();
     var loaded = await loadBuckets();
     if (!loaded) {
       SECTIONS.forEach(function (s) { showError(s.gridId); });
@@ -179,8 +303,15 @@
     }
     buildFilterBar();
     bindViewToggle();
+    bindLensChips();
+    bindSearch();
     bindSectionObserver();
+    bindOverlay();
     renderAll();
+    if (deepLinkId) {
+      var ev = findEventById(deepLinkId);
+      if (ev) openDetail(ev);
+    }
   }
 
   async function loadBuckets() {
@@ -206,8 +337,7 @@
   }
 
   /* Wall-clock time of the last pipeline publish, read from the HTTP
-     Last-Modified header GitHub Pages serves for the data files — no
-     engine change needed to show an update time. */
+     Last-Modified header GitHub Pages serves for the data files. */
   var LAST_MODIFIED = null;
 
   async function fetchJSON(file) {
@@ -242,15 +372,65 @@
     return buckets;
   }
 
-  /* ---------- filters ---------- */
+  /* ---------- filters, search, lenses ---------- */
 
   function allEvents() {
     return BUCKETS.today.concat(BUCKETS.week, BUCKETS.month);
   }
 
+  function anyFilterActive() {
+    return !!(state.category || state.source || state.query || state.lens !== "all");
+  }
+
+  function matchesQuery(ev) {
+    if (!state.query) return true;
+    var q = state.query.toLowerCase();
+    var hay = [
+      ev.title || "",
+      ev.venue || "",
+      ev.description || "",
+      refinedCategory(ev),
+      SOURCE_NAMES[ev.source] || "",
+    ].join(" ").toLowerCase();
+    /* every space-separated term must appear somewhere */
+    var terms = q.split(/\s+/).filter(Boolean);
+    for (var i = 0; i < terms.length; i++) {
+      if (hay.indexOf(terms[i]) === -1) return false;
+    }
+    return true;
+  }
+
+  /* The coming weekend: Saturday–Sunday (or the remainder of it if
+     today already is the weekend). An event matches when its run
+     overlaps those days. */
+  function weekendRange() {
+    var today = startOfDay(new Date());
+    var day = today.getDay(); // 0 Sun … 6 Sat
+    var sat, sun;
+    if (day === 0) { sat = today; sun = today; }           // Sunday: just today
+    else if (day === 6) { sat = today; sun = addDays(today, 1); }
+    else { sat = addDays(today, 6 - day); sun = addDays(sat, 1); }
+    return { start: sat, end: sun };
+  }
+
+  function matchesLens(ev) {
+    if (state.lens === "saved") return isSaved(ev);
+    if (state.lens === "weekend") {
+      var wr = weekendRange();
+      var start = parseISODate(ev.date);
+      var end = ev.end_date ? parseISODate(ev.end_date) : start;
+      if (!start) return false;
+      if (!end) end = start;
+      return start <= wr.end && end >= wr.start;
+    }
+    return true;
+  }
+
   function matchesFilter(ev) {
     if (state.category && refinedCategory(ev) !== state.category) return false;
     if (state.source && ev.source !== state.source) return false;
+    if (!matchesQuery(ev)) return false;
+    if (!matchesLens(ev)) return false;
     return true;
   }
 
@@ -299,6 +479,7 @@
       var current = state[dimension];
       state[dimension] = (value !== null && current === value) ? null : value;
       syncChips();
+      updateURL();
       renderAll();
     });
     return btn;
@@ -310,7 +491,7 @@
   }
 
   function syncChips() {
-    var chips = document.querySelectorAll(".chip");
+    var chips = document.querySelectorAll(".chip[data-dimension]");
     for (var i = 0; i < chips.length; i++) {
       var c = chips[i];
       var dim = c.dataset.dimension;
@@ -322,8 +503,77 @@
   function clearFilters() {
     state.category = null;
     state.source = null;
+    state.query = "";
+    state.lens = "all";
+    var input = document.getElementById("search-input");
+    if (input) input.value = "";
     syncChips();
+    syncLensChips();
+    updateURL();
     renderAll();
+  }
+
+  /* ---------- lens chips (All / This Weekend / Saved) ---------- */
+
+  function bindLensChips() {
+    var buttons = document.querySelectorAll("[data-lens]");
+    for (var i = 0; i < buttons.length; i++) {
+      (function (btn) {
+        btn.addEventListener("click", function () {
+          state.lens = (state.lens === btn.dataset.lens) ? "all" : btn.dataset.lens;
+          syncLensChips();
+          updateURL();
+          renderAll();
+        });
+      })(buttons[i]);
+    }
+    syncLensChips();
+  }
+
+  function syncLensChips() {
+    var buttons = document.querySelectorAll("[data-lens]");
+    for (var i = 0; i < buttons.length; i++) {
+      buttons[i].setAttribute("aria-pressed", String(buttons[i].dataset.lens === state.lens));
+    }
+  }
+
+  /* ---------- search ---------- */
+
+  function bindSearch() {
+    var input = document.getElementById("search-input");
+    if (!input) return;
+    if (state.query) input.value = state.query;
+
+    var timer = null;
+    input.addEventListener("input", function () {
+      if (timer) clearTimeout(timer);
+      timer = setTimeout(function () {
+        state.query = input.value.trim();
+        updateURL();
+        renderAll();
+      }, 120);
+    });
+
+    input.addEventListener("keydown", function (e) {
+      if (e.key === "Escape") {
+        input.value = "";
+        state.query = "";
+        updateURL();
+        renderAll();
+        input.blur();
+      }
+    });
+
+    document.addEventListener("keydown", function (e) {
+      if (e.key === "/" && !e.ctrlKey && !e.metaKey && !e.altKey) {
+        var t = e.target;
+        var typing = t && (t.tagName === "INPUT" || t.tagName === "TEXTAREA" || t.isContentEditable);
+        if (!typing && overlayEl && overlayEl.hidden) {
+          e.preventDefault();
+          input.focus();
+        }
+      }
+    });
   }
 
   /* ---------- view toggle ---------- */
@@ -350,13 +600,43 @@
     }
   }
 
+  /* ---------- theme ---------- */
+
+  function bindThemeToggle() {
+    var btn = document.getElementById("theme-toggle");
+    if (!btn) return;
+    btn.addEventListener("click", function () {
+      var root = document.documentElement;
+      var systemDark = window.matchMedia &&
+        window.matchMedia("(prefers-color-scheme: dark)").matches;
+      var current = root.getAttribute("data-theme") || (systemDark ? "dark" : "light");
+      var next = current === "dark" ? "light" : "dark";
+      root.setAttribute("data-theme", next);
+      writePref("dc-theme", next);
+    });
+  }
+
   /* ---------- rendering ---------- */
 
   function renderAll() {
+    renderLead();
     renderHighlights();
     SECTIONS.forEach(function (s) {
       renderSection(s);
     });
+    renderResultCount();
+  }
+
+  function renderResultCount() {
+    var el = document.getElementById("result-count");
+    if (!el) return;
+    if (!anyFilterActive()) {
+      el.hidden = true;
+      return;
+    }
+    var n = allEvents().filter(matchesFilter).length;
+    el.hidden = false;
+    el.textContent = n + (n === 1 ? " listing" : " listings");
   }
 
   function renderSection(section) {
@@ -371,7 +651,7 @@
 
     if (!events.length) {
       host.classList.add("empty-state");
-      if (state.category || state.source) {
+      if (anyFilterActive()) {
         host.appendChild(emptyFilterNode());
       } else {
         host.textContent = host.dataset.emptyCopy || "Nothing listed here yet.";
@@ -399,7 +679,13 @@
 
   function emptyFilterNode() {
     var wrap = document.createElement("span");
-    wrap.appendChild(document.createTextNode("Nothing matching this filter here. "));
+    var copy = "Nothing matching here. ";
+    if (state.lens === "saved" && !Object.keys(SAVED).length) {
+      copy = "Nothing saved yet — tap the ☆ on any listing to keep it here. ";
+    } else if (state.lens === "weekend") {
+      copy = "Nothing matching this weekend here. ";
+    }
+    wrap.appendChild(document.createTextNode(copy));
     var reset = document.createElement("button");
     reset.type = "button";
     reset.className = "link-reset";
@@ -446,6 +732,119 @@
     });
   }
 
+  /* Cards, rows and highlight cards all open the detail overlay;
+     the source link lives inside it. Keyboard: Enter / Space. */
+  function makeOpenable(el, ev) {
+    el.tabIndex = 0;
+    el.setAttribute("role", "button");
+    el.setAttribute("aria-haspopup", "dialog");
+    el.addEventListener("click", function () { openDetail(ev); });
+    el.addEventListener("keydown", function (e) {
+      if (e.key === "Enter" || e.key === " ") {
+        e.preventDefault();
+        openDetail(ev);
+      }
+    });
+  }
+
+  /* ---------- lead story ---------- */
+
+  var LEAD_MIN_SCORE = 70;
+  var leadPickId = null;
+
+  function pickLead() {
+    var candidates = allEvents()
+      .filter(function (ev) { return (ev.score || 0) >= LEAD_MIN_SCORE && realImage(ev); })
+      .sort(function (a, b) {
+        return (b.score || 0) - (a.score || 0) || (a.date || "").localeCompare(b.date || "");
+      });
+    return candidates[0] || null;
+  }
+
+  function renderLead() {
+    var host = document.getElementById("lead");
+    if (!host) return;
+
+    leadPickId = null;
+
+    /* Editorial front page only — hide while searching/filtering. */
+    if (anyFilterActive()) {
+      host.hidden = true;
+      host.innerHTML = "";
+      return;
+    }
+
+    var ev = pickLead();
+    if (!ev) {
+      host.hidden = true;
+      host.innerHTML = "";
+      return;
+    }
+
+    leadPickId = eventId(ev);
+    host.hidden = false;
+    host.innerHTML = "";
+
+    var card = document.createElement("article");
+    card.className = "lead__card";
+    applyCategoryColor(card, ev);
+    makeOpenable(card, ev);
+
+    var body = document.createElement("div");
+    body.className = "lead__body";
+
+    var eyebrow = document.createElement("div");
+    eyebrow.className = "lead__eyebrow";
+    eyebrow.textContent = "Today's Pick";
+    body.appendChild(eyebrow);
+
+    var meta = document.createElement("div");
+    meta.className = "lead__meta";
+    var cat = document.createElement("span");
+    cat.className = "card__category";
+    cat.textContent = refinedCategory(ev);
+    var when = document.createElement("span");
+    when.textContent = metaDateText(ev);
+    meta.appendChild(cat);
+    meta.appendChild(when);
+    if (ev.time) {
+      var t = document.createElement("span");
+      t.textContent = ev.time;
+      meta.appendChild(t);
+    }
+    body.appendChild(meta);
+
+    var title = document.createElement("h2");
+    title.className = "lead__title";
+    title.textContent = displayTitle(ev.title);
+    body.appendChild(title);
+
+    var venue = document.createElement("div");
+    venue.className = "lead__venue";
+    venue.textContent = ev.venue || "";
+    body.appendChild(venue);
+
+    if (ev.description) {
+      var desc = document.createElement("p");
+      desc.className = "lead__desc";
+      desc.textContent = ev.description;
+      body.appendChild(desc);
+    }
+
+    var img = document.createElement("img");
+    img.className = "lead__image";
+    img.alt = "";
+    img.loading = "eager";
+    img.src = realImage(ev);
+    img.onerror = function () {
+      img.src = buildFallbackImage(ev);
+    };
+
+    card.appendChild(body);
+    card.appendChild(img);
+    host.appendChild(card);
+  }
+
   /* ---------- highlights ---------- */
 
   var HIGHLIGHT_MIN_SCORE = 65;
@@ -460,13 +859,15 @@
     /* The strip is the editorial default view. When the reader filters,
        they're searching — hide it so results aren't pushed below the
        fold (especially on mobile). */
-    if (state.category || state.source) {
+    if (anyFilterActive()) {
       sectionEl.hidden = true;
       return;
     }
 
     var picks = allEvents()
-      .filter(function (ev) { return (ev.score || 0) >= HIGHLIGHT_MIN_SCORE; })
+      .filter(function (ev) {
+        return (ev.score || 0) >= HIGHLIGHT_MIN_SCORE && eventId(ev) !== leadPickId;
+      })
       .sort(function (a, b) {
         return (b.score || 0) - (a.score || 0) || (a.date || "").localeCompare(b.date || "");
       })
@@ -485,12 +886,10 @@
   }
 
   function buildHighlightCard(ev) {
-    var a = document.createElement("a");
+    var a = document.createElement("article");
     a.className = "hl-card";
-    a.href = ev.url || "#";
-    a.target = "_blank";
-    a.rel = "noopener noreferrer";
     applyCategoryColor(a, ev);
+    makeOpenable(a, ev);
 
     var meta = document.createElement("div");
     meta.className = "hl-card__meta";
@@ -525,12 +924,10 @@
   }
 
   function buildCard(ev) {
-    var a = document.createElement("a");
+    var a = document.createElement("article");
     a.className = "card";
-    a.href = ev.url || "#";
-    a.target = "_blank";
-    a.rel = "noopener noreferrer";
     applyCategoryColor(a, ev);
+    makeOpenable(a, ev);
 
     var img = document.createElement("img");
     img.className = "card__image";
@@ -549,8 +946,6 @@
       img.src = buildFallbackImage(ev);
     }
 
-    /* if a real image fails to load, drop to the generated placeholder —
-       but never retry on the placeholder itself */
     img.onerror = function () {
       if (img.dataset.fallenBack) return;
       img.dataset.fallenBack = "1";
@@ -594,18 +989,18 @@
       a.appendChild(desc);
     }
 
+    a.appendChild(makeStar(ev));
+
     return a;
   }
 
   /* ---------- rows (index view) ---------- */
 
   function buildRow(ev) {
-    var a = document.createElement("a");
+    var a = document.createElement("article");
     a.className = "row";
-    a.href = ev.url || "#";
-    a.target = "_blank";
-    a.rel = "noopener noreferrer";
     applyCategoryColor(a, ev);
+    makeOpenable(a, ev);
 
     var meta = document.createElement("span");
     meta.className = "row__meta";
@@ -629,7 +1024,282 @@
     venue.textContent = ev.venue || "";
     a.appendChild(venue);
 
+    a.appendChild(makeStar(ev));
+
     return a;
+  }
+
+  /* ---------- detail overlay ---------- */
+
+  var overlayEl = null;
+  var detailEl = null;
+  var lastFocus = null;
+  var openEventId = null;
+
+  function bindOverlay() {
+    overlayEl = document.getElementById("overlay");
+    detailEl = document.getElementById("detail");
+    if (!overlayEl || !detailEl) return;
+
+    overlayEl.addEventListener("click", function (e) {
+      if (e.target === overlayEl) closeDetail();
+    });
+
+    document.addEventListener("keydown", function (e) {
+      if (e.key === "Escape" && !overlayEl.hidden) closeDetail();
+    });
+  }
+
+  function mapURL(ev) {
+    var q = SOURCE_MAP_QUERY[ev.source] || ((ev.venue || "Delhi") + ", New Delhi");
+    return "https://www.google.com/maps/search/?api=1&query=" + encodeURIComponent(q);
+  }
+
+  function shareURL(ev) {
+    return window.location.origin + window.location.pathname + "?e=" +
+      encodeURIComponent(eventId(ev));
+  }
+
+  function openDetail(ev) {
+    if (!overlayEl || !detailEl) return;
+    lastFocus = document.activeElement;
+    openEventId = eventId(ev);
+    updateURL();
+
+    detailEl.innerHTML = "";
+    applyCategoryColor(detailEl, ev);
+
+    var close = document.createElement("button");
+    close.type = "button";
+    close.className = "detail__close";
+    close.textContent = "Esc ✕";
+    close.setAttribute("aria-label", "Close");
+    close.addEventListener("click", closeDetail);
+    detailEl.appendChild(close);
+
+    var eventImage = realImage(ev);
+    var sourceEntry = SOURCE_IMAGES[ev.source];
+    if (eventImage || sourceEntry) {
+      var img = document.createElement("img");
+      img.className = "detail__image";
+      img.alt = "";
+      if (eventImage) {
+        img.src = eventImage;
+      } else {
+        img.src = sourceEntry.src;
+        if (sourceEntry.fit === "contain") img.classList.add("detail__image--contain");
+      }
+      img.onerror = function () { img.remove(); };
+      detailEl.appendChild(img);
+    }
+
+    var meta = document.createElement("div");
+    meta.className = "detail__meta";
+    var cat = document.createElement("span");
+    cat.className = "card__category";
+    cat.textContent = refinedCategory(ev);
+    meta.appendChild(cat);
+    var when = document.createElement("span");
+    when.textContent = metaDateText(ev);
+    meta.appendChild(when);
+    if (ev.time) {
+      var t = document.createElement("span");
+      t.textContent = ev.time;
+      meta.appendChild(t);
+    }
+    detailEl.appendChild(meta);
+
+    var title = document.createElement("h2");
+    title.className = "detail__title";
+    title.id = "detail-title";
+    title.textContent = displayTitle(ev.title);
+    detailEl.appendChild(title);
+
+    var venue = document.createElement("div");
+    venue.className = "detail__venue";
+    venue.appendChild(document.createTextNode((ev.venue || "") + " · "));
+    var map = document.createElement("a");
+    map.href = mapURL(ev);
+    map.target = "_blank";
+    map.rel = "noopener noreferrer";
+    map.textContent = "Map ↗";
+    venue.appendChild(map);
+    detailEl.appendChild(venue);
+
+    if (ev.description) {
+      var desc = document.createElement("p");
+      desc.className = "detail__desc";
+      desc.textContent = ev.description;
+      detailEl.appendChild(desc);
+    }
+
+    var actions = document.createElement("div");
+    actions.className = "detail__actions";
+
+    if (ev.url) {
+      var src = document.createElement("a");
+      src.className = "btn btn--primary";
+      src.href = ev.url;
+      src.target = "_blank";
+      src.rel = "noopener noreferrer";
+      src.textContent = "Details & booking ↗";
+      actions.appendChild(src);
+    }
+
+    var ics = document.createElement("button");
+    ics.type = "button";
+    ics.className = "btn";
+    ics.textContent = "Add to calendar";
+    ics.addEventListener("click", function () { downloadICS(ev); });
+    actions.appendChild(ics);
+
+    var save = document.createElement("button");
+    save.type = "button";
+    save.className = "btn";
+    save.setAttribute("aria-pressed", String(isSaved(ev)));
+    save.textContent = isSaved(ev) ? "★ Saved" : "☆ Save";
+    save.addEventListener("click", function () {
+      toggleSaved(ev);
+      save.setAttribute("aria-pressed", String(isSaved(ev)));
+      save.textContent = isSaved(ev) ? "★ Saved" : "☆ Save";
+    });
+    actions.appendChild(save);
+
+    var share = document.createElement("button");
+    share.type = "button";
+    share.className = "btn";
+    share.textContent = "Copy link";
+    share.addEventListener("click", function () {
+      var url = shareURL(ev);
+      if (navigator.clipboard && navigator.clipboard.writeText) {
+        navigator.clipboard.writeText(url).then(
+          function () { showToast("Link copied"); },
+          function () { window.prompt("Copy this link:", url); }
+        );
+      } else {
+        window.prompt("Copy this link:", url);
+      }
+    });
+    actions.appendChild(share);
+
+    detailEl.appendChild(actions);
+
+    detailEl.setAttribute("role", "dialog");
+    detailEl.setAttribute("aria-modal", "true");
+    detailEl.setAttribute("aria-labelledby", "detail-title");
+
+    overlayEl.hidden = false;
+    document.body.style.overflow = "hidden";
+    close.focus();
+  }
+
+  function closeDetail() {
+    if (!overlayEl) return;
+    overlayEl.hidden = true;
+    document.body.style.overflow = "";
+    openEventId = null;
+    updateURL();
+    if (lastFocus && lastFocus.focus) lastFocus.focus();
+  }
+
+  /* ---------- calendar export (.ics) ---------- */
+
+  function pad2(n) { return (n < 10 ? "0" : "") + n; }
+
+  function icsDate(d) {
+    return d.getFullYear() + pad2(d.getMonth() + 1) + pad2(d.getDate());
+  }
+
+  function icsEscape(s) {
+    return String(s || "")
+      .replace(/\\/g, "\\\\")
+      .replace(/;/g, "\\;")
+      .replace(/,/g, "\\,")
+      .replace(/\r?\n/g, "\\n");
+  }
+
+  function buildICS(ev) {
+    var start = parseISODate(ev.date);
+    if (!start) return null;
+    var end = ev.end_date ? parseISODate(ev.end_date) : null;
+    var mins = parseTimeMinutes(ev.time);
+    var timed = mins < 24 * 60 + 1;
+
+    var lines = [
+      "BEGIN:VCALENDAR",
+      "VERSION:2.0",
+      "PRODID:-//DelhiCulture//delhiculture.com//EN",
+      "CALSCALE:GREGORIAN",
+      "BEGIN:VEVENT",
+      "UID:" + eventId(ev).replace(/[^a-zA-Z0-9~-]/g, "") + "@delhiculture.com",
+      "DTSTAMP:" + new Date().toISOString().replace(/[-:]/g, "").replace(/\.\d+Z$/, "Z"),
+    ];
+
+    if (timed) {
+      var h = Math.floor(mins / 60);
+      var m = mins % 60;
+      var stamp = icsDate(start) + "T" + pad2(h) + pad2(m) + "00";
+      /* 90-minute default duration for timed events */
+      var endMins = mins + 90;
+      var eh = Math.floor(endMins / 60) % 24;
+      var em = endMins % 60;
+      var endStamp = icsDate(start) + "T" + pad2(eh) + pad2(em) + "00";
+      lines.push("DTSTART;TZID=Asia/Kolkata:" + stamp);
+      lines.push("DTEND;TZID=Asia/Kolkata:" + endStamp);
+    } else {
+      /* all-day (or multi-day run) — DTEND is exclusive */
+      var lastDay = end && end > start ? end : start;
+      lines.push("DTSTART;VALUE=DATE:" + icsDate(start));
+      lines.push("DTEND;VALUE=DATE:" + icsDate(addDays(lastDay, 1)));
+    }
+
+    lines.push("SUMMARY:" + icsEscape(displayTitle(ev.title)));
+    if (ev.venue) lines.push("LOCATION:" + icsEscape(ev.venue + ", New Delhi"));
+    var descParts = [];
+    if (ev.description) descParts.push(ev.description);
+    if (ev.url) descParts.push("Details: " + ev.url);
+    if (descParts.length) lines.push("DESCRIPTION:" + icsEscape(descParts.join("\n\n")));
+    if (ev.url) lines.push("URL:" + icsEscape(ev.url));
+    lines.push("END:VEVENT");
+    lines.push("END:VCALENDAR");
+
+    /* fold long lines at 75 octets per RFC 5545 (simple char-based fold) */
+    var folded = [];
+    lines.forEach(function (line) {
+      while (line.length > 74) {
+        folded.push(line.slice(0, 74));
+        line = " " + line.slice(74);
+      }
+      folded.push(line);
+    });
+    return folded.join("\r\n") + "\r\n";
+  }
+
+  function downloadICS(ev) {
+    var ics = buildICS(ev);
+    if (!ics) return;
+    var blob = new Blob([ics], { type: "text/calendar;charset=utf-8" });
+    var a = document.createElement("a");
+    a.href = URL.createObjectURL(blob);
+    a.download = "delhiculture-" + eventId(ev).replace(/[^a-zA-Z0-9-]/g, "-") + ".ics";
+    document.body.appendChild(a);
+    a.click();
+    document.body.removeChild(a);
+    setTimeout(function () { URL.revokeObjectURL(a.href); }, 4000);
+    showToast("Calendar file downloaded");
+  }
+
+  /* ---------- toast ---------- */
+
+  var toastTimer = null;
+
+  function showToast(msg) {
+    var el = document.getElementById("toast");
+    if (!el) return;
+    el.textContent = msg;
+    el.hidden = false;
+    if (toastTimer) clearTimeout(toastTimer);
+    toastTimer = setTimeout(function () { el.hidden = true; }, 2200);
   }
 
   /* ---------- generated placeholder ---------- */
@@ -658,10 +1328,7 @@
     return "data:image/svg+xml," + encodeURIComponent(svg);
   }
 
-  /* ---------- title display normalisation ----------
-     Sources publish titles in wildly inconsistent casing ("FILM- If on
-     a Winter's Night", "BOOK DISCUSSION GROUP  -Wild Capital"). This
-     cleans the *display* only — the underlying data is untouched. */
+  /* ---------- title display normalisation ---------- */
 
   var SMALL_WORDS = {
     a: 1, an: 1, the: 1, of: 1, in: 1, on: 1, and: 1, or: 1,
@@ -677,8 +1344,8 @@
     var t = String(raw).replace(/\s+/g, " ").trim();
     t = t.replace(/[\s,;-]+$/, "");            // trailing punctuation cruft
     t = t.replace(/\s+-\s*/g, " — ");     // " - " / " -" → em dash
-    t = t.replace(/^(Film|Exhibition|Performance|Talk)-\s*/i, function (m, p1) {
-      return capitalize(p1) + " — ";
+    t = t.replace(/^(Film|Exhibition|Performance|Talk)\s*[—-]\s*/i, function (m, p1) {
+      return capitalize(p1.toLowerCase()) + " — ";
     });
 
     var letters = t.replace(/[^A-Za-z]/g, "");
@@ -724,12 +1391,8 @@
      update: bump FRONTEND_BUILD.seq (and set .date to that day) with
      every same-day release; it drops off naturally the next day. */
   var BASELINE_DATE = "2026-07-04"; // rel 1.0
-  var FRONTEND_BUILD = { date: "2026-07-04", seq: 5 };
+  var FRONTEND_BUILD = { date: "2026-07-04", seq: 6 }; // v3 frontend
 
-  /* Fallback source for the publish time: every publish is a git commit,
-     so the repo's public commit API is ground truth when the CDN chain
-     doesn't pass a Last-Modified header through. One request per page
-     load, and only when the header is missing. */
   var COMMIT_TIME_API =
     "https://api.github.com/repos/culturenetwork/delhiculture/commits?path=docs/today.json&per_page=1";
   var triedCommitTimeApi = false;

@@ -12,13 +12,25 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="style.css">
+<script>
+/* apply saved theme before first paint to avoid a flash */
+(function () {
+  try {
+    var t = localStorage.getItem("dc-theme");
+    if (t === "dark" || t === "light") document.documentElement.setAttribute("data-theme", t);
+  } catch (e) {}
+})();
+</script>
 </head>
 <body>
 
 <header class="masthead">
   <div class="masthead__row">
     <a href="/" class="wordmark"><span class="wordmark__delhi">Delhi</span><span class="wordmark__culture">Culture</span></a>
-    <span class="masthead__date"><a href="/" class="masthead__back">← Today's listings</a></span>
+    <div class="masthead__right">
+      <span class="masthead__date"><a href="/" class="masthead__back">← Today's listings</a></span>
+      <button type="button" class="theme-toggle" id="theme-toggle" aria-label="Switch between light and dark">◐</button>
+    </div>
   </div>
   <p class="masthead__strap">Everything worth seeing in Delhi — exhibitions, talks, music, theatre, heritage. Updated daily.</p>
 </header>
@@ -40,6 +52,9 @@
       <h2>Who it's for</h2>
       <p>Delhi's serious cultural audience — architects, designers, historians, academics, students, photographers, musicians and listeners — and anyone who wants the city's cultural week at a glance.</p>
 
+      <h2>Saving and sharing</h2>
+      <p>Tap the ☆ on any listing to keep it in your <a href="/?lens=saved">Saved</a> view — stored only in your browser, never on a server. Any filtered or searched view can be shared straight from the address bar, and every event page offers a calendar file and a map link.</p>
+
       <h2>Suggest an event</h2>
       <p>If your institution publishes a public cultural programme we should be indexing, or a listing here is wrong, write to <a href="mailto:suggest@delhiculture.com">suggest@delhiculture.com</a>. A person reads everything.</p>
     </div>
@@ -52,5 +67,20 @@
   <p class="footer__network">A <span class="brand-red">CultureNetwork</span> project.</p>
 </footer>
 
+<script>
+(function () {
+  var btn = document.getElementById("theme-toggle");
+  if (!btn) return;
+  btn.addEventListener("click", function () {
+    var root = document.documentElement;
+    var systemDark = window.matchMedia &&
+      window.matchMedia("(prefers-color-scheme: dark)").matches;
+    var current = root.getAttribute("data-theme") || (systemDark ? "dark" : "light");
+    var next = current === "dark" ? "light" : "dark";
+    root.setAttribute("data-theme", next);
+    try { localStorage.setItem("dc-theme", next); } catch (e) {}
+  });
+})();
+</script>
 </body>
 </html>
