@@ -1,20 +1,6 @@
 {
-  "count": 76,
+  "count": 74,
   "events": [
-    {
-      "category": "Museum",
-      "date": "2026-06-12",
-      "description": "",
-      "end_date": "2026-07-05",
-      "image": null,
-      "score": 85,
-      "source": "bikanerhouse",
-      "tags": [],
-      "time": null,
-      "title": "Waves of Impasto",
-      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/7",
-      "venue": "Bikaner House"
-    },
     {
       "category": "Museum",
       "date": "2026-07-01",
@@ -70,20 +56,6 @@
       "title": "Teen Manzar- Stories of the Wild, the World & the Unseen",
       "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/7",
       "venue": "Bikaner House"
-    },
-    {
-      "category": "Cultural",
-      "date": "2026-07-05",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 50,
-      "source": "ihc",
-      "tags": [],
-      "time": "11:00 AM",
-      "title": "The IHC Free Book X'Change",
-      "url": "https://indiahabitat.org/Events_details/1286",
-      "venue": "Near the IHC Information Centre"
     },
     {
       "category": "Book Talk",
@@ -1066,5 +1038,5 @@
       "venue": "C.D. Deshmukh Auditorium, IIC main"
     }
   ],
-  "generated_at": "2026-07-05"
+  "generated_at": "2026-07-06"
 }

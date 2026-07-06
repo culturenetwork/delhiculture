@@ -3,20 +3,6 @@
   "events": [
     {
       "category": "Museum",
-      "date": "2026-06-12",
-      "description": "",
-      "end_date": "2026-07-05",
-      "image": null,
-      "score": 85,
-      "source": "bikanerhouse",
-      "tags": [],
-      "time": null,
-      "title": "Waves of Impasto",
-      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/7",
-      "venue": "Bikaner House"
-    },
-    {
-      "category": "Museum",
       "date": "2026-07-01",
       "description": "The exhibition presents a body of drawing-based paintings that explore the fragmented realities of contemporary urban existence. Rooted in Indian aesthetic traditions yet shaped by a globalized and technologized visual culture, the works weave together mythology, memory, satire,",
       "end_date": "2026-07-14",
@@ -72,19 +58,33 @@
       "venue": "Bikaner House"
     },
     {
-      "category": "Cultural",
-      "date": "2026-07-05",
+      "category": "Book Talk",
+      "date": "2026-07-06",
       "description": "",
       "end_date": null,
-      "image": null,
-      "score": 50,
-      "source": "ihc",
+      "image": "https://aws-static.iicdelhi.in/2026-06/Website%20Programme%20Image_6%20July%202026_1.jpg",
+      "score": 75,
+      "source": "iic",
       "tags": [],
-      "time": "11:00 AM",
-      "title": "The IHC Free Book X'Change",
-      "url": "https://indiahabitat.org/Events_details/1286",
-      "venue": "Near the IHC Information Centre"
+      "time": "06:30 PM",
+      "title": "Democracy and Recent State Assembly Elections in India: Trends, Challenges, and Implications",
+      "url": "https://iicdelhi.in/programmes/democracy-and-recent-state-assembly-elections-india-trends-challenges-and-implications",
+      "venue": "Conference Room II, IIC main"
+    },
+    {
+      "category": "Film",
+      "date": "2026-07-06",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-06/Website%20Programme%20Image_6%20July%202026.jpg",
+      "score": 55,
+      "source": "iic",
+      "tags": [],
+      "time": "06:30 PM",
+      "title": "Film- Khoyi Hui Aawazein",
+      "url": "https://iicdelhi.in/programmes/film-khoyi-hui-aawazein",
+      "venue": "C.D. Deshmukh Auditorium, IIC main"
     }
   ],
-  "generated_at": "2026-07-05"
+  "generated_at": "2026-07-06"
 }
