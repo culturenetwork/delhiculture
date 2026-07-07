@@ -1,5 +1,5 @@
 {
-  "count": 74,
+  "count": 71,
   "events": [
     {
       "category": "Museum",
@@ -14,20 +14,6 @@
       "title": "EXHIBITION- NEO, URBAN, AVATAR: A Mythopoesis of the Contemporary Times",
       "url": "https://iicdelhi.in/programmes/exhibition-neo-urban-avatar-mythopoesis-contemporary-times",
       "venue": "Art Gallery, Kamaladevi Complex, IIC"
-    },
-    {
-      "category": "Museum",
-      "date": "2026-07-02",
-      "description": "",
-      "end_date": "2026-07-06",
-      "image": null,
-      "score": 85,
-      "source": "bikanerhouse",
-      "tags": [],
-      "time": null,
-      "title": "Across Ages -Indigenous Identities",
-      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/7",
-      "venue": "Bikaner House"
     },
     {
       "category": "Museum",
@@ -56,34 +42,6 @@
       "title": "Teen Manzar- Stories of the Wild, the World & the Unseen",
       "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/7",
       "venue": "Bikaner House"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-07-06",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-06/Website%20Programme%20Image_6%20July%202026_1.jpg",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "Democracy and Recent State Assembly Elections in India: Trends, Challenges, and Implications",
-      "url": "https://iicdelhi.in/programmes/democracy-and-recent-state-assembly-elections-india-trends-challenges-and-implications",
-      "venue": "Conference Room II, IIC main"
-    },
-    {
-      "category": "Film",
-      "date": "2026-07-06",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-06/Website%20Programme%20Image_6%20July%202026.jpg",
-      "score": 55,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "Film- Khoyi Hui Aawazein",
-      "url": "https://iicdelhi.in/programmes/film-khoyi-hui-aawazein",
-      "venue": "C.D. Deshmukh Auditorium, IIC main"
     },
     {
       "category": "Indian Classical",
@@ -1038,5 +996,5 @@
       "venue": "C.D. Deshmukh Auditorium, IIC main"
     }
   ],
-  "generated_at": "2026-07-06"
+  "generated_at": "2026-07-07"
 }

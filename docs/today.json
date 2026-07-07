@@ -17,20 +17,6 @@
     },
     {
       "category": "Museum",
-      "date": "2026-07-02",
-      "description": "",
-      "end_date": "2026-07-06",
-      "image": null,
-      "score": 85,
-      "source": "bikanerhouse",
-      "tags": [],
-      "time": null,
-      "title": "Across Ages -Indigenous Identities",
-      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/7",
-      "venue": "Bikaner House"
-    },
-    {
-      "category": "Museum",
       "date": "2026-07-03",
       "description": "Cafe Decking By Anupriya Roy, watercolour artist, her works reflect on the social and cultural landscapes that shape contemporary city life, transforming ordinary settings into evocative visual narratives.",
       "end_date": "2026-07-11",
@@ -58,33 +44,47 @@
       "venue": "Bikaner House"
     },
     {
-      "category": "Book Talk",
-      "date": "2026-07-06",
+      "category": "Indian Classical",
+      "date": "2026-07-07",
       "description": "",
       "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-06/Website%20Programme%20Image_6%20July%202026_1.jpg",
+      "image": null,
+      "score": 80,
+      "source": "ihc",
+      "tags": [],
+      "time": "8:00 PM",
+      "title": "The Madness Has Begun! - The Bochinche Tour 2026",
+      "url": "https://indiahabitat.org/Events_details/1287",
+      "venue": "The Stein Auditorium"
+    },
+    {
+      "category": "Book Talk",
+      "date": "2026-07-07",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-06/Website%20Programme%20Image_7%20July%202026.jpg",
       "score": 75,
       "source": "iic",
       "tags": [],
       "time": "06:30 PM",
-      "title": "Democracy and Recent State Assembly Elections in India: Trends, Challenges, and Implications",
-      "url": "https://iicdelhi.in/programmes/democracy-and-recent-state-assembly-elections-india-trends-challenges-and-implications",
-      "venue": "Conference Room II, IIC main"
+      "title": "The Iran- US MOU: Implications and Complications",
+      "url": "https://iicdelhi.in/programmes/iran-us-mou-implications-and-complications",
+      "venue": "Conference Room I, IIC main"
     },
     {
-      "category": "Film",
-      "date": "2026-07-06",
+      "category": "Film Club",
+      "date": "2026-07-07",
       "description": "",
       "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-06/Website%20Programme%20Image_6%20July%202026.jpg",
-      "score": 55,
+      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_7%20July%202026%20%281%29.jpg",
+      "score": 50,
       "source": "iic",
       "tags": [],
-      "time": "06:30 PM",
-      "title": "Film- Khoyi Hui Aawazein",
-      "url": "https://iicdelhi.in/programmes/film-khoyi-hui-aawazein",
+      "time": "06:00 PM",
+      "title": "FILM- If on a Winter’s Night",
+      "url": "https://iicdelhi.in/programmes/film-if-winters-night",
       "venue": "C.D. Deshmukh Auditorium, IIC main"
     }
   ],
-  "generated_at": "2026-07-06"
+  "generated_at": "2026-07-07"
 }
