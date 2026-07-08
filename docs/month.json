@@ -1,62 +1,6 @@
 {
-  "count": 48,
+  "count": 44,
   "events": [
-    {
-      "category": "Museum",
-      "date": "2026-07-15",
-      "description": "Human Relation with House Bird A solo exhibition by Rahul Gupta, Delhi-based visual artist, his artistic practice engages with themes of environmental change, memory, and human–nature relationships.",
-      "end_date": "2026-07-21",
-      "image": "https://aws-static.iicdelhi.in/2026-06/Website%20Programme%20Image_15%20July%202026_1.jpg",
-      "score": 85,
-      "source": "iic",
-      "tags": [],
-      "time": "11:00 AM",
-      "title": "EXHIBITION -Human Relation with House Bird",
-      "url": "https://iicdelhi.in/programmes/exhibition-human-relation-house-bird",
-      "venue": "Art Gallery, IIC Annexe"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-07-15",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-06/Website%20Programme%20Image_15%20July%202026.jpg",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
-      "time": "10:00 AM",
-      "title": "DIALOGUES IN HEALTH AND WELLNESS",
-      "url": "https://iicdelhi.in/programmes/dialogues-health-and-wellness-35",
-      "venue": "Seminar Rooms 1,2,3"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-07-15",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-06/Website%20Programme%20Image_15%20July%202026_2.jpg",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "DURGABAI DESHMUKH MEMORIAL LECTURE 2026",
-      "url": "https://iicdelhi.in/programmes/durgabai-deshmukh-memorial-lecture-2026",
-      "venue": "C.D. Deshmukh Auditorium, IIC main"
-    },
-    {
-      "category": "Dance & Music",
-      "date": "2026-07-15",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 50,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "Celebrating the Birth Centenary of Kathak maestro Late Pt. Kundan Lal Gangani. Day 1",
-      "url": "https://indiahabitat.org/Events_details/1298",
-      "venue": "The Stein Auditorium"
-    },
     {
       "category": "Book Talk",
       "date": "2026-07-16",
@@ -126,6 +70,20 @@
       "title": "ART MATTERS",
       "url": "https://iicdelhi.in/programmes/art-matters-279",
       "venue": "Seminar Rooms 1,2,3"
+    },
+    {
+      "category": "Book Talk",
+      "date": "2026-07-17",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-06/Website%20Programme%20Image_20%20July%202026_1.jpg",
+      "score": 75,
+      "source": "iic",
+      "tags": [],
+      "time": "06:30 PM",
+      "title": "The Extraordinary Science of The Ordinary World: The Legacy of Pierre-Gilles De Gennes",
+      "url": "https://iicdelhi.in/programmes/extraordinary-science-ordinary-world-legacy-pierre-gilles-de-gennes",
+      "venue": "Conference Room II, IIC main"
     },
     {
       "category": "Book Talk",
@@ -280,20 +238,6 @@
       "title": "Emergent Quantum Matter: New Paths to Future Technology",
       "url": "https://iicdelhi.in/programmes/emergent-quantum-matter-new-paths-future-technology",
       "venue": "Seminar Rooms 1,2,3"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-07-20",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-06/Website%20Programme%20Image_20%20July%202026_1.jpg",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "The Extraordinary Science of The Ordinary World: The Legacy of Pierre-Gilles De Gennes",
-      "url": "https://iicdelhi.in/programmes/extraordinary-science-ordinary-world-legacy-pierre-gilles-de-gennes",
-      "venue": "Lecture Room II, IIC Annexe"
     },
     {
       "category": "Film Club",
@@ -674,5 +618,5 @@
       "venue": "C.D. Deshmukh Auditorium, IIC main"
     }
   ],
-  "generated_at": "2026-07-07"
+  "generated_at": "2026-07-08"
 }

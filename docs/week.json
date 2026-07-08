@@ -1,33 +1,19 @@
 {
-  "count": 17,
+  "count": 21,
   "events": [
     {
-      "category": "Book Talk",
-      "date": "2026-07-08",
+      "category": "Museum",
+      "date": "2026-07-09",
       "description": "",
-      "end_date": null,
+      "end_date": "2026-07-13",
       "image": null,
-      "score": 75,
-      "source": "ihc",
+      "score": 85,
+      "source": "bikanerhouse",
       "tags": [],
-      "time": "6:00 PM",
-      "title": "The Durian Flavour: India, ASEAN, and the Act East Policy",
-      "url": "https://indiahabitat.org/Events_details/1288",
-      "venue": "Gulmohar"
-    },
-    {
-      "category": "Cultural",
-      "date": "2026-07-08",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-06/Website%20Programme%20Image_08%20July%202026.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "06:00 PM",
-      "title": "IIC Double Bill :Music Recitals",
-      "url": "https://iicdelhi.in/programmes/iic-double-bill-music-recitals-21",
-      "venue": "C.D. Deshmukh Auditorium, IIC main"
+      "time": null,
+      "title": "Parallel Realities",
+      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/7",
+      "venue": "Bikaner House"
     },
     {
       "category": "Indian Classical",
@@ -238,7 +224,77 @@
       "title": "Solo Piano Recital",
       "url": "https://iicdelhi.in/programmes/solo-piano-recital",
       "venue": "C.D. Deshmukh Auditorium, IIC main"
+    },
+    {
+      "category": "Museum",
+      "date": "2026-07-15",
+      "description": "Human Relation with House Bird A solo exhibition by Rahul Gupta, Delhi-based visual artist, his artistic practice engages with themes of environmental change, memory, and human–nature relationships.",
+      "end_date": "2026-07-21",
+      "image": "https://aws-static.iicdelhi.in/2026-06/Website%20Programme%20Image_15%20July%202026_1.jpg",
+      "score": 85,
+      "source": "iic",
+      "tags": [],
+      "time": "11:00 AM",
+      "title": "EXHIBITION -Human Relation with House Bird",
+      "url": "https://iicdelhi.in/programmes/exhibition-human-relation-house-bird",
+      "venue": "Art Gallery, IIC Annexe"
+    },
+    {
+      "category": "Book Talk",
+      "date": "2026-07-15",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-06/Website%20Programme%20Image_15%20July%202026.jpg",
+      "score": 75,
+      "source": "iic",
+      "tags": [],
+      "time": "10:00 AM",
+      "title": "DIALOGUES IN HEALTH AND WELLNESS",
+      "url": "https://iicdelhi.in/programmes/dialogues-health-and-wellness-35",
+      "venue": "Seminar Rooms 1,2,3"
+    },
+    {
+      "category": "Book Talk",
+      "date": "2026-07-15",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-06/Website%20Programme%20Image_15%20July%202026_2.jpg",
+      "score": 75,
+      "source": "iic",
+      "tags": [],
+      "time": "06:30 PM",
+      "title": "DURGABAI DESHMUKH MEMORIAL LECTURE 2026",
+      "url": "https://iicdelhi.in/programmes/durgabai-deshmukh-memorial-lecture-2026",
+      "venue": "C.D. Deshmukh Auditorium, IIC main"
+    },
+    {
+      "category": "Book Talk",
+      "date": "2026-07-15",
+      "description": "",
+      "end_date": null,
+      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "score": 75,
+      "source": "iic",
+      "tags": [],
+      "time": "06:30 PM",
+      "title": "Why are Indian elections so unpredictable?",
+      "url": "https://iicdelhi.in/programmes/why-are-indian-elections-so-unpredictable",
+      "venue": "Lecture Room II, IIC Annexe"
+    },
+    {
+      "category": "Dance & Music",
+      "date": "2026-07-15",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 50,
+      "source": "ihc",
+      "tags": [],
+      "time": "7:00 PM",
+      "title": "Celebrating the Birth Centenary of Kathak maestro Late Pt. Kundan Lal Gangani. Day 1",
+      "url": "https://indiahabitat.org/Events_details/1298",
+      "venue": "The Stein Auditorium"
     }
   ],
-  "generated_at": "2026-07-07"
+  "generated_at": "2026-07-08"
 }

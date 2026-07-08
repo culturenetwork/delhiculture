@@ -1,5 +1,5 @@
 {
-  "count": 71,
+  "count": 69,
   "events": [
     {
       "category": "Museum",
@@ -30,62 +30,6 @@
       "venue": "Art Gallery, IIC Annexe"
     },
     {
-      "category": "Museum",
-      "date": "2026-07-03",
-      "description": "",
-      "end_date": "2026-07-07",
-      "image": null,
-      "score": 85,
-      "source": "bikanerhouse",
-      "tags": [],
-      "time": null,
-      "title": "Teen Manzar- Stories of the Wild, the World & the Unseen",
-      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/7",
-      "venue": "Bikaner House"
-    },
-    {
-      "category": "Indian Classical",
-      "date": "2026-07-07",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 80,
-      "source": "ihc",
-      "tags": [],
-      "time": "8:00 PM",
-      "title": "The Madness Has Begun! - The Bochinche Tour 2026",
-      "url": "https://indiahabitat.org/Events_details/1287",
-      "venue": "The Stein Auditorium"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-07-07",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-06/Website%20Programme%20Image_7%20July%202026.jpg",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "The Iran- US MOU: Implications and Complications",
-      "url": "https://iicdelhi.in/programmes/iran-us-mou-implications-and-complications",
-      "venue": "Conference Room I, IIC main"
-    },
-    {
-      "category": "Film Club",
-      "date": "2026-07-07",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_7%20July%202026%20%281%29.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "06:00 PM",
-      "title": "FILM- If on a Winter’s Night",
-      "url": "https://iicdelhi.in/programmes/film-if-winters-night",
-      "venue": "C.D. Deshmukh Auditorium, IIC main"
-    },
-    {
       "category": "Book Talk",
       "date": "2026-07-08",
       "description": "",
@@ -112,6 +56,20 @@
       "title": "IIC Double Bill :Music Recitals",
       "url": "https://iicdelhi.in/programmes/iic-double-bill-music-recitals-21",
       "venue": "C.D. Deshmukh Auditorium, IIC main"
+    },
+    {
+      "category": "Museum",
+      "date": "2026-07-09",
+      "description": "",
+      "end_date": "2026-07-13",
+      "image": null,
+      "score": 85,
+      "source": "bikanerhouse",
+      "tags": [],
+      "time": null,
+      "title": "Parallel Realities",
+      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/7",
+      "venue": "Bikaner House"
     },
     {
       "category": "Indian Classical",
@@ -366,6 +324,20 @@
       "venue": "C.D. Deshmukh Auditorium, IIC main"
     },
     {
+      "category": "Book Talk",
+      "date": "2026-07-15",
+      "description": "",
+      "end_date": null,
+      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "score": 75,
+      "source": "iic",
+      "tags": [],
+      "time": "06:30 PM",
+      "title": "Why are Indian elections so unpredictable?",
+      "url": "https://iicdelhi.in/programmes/why-are-indian-elections-so-unpredictable",
+      "venue": "Lecture Room II, IIC Annexe"
+    },
+    {
       "category": "Dance & Music",
       "date": "2026-07-15",
       "description": "",
@@ -448,6 +420,20 @@
       "title": "ART MATTERS",
       "url": "https://iicdelhi.in/programmes/art-matters-279",
       "venue": "Seminar Rooms 1,2,3"
+    },
+    {
+      "category": "Book Talk",
+      "date": "2026-07-17",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-06/Website%20Programme%20Image_20%20July%202026_1.jpg",
+      "score": 75,
+      "source": "iic",
+      "tags": [],
+      "time": "06:30 PM",
+      "title": "The Extraordinary Science of The Ordinary World: The Legacy of Pierre-Gilles De Gennes",
+      "url": "https://iicdelhi.in/programmes/extraordinary-science-ordinary-world-legacy-pierre-gilles-de-gennes",
+      "venue": "Conference Room II, IIC main"
     },
     {
       "category": "Book Talk",
@@ -602,20 +588,6 @@
       "title": "Emergent Quantum Matter: New Paths to Future Technology",
       "url": "https://iicdelhi.in/programmes/emergent-quantum-matter-new-paths-future-technology",
       "venue": "Seminar Rooms 1,2,3"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-07-20",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-06/Website%20Programme%20Image_20%20July%202026_1.jpg",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "The Extraordinary Science of The Ordinary World: The Legacy of Pierre-Gilles De Gennes",
-      "url": "https://iicdelhi.in/programmes/extraordinary-science-ordinary-world-legacy-pierre-gilles-de-gennes",
-      "venue": "Lecture Room II, IIC Annexe"
     },
     {
       "category": "Film Club",
@@ -996,5 +968,5 @@
       "venue": "C.D. Deshmukh Auditorium, IIC main"
     }
   ],
-  "generated_at": "2026-07-07"
+  "generated_at": "2026-07-08"
 }
