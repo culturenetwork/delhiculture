@@ -1,5 +1,5 @@
 {
-  "count": 69,
+  "count": 65,
   "events": [
     {
       "category": "Museum",
@@ -28,34 +28,6 @@
       "title": "Exhibition-Cafe Decking By Anupriya Roy, watercolour artist,",
       "url": "https://iicdelhi.in/programmes/exhibition-cafe-decking-anupriya-roy-watercolour-artist",
       "venue": "Art Gallery, IIC Annexe"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-07-08",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 75,
-      "source": "ihc",
-      "tags": [],
-      "time": "6:00 PM",
-      "title": "The Durian Flavour: India, ASEAN, and the Act East Policy",
-      "url": "https://indiahabitat.org/Events_details/1288",
-      "venue": "Gulmohar"
-    },
-    {
-      "category": "Cultural",
-      "date": "2026-07-08",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-06/Website%20Programme%20Image_08%20July%202026.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "06:00 PM",
-      "title": "IIC Double Bill :Music Recitals",
-      "url": "https://iicdelhi.in/programmes/iic-double-bill-music-recitals-21",
-      "venue": "C.D. Deshmukh Auditorium, IIC main"
     },
     {
       "category": "Museum",
@@ -308,20 +280,6 @@
       "title": "DIALOGUES IN HEALTH AND WELLNESS",
       "url": "https://iicdelhi.in/programmes/dialogues-health-and-wellness-35",
       "venue": "Seminar Rooms 1,2,3"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-07-15",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-06/Website%20Programme%20Image_15%20July%202026_2.jpg",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "DURGABAI DESHMUKH MEMORIAL LECTURE 2026",
-      "url": "https://iicdelhi.in/programmes/durgabai-deshmukh-memorial-lecture-2026",
-      "venue": "C.D. Deshmukh Auditorium, IIC main"
     },
     {
       "category": "Book Talk",
@@ -952,21 +910,7 @@
       "title": "BOOK DISCUSSION GROUP-  Indigenized/ Tribalized: Poems",
       "url": "https://iicdelhi.in/programmes/book-discussion-group-indigenized-tribalized-poems",
       "venue": "Conference Room II, IIC main"
-    },
-    {
-      "category": "Cultural",
-      "date": "2026-07-31",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-06/Website%20Programme%20Image_31%20July%202026_1.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "Twamaham Vande",
-      "url": "https://iicdelhi.in/programmes/twamaham-vande",
-      "venue": "C.D. Deshmukh Auditorium, IIC main"
     }
   ],
-  "generated_at": "2026-07-08"
+  "generated_at": "2026-07-09"
 }

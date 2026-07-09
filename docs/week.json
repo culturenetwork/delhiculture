@@ -1,48 +1,6 @@
 {
-  "count": 21,
+  "count": 20,
   "events": [
-    {
-      "category": "Museum",
-      "date": "2026-07-09",
-      "description": "",
-      "end_date": "2026-07-13",
-      "image": null,
-      "score": 85,
-      "source": "bikanerhouse",
-      "tags": [],
-      "time": null,
-      "title": "Parallel Realities",
-      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/7",
-      "venue": "Bikaner House"
-    },
-    {
-      "category": "Indian Classical",
-      "date": "2026-07-09",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 80,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "An evening of Indian Classical Music. Day 1",
-      "url": "https://indiahabitat.org/Events_details/1290",
-      "venue": "The Theatre"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-07-09",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-06/Website%20Programme%20Image_9%20July%202026%20%281%29.jpg",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
-      "time": "06:00 PM",
-      "title": "B.G DESHMUKH LECTURE 2026",
-      "url": "https://iicdelhi.in/programmes/bg-deshmukh-lecture-2026",
-      "venue": "C.D. Deshmukh Auditorium, IIC main"
-    },
     {
       "category": "Indian Classical",
       "date": "2026-07-10",
@@ -258,20 +216,6 @@
       "date": "2026-07-15",
       "description": "",
       "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-06/Website%20Programme%20Image_15%20July%202026_2.jpg",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "DURGABAI DESHMUKH MEMORIAL LECTURE 2026",
-      "url": "https://iicdelhi.in/programmes/durgabai-deshmukh-memorial-lecture-2026",
-      "venue": "C.D. Deshmukh Auditorium, IIC main"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-07-15",
-      "description": "",
-      "end_date": null,
       "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
       "score": 75,
       "source": "iic",
@@ -294,7 +238,49 @@
       "title": "Celebrating the Birth Centenary of Kathak maestro Late Pt. Kundan Lal Gangani. Day 1",
       "url": "https://indiahabitat.org/Events_details/1298",
       "venue": "The Stein Auditorium"
+    },
+    {
+      "category": "Book Talk",
+      "date": "2026-07-16",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-06/Website%20Programme%20Image%20_16%20July%202026.jpg",
+      "score": 75,
+      "source": "iic",
+      "tags": [],
+      "time": "06:30 PM",
+      "title": "CLEAN AIR DIALOGUES",
+      "url": "https://iicdelhi.in/programmes/clean-air-dialogues-0",
+      "venue": "Lecture Room II, IIC Annexe"
+    },
+    {
+      "category": "Dance & Music",
+      "date": "2026-07-16",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 50,
+      "source": "ihc",
+      "tags": [],
+      "time": "7:00 PM",
+      "title": "Celebrating the Birth Centenary of Kathak maestro Late Pt. Kundan Lal Gangani. Day 2",
+      "url": "https://indiahabitat.org/Events_details/1299",
+      "venue": "The Stein Auditorium"
+    },
+    {
+      "category": "Film Club",
+      "date": "2026-07-16",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_16%20July%202026.jpg",
+      "score": 50,
+      "source": "iic",
+      "tags": [],
+      "time": "06:30 PM",
+      "title": "Film -Adamya",
+      "url": "https://iicdelhi.in/programmes/film-adamya",
+      "venue": "C.D. Deshmukh Auditorium, IIC main"
     }
   ],
-  "generated_at": "2026-07-08"
+  "generated_at": "2026-07-09"
 }
