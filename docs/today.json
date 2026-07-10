@@ -1,5 +1,5 @@
 {
-  "count": 5,
+  "count": 7,
   "events": [
     {
       "category": "Museum",
@@ -45,7 +45,7 @@
     },
     {
       "category": "Indian Classical",
-      "date": "2026-07-09",
+      "date": "2026-07-10",
       "description": "",
       "end_date": null,
       "image": null,
@@ -53,24 +53,52 @@
       "source": "ihc",
       "tags": [],
       "time": "7:00 PM",
-      "title": "An evening of Indian Classical Music. Day 1",
-      "url": "https://indiahabitat.org/Events_details/1290",
+      "title": "An evening of Indian Classical Music. Day 2",
+      "url": "https://indiahabitat.org/Events_details/1291",
       "venue": "The Theatre"
     },
     {
       "category": "Book Talk",
-      "date": "2026-07-09",
+      "date": "2026-07-10",
       "description": "",
       "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-06/Website%20Programme%20Image_9%20July%202026%20%281%29.jpg",
+      "image": "https://aws-static.iicdelhi.in/2026-06/Website%20Programme%20Image_10%20July%202026_2.jpg",
+      "score": 75,
+      "source": "iic",
+      "tags": [],
+      "time": "06:30 PM",
+      "title": "Calm Waters, Rising Tide: Stability as the Foundation for Indian Ocean Growth",
+      "url": "https://iicdelhi.in/programmes/calm-waters-rising-tide-stability-foundation-indian-ocean-growth",
+      "venue": "Conference Room I, IIC main"
+    },
+    {
+      "category": "Book Talk",
+      "date": "2026-07-10",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-06/Website%20Programme%20Image_10%20July%202026_1_0.jpg",
       "score": 75,
       "source": "iic",
       "tags": [],
       "time": "06:00 PM",
-      "title": "B.G DESHMUKH LECTURE 2026",
-      "url": "https://iicdelhi.in/programmes/bg-deshmukh-lecture-2026",
-      "venue": "C.D. Deshmukh Auditorium, IIC main"
+      "title": "On Doing Theory in India",
+      "url": "https://iicdelhi.in/programmes/doing-theory-india",
+      "venue": "Seminar Rooms 1,2,3"
+    },
+    {
+      "category": "Library Programmes",
+      "date": "2026-07-10",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-06/Website%20Programme%20Image_10%20July%202026.jpg",
+      "score": 50,
+      "source": "iic",
+      "tags": [],
+      "time": "06:00 PM",
+      "title": "BOOK DISCUSSION GROUP  -Wild Capital: Discovering Nature in Delhi",
+      "url": "https://iicdelhi.in/programmes/book-discussion-group-wild-capital-discovering-nature-delhi",
+      "venue": "Conference Room II, IIC main"
     }
   ],
-  "generated_at": "2026-07-09"
+  "generated_at": "2026-07-10"
 }
