@@ -1,90 +1,6 @@
 {
-  "count": 35,
+  "count": 29,
   "events": [
-    {
-      "category": "Book Talk",
-      "date": "2026-07-18",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-06/Website%20Programme%20Image_18%20July%202026_1.jpg",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "9TH NELSON MANDELA LECTURE",
-      "url": "https://iicdelhi.in/programmes/9th-nelson-mandela-lecture",
-      "venue": "C.D. Deshmukh Auditorium, IIC main"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-07-18",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 75,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "At the Tipping Point: Modern Medicine’s Imperative to Lead India’s Fight Against Obesity",
-      "url": "https://indiahabitat.org/Events_details/1308",
-      "venue": "Gulmohar"
-    },
-    {
-      "category": "Theatre",
-      "date": "2026-07-18",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 65,
-      "source": "ihc",
-      "tags": [],
-      "time": "5:00 PM",
-      "title": "Bunkar… Stories Woven Anew",
-      "url": "https://indiahabitat.org/Events_details/1303",
-      "venue": "The Stein Auditorium"
-    },
-    {
-      "category": "Theatre",
-      "date": "2026-07-18",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 65,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:30 PM",
-      "title": "Bunkar… Stories Woven Anew",
-      "url": "https://indiahabitat.org/Events_details/1306",
-      "venue": "The Stein Auditorium"
-    },
-    {
-      "category": "Cultural",
-      "date": "2026-07-18",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 50,
-      "source": "ihc",
-      "tags": [],
-      "time": "6:00 PM",
-      "title": "IHC Members Meet",
-      "url": "https://indiahabitat.org/Events_details/1307",
-      "venue": "The Habitat Lounge"
-    },
-    {
-      "category": "Seminars",
-      "date": "2026-07-18",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-06/Website%20Programme%20Image_18%20July%202026.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "10:30 AM",
-      "title": "TO MARK MANDELA INTERNATIONAL DAY 2026",
-      "url": "https://iicdelhi.in/programmes/mark-mandela-international-day-2026",
-      "venue": "C.D. Deshmukh Auditorium, IIC main"
-    },
     {
       "category": "Dance & Music",
       "date": "2026-07-19",
@@ -492,5 +408,5 @@
       "venue": "C.D. Deshmukh Auditorium, IIC main"
     }
   ],
-  "generated_at": "2026-07-10"
+  "generated_at": "2026-07-11"
 }
