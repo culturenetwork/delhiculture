@@ -1,5 +1,5 @@
 {
-  "count": 61,
+  "count": 59,
   "events": [
     {
       "category": "Museum",
@@ -17,20 +17,6 @@
     },
     {
       "category": "Museum",
-      "date": "2026-07-03",
-      "description": "Cafe Decking By Anupriya Roy, watercolour artist, her works reflect on the social and cultural landscapes that shape contemporary city life, transforming ordinary settings into evocative visual narratives.",
-      "end_date": "2026-07-11",
-      "image": "https://aws-static.iicdelhi.in/2026-06/Website%20Programme%20Image_3%20July%202026.jpg",
-      "score": 85,
-      "source": "iic",
-      "tags": [],
-      "time": "11:00 AM",
-      "title": "Exhibition-Cafe Decking By Anupriya Roy, watercolour artist,",
-      "url": "https://iicdelhi.in/programmes/exhibition-cafe-decking-anupriya-roy-watercolour-artist",
-      "venue": "Art Gallery, IIC Annexe"
-    },
-    {
-      "category": "Museum",
       "date": "2026-07-09",
       "description": "",
       "end_date": "2026-07-13",
@@ -42,48 +28,6 @@
       "title": "Parallel Realities",
       "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/7",
       "venue": "Bikaner House"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-07-11",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 75,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "Beyond Borders: How Decentralised Energy is Redrawing the World Map",
-      "url": "https://indiahabitat.org/Events_details/1292",
-      "venue": "Gulmohar"
-    },
-    {
-      "category": "Theatre",
-      "date": "2026-07-11",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 65,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:30 PM",
-      "title": "Tragedy Mein Comedy",
-      "url": "https://indiahabitat.org/Events_details/1293",
-      "venue": "The Stein Auditorium"
-    },
-    {
-      "category": "Cultural",
-      "date": "2026-07-11",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-06/WhatsApp%20Image%202026-06-29%20at%2011.41.28%20AM.jpeg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "An Evening of Indian Classical Music",
-      "url": "https://iicdelhi.in/programmes/evening-indian-classical-music-0",
-      "venue": "C.D. Deshmukh Auditorium, IIC main"
     },
     {
       "category": "Book Talk",
@@ -206,7 +150,7 @@
       "score": 75,
       "source": "iic",
       "tags": [],
-      "time": "06:30 PM",
+      "time": "06:00 PM",
       "title": "DURGABAI DESHMUKH MEMORIAL LECTURE 2026",
       "url": "https://iicdelhi.in/programmes/durgabai-deshmukh-memorial-lecture-2026",
       "venue": "C.D. Deshmukh Auditorium, IIC main"
@@ -300,20 +244,6 @@
       "date": "2026-07-17",
       "description": "",
       "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_17%20July%202026_1.jpg",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "ART MATTERS",
-      "url": "https://iicdelhi.in/programmes/art-matters-279",
-      "venue": "Seminar Rooms 1,2,3"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-07-17",
-      "description": "",
-      "end_date": null,
       "image": "https://aws-static.iicdelhi.in/2026-06/Website%20Programme%20Image_20%20July%202026_1.jpg",
       "score": 75,
       "source": "iic",
@@ -364,6 +294,20 @@
       "title": "Performance - Rhythms of Maharashtra: Lavani & Jogwa",
       "url": "https://iicdelhi.in/programmes/performance-rhythms-maharashtra-lavani-jogwa",
       "venue": "C.D. Deshmukh Auditorium, IIC main"
+    },
+    {
+      "category": "Museum",
+      "date": "2026-07-18",
+      "description": "",
+      "end_date": "2026-07-21",
+      "image": null,
+      "score": 85,
+      "source": "bikanerhouse",
+      "tags": [],
+      "time": null,
+      "title": "From the Realm of People A solo show by Chippa Sudhakar",
+      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/7",
+      "venue": "Bikaner House"
     },
     {
       "category": "Book Talk",
@@ -560,6 +504,20 @@
       "title": "Film- Remembering the Self - A Meditative Journey",
       "url": "https://iicdelhi.in/programmes/film-remembering-self-meditative-journey",
       "venue": "C.D. Deshmukh Auditorium, IIC main"
+    },
+    {
+      "category": "Book Talk",
+      "date": "2026-07-23",
+      "description": "",
+      "end_date": null,
+      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "score": 75,
+      "source": "iic",
+      "tags": [],
+      "time": "03:30 PM",
+      "title": "Climate Change and Sustainability",
+      "url": "https://iicdelhi.in/programmes/climate-change-and-sustainability",
+      "venue": "Seminar Rooms 1,2,3"
     },
     {
       "category": "Book Talk",
@@ -800,6 +758,20 @@
       "venue": "Gulmohar"
     },
     {
+      "category": "Book Talk",
+      "date": "2026-07-29",
+      "description": "",
+      "end_date": null,
+      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "score": 75,
+      "source": "iic",
+      "tags": [],
+      "time": "06:30 PM",
+      "title": "The Democracy to Come-Ambedkar, Fanon, and the Time of Counter-Revolution",
+      "url": "https://iicdelhi.in/programmes/democracy-come-ambedkar-fanon-and-time-counter-revolution",
+      "venue": "Conference Room I, IIC main"
+    },
+    {
       "category": "Indian Classical",
       "date": "2026-07-30",
       "description": "",
@@ -856,5 +828,5 @@
       "venue": "C.D. Deshmukh Auditorium, IIC main"
     }
   ],
-  "generated_at": "2026-07-11"
+  "generated_at": "2026-07-12"
 }

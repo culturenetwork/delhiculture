@@ -1,5 +1,5 @@
 {
-  "count": 26,
+  "count": 27,
   "events": [
     {
       "category": "Book Talk",
@@ -122,7 +122,7 @@
       "score": 75,
       "source": "iic",
       "tags": [],
-      "time": "06:30 PM",
+      "time": "06:00 PM",
       "title": "DURGABAI DESHMUKH MEMORIAL LECTURE 2026",
       "url": "https://iicdelhi.in/programmes/durgabai-deshmukh-memorial-lecture-2026",
       "venue": "C.D. Deshmukh Auditorium, IIC main"
@@ -216,20 +216,6 @@
       "date": "2026-07-17",
       "description": "",
       "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_17%20July%202026_1.jpg",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "ART MATTERS",
-      "url": "https://iicdelhi.in/programmes/art-matters-279",
-      "venue": "Seminar Rooms 1,2,3"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-07-17",
-      "description": "",
-      "end_date": null,
       "image": "https://aws-static.iicdelhi.in/2026-06/Website%20Programme%20Image_20%20July%202026_1.jpg",
       "score": 75,
       "source": "iic",
@@ -280,6 +266,20 @@
       "title": "Performance - Rhythms of Maharashtra: Lavani & Jogwa",
       "url": "https://iicdelhi.in/programmes/performance-rhythms-maharashtra-lavani-jogwa",
       "venue": "C.D. Deshmukh Auditorium, IIC main"
+    },
+    {
+      "category": "Museum",
+      "date": "2026-07-18",
+      "description": "",
+      "end_date": "2026-07-21",
+      "image": null,
+      "score": 85,
+      "source": "bikanerhouse",
+      "tags": [],
+      "time": null,
+      "title": "From the Realm of People A solo show by Chippa Sudhakar",
+      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/7",
+      "venue": "Bikaner House"
     },
     {
       "category": "Book Talk",
@@ -364,7 +364,21 @@
       "title": "TO MARK MANDELA INTERNATIONAL DAY 2026",
       "url": "https://iicdelhi.in/programmes/mark-mandela-international-day-2026",
       "venue": "C.D. Deshmukh Auditorium, IIC main"
+    },
+    {
+      "category": "Dance & Music",
+      "date": "2026-07-19",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 50,
+      "source": "ihc",
+      "tags": [],
+      "time": "7:00 PM",
+      "title": "Through Pages Turned",
+      "url": "https://indiahabitat.org/Events_details/1309",
+      "venue": "The Stein Auditorium"
     }
   ],
-  "generated_at": "2026-07-11"
+  "generated_at": "2026-07-12"
 }
