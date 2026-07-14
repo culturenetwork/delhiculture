@@ -1,5 +1,5 @@
 {
-  "count": 5,
+  "count": 4,
   "events": [
     {
       "category": "Museum",
@@ -16,22 +16,22 @@
       "venue": "Art Gallery, Kamaladevi Complex, IIC"
     },
     {
-      "category": "Museum",
-      "date": "2026-07-09",
+      "category": "Indian Classical",
+      "date": "2026-07-14",
       "description": "",
-      "end_date": "2026-07-13",
+      "end_date": null,
       "image": null,
-      "score": 85,
-      "source": "bikanerhouse",
+      "score": 80,
+      "source": "ihc",
       "tags": [],
-      "time": null,
-      "title": "Parallel Realities",
-      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/7",
-      "venue": "Bikaner House"
+      "time": "7:00 PM",
+      "title": "GuruDiksha 2026",
+      "url": "https://indiahabitat.org/Events_details/1295",
+      "venue": "The Stein Auditorium"
     },
     {
       "category": "Book Talk",
-      "date": "2026-07-13",
+      "date": "2026-07-14",
       "description": "",
       "end_date": null,
       "image": null,
@@ -39,38 +39,24 @@
       "source": "ihc",
       "tags": [],
       "time": "7:00 PM",
-      "title": "Greening of the Maritime Sector – Opportunities for the National Green Hydrogen Mission",
-      "url": "https://indiahabitat.org/Events_details/1294",
-      "venue": "Gulmohar"
+      "title": "Child Protection Laws, Framework and Emerging Challenges.",
+      "url": "https://indiahabitat.org/Events_details/1297",
+      "venue": "Casuarina"
     },
     {
-      "category": "Book Talk",
-      "date": "2026-07-13",
+      "category": "Cultural",
+      "date": "2026-07-14",
       "description": "",
       "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-06/Website%20Programme%20Image_13%20July%202026.jpg",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
-      "time": "06:00 PM",
-      "title": "Still Exceptional? India's Democracy in Comparative and Historical Perspective",
-      "url": "https://iicdelhi.in/programmes/still-exceptional-indias-democracy-comparative-and-historical-perspective",
-      "venue": "Conference Room I, IIC main"
-    },
-    {
-      "category": "Film Club",
-      "date": "2026-07-13",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_13%20July%202026%20%281%29.jpg",
+      "image": "https://aws-static.iicdelhi.in/2026-06/Website%20Programme%20Image_14%20July%202026.jpg",
       "score": 50,
       "source": "iic",
       "tags": [],
       "time": "06:30 PM",
-      "title": "Film- Magazine",
-      "url": "https://iicdelhi.in/programmes/film-magazine",
+      "title": "Solo Piano Recital",
+      "url": "https://iicdelhi.in/programmes/solo-piano-recital",
       "venue": "C.D. Deshmukh Auditorium, IIC main"
     }
   ],
-  "generated_at": "2026-07-13"
+  "generated_at": "2026-07-14"
 }

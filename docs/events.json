@@ -1,5 +1,5 @@
 {
-  "count": 59,
+  "count": 55,
   "events": [
     {
       "category": "Museum",
@@ -14,62 +14,6 @@
       "title": "EXHIBITION- NEO, URBAN, AVATAR: A Mythopoesis of the Contemporary Times",
       "url": "https://iicdelhi.in/programmes/exhibition-neo-urban-avatar-mythopoesis-contemporary-times",
       "venue": "Art Gallery, Kamaladevi Complex, IIC"
-    },
-    {
-      "category": "Museum",
-      "date": "2026-07-09",
-      "description": "",
-      "end_date": "2026-07-13",
-      "image": null,
-      "score": 85,
-      "source": "bikanerhouse",
-      "tags": [],
-      "time": null,
-      "title": "Parallel Realities",
-      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/7",
-      "venue": "Bikaner House"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-07-13",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 75,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "Greening of the Maritime Sector – Opportunities for the National Green Hydrogen Mission",
-      "url": "https://indiahabitat.org/Events_details/1294",
-      "venue": "Gulmohar"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-07-13",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-06/Website%20Programme%20Image_13%20July%202026.jpg",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
-      "time": "06:00 PM",
-      "title": "Still Exceptional? India's Democracy in Comparative and Historical Perspective",
-      "url": "https://iicdelhi.in/programmes/still-exceptional-indias-democracy-comparative-and-historical-perspective",
-      "venue": "Conference Room I, IIC main"
-    },
-    {
-      "category": "Film Club",
-      "date": "2026-07-13",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_13%20July%202026%20%281%29.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "Film- Magazine",
-      "url": "https://iicdelhi.in/programmes/film-magazine",
-      "venue": "C.D. Deshmukh Auditorium, IIC main"
     },
     {
       "category": "Indian Classical",
@@ -184,6 +128,20 @@
       "venue": "The Stein Auditorium"
     },
     {
+      "category": "Museum",
+      "date": "2026-07-16",
+      "description": "",
+      "end_date": "2026-07-18",
+      "image": null,
+      "score": 85,
+      "source": "bikanerhouse",
+      "tags": [],
+      "time": null,
+      "title": "Voice of Art 2026",
+      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/7",
+      "venue": "Bikaner House"
+    },
+    {
       "category": "Book Talk",
       "date": "2026-07-16",
       "description": "",
@@ -294,6 +252,20 @@
       "title": "Samhita: A Union of Jivathma With Paramathma",
       "url": "https://indiahabitat.org/Events_details/1302",
       "venue": "The Stein Auditorium"
+    },
+    {
+      "category": "Cultural",
+      "date": "2026-07-17",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_17%20July%202026_0.jpg",
+      "score": 50,
+      "source": "iic",
+      "tags": [],
+      "time": "06:30 PM",
+      "title": "Performance - Rhythms of Maharashtra: Lavani & Jogwa",
+      "url": "https://iicdelhi.in/programmes/performance-rhythms-maharashtra-lavani-jogwa",
+      "venue": "C.D. Deshmukh Auditorium, IIC main"
     },
     {
       "category": "Museum",
@@ -510,7 +482,7 @@
       "date": "2026-07-23",
       "description": "",
       "end_date": null,
-      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_23%20July%202026_1.jpg",
       "score": 75,
       "source": "iic",
       "tags": [],
@@ -618,20 +590,6 @@
       "venue": "Gulmohar"
     },
     {
-      "category": "Library Programmes",
-      "date": "2026-07-25",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-06/Website%20Programme%20Image_25%20July%202026.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "BOOK DISCUSSION GROUP  -Speaking Sculptures: Karanas in Kathak",
-      "url": "https://iicdelhi.in/programmes/book-discussion-group-speaking-sculptures-karanas-kathak",
-      "venue": "C.D. Deshmukh Auditorium, IIC main"
-    },
-    {
       "category": "Film & Talk",
       "date": "2026-07-25",
       "description": "",
@@ -644,20 +602,6 @@
       "title": "Trans-Himalayas: Sanctuary of Buddhism",
       "url": "https://indiahabitat.org/Events_details/1315",
       "venue": "Online"
-    },
-    {
-      "category": "Museum",
-      "date": "2026-07-26",
-      "description": "A Solo Exhibition by Ravi Kant Jha, National award-winning artist, his practice investigates themes of consciousness, memory, and transformation.",
-      "end_date": "2026-08-02",
-      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_26%20July%202026.png",
-      "score": 85,
-      "source": "iic",
-      "tags": [],
-      "time": "11:00 AM",
-      "title": "Exhibition- Flux of Being",
-      "url": "https://iicdelhi.in/programmes/exhibition-flux-being",
-      "venue": "Art Gallery, IIC Annexe"
     },
     {
       "category": "Film & Theatre",
@@ -828,5 +772,5 @@
       "venue": "C.D. Deshmukh Auditorium, IIC main"
     }
   ],
-  "generated_at": "2026-07-13"
+  "generated_at": "2026-07-14"
 }

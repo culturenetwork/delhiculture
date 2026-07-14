@@ -1,48 +1,6 @@
 {
-  "count": 28,
+  "count": 23,
   "events": [
-    {
-      "category": "Book Talk",
-      "date": "2026-07-21",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-06/Website%20Programme%20Image_21%20July%202026.jpg",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
-      "time": "06:00 PM",
-      "title": "BOOK DISCUSSION GROUP  Games Hospitals Play: Decoding Your Private Healthcare Experience",
-      "url": "https://iicdelhi.in/programmes/book-discussion-group-games-hospitals-play-decoding-your-private-healthcare-experience",
-      "venue": "Conference Room I, IIC main"
-    },
-    {
-      "category": "Film",
-      "date": "2026-07-21",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 55,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "Tighee / Motherhood",
-      "url": "https://indiahabitat.org/Events_details/1310",
-      "venue": "The Stein Auditorium"
-    },
-    {
-      "category": "Film Club",
-      "date": "2026-07-21",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_21%20July%202026%20%281%29.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "Film- Yakasi's Daughter",
-      "url": "https://iicdelhi.in/programmes/film-yakasis-daughter",
-      "venue": "C.D. Deshmukh Auditorium, IIC main"
-    },
     {
       "category": "Museum",
       "date": "2026-07-22",
@@ -76,7 +34,7 @@
       "date": "2026-07-23",
       "description": "",
       "end_date": null,
-      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_23%20July%202026_1.jpg",
       "score": 75,
       "source": "iic",
       "tags": [],
@@ -184,20 +142,6 @@
       "venue": "Gulmohar"
     },
     {
-      "category": "Library Programmes",
-      "date": "2026-07-25",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-06/Website%20Programme%20Image_25%20July%202026.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "BOOK DISCUSSION GROUP  -Speaking Sculptures: Karanas in Kathak",
-      "url": "https://iicdelhi.in/programmes/book-discussion-group-speaking-sculptures-karanas-kathak",
-      "venue": "C.D. Deshmukh Auditorium, IIC main"
-    },
-    {
       "category": "Film & Talk",
       "date": "2026-07-25",
       "description": "",
@@ -210,20 +154,6 @@
       "title": "Trans-Himalayas: Sanctuary of Buddhism",
       "url": "https://indiahabitat.org/Events_details/1315",
       "venue": "Online"
-    },
-    {
-      "category": "Museum",
-      "date": "2026-07-26",
-      "description": "A Solo Exhibition by Ravi Kant Jha, National award-winning artist, his practice investigates themes of consciousness, memory, and transformation.",
-      "end_date": "2026-08-02",
-      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_26%20July%202026.png",
-      "score": 85,
-      "source": "iic",
-      "tags": [],
-      "time": "11:00 AM",
-      "title": "Exhibition- Flux of Being",
-      "url": "https://iicdelhi.in/programmes/exhibition-flux-being",
-      "venue": "Art Gallery, IIC Annexe"
     },
     {
       "category": "Film & Theatre",
@@ -394,5 +324,5 @@
       "venue": "C.D. Deshmukh Auditorium, IIC main"
     }
   ],
-  "generated_at": "2026-07-13"
+  "generated_at": "2026-07-14"
 }
