@@ -1,34 +1,6 @@
 {
-  "count": 23,
+  "count": 21,
   "events": [
-    {
-      "category": "Museum",
-      "date": "2026-07-22",
-      "description": "A photography exhibition curated by Amit Mehra, photographer, curator, and founder of the UNSUNG project, an ongoing initiative that celebrates the lives and contributions of extraordinary yet often overlooked individuals.",
-      "end_date": "2026-08-04",
-      "image": "https://aws-static.iicdelhi.in/2026-06/Website%20Programme%20Image_22%20July%202026.jpg",
-      "score": 85,
-      "source": "iic",
-      "tags": [],
-      "time": "11:00 AM",
-      "title": "Exhibition- UNSUNG: Celebrating the Extraordinary Grandeur of Smallness",
-      "url": "https://iicdelhi.in/programmes/exhibition-unsung-celebrating-extraordinary-grandeur-smallness",
-      "venue": "Art Gallery, Kamaladevi Complex, IIC"
-    },
-    {
-      "category": "Film",
-      "date": "2026-07-22",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-06/Website%20Programme%20Image_22%20July%202026_1.jpg",
-      "score": 55,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "Film- Remembering the Self - A Meditative Journey",
-      "url": "https://iicdelhi.in/programmes/film-remembering-self-meditative-journey",
-      "venue": "C.D. Deshmukh Auditorium, IIC main"
-    },
     {
       "category": "Book Talk",
       "date": "2026-07-23",
@@ -142,6 +114,20 @@
       "venue": "Gulmohar"
     },
     {
+      "category": "Library Programmes",
+      "date": "2026-07-25",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-06/Website%20Programme%20Image_25%20July%202026.jpg",
+      "score": 50,
+      "source": "iic",
+      "tags": [],
+      "time": "06:30 PM",
+      "title": "BOOK DISCUSSION GROUP  -Speaking Sculptures: Karanas in Kathak",
+      "url": "https://iicdelhi.in/programmes/book-discussion-group-speaking-sculptures-karanas-kathak",
+      "venue": "C.D. Deshmukh Auditorium, IIC main"
+    },
+    {
       "category": "Film & Talk",
       "date": "2026-07-25",
       "description": "",
@@ -182,20 +168,6 @@
       "title": "BOOK DISCUSSION GROUP  -Busy Women: Building Commerce and Culture in Middle India",
       "url": "https://iicdelhi.in/programmes/book-discussion-group-busy-women-building-commerce-and-culture-middle-india",
       "venue": "Conference Room II, IIC main"
-    },
-    {
-      "category": "Film Club",
-      "date": "2026-07-27",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_27%20July%202026%20%281%29.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "Film-  Victoria",
-      "url": "https://iicdelhi.in/programmes/film-victoria",
-      "venue": "C.D. Deshmukh Auditorium, IIC main"
     },
     {
       "category": "Book Talk",
@@ -324,5 +296,5 @@
       "venue": "C.D. Deshmukh Auditorium, IIC main"
     }
   ],
-  "generated_at": "2026-07-14"
+  "generated_at": "2026-07-15"
 }

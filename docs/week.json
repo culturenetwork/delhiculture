@@ -1,76 +1,6 @@
 {
-  "count": 28,
+  "count": 26,
   "events": [
-    {
-      "category": "Museum",
-      "date": "2026-07-15",
-      "description": "Human Relation with House Bird A solo exhibition by Rahul Gupta, Delhi-based visual artist, his artistic practice engages with themes of environmental change, memory, and human–nature relationships.",
-      "end_date": "2026-07-21",
-      "image": "https://aws-static.iicdelhi.in/2026-06/Website%20Programme%20Image_15%20July%202026_1.jpg",
-      "score": 85,
-      "source": "iic",
-      "tags": [],
-      "time": "11:00 AM",
-      "title": "EXHIBITION -Human Relation with House Bird",
-      "url": "https://iicdelhi.in/programmes/exhibition-human-relation-house-bird",
-      "venue": "Art Gallery, IIC Annexe"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-07-15",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-06/Website%20Programme%20Image_15%20July%202026.jpg",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
-      "time": "10:00 AM",
-      "title": "DIALOGUES IN HEALTH AND WELLNESS",
-      "url": "https://iicdelhi.in/programmes/dialogues-health-and-wellness-35",
-      "venue": "Seminar Rooms 1,2,3"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-07-15",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-06/Website%20Programme%20Image_15%20July%202026_2.jpg",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
-      "time": "06:00 PM",
-      "title": "DURGABAI DESHMUKH MEMORIAL LECTURE 2026",
-      "url": "https://iicdelhi.in/programmes/durgabai-deshmukh-memorial-lecture-2026",
-      "venue": "C.D. Deshmukh Auditorium, IIC main"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-07-15",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_15%20July%202026_3.jpg",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "Why are Indian elections so unpredictable?",
-      "url": "https://iicdelhi.in/programmes/why-are-indian-elections-so-unpredictable",
-      "venue": "Lecture Room II, IIC Annexe"
-    },
-    {
-      "category": "Dance & Music",
-      "date": "2026-07-15",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 50,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "Celebrating the Birth Centenary of Kathak maestro Late Pt. Kundan Lal Gangani. Day 1",
-      "url": "https://indiahabitat.org/Events_details/1298",
-      "venue": "The Stein Auditorium"
-    },
     {
       "category": "Museum",
       "date": "2026-07-16",
@@ -97,6 +27,20 @@
       "time": "06:30 PM",
       "title": "CLEAN AIR DIALOGUES",
       "url": "https://iicdelhi.in/programmes/clean-air-dialogues-0",
+      "venue": "Lecture Room II, IIC Annexe"
+    },
+    {
+      "category": "Library Programmes",
+      "date": "2026-07-16",
+      "description": "",
+      "end_date": null,
+      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "score": 50,
+      "source": "iic",
+      "tags": [],
+      "time": "03:00 PM",
+      "title": "Book Discussion Group - Illustrated Abhidhamma: Buddhist Inputs for Artificial Intelligence",
+      "url": "https://iicdelhi.in/programmes/book-discussion-group-illustrated-abhidhamma-buddhist-inputs-artificial-intelligence",
       "venue": "Lecture Room II, IIC Annexe"
     },
     {
@@ -352,20 +296,6 @@
       "venue": "C.D. Deshmukh Auditorium, IIC main"
     },
     {
-      "category": "Book Talk",
-      "date": "2026-07-21",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-06/Website%20Programme%20Image_21%20July%202026.jpg",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
-      "time": "06:00 PM",
-      "title": "BOOK DISCUSSION GROUP  Games Hospitals Play: Decoding Your Private Healthcare Experience",
-      "url": "https://iicdelhi.in/programmes/book-discussion-group-games-hospitals-play-decoding-your-private-healthcare-experience",
-      "venue": "Conference Room I, IIC main"
-    },
-    {
       "category": "Film",
       "date": "2026-07-21",
       "description": "",
@@ -380,6 +310,20 @@
       "venue": "The Stein Auditorium"
     },
     {
+      "category": "Library Programmes",
+      "date": "2026-07-21",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-06/Website%20Programme%20Image_21%20July%202026.jpg",
+      "score": 50,
+      "source": "iic",
+      "tags": [],
+      "time": "06:00 PM",
+      "title": "Book Discussion Group-- Games Hospitals Play: Care vs Commerce",
+      "url": "https://iicdelhi.in/programmes/book-discussion-group-games-hospitals-play-care-vs-commerce",
+      "venue": "Conference Room I, IIC main"
+    },
+    {
       "category": "Film Club",
       "date": "2026-07-21",
       "description": "",
@@ -392,7 +336,35 @@
       "title": "Film- Yakasi's Daughter",
       "url": "https://iicdelhi.in/programmes/film-yakasis-daughter",
       "venue": "C.D. Deshmukh Auditorium, IIC main"
+    },
+    {
+      "category": "Museum",
+      "date": "2026-07-22",
+      "description": "A photography exhibition curated by Amit Mehra, photographer, curator, and founder of the UNSUNG project, an ongoing initiative that celebrates the lives and contributions of extraordinary yet often overlooked individuals.",
+      "end_date": "2026-08-04",
+      "image": "https://aws-static.iicdelhi.in/2026-06/Website%20Programme%20Image_22%20July%202026.jpg",
+      "score": 85,
+      "source": "iic",
+      "tags": [],
+      "time": "11:00 AM",
+      "title": "Exhibition- UNSUNG: Celebrating the Extraordinary Grandeur of Smallness",
+      "url": "https://iicdelhi.in/programmes/exhibition-unsung-celebrating-extraordinary-grandeur-smallness",
+      "venue": "Art Gallery, Kamaladevi Complex, IIC"
+    },
+    {
+      "category": "Film",
+      "date": "2026-07-22",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-06/Website%20Programme%20Image_22%20July%202026_1.jpg",
+      "score": 55,
+      "source": "iic",
+      "tags": [],
+      "time": "06:30 PM",
+      "title": "Film- Remembering the Self - A Meditative Journey",
+      "url": "https://iicdelhi.in/programmes/film-remembering-self-meditative-journey",
+      "venue": "C.D. Deshmukh Auditorium, IIC main"
     }
   ],
-  "generated_at": "2026-07-14"
+  "generated_at": "2026-07-15"
 }

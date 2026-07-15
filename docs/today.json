@@ -1,62 +1,76 @@
 {
-  "count": 4,
+  "count": 5,
   "events": [
     {
       "category": "Museum",
-      "date": "2026-07-01",
-      "description": "The exhibition presents a body of drawing-based paintings that explore the fragmented realities of contemporary urban existence. Rooted in Indian aesthetic traditions yet shaped by a globalized and technologized visual culture, the works weave together mythology, memory, satire,",
-      "end_date": "2026-07-14",
-      "image": "https://aws-static.iicdelhi.in/2026-05/Website%20Programme%20Image_1%20July%202026.jpg",
+      "date": "2026-07-15",
+      "description": "Human Relation with House Bird A solo exhibition by Rahul Gupta, Delhi-based visual artist, his artistic practice engages with themes of environmental change, memory, and human–nature relationships.",
+      "end_date": "2026-07-21",
+      "image": "https://aws-static.iicdelhi.in/2026-06/Website%20Programme%20Image_15%20July%202026_1.jpg",
       "score": 85,
       "source": "iic",
       "tags": [],
       "time": "11:00 AM",
-      "title": "EXHIBITION- NEO, URBAN, AVATAR: A Mythopoesis of the Contemporary Times",
-      "url": "https://iicdelhi.in/programmes/exhibition-neo-urban-avatar-mythopoesis-contemporary-times",
-      "venue": "Art Gallery, Kamaladevi Complex, IIC"
-    },
-    {
-      "category": "Indian Classical",
-      "date": "2026-07-14",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 80,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "GuruDiksha 2026",
-      "url": "https://indiahabitat.org/Events_details/1295",
-      "venue": "The Stein Auditorium"
+      "title": "EXHIBITION -Human Relation with House Bird",
+      "url": "https://iicdelhi.in/programmes/exhibition-human-relation-house-bird",
+      "venue": "Art Gallery, IIC Annexe"
     },
     {
       "category": "Book Talk",
-      "date": "2026-07-14",
+      "date": "2026-07-15",
       "description": "",
       "end_date": null,
-      "image": null,
+      "image": "https://aws-static.iicdelhi.in/2026-06/Website%20Programme%20Image_15%20July%202026.jpg",
       "score": 75,
-      "source": "ihc",
+      "source": "iic",
       "tags": [],
-      "time": "7:00 PM",
-      "title": "Child Protection Laws, Framework and Emerging Challenges.",
-      "url": "https://indiahabitat.org/Events_details/1297",
-      "venue": "Casuarina"
+      "time": "10:00 AM",
+      "title": "DIALOGUES IN HEALTH AND WELLNESS",
+      "url": "https://iicdelhi.in/programmes/dialogues-health-and-wellness-35",
+      "venue": "Seminar Rooms 1,2,3"
     },
     {
-      "category": "Cultural",
-      "date": "2026-07-14",
+      "category": "Book Talk",
+      "date": "2026-07-15",
       "description": "",
       "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-06/Website%20Programme%20Image_14%20July%202026.jpg",
-      "score": 50,
+      "image": "https://aws-static.iicdelhi.in/2026-06/Website%20Programme%20Image_15%20July%202026_2.jpg",
+      "score": 75,
+      "source": "iic",
+      "tags": [],
+      "time": "06:00 PM",
+      "title": "DURGABAI DESHMUKH MEMORIAL LECTURE 2026",
+      "url": "https://iicdelhi.in/programmes/durgabai-deshmukh-memorial-lecture-2026",
+      "venue": "C.D. Deshmukh Auditorium, IIC main"
+    },
+    {
+      "category": "Book Talk",
+      "date": "2026-07-15",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_15%20July%202026_3.jpg",
+      "score": 75,
       "source": "iic",
       "tags": [],
       "time": "06:30 PM",
-      "title": "Solo Piano Recital",
-      "url": "https://iicdelhi.in/programmes/solo-piano-recital",
-      "venue": "C.D. Deshmukh Auditorium, IIC main"
+      "title": "Why are Indian elections so unpredictable?",
+      "url": "https://iicdelhi.in/programmes/why-are-indian-elections-so-unpredictable",
+      "venue": "Lecture Room II, IIC Annexe"
+    },
+    {
+      "category": "Dance & Music",
+      "date": "2026-07-15",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 50,
+      "source": "ihc",
+      "tags": [],
+      "time": "7:00 PM",
+      "title": "Celebrating the Birth Centenary of Kathak maestro Late Pt. Kundan Lal Gangani. Day 1",
+      "url": "https://indiahabitat.org/Events_details/1298",
+      "venue": "The Stein Auditorium"
     }
   ],
-  "generated_at": "2026-07-14"
+  "generated_at": "2026-07-15"
 }
