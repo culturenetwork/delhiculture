@@ -1,5 +1,5 @@
 {
-  "count": 50,
+  "count": 46,
   "events": [
     {
       "category": "Museum",
@@ -14,76 +14,6 @@
       "title": "EXHIBITION -Human Relation with House Bird",
       "url": "https://iicdelhi.in/programmes/exhibition-human-relation-house-bird",
       "venue": "Art Gallery, IIC Annexe"
-    },
-    {
-      "category": "Museum",
-      "date": "2026-07-16",
-      "description": "",
-      "end_date": "2026-07-18",
-      "image": null,
-      "score": 85,
-      "source": "bikanerhouse",
-      "tags": [],
-      "time": null,
-      "title": "Voice of Art 2026",
-      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/7",
-      "venue": "Bikaner House"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-07-16",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-06/Website%20Programme%20Image%20_16%20July%202026.jpg",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "CLEAN AIR DIALOGUES",
-      "url": "https://iicdelhi.in/programmes/clean-air-dialogues-0",
-      "venue": "Lecture Room II, IIC Annexe"
-    },
-    {
-      "category": "Library Programmes",
-      "date": "2026-07-16",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image%20_16%20July%202026_1.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "03:00 PM",
-      "title": "Book Discussion Group - Illustrated Abhidhamma: Buddhist Inputs for Artificial Intelligence",
-      "url": "https://iicdelhi.in/programmes/book-discussion-group-illustrated-abhidhamma-buddhist-inputs-artificial-intelligence",
-      "venue": "Lecture Room II, IIC Annexe"
-    },
-    {
-      "category": "Dance & Music",
-      "date": "2026-07-16",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 50,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "Celebrating the Birth Centenary of Kathak maestro Late Pt. Kundan Lal Gangani. Day 2",
-      "url": "https://indiahabitat.org/Events_details/1299",
-      "venue": "The Stein Auditorium"
-    },
-    {
-      "category": "Film Club",
-      "date": "2026-07-16",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_16%20July%202026.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "Film -Adamya",
-      "url": "https://iicdelhi.in/programmes/film-adamya",
-      "venue": "C.D. Deshmukh Auditorium, IIC main"
     },
     {
       "category": "Indian Classical",
@@ -108,10 +38,10 @@
       "score": 75,
       "source": "iic",
       "tags": [],
-      "time": "06:30 PM",
-      "title": "ART MATTERS",
-      "url": "https://iicdelhi.in/programmes/art-matters-279",
-      "venue": "Seminar Rooms 1,2,3"
+      "time": "06:15 PM",
+      "title": "ART MATTERS  CX",
+      "url": "https://iicdelhi.in/programmes/art-matters-cx",
+      "venue": "Seminar Rooms 2 and 3"
     },
     {
       "category": "Book Talk",
@@ -168,20 +98,6 @@
       "title": "Performance - Rhythms of Maharashtra: Lavani & Jogwa",
       "url": "https://iicdelhi.in/programmes/performance-rhythms-maharashtra-lavani-jogwa",
       "venue": "C.D. Deshmukh Auditorium, IIC main"
-    },
-    {
-      "category": "Museum",
-      "date": "2026-07-18",
-      "description": "",
-      "end_date": "2026-07-21",
-      "image": null,
-      "score": 85,
-      "source": "bikanerhouse",
-      "tags": [],
-      "time": null,
-      "title": "From the Realm of People A solo show by Chippa Sudhakar",
-      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/7",
-      "venue": "Bikaner House"
     },
     {
       "category": "Book Talk",
@@ -308,6 +224,20 @@
       "title": "Film- Whispers of the Mountains",
       "url": "https://iicdelhi.in/programmes/film-whispers-mountains",
       "venue": "C.D. Deshmukh Auditorium, IIC main"
+    },
+    {
+      "category": "Book Talk",
+      "date": "2026-07-21",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 75,
+      "source": "ihc",
+      "tags": [],
+      "time": "7:00 PM",
+      "title": "Reimagining Tech for a Viksit Bharat",
+      "url": "https://indiahabitat.org/Events_details/1323",
+      "venue": "Gulmohar"
     },
     {
       "category": "Film",
@@ -548,6 +478,20 @@
       "venue": "The Stein Auditorium"
     },
     {
+      "category": "Theatre",
+      "date": "2026-07-27",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 65,
+      "source": "ihc",
+      "tags": [],
+      "time": "7:00 PM",
+      "title": "झड़पें / Skirmishes",
+      "url": "https://indiahabitat.org/Events_details/1324",
+      "venue": "The Theatre"
+    },
+    {
       "category": "Library Programmes",
       "date": "2026-07-27",
       "description": "",
@@ -702,5 +646,5 @@
       "venue": "C.D. Deshmukh Auditorium, IIC main"
     }
   ],
-  "generated_at": "2026-07-16"
+  "generated_at": "2026-07-17"
 }

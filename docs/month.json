@@ -1,48 +1,6 @@
 {
-  "count": 19,
+  "count": 17,
   "events": [
-    {
-      "category": "Book Talk",
-      "date": "2026-07-24",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-06/Website%20Programme%20Image_24%20July%202026%20%281%29.jpg",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "MUSIC APPRECIATION PROMOTION",
-      "url": "https://iicdelhi.in/programmes/music-appreciation-promotion-355",
-      "venue": "Lecture Room II, IIC Annexe"
-    },
-    {
-      "category": "Dance",
-      "date": "2026-07-24",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 70,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "Nrutyaarpana: Devotion Through Dance",
-      "url": "https://indiahabitat.org/Events_details/1314",
-      "venue": "The Stein Auditorium"
-    },
-    {
-      "category": "Film",
-      "date": "2026-07-24",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 55,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "Pehli Tareekh & Memories of a Kiss",
-      "url": "https://indiahabitat.org/Events_details/1313",
-      "venue": "Gulmohar"
-    },
     {
       "category": "Film",
       "date": "2026-07-25",
@@ -112,6 +70,20 @@
       "title": "The Playboy of the Western World",
       "url": "https://indiahabitat.org/Events_details/1317",
       "venue": "The Stein Auditorium"
+    },
+    {
+      "category": "Theatre",
+      "date": "2026-07-27",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 65,
+      "source": "ihc",
+      "tags": [],
+      "time": "7:00 PM",
+      "title": "झड़पें / Skirmishes",
+      "url": "https://indiahabitat.org/Events_details/1324",
+      "venue": "The Theatre"
     },
     {
       "category": "Library Programmes",
@@ -268,5 +240,5 @@
       "venue": "C.D. Deshmukh Auditorium, IIC main"
     }
   ],
-  "generated_at": "2026-07-16"
+  "generated_at": "2026-07-17"
 }
