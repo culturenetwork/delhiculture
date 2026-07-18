@@ -1,5 +1,5 @@
 {
-  "count": 46,
+  "count": 43,
   "events": [
     {
       "category": "Museum",
@@ -16,88 +16,32 @@
       "venue": "Art Gallery, IIC Annexe"
     },
     {
-      "category": "Indian Classical",
-      "date": "2026-07-17",
+      "category": "Museum",
+      "date": "2026-07-16",
       "description": "",
-      "end_date": null,
+      "end_date": "2026-07-18",
       "image": null,
-      "score": 80,
-      "source": "ihc",
+      "score": 85,
+      "source": "bikanerhouse",
       "tags": [],
-      "time": "7:00 PM",
-      "title": "An Evening of Indian Classical Music",
-      "url": "https://indiahabitat.org/Events_details/1301",
-      "venue": "The Theatre"
+      "time": null,
+      "title": "Voice of Art 2026",
+      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/7",
+      "venue": "Bikaner House"
     },
     {
-      "category": "Book Talk",
-      "date": "2026-07-17",
+      "category": "Museum",
+      "date": "2026-07-18",
       "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_17%20July%202026_1.jpg",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
-      "time": "06:15 PM",
-      "title": "ART MATTERS  CX",
-      "url": "https://iicdelhi.in/programmes/art-matters-cx",
-      "venue": "Seminar Rooms 2 and 3"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-07-17",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-06/Website%20Programme%20Image_20%20July%202026_1.jpg",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "The Extraordinary Science of The Ordinary World: The Legacy of Pierre-Gilles De Gennes",
-      "url": "https://iicdelhi.in/programmes/extraordinary-science-ordinary-world-legacy-pierre-gilles-de-gennes",
-      "venue": "Conference Room II, IIC main"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-07-17",
-      "description": "",
-      "end_date": null,
+      "end_date": "2026-07-21",
       "image": null,
-      "score": 75,
-      "source": "ihc",
+      "score": 85,
+      "source": "bikanerhouse",
       "tags": [],
-      "time": "7:00 PM",
-      "title": "The Mental Game: The Psychology of High Performance in Sport",
-      "url": "https://indiahabitat.org/Events_details/1300",
-      "venue": "Gulmohar"
-    },
-    {
-      "category": "Dance",
-      "date": "2026-07-17",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 70,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "Samhita: A Union of Jivathma With Paramathma",
-      "url": "https://indiahabitat.org/Events_details/1302",
-      "venue": "The Stein Auditorium"
-    },
-    {
-      "category": "Cultural",
-      "date": "2026-07-17",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_17%20July%202026_0.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "Performance - Rhythms of Maharashtra: Lavani & Jogwa",
-      "url": "https://iicdelhi.in/programmes/performance-rhythms-maharashtra-lavani-jogwa",
-      "venue": "C.D. Deshmukh Auditorium, IIC main"
+      "time": null,
+      "title": "From the Realm of People A solo show by Chippa Sudhakar",
+      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/7",
+      "venue": "Bikaner House"
     },
     {
       "category": "Book Talk",
@@ -364,6 +308,20 @@
       "title": "IIC Double Bill :Dance  Recitals",
       "url": "https://iicdelhi.in/programmes/iic-double-bill-dance-recitals-20",
       "venue": "C.D. Deshmukh Auditorium, IIC main"
+    },
+    {
+      "category": "Museum",
+      "date": "2026-07-24",
+      "description": "",
+      "end_date": "2026-07-29",
+      "image": null,
+      "score": 85,
+      "source": "bikanerhouse",
+      "tags": [],
+      "time": null,
+      "title": "Mirrors: Distance Between Worlds",
+      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/7",
+      "venue": "Bikaner House"
     },
     {
       "category": "Book Talk",
@@ -646,5 +604,5 @@
       "venue": "C.D. Deshmukh Auditorium, IIC main"
     }
   ],
-  "generated_at": "2026-07-17"
+  "generated_at": "2026-07-18"
 }
