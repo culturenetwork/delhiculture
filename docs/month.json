@@ -1,34 +1,6 @@
 {
-  "count": 14,
+  "count": 12,
   "events": [
-    {
-      "category": "Museum",
-      "date": "2026-07-26",
-      "description": "A Solo Exhibition by Ravi Kant Jha, National award-winning artist, his practice investigates themes of consciousness, memory, and transformation.",
-      "end_date": "2026-08-02",
-      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_26%20July%202026.png",
-      "score": 85,
-      "source": "iic",
-      "tags": [],
-      "time": "11:00 AM",
-      "title": "Exhibition- Flux of Being",
-      "url": "https://iicdelhi.in/programmes/exhibition-flux-being",
-      "venue": "Art Gallery, IIC Annexe"
-    },
-    {
-      "category": "Film & Theatre",
-      "date": "2026-07-26",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 50,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "The Playboy of the Western World",
-      "url": "https://indiahabitat.org/Events_details/1317",
-      "venue": "The Stein Auditorium"
-    },
     {
       "category": "Theatre",
       "date": "2026-07-27",
@@ -198,5 +170,5 @@
       "venue": "C.D. Deshmukh Auditorium, IIC main"
     }
   ],
-  "generated_at": "2026-07-18"
+  "generated_at": "2026-07-19"
 }

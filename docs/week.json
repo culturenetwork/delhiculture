@@ -1,20 +1,6 @@
 {
-  "count": 20,
+  "count": 22,
   "events": [
-    {
-      "category": "Dance & Music",
-      "date": "2026-07-19",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 50,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "Through Pages Turned",
-      "url": "https://indiahabitat.org/Events_details/1309",
-      "venue": "The Stein Auditorium"
-    },
     {
       "category": "Book Talk",
       "date": "2026-07-20",
@@ -240,6 +226,20 @@
       "venue": "Gulmohar"
     },
     {
+      "category": "Indian Classical",
+      "date": "2026-07-25",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 80,
+      "source": "ihc",
+      "tags": [],
+      "time": "7:00 PM",
+      "title": "Rongaloyer Robi",
+      "url": "https://indiahabitat.org/Events_details/1325",
+      "venue": "The Theatre"
+    },
+    {
       "category": "Film",
       "date": "2026-07-25",
       "description": "",
@@ -280,7 +280,35 @@
       "title": "Trans-Himalayas: Sanctuary of Buddhism",
       "url": "https://indiahabitat.org/Events_details/1315",
       "venue": "Online"
+    },
+    {
+      "category": "Museum",
+      "date": "2026-07-26",
+      "description": "A Solo Exhibition by Ravi Kant Jha, National award-winning artist, his practice investigates themes of consciousness, memory, and transformation.",
+      "end_date": "2026-08-02",
+      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_26%20July%202026.png",
+      "score": 85,
+      "source": "iic",
+      "tags": [],
+      "time": "11:00 AM",
+      "title": "Exhibition- Flux of Being",
+      "url": "https://iicdelhi.in/programmes/exhibition-flux-being",
+      "venue": "Art Gallery, IIC Annexe"
+    },
+    {
+      "category": "Film & Theatre",
+      "date": "2026-07-26",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 50,
+      "source": "ihc",
+      "tags": [],
+      "time": "7:00 PM",
+      "title": "The Playboy of the Western World",
+      "url": "https://indiahabitat.org/Events_details/1317",
+      "venue": "The Stein Auditorium"
     }
   ],
-  "generated_at": "2026-07-18"
+  "generated_at": "2026-07-19"
 }
