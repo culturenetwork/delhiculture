@@ -1,5 +1,5 @@
 {
-  "count": 9,
+  "count": 11,
   "events": [
     {
       "category": "Book Talk",
@@ -126,6 +126,34 @@
       "title": "Twamaham Vande",
       "url": "https://iicdelhi.in/programmes/twamaham-vande",
       "venue": "C.D. Deshmukh Auditorium, IIC main"
+    },
+    {
+      "category": "Indian Classical",
+      "date": "2026-08-08",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 80,
+      "source": "ihc",
+      "tags": [],
+      "time": "7:00 PM",
+      "title": "IHC Lok Sangeet Sammelan. Day 1",
+      "url": "https://indiahabitat.org/Events_details/1326",
+      "venue": "The Stein Auditorium"
+    },
+    {
+      "category": "Indian Classical",
+      "date": "2026-08-09",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 80,
+      "source": "ihc",
+      "tags": [],
+      "time": "7:00 PM",
+      "title": "IHC Lok Sangeet Sammelan. Day 2",
+      "url": "https://indiahabitat.org/Events_details/1327",
+      "venue": "The Stein Auditorium"
     }
   ],
   "generated_at": "2026-07-20"
