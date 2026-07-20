@@ -1,48 +1,6 @@
 {
-  "count": 12,
+  "count": 9,
   "events": [
-    {
-      "category": "Theatre",
-      "date": "2026-07-27",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 65,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "झड़पें / Skirmishes",
-      "url": "https://indiahabitat.org/Events_details/1324",
-      "venue": "The Theatre"
-    },
-    {
-      "category": "Library Programmes",
-      "date": "2026-07-27",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-06/Website%20Programme%20Image_27%20July%202026.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "06:00 PM",
-      "title": "BOOK DISCUSSION GROUP  -Busy Women: Building Commerce and Culture in Middle India",
-      "url": "https://iicdelhi.in/programmes/book-discussion-group-busy-women-building-commerce-and-culture-middle-india",
-      "venue": "Conference Room II, IIC main"
-    },
-    {
-      "category": "Film Club",
-      "date": "2026-07-27",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_27%20July%202026%20%281%29.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "Film-  Victoria",
-      "url": "https://iicdelhi.in/programmes/film-victoria",
-      "venue": "C.D. Deshmukh Auditorium, IIC main"
-    },
     {
       "category": "Book Talk",
       "date": "2026-07-28",
@@ -170,5 +128,5 @@
       "venue": "C.D. Deshmukh Auditorium, IIC main"
     }
   ],
-  "generated_at": "2026-07-19"
+  "generated_at": "2026-07-20"
 }
