@@ -1,5 +1,5 @@
 {
-  "count": 38,
+  "count": 36,
   "events": [
     {
       "category": "Museum",
@@ -28,34 +28,6 @@
       "title": "From the Realm of People A solo show by Chippa Sudhakar",
       "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/7",
       "venue": "Bikaner House"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-07-20",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-06/Website%20Programme%20Image_20%20July%202026%20%281%29.jpg",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "Emergent Quantum Matter: New Paths to Future Technology",
-      "url": "https://iicdelhi.in/programmes/emergent-quantum-matter-new-paths-future-technology",
-      "venue": "Seminar Rooms 1,2,3"
-    },
-    {
-      "category": "Film Club",
-      "date": "2026-07-20",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_20%20July%202026%20%281%29%20%281%29.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "Film- Whispers of the Mountains",
-      "url": "https://iicdelhi.in/programmes/film-whispers-mountains",
-      "venue": "C.D. Deshmukh Auditorium, IIC main"
     },
     {
       "category": "Book Talk",
@@ -534,5 +506,5 @@
       "venue": "The Stein Auditorium"
     }
   ],
-  "generated_at": "2026-07-20"
+  "generated_at": "2026-07-21"
 }

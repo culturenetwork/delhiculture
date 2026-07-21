@@ -1,5 +1,5 @@
 {
-  "count": 4,
+  "count": 6,
   "events": [
     {
       "category": "Museum",
@@ -31,32 +31,60 @@
     },
     {
       "category": "Book Talk",
-      "date": "2026-07-20",
+      "date": "2026-07-21",
       "description": "",
       "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-06/Website%20Programme%20Image_20%20July%202026%20%281%29.jpg",
+      "image": null,
       "score": 75,
+      "source": "ihc",
+      "tags": [],
+      "time": "7:00 PM",
+      "title": "Reimagining Tech for a Viksit Bharat",
+      "url": "https://indiahabitat.org/Events_details/1323",
+      "venue": "Gulmohar"
+    },
+    {
+      "category": "Film",
+      "date": "2026-07-21",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 55,
+      "source": "ihc",
+      "tags": [],
+      "time": "7:00 PM",
+      "title": "Tighee / Motherhood",
+      "url": "https://indiahabitat.org/Events_details/1310",
+      "venue": "The Stein Auditorium"
+    },
+    {
+      "category": "Library Programmes",
+      "date": "2026-07-21",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-06/Website%20Programme%20Image_21%20July%202026.jpg",
+      "score": 50,
       "source": "iic",
       "tags": [],
-      "time": "06:30 PM",
-      "title": "Emergent Quantum Matter: New Paths to Future Technology",
-      "url": "https://iicdelhi.in/programmes/emergent-quantum-matter-new-paths-future-technology",
-      "venue": "Seminar Rooms 1,2,3"
+      "time": "06:00 PM",
+      "title": "Book Discussion Group-- Games Hospitals Play: Care vs Commerce",
+      "url": "https://iicdelhi.in/programmes/book-discussion-group-games-hospitals-play-care-vs-commerce",
+      "venue": "Conference Room I, IIC main"
     },
     {
       "category": "Film Club",
-      "date": "2026-07-20",
+      "date": "2026-07-21",
       "description": "",
       "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_20%20July%202026%20%281%29%20%281%29.jpg",
+      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_21%20July%202026%20%281%29.jpg",
       "score": 50,
       "source": "iic",
       "tags": [],
       "time": "06:30 PM",
-      "title": "Film- Whispers of the Mountains",
-      "url": "https://iicdelhi.in/programmes/film-whispers-mountains",
+      "title": "Film- Yakasi's Daughter",
+      "url": "https://iicdelhi.in/programmes/film-yakasis-daughter",
       "venue": "C.D. Deshmukh Auditorium, IIC main"
     }
   ],
-  "generated_at": "2026-07-20"
+  "generated_at": "2026-07-21"
 }

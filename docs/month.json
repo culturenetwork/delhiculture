@@ -1,34 +1,6 @@
 {
-  "count": 11,
+  "count": 9,
   "events": [
-    {
-      "category": "Book Talk",
-      "date": "2026-07-28",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_28%20July%202026_1.jpg",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "AAJ KAVITA",
-      "url": "https://iicdelhi.in/programmes/aaj-kavita-48",
-      "venue": "Lecture Room II, IIC Annexe"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-07-28",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-06/Website%20Programme%20Image_28%20July%202026%20%281%29.jpg",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "INDIAN ARCHAEOLOGY",
-      "url": "https://iicdelhi.in/programmes/indian-archaeology-150",
-      "venue": "Conference Room II, IIC main"
-    },
     {
       "category": "Indian Classical",
       "date": "2026-07-29",
@@ -156,5 +128,5 @@
       "venue": "The Stein Auditorium"
     }
   ],
-  "generated_at": "2026-07-20"
+  "generated_at": "2026-07-21"
 }
