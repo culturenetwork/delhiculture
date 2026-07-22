@@ -1,34 +1,6 @@
 {
-  "count": 21,
+  "count": 22,
   "events": [
-    {
-      "category": "Museum",
-      "date": "2026-07-22",
-      "description": "A photography exhibition curated by Amit Mehra, photographer, curator, and founder of the UNSUNG project, an ongoing initiative that celebrates the lives and contributions of extraordinary yet often overlooked individuals.",
-      "end_date": "2026-08-04",
-      "image": "https://aws-static.iicdelhi.in/2026-06/Website%20Programme%20Image_22%20July%202026.jpg",
-      "score": 85,
-      "source": "iic",
-      "tags": [],
-      "time": "11:00 AM",
-      "title": "Exhibition- UNSUNG: Celebrating the Extraordinary Grandeur of Smallness",
-      "url": "https://iicdelhi.in/programmes/exhibition-unsung-celebrating-extraordinary-grandeur-smallness",
-      "venue": "Art Gallery, Kamaladevi Complex, IIC"
-    },
-    {
-      "category": "Film",
-      "date": "2026-07-22",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-06/Website%20Programme%20Image_22%20July%202026_1.jpg",
-      "score": 55,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "Film- Remembering the Self - A Meditative Journey",
-      "url": "https://iicdelhi.in/programmes/film-remembering-self-meditative-journey",
-      "venue": "C.D. Deshmukh Auditorium, IIC main"
-    },
     {
       "category": "Book Talk",
       "date": "2026-07-23",
@@ -294,7 +266,49 @@
       "title": "INDIAN ARCHAEOLOGY",
       "url": "https://iicdelhi.in/programmes/indian-archaeology-150",
       "venue": "Conference Room II, IIC main"
+    },
+    {
+      "category": "Indian Classical",
+      "date": "2026-07-29",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 80,
+      "source": "ihc",
+      "tags": [],
+      "time": "7:00 PM",
+      "title": "Aarambh",
+      "url": "https://indiahabitat.org/Events_details/1320",
+      "venue": "The Theatre"
+    },
+    {
+      "category": "Book Talk",
+      "date": "2026-07-29",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 75,
+      "source": "ihc",
+      "tags": [],
+      "time": "6:00 PM",
+      "title": "(Se)Elections, Violence & State: Analysing Developments in Pakistan-Occupied Jammu & Kashmir",
+      "url": "https://indiahabitat.org/Events_details/1319",
+      "venue": "Gulmohar"
+    },
+    {
+      "category": "Book Talk",
+      "date": "2026-07-29",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_29%20July%202026.png",
+      "score": 75,
+      "source": "iic",
+      "tags": [],
+      "time": "06:30 PM",
+      "title": "The Democracy to Come-Ambedkar, Fanon, and the Time of Counter-Revolution",
+      "url": "https://iicdelhi.in/programmes/democracy-come-ambedkar-fanon-and-time-counter-revolution",
+      "venue": "Conference Room I, IIC main"
     }
   ],
-  "generated_at": "2026-07-21"
+  "generated_at": "2026-07-22"
 }

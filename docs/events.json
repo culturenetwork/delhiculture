@@ -1,90 +1,6 @@
 {
-  "count": 36,
+  "count": 30,
   "events": [
-    {
-      "category": "Museum",
-      "date": "2026-07-15",
-      "description": "Human Relation with House Bird A solo exhibition by Rahul Gupta, Delhi-based visual artist, his artistic practice engages with themes of environmental change, memory, and human–nature relationships.",
-      "end_date": "2026-07-21",
-      "image": "https://aws-static.iicdelhi.in/2026-06/Website%20Programme%20Image_15%20July%202026_1.jpg",
-      "score": 85,
-      "source": "iic",
-      "tags": [],
-      "time": "11:00 AM",
-      "title": "EXHIBITION -Human Relation with House Bird",
-      "url": "https://iicdelhi.in/programmes/exhibition-human-relation-house-bird",
-      "venue": "Art Gallery, IIC Annexe"
-    },
-    {
-      "category": "Museum",
-      "date": "2026-07-18",
-      "description": "",
-      "end_date": "2026-07-21",
-      "image": null,
-      "score": 85,
-      "source": "bikanerhouse",
-      "tags": [],
-      "time": null,
-      "title": "From the Realm of People A solo show by Chippa Sudhakar",
-      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/7",
-      "venue": "Bikaner House"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-07-21",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 75,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "Reimagining Tech for a Viksit Bharat",
-      "url": "https://indiahabitat.org/Events_details/1323",
-      "venue": "Gulmohar"
-    },
-    {
-      "category": "Film",
-      "date": "2026-07-21",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 55,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "Tighee / Motherhood",
-      "url": "https://indiahabitat.org/Events_details/1310",
-      "venue": "The Stein Auditorium"
-    },
-    {
-      "category": "Library Programmes",
-      "date": "2026-07-21",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-06/Website%20Programme%20Image_21%20July%202026.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "06:00 PM",
-      "title": "Book Discussion Group-- Games Hospitals Play: Care vs Commerce",
-      "url": "https://iicdelhi.in/programmes/book-discussion-group-games-hospitals-play-care-vs-commerce",
-      "venue": "Conference Room I, IIC main"
-    },
-    {
-      "category": "Film Club",
-      "date": "2026-07-21",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_21%20July%202026%20%281%29.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "Film- Yakasi's Daughter",
-      "url": "https://iicdelhi.in/programmes/film-yakasis-daughter",
-      "venue": "C.D. Deshmukh Auditorium, IIC main"
-    },
     {
       "category": "Museum",
       "date": "2026-07-22",
@@ -506,5 +422,5 @@
       "venue": "The Stein Auditorium"
     }
   ],
-  "generated_at": "2026-07-21"
+  "generated_at": "2026-07-22"
 }

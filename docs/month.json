@@ -1,48 +1,6 @@
 {
-  "count": 9,
+  "count": 6,
   "events": [
-    {
-      "category": "Indian Classical",
-      "date": "2026-07-29",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 80,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "Aarambh",
-      "url": "https://indiahabitat.org/Events_details/1320",
-      "venue": "The Theatre"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-07-29",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 75,
-      "source": "ihc",
-      "tags": [],
-      "time": "6:00 PM",
-      "title": "(Se)Elections, Violence & State: Analysing Developments in Pakistan-Occupied Jammu & Kashmir",
-      "url": "https://indiahabitat.org/Events_details/1319",
-      "venue": "Gulmohar"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-07-29",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_29%20July%202026.png",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "The Democracy to Come-Ambedkar, Fanon, and the Time of Counter-Revolution",
-      "url": "https://iicdelhi.in/programmes/democracy-come-ambedkar-fanon-and-time-counter-revolution",
-      "venue": "Conference Room I, IIC main"
-    },
     {
       "category": "Indian Classical",
       "date": "2026-07-30",
@@ -128,5 +86,5 @@
       "venue": "The Stein Auditorium"
     }
   ],
-  "generated_at": "2026-07-21"
+  "generated_at": "2026-07-22"
 }
