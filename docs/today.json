@@ -1,5 +1,5 @@
 {
-  "count": 2,
+  "count": 5,
   "events": [
     {
       "category": "Museum",
@@ -16,19 +16,61 @@
       "venue": "Art Gallery, Kamaladevi Complex, IIC"
     },
     {
-      "category": "Film",
-      "date": "2026-07-22",
+      "category": "Book Talk",
+      "date": "2026-07-23",
       "description": "",
       "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-06/Website%20Programme%20Image_22%20July%202026_1.jpg",
-      "score": 55,
+      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_23%20July%202026_1.jpg",
+      "score": 75,
       "source": "iic",
       "tags": [],
-      "time": "06:30 PM",
-      "title": "Film- Remembering the Self - A Meditative Journey",
-      "url": "https://iicdelhi.in/programmes/film-remembering-self-meditative-journey",
+      "time": "03:30 PM",
+      "title": "Climate Change and Sustainability",
+      "url": "https://iicdelhi.in/programmes/climate-change-and-sustainability",
+      "venue": "Seminar Rooms 1,2,3"
+    },
+    {
+      "category": "Book Talk",
+      "date": "2026-07-23",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 75,
+      "source": "ihc",
+      "tags": [],
+      "time": "7:00 PM",
+      "title": "IHC - ICPR Study Circle, Lecture Series.",
+      "url": "https://indiahabitat.org/Events_details/1312",
+      "venue": "Gulmohar"
+    },
+    {
+      "category": "Dance",
+      "date": "2026-07-23",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 70,
+      "source": "ihc",
+      "tags": [],
+      "time": "7:00 PM",
+      "title": "Samhita: A Classical Journey",
+      "url": "https://indiahabitat.org/Events_details/1311",
+      "venue": "The Stein Auditorium"
+    },
+    {
+      "category": "Cultural",
+      "date": "2026-07-23",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_23%20July%202026.jpg",
+      "score": 50,
+      "source": "iic",
+      "tags": [],
+      "time": "06:00 PM",
+      "title": "IIC Double Bill :Dance  Recitals",
+      "url": "https://iicdelhi.in/programmes/iic-double-bill-dance-recitals-20",
       "venue": "C.D. Deshmukh Auditorium, IIC main"
     }
   ],
-  "generated_at": "2026-07-22"
+  "generated_at": "2026-07-23"
 }

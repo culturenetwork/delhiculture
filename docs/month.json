@@ -1,20 +1,6 @@
 {
-  "count": 6,
+  "count": 4,
   "events": [
-    {
-      "category": "Indian Classical",
-      "date": "2026-07-30",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 80,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "Austrian Musical Heritage: Piano Recital",
-      "url": "https://indiahabitat.org/Events_details/1321",
-      "venue": "The Stein Auditorium"
-    },
     {
       "category": "Dance",
       "date": "2026-07-31",
@@ -28,20 +14,6 @@
       "title": "Bharatanatyam Margam",
       "url": "https://indiahabitat.org/Events_details/1322",
       "venue": "The Stein Auditorium"
-    },
-    {
-      "category": "Library Programmes",
-      "date": "2026-07-31",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-06/Website%20Programme%20Image_31%20July%202026.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "06:00 PM",
-      "title": "BOOK DISCUSSION GROUP-  Indigenized/ Tribalized: Poems",
-      "url": "https://iicdelhi.in/programmes/book-discussion-group-indigenized-tribalized-poems",
-      "venue": "Conference Room II, IIC main"
     },
     {
       "category": "Cultural",
@@ -86,5 +58,5 @@
       "venue": "The Stein Auditorium"
     }
   ],
-  "generated_at": "2026-07-22"
+  "generated_at": "2026-07-23"
 }
