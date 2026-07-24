@@ -1,32 +1,18 @@
 {
-  "count": 4,
+  "count": 3,
   "events": [
     {
-      "category": "Dance",
-      "date": "2026-07-31",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 70,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "Bharatanatyam Margam",
-      "url": "https://indiahabitat.org/Events_details/1322",
-      "venue": "The Stein Auditorium"
-    },
-    {
       "category": "Cultural",
-      "date": "2026-07-31",
+      "date": "2026-08-01",
       "description": "",
       "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-06/Website%20Programme%20Image_31%20July%202026_1.jpg",
+      "image": "https://aws-static.iicdelhi.in/2026-07/WhatsApp%20Image%202026-07-23%20at%2011.46.21%20AM.jpeg",
       "score": 50,
       "source": "iic",
       "tags": [],
-      "time": "06:30 PM",
-      "title": "Twamaham Vande",
-      "url": "https://iicdelhi.in/programmes/twamaham-vande",
+      "time": "06:00 PM",
+      "title": "Nar-Hari: 6 Verses from Shri Guru Granth Sahib & Panchvani",
+      "url": "https://iicdelhi.in/programmes/nar-hari-6-verses-shri-guru-granth-sahib-panchvani",
       "venue": "C.D. Deshmukh Auditorium, IIC main"
     },
     {
@@ -58,5 +44,5 @@
       "venue": "The Stein Auditorium"
     }
   ],
-  "generated_at": "2026-07-23"
+  "generated_at": "2026-07-24"
 }

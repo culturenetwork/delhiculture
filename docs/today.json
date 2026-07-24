@@ -16,36 +16,36 @@
       "venue": "Art Gallery, Kamaladevi Complex, IIC"
     },
     {
+      "category": "Museum",
+      "date": "2026-07-24",
+      "description": "",
+      "end_date": "2026-07-29",
+      "image": null,
+      "score": 85,
+      "source": "bikanerhouse",
+      "tags": [],
+      "time": null,
+      "title": "Mirrors: Distance Between Worlds",
+      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/7",
+      "venue": "Bikaner House"
+    },
+    {
       "category": "Book Talk",
-      "date": "2026-07-23",
+      "date": "2026-07-24",
       "description": "",
       "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_23%20July%202026_1.jpg",
+      "image": "https://aws-static.iicdelhi.in/2026-06/Website%20Programme%20Image_24%20July%202026%20%281%29.jpg",
       "score": 75,
       "source": "iic",
       "tags": [],
-      "time": "03:30 PM",
-      "title": "Climate Change and Sustainability",
-      "url": "https://iicdelhi.in/programmes/climate-change-and-sustainability",
-      "venue": "Seminar Rooms 1,2,3"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-07-23",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 75,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "IHC - ICPR Study Circle, Lecture Series.",
-      "url": "https://indiahabitat.org/Events_details/1312",
-      "venue": "Gulmohar"
+      "time": "06:30 PM",
+      "title": "MUSIC APPRECIATION PROMOTION",
+      "url": "https://iicdelhi.in/programmes/music-appreciation-promotion-355",
+      "venue": "Lecture Room II, IIC Annexe"
     },
     {
       "category": "Dance",
-      "date": "2026-07-23",
+      "date": "2026-07-24",
       "description": "",
       "end_date": null,
       "image": null,
@@ -53,24 +53,24 @@
       "source": "ihc",
       "tags": [],
       "time": "7:00 PM",
-      "title": "Samhita: A Classical Journey",
-      "url": "https://indiahabitat.org/Events_details/1311",
+      "title": "Nrutyaarpana: Devotion Through Dance",
+      "url": "https://indiahabitat.org/Events_details/1314",
       "venue": "The Stein Auditorium"
     },
     {
-      "category": "Cultural",
-      "date": "2026-07-23",
+      "category": "Film",
+      "date": "2026-07-24",
       "description": "",
       "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_23%20July%202026.jpg",
-      "score": 50,
-      "source": "iic",
+      "image": null,
+      "score": 55,
+      "source": "ihc",
       "tags": [],
-      "time": "06:00 PM",
-      "title": "IIC Double Bill :Dance  Recitals",
-      "url": "https://iicdelhi.in/programmes/iic-double-bill-dance-recitals-20",
-      "venue": "C.D. Deshmukh Auditorium, IIC main"
+      "time": "7:00 PM",
+      "title": "Pehli Tareekh & Memories of a Kiss",
+      "url": "https://indiahabitat.org/Events_details/1313",
+      "venue": "Gulmohar"
     }
   ],
-  "generated_at": "2026-07-23"
+  "generated_at": "2026-07-24"
 }

@@ -1,62 +1,6 @@
 {
-  "count": 19,
+  "count": 18,
   "events": [
-    {
-      "category": "Museum",
-      "date": "2026-07-24",
-      "description": "",
-      "end_date": "2026-07-29",
-      "image": null,
-      "score": 85,
-      "source": "bikanerhouse",
-      "tags": [],
-      "time": null,
-      "title": "Mirrors: Distance Between Worlds",
-      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/7",
-      "venue": "Bikaner House"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-07-24",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-06/Website%20Programme%20Image_24%20July%202026%20%281%29.jpg",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "MUSIC APPRECIATION PROMOTION",
-      "url": "https://iicdelhi.in/programmes/music-appreciation-promotion-355",
-      "venue": "Lecture Room II, IIC Annexe"
-    },
-    {
-      "category": "Dance",
-      "date": "2026-07-24",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 70,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "Nrutyaarpana: Devotion Through Dance",
-      "url": "https://indiahabitat.org/Events_details/1314",
-      "venue": "The Stein Auditorium"
-    },
-    {
-      "category": "Film",
-      "date": "2026-07-24",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 55,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "Pehli Tareekh & Memories of a Kiss",
-      "url": "https://indiahabitat.org/Events_details/1313",
-      "venue": "Gulmohar"
-    },
     {
       "category": "Indian Classical",
       "date": "2026-07-25",
@@ -266,7 +210,49 @@
       "title": "Austrian Musical Heritage: Piano Recital",
       "url": "https://indiahabitat.org/Events_details/1321",
       "venue": "The Stein Auditorium"
+    },
+    {
+      "category": "Dance",
+      "date": "2026-07-31",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 70,
+      "source": "ihc",
+      "tags": [],
+      "time": "7:00 PM",
+      "title": "Bharatanatyam Margam",
+      "url": "https://indiahabitat.org/Events_details/1322",
+      "venue": "The Stein Auditorium"
+    },
+    {
+      "category": "Library Programmes",
+      "date": "2026-07-31",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-06/Website%20Programme%20Image_31%20July%202026.jpg",
+      "score": 50,
+      "source": "iic",
+      "tags": [],
+      "time": "06:00 PM",
+      "title": "BOOK DISCUSSION GROUP- Stories Carved in Stone Voices Rooted in Earth  Silent Walls, Speaking Stones & Indigenized/ Tribalized: Poems",
+      "url": "https://iicdelhi.in/programmes/book-discussion-group-stories-carved-stone-voices-rooted-earth-silent-walls-speaking",
+      "venue": "Conference Room II, IIC main"
+    },
+    {
+      "category": "Cultural",
+      "date": "2026-07-31",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-06/Website%20Programme%20Image_31%20July%202026_1.jpg",
+      "score": 50,
+      "source": "iic",
+      "tags": [],
+      "time": "06:30 PM",
+      "title": "Twamaham Vande",
+      "url": "https://iicdelhi.in/programmes/twamaham-vande",
+      "venue": "C.D. Deshmukh Auditorium, IIC main"
     }
   ],
-  "generated_at": "2026-07-23"
+  "generated_at": "2026-07-24"
 }

@@ -1,5 +1,5 @@
 {
-  "count": 28,
+  "count": 26,
   "events": [
     {
       "category": "Museum",
@@ -14,62 +14,6 @@
       "title": "Exhibition- UNSUNG: Celebrating the Extraordinary Grandeur of Smallness",
       "url": "https://iicdelhi.in/programmes/exhibition-unsung-celebrating-extraordinary-grandeur-smallness",
       "venue": "Art Gallery, Kamaladevi Complex, IIC"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-07-23",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_23%20July%202026_1.jpg",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
-      "time": "03:30 PM",
-      "title": "Climate Change and Sustainability",
-      "url": "https://iicdelhi.in/programmes/climate-change-and-sustainability",
-      "venue": "Seminar Rooms 1,2,3"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-07-23",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 75,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "IHC - ICPR Study Circle, Lecture Series.",
-      "url": "https://indiahabitat.org/Events_details/1312",
-      "venue": "Gulmohar"
-    },
-    {
-      "category": "Dance",
-      "date": "2026-07-23",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 70,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "Samhita: A Classical Journey",
-      "url": "https://indiahabitat.org/Events_details/1311",
-      "venue": "The Stein Auditorium"
-    },
-    {
-      "category": "Cultural",
-      "date": "2026-07-23",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_23%20July%202026.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "06:00 PM",
-      "title": "IIC Double Bill :Dance  Recitals",
-      "url": "https://iicdelhi.in/programmes/iic-double-bill-dance-recitals-20",
-      "venue": "C.D. Deshmukh Auditorium, IIC main"
     },
     {
       "category": "Museum",
@@ -352,6 +296,20 @@
       "venue": "The Stein Auditorium"
     },
     {
+      "category": "Library Programmes",
+      "date": "2026-07-31",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-06/Website%20Programme%20Image_31%20July%202026.jpg",
+      "score": 50,
+      "source": "iic",
+      "tags": [],
+      "time": "06:00 PM",
+      "title": "BOOK DISCUSSION GROUP- Stories Carved in Stone Voices Rooted in Earth  Silent Walls, Speaking Stones & Indigenized/ Tribalized: Poems",
+      "url": "https://iicdelhi.in/programmes/book-discussion-group-stories-carved-stone-voices-rooted-earth-silent-walls-speaking",
+      "venue": "Conference Room II, IIC main"
+    },
+    {
       "category": "Cultural",
       "date": "2026-07-31",
       "description": "",
@@ -363,6 +321,20 @@
       "time": "06:30 PM",
       "title": "Twamaham Vande",
       "url": "https://iicdelhi.in/programmes/twamaham-vande",
+      "venue": "C.D. Deshmukh Auditorium, IIC main"
+    },
+    {
+      "category": "Cultural",
+      "date": "2026-08-01",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-07/WhatsApp%20Image%202026-07-23%20at%2011.46.21%20AM.jpeg",
+      "score": 50,
+      "source": "iic",
+      "tags": [],
+      "time": "06:00 PM",
+      "title": "Nar-Hari: 6 Verses from Shri Guru Granth Sahib & Panchvani",
+      "url": "https://iicdelhi.in/programmes/nar-hari-6-verses-shri-guru-granth-sahib-panchvani",
       "venue": "C.D. Deshmukh Auditorium, IIC main"
     },
     {
@@ -394,5 +366,5 @@
       "venue": "The Stein Auditorium"
     }
   ],
-  "generated_at": "2026-07-23"
+  "generated_at": "2026-07-24"
 }
