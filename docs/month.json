@@ -1,20 +1,6 @@
 {
-  "count": 3,
+  "count": 2,
   "events": [
-    {
-      "category": "Cultural",
-      "date": "2026-08-01",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-07/WhatsApp%20Image%202026-07-23%20at%2011.46.21%20AM.jpeg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "06:00 PM",
-      "title": "Nar-Hari: 6 Verses from Shri Guru Granth Sahib & Panchvani",
-      "url": "https://iicdelhi.in/programmes/nar-hari-6-verses-shri-guru-granth-sahib-panchvani",
-      "venue": "C.D. Deshmukh Auditorium, IIC main"
-    },
     {
       "category": "Indian Classical",
       "date": "2026-08-08",
@@ -44,5 +30,5 @@
       "venue": "The Stein Auditorium"
     }
   ],
-  "generated_at": "2026-07-24"
+  "generated_at": "2026-07-25"
 }
