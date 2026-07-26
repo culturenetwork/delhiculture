@@ -1,5 +1,5 @@
 {
-  "count": 23,
+  "count": 19,
   "events": [
     {
       "category": "Museum",
@@ -28,62 +28,6 @@
       "title": "Mirrors: Distance Between Worlds",
       "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/7",
       "venue": "Bikaner House"
-    },
-    {
-      "category": "Indian Classical",
-      "date": "2026-07-25",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 80,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "Rongaloyer Robi",
-      "url": "https://indiahabitat.org/Events_details/1325",
-      "venue": "The Theatre"
-    },
-    {
-      "category": "Film",
-      "date": "2026-07-25",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 55,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "Raghu Rai—An Unframed Portrait",
-      "url": "https://indiahabitat.org/Events_details/1316",
-      "venue": "Gulmohar"
-    },
-    {
-      "category": "Library Programmes",
-      "date": "2026-07-25",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-06/Website%20Programme%20Image_25%20July%202026.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "BOOK DISCUSSION GROUP  -Speaking Sculptures: Karanas in Kathak",
-      "url": "https://iicdelhi.in/programmes/book-discussion-group-speaking-sculptures-karanas-kathak",
-      "venue": "C.D. Deshmukh Auditorium, IIC main"
-    },
-    {
-      "category": "Film & Talk",
-      "date": "2026-07-25",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 50,
-      "source": "ihc",
-      "tags": [],
-      "time": "6:00 PM",
-      "title": "Trans-Himalayas: Sanctuary of Buddhism",
-      "url": "https://indiahabitat.org/Events_details/1315",
-      "venue": "Online"
     },
     {
       "category": "Museum",
@@ -324,5 +268,5 @@
       "venue": "The Stein Auditorium"
     }
   ],
-  "generated_at": "2026-07-25"
+  "generated_at": "2026-07-26"
 }
