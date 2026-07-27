@@ -1,5 +1,5 @@
 {
-  "count": 19,
+  "count": 18,
   "events": [
     {
       "category": "Museum",
@@ -42,20 +42,6 @@
       "title": "Exhibition- Flux of Being",
       "url": "https://iicdelhi.in/programmes/exhibition-flux-being",
       "venue": "Art Gallery, IIC Annexe"
-    },
-    {
-      "category": "Film & Theatre",
-      "date": "2026-07-26",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 50,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "The Playboy of the Western World",
-      "url": "https://indiahabitat.org/Events_details/1317",
-      "venue": "The Stein Auditorium"
     },
     {
       "category": "Theatre",
@@ -268,5 +254,5 @@
       "venue": "The Stein Auditorium"
     }
   ],
-  "generated_at": "2026-07-26"
+  "generated_at": "2026-07-27"
 }
