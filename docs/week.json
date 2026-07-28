@@ -1,34 +1,6 @@
 {
-  "count": 10,
+  "count": 11,
   "events": [
-    {
-      "category": "Book Talk",
-      "date": "2026-07-28",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_28%20July%202026_1.jpg",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "AAJ KAVITA",
-      "url": "https://iicdelhi.in/programmes/aaj-kavita-48",
-      "venue": "Lecture Room II, IIC Annexe"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-07-28",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-06/Website%20Programme%20Image_28%20July%202026%20%281%29.jpg",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "INDIAN ARCHAEOLOGY",
-      "url": "https://iicdelhi.in/programmes/indian-archaeology-150",
-      "venue": "Conference Room II, IIC main"
-    },
     {
       "category": "Indian Classical",
       "date": "2026-07-29",
@@ -72,6 +44,34 @@
       "venue": "Conference Room I, IIC main"
     },
     {
+      "category": "Museum",
+      "date": "2026-07-30",
+      "description": "",
+      "end_date": "2026-08-02",
+      "image": null,
+      "score": 85,
+      "source": "bikanerhouse",
+      "tags": [],
+      "time": null,
+      "title": "The Screaming Cavases",
+      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/7",
+      "venue": "Bikaner House"
+    },
+    {
+      "category": "Museum",
+      "date": "2026-07-30",
+      "description": "",
+      "end_date": "2026-08-02",
+      "image": null,
+      "score": 85,
+      "source": "bikanerhouse",
+      "tags": [],
+      "time": null,
+      "title": "The Shifting of Silence",
+      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/7",
+      "venue": "Bikaner House"
+    },
+    {
       "category": "Indian Classical",
       "date": "2026-07-30",
       "description": "",
@@ -98,6 +98,20 @@
       "title": "Bharatanatyam Margam",
       "url": "https://indiahabitat.org/Events_details/1322",
       "venue": "The Stein Auditorium"
+    },
+    {
+      "category": "Seminars",
+      "date": "2026-07-31",
+      "description": "",
+      "end_date": null,
+      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "score": 50,
+      "source": "iic",
+      "tags": [],
+      "time": "09:00 AM",
+      "title": "3rd All India Conference of East Asian Studies",
+      "url": "https://iicdelhi.in/programmes/3rd-all-india-conference-east-asian-studies",
+      "venue": "Conference Room I, IIC main"
     },
     {
       "category": "Library Programmes",
@@ -132,15 +146,15 @@
       "date": "2026-08-01",
       "description": "",
       "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-07/WhatsApp%20Image%202026-07-23%20at%2011.46.21%20AM.jpeg",
+      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
       "score": 50,
       "source": "iic",
       "tags": [],
       "time": "06:00 PM",
       "title": "Nar-Hari: 6 Verses from Shri Guru Granth Sahib & Panchvani",
-      "url": "https://iicdelhi.in/programmes/nar-hari-6-verses-shri-guru-granth-sahib-panchvani",
+      "url": "https://iicdelhi.in/programmes/nar-hari-6-verses-shri-guru-granth-sahib-panchvani-0",
       "venue": "C.D. Deshmukh Auditorium, IIC main"
     }
   ],
-  "generated_at": "2026-07-27"
+  "generated_at": "2026-07-28"
 }
