@@ -1,5 +1,5 @@
 {
-  "count": 5,
+  "count": 6,
   "events": [
     {
       "category": "Museum",
@@ -44,33 +44,47 @@
       "venue": "Art Gallery, IIC Annexe"
     },
     {
-      "category": "Book Talk",
-      "date": "2026-07-28",
+      "category": "Indian Classical",
+      "date": "2026-07-29",
       "description": "",
       "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_28%20July%202026_1.jpg",
-      "score": 75,
-      "source": "iic",
+      "image": null,
+      "score": 80,
+      "source": "ihc",
       "tags": [],
-      "time": "06:30 PM",
-      "title": "AAJ KAVITA",
-      "url": "https://iicdelhi.in/programmes/aaj-kavita-48",
-      "venue": "Lecture Room II, IIC Annexe"
+      "time": "7:00 PM",
+      "title": "Aarambh",
+      "url": "https://indiahabitat.org/Events_details/1320",
+      "venue": "The Theatre"
     },
     {
       "category": "Book Talk",
-      "date": "2026-07-28",
+      "date": "2026-07-29",
       "description": "",
       "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-06/Website%20Programme%20Image_28%20July%202026%20%281%29.jpg",
+      "image": null,
+      "score": 75,
+      "source": "ihc",
+      "tags": [],
+      "time": "6:00 PM",
+      "title": "(Se)Elections, Violence & State: Analysing Developments in Pakistan-Occupied Jammu & Kashmir",
+      "url": "https://indiahabitat.org/Events_details/1319",
+      "venue": "Gulmohar"
+    },
+    {
+      "category": "Book Talk",
+      "date": "2026-07-29",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_29%20July%202026.png",
       "score": 75,
       "source": "iic",
       "tags": [],
       "time": "06:30 PM",
-      "title": "INDIAN ARCHAEOLOGY",
-      "url": "https://iicdelhi.in/programmes/indian-archaeology-150",
-      "venue": "Conference Room II, IIC main"
+      "title": "The Democracy to Come-Ambedkar, Fanon, and the Time of Counter-Revolution",
+      "url": "https://iicdelhi.in/programmes/democracy-come-ambedkar-fanon-and-time-counter-revolution",
+      "venue": "Conference Room I, IIC main"
     }
   ],
-  "generated_at": "2026-07-28"
+  "generated_at": "2026-07-29"
 }
