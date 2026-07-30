@@ -1,5 +1,5 @@
 {
-  "count": 6,
+  "count": 5,
   "events": [
     {
       "category": "Museum",
@@ -17,20 +17,6 @@
     },
     {
       "category": "Museum",
-      "date": "2026-07-24",
-      "description": "",
-      "end_date": "2026-07-29",
-      "image": null,
-      "score": 85,
-      "source": "bikanerhouse",
-      "tags": [],
-      "time": null,
-      "title": "Mirrors: Distance Between Worlds",
-      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/7",
-      "venue": "Bikaner House"
-    },
-    {
-      "category": "Museum",
       "date": "2026-07-26",
       "description": "A Solo Exhibition by Ravi Kant Jha, National award-winning artist, his practice investigates themes of consciousness, memory, and transformation.",
       "end_date": "2026-08-02",
@@ -44,8 +30,36 @@
       "venue": "Art Gallery, IIC Annexe"
     },
     {
+      "category": "Museum",
+      "date": "2026-07-30",
+      "description": "",
+      "end_date": "2026-08-02",
+      "image": null,
+      "score": 85,
+      "source": "bikanerhouse",
+      "tags": [],
+      "time": null,
+      "title": "The Screaming Cavases",
+      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/7",
+      "venue": "Bikaner House"
+    },
+    {
+      "category": "Museum",
+      "date": "2026-07-30",
+      "description": "",
+      "end_date": "2026-08-02",
+      "image": null,
+      "score": 85,
+      "source": "bikanerhouse",
+      "tags": [],
+      "time": null,
+      "title": "The Shifting of Silence",
+      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/7",
+      "venue": "Bikaner House"
+    },
+    {
       "category": "Indian Classical",
-      "date": "2026-07-29",
+      "date": "2026-07-30",
       "description": "",
       "end_date": null,
       "image": null,
@@ -53,38 +67,10 @@
       "source": "ihc",
       "tags": [],
       "time": "7:00 PM",
-      "title": "Aarambh",
-      "url": "https://indiahabitat.org/Events_details/1320",
-      "venue": "The Theatre"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-07-29",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 75,
-      "source": "ihc",
-      "tags": [],
-      "time": "6:00 PM",
-      "title": "(Se)Elections, Violence & State: Analysing Developments in Pakistan-Occupied Jammu & Kashmir",
-      "url": "https://indiahabitat.org/Events_details/1319",
-      "venue": "Gulmohar"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-07-29",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_29%20July%202026.png",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "The Democracy to Come-Ambedkar, Fanon, and the Time of Counter-Revolution",
-      "url": "https://iicdelhi.in/programmes/democracy-come-ambedkar-fanon-and-time-counter-revolution",
-      "venue": "Conference Room I, IIC main"
+      "title": "Austrian Musical Heritage: Piano Recital",
+      "url": "https://indiahabitat.org/Events_details/1321",
+      "venue": "The Stein Auditorium"
     }
   ],
-  "generated_at": "2026-07-29"
+  "generated_at": "2026-07-30"
 }

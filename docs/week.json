@@ -1,48 +1,6 @@
 {
-  "count": 25,
+  "count": 27,
   "events": [
-    {
-      "category": "Museum",
-      "date": "2026-07-30",
-      "description": "",
-      "end_date": "2026-08-02",
-      "image": null,
-      "score": 85,
-      "source": "bikanerhouse",
-      "tags": [],
-      "time": null,
-      "title": "The Screaming Cavases",
-      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/7",
-      "venue": "Bikaner House"
-    },
-    {
-      "category": "Museum",
-      "date": "2026-07-30",
-      "description": "",
-      "end_date": "2026-08-02",
-      "image": null,
-      "score": 85,
-      "source": "bikanerhouse",
-      "tags": [],
-      "time": null,
-      "title": "The Shifting of Silence",
-      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/7",
-      "venue": "Bikaner House"
-    },
-    {
-      "category": "Indian Classical",
-      "date": "2026-07-30",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 80,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "Austrian Musical Heritage: Piano Recital",
-      "url": "https://indiahabitat.org/Events_details/1321",
-      "venue": "The Stein Auditorium"
-    },
     {
       "category": "Dance",
       "date": "2026-07-31",
@@ -62,7 +20,7 @@
       "date": "2026-07-31",
       "description": "",
       "end_date": null,
-      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_31%20July%202026_3_0.jpg",
       "score": 50,
       "source": "iic",
       "tags": [],
@@ -100,6 +58,20 @@
       "venue": "C.D. Deshmukh Auditorium, IIC main"
     },
     {
+      "category": "Museum",
+      "date": "2026-08-01",
+      "description": "",
+      "end_date": "2026-08-02",
+      "image": null,
+      "score": 85,
+      "source": "bikanerhouse",
+      "tags": [],
+      "time": null,
+      "title": "Splendour of the Raj",
+      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/8",
+      "venue": "Bikaner House"
+    },
+    {
       "category": "Theatre",
       "date": "2026-08-01",
       "description": "",
@@ -128,11 +100,25 @@
       "venue": "Gulmohar"
     },
     {
+      "category": "Seminars",
+      "date": "2026-08-01",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_31%20July%202026_3.jpg",
+      "score": 50,
+      "source": "iic",
+      "tags": [],
+      "time": "09:00 AM",
+      "title": "3rd All India Conference of East Asian Studies (AICEAS)",
+      "url": "https://iicdelhi.in/programmes/3rd-all-india-conference-east-asian-studies-aiceas",
+      "venue": "Conference Room I, IIC main"
+    },
+    {
       "category": "Cultural",
       "date": "2026-08-01",
       "description": "",
       "end_date": null,
-      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_1%20August%202026.jpg",
       "score": 50,
       "source": "iic",
       "tags": [],
@@ -202,7 +188,7 @@
       "date": "2026-08-03",
       "description": "",
       "end_date": null,
-      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_3%20August%202026.jpg",
       "score": 75,
       "source": "iic",
       "tags": [],
@@ -268,25 +254,11 @@
       "venue": "Gulmohar"
     },
     {
-      "category": "Book Talk",
-      "date": "2026-08-04",
-      "description": "",
-      "end_date": null,
-      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "Integration-the game changer in reversing chronic diseases",
-      "url": "https://iicdelhi.in/programmes/integration-game-changer-reversing-chronic-diseases",
-      "venue": "Conference Room I, IIC main"
-    },
-    {
       "category": "Film",
       "date": "2026-08-04",
       "description": "",
       "end_date": null,
-      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_4%20August%202026_1.jpg",
       "score": 55,
       "source": "iic",
       "tags": [],
@@ -294,6 +266,20 @@
       "title": "FILM -Partners of the Heart",
       "url": "https://iicdelhi.in/programmes/film-partners-heart",
       "venue": "Lecture Room I, IIC Annexe"
+    },
+    {
+      "category": "Library Programmes",
+      "date": "2026-08-04",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_4%20August%202026_2.jpg",
+      "score": 50,
+      "source": "iic",
+      "tags": [],
+      "time": "06:00 PM",
+      "title": "BOOK DISCUSSION GROUP-  On Angels’ Wings: Beyond the Bombing of Air India 182, My Journey of Resilience and Courage By Sanjay Lazar (Author, 2026)",
+      "url": "https://iicdelhi.in/programmes/book-discussion-group-angels-wings-beyond-bombing-air-india-182-my-journey-resilience",
+      "venue": "Lecture Room II, IIC Annexe"
     },
     {
       "category": "Seminars",
@@ -314,7 +300,7 @@
       "date": "2026-08-05",
       "description": "",
       "end_date": null,
-      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_5%20August%202026.jpg",
       "score": 75,
       "source": "iic",
       "tags": [],
@@ -342,7 +328,7 @@
       "date": "2026-08-05",
       "description": "",
       "end_date": null,
-      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_5%20August%202026_1_0.jpg",
       "score": 55,
       "source": "iic",
       "tags": [],
@@ -350,7 +336,49 @@
       "title": "FILM-  Two Poets and a River",
       "url": "https://iicdelhi.in/programmes/film-two-poets-and-river",
       "venue": "Lecture Room I, IIC Annexe"
+    },
+    {
+      "category": "Museum",
+      "date": "2026-08-06",
+      "description": "Solo exhibition by Namita Prakash, visual artist and interior designer. The artist has exhibited at World Art Dubai, India Art Festival and Qatar International Art Festival",
+      "end_date": "2026-09-13",
+      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_6%20August%202026.jpg",
+      "score": 85,
+      "source": "iic",
+      "tags": [],
+      "time": "11:00 AM",
+      "title": "EXHIBITION- अंदरूनी सरहदें (Inner Frontiers)",
+      "url": "https://iicdelhi.in/programmes/exhibition-andarauunai-sarahadaen-inner-frontiers",
+      "venue": "Art Gallery, IIC Annexe"
+    },
+    {
+      "category": "Museum",
+      "date": "2026-08-06",
+      "description": "",
+      "end_date": "2026-08-13",
+      "image": null,
+      "score": 85,
+      "source": "bikanerhouse",
+      "tags": [],
+      "time": null,
+      "title": "Mool",
+      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/8",
+      "venue": "Bikaner House"
+    },
+    {
+      "category": "Cultural",
+      "date": "2026-08-06",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_6%20August%202026_1.jpg",
+      "score": 50,
+      "source": "iic",
+      "tags": [],
+      "time": "06:30 PM",
+      "title": "Afsaana Hui Shaam: Dramatized reading of short stories of Begum Masroor Jahan",
+      "url": "https://iicdelhi.in/programmes/afsaana-hui-shaam-dramatized-reading-short-stories-begum-masroor-jahan",
+      "venue": "C.D. Deshmukh Auditorium, IIC main"
     }
   ],
-  "generated_at": "2026-07-29"
+  "generated_at": "2026-07-30"
 }
