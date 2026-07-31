@@ -1,62 +1,6 @@
 {
-  "count": 61,
+  "count": 60,
   "events": [
-    {
-      "category": "Museum",
-      "date": "2026-08-07",
-      "description": "",
-      "end_date": "2026-08-13",
-      "image": null,
-      "score": 85,
-      "source": "bikanerhouse",
-      "tags": [],
-      "time": null,
-      "title": "(Re)claiming Rights of Render(ing)",
-      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/8",
-      "venue": "Bikaner House"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-08-07",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_7%20August%202026_2.jpg",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "Sculptor's Lens: Isamu Noguchi and Premodern India",
-      "url": "https://iicdelhi.in/programmes/sculptors-lens-isamu-noguchi-and-premodern-india",
-      "venue": "Conference Room I, IIC main"
-    },
-    {
-      "category": "Library Programmes",
-      "date": "2026-08-07",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_7%20August%202026_1.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "06:00 PM",
-      "title": "BOOK DISCUSSION GROUP-  Raag Darbari: Polity as Fiction, Fiction as Reality",
-      "url": "https://iicdelhi.in/programmes/book-discussion-group-raag-darbari-polity-fiction-fiction-reality",
-      "venue": "Conference Room II, IIC main"
-    },
-    {
-      "category": "Cultural",
-      "date": "2026-08-07",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_7%20August%202026.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "Raseedi Ticket – A Journey into the Soul of Amrita Pritam",
-      "url": "https://iicdelhi.in/programmes/raseedi-ticket-journey-soul-amrita-pritam",
-      "venue": "C.D. Deshmukh Auditorium, IIC main"
-    },
     {
       "category": "Indian Classical",
       "date": "2026-08-08",
@@ -238,6 +182,20 @@
       "title": "BOOK DISCUSSION GROUP  -The Unbecoming: Let Life Reveal its Purpose",
       "url": "https://iicdelhi.in/programmes/book-discussion-group-unbecoming-let-life-reveal-its-purpose",
       "venue": "Lecture Room II, IIC Annexe"
+    },
+    {
+      "category": "Book Talk",
+      "date": "2026-08-13",
+      "description": "The eighth talk in the Living Landscapes series (conceptualised by Anuj Srivastava), re-examining our relationship with nature and the built environment. A talk by artist and conservationist Arun Kumar HG on learning from the ecosystems of the Western Ghats, followed by a panel discussion with Vijay Dhasmana (ecological restoration), ecologist and author Ghazala Shahabuddin, and Anuj Srivastava.",
+      "end_date": null,
+      "image": "images/events/art-as-ecology.jpg",
+      "score": 75,
+      "source": "iic",
+      "tags": [],
+      "time": "06:30 PM",
+      "title": "Art as Ecology: Learning from the Ecosystems of the Western Ghats",
+      "url": "https://iicdelhi.in/programmes/current",
+      "venue": "Conference Room 1, IIC main"
     },
     {
       "category": "Book Talk",
@@ -854,7 +812,35 @@
       "title": "Parabola of Dance - Performance & Process 2026",
       "url": "https://indiahabitat.org/Events_details/1369",
       "venue": "The Stein Auditorium"
+    },
+    {
+      "category": "Indian Classical",
+      "date": "2026-08-30",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 80,
+      "source": "ihc",
+      "tags": [],
+      "time": "7:00 PM",
+      "title": "VANDE MATARAM: BHARAT VANDAN",
+      "url": "https://indiahabitat.org/Events_details/1370",
+      "venue": "The Theatre"
+    },
+    {
+      "category": "Dance",
+      "date": "2026-08-30",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 70,
+      "source": "ihc",
+      "tags": [],
+      "time": "7:30 PM",
+      "title": "Hansika: An Adaptation of Swan Lake",
+      "url": "https://indiahabitat.org/Events_details/1371",
+      "venue": "The Stein Auditorium"
     }
   ],
-  "generated_at": "2026-07-30"
+  "generated_at": "2026-07-31"
 }

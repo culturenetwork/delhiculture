@@ -58,20 +58,6 @@
       "venue": "Bikaner House"
     },
     {
-      "category": "Indian Classical",
-      "date": "2026-07-30",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 80,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "Austrian Musical Heritage: Piano Recital",
-      "url": "https://indiahabitat.org/Events_details/1321",
-      "venue": "The Stein Auditorium"
-    },
-    {
       "category": "Dance",
       "date": "2026-07-31",
       "description": "",
@@ -324,6 +310,20 @@
       "venue": "Gulmohar"
     },
     {
+      "category": "Book Talk",
+      "date": "2026-08-04",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_4%20August%202026.jpg",
+      "score": 75,
+      "source": "iic",
+      "tags": [],
+      "time": "06:30 PM",
+      "title": "Integration-the game changer in reversing chronic diseases",
+      "url": "https://iicdelhi.in/programmes/integration-game-changer-reversing-chronic-diseases",
+      "venue": "Conference Room I, IIC main"
+    },
+    {
       "category": "Film",
       "date": "2026-08-04",
       "description": "",
@@ -336,20 +336,6 @@
       "title": "FILM -Partners of the Heart",
       "url": "https://iicdelhi.in/programmes/film-partners-heart",
       "venue": "Lecture Room I, IIC Annexe"
-    },
-    {
-      "category": "Library Programmes",
-      "date": "2026-08-04",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_4%20August%202026_2.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "06:00 PM",
-      "title": "BOOK DISCUSSION GROUP-  On Angels’ Wings: Beyond the Bombing of Air India 182, My Journey of Resilience and Courage By Sanjay Lazar (Author, 2026)",
-      "url": "https://iicdelhi.in/programmes/book-discussion-group-angels-wings-beyond-bombing-air-india-182-my-journey-resilience",
-      "venue": "Lecture Room II, IIC Annexe"
     },
     {
       "category": "Seminars",
@@ -686,6 +672,20 @@
       "title": "BOOK DISCUSSION GROUP  -The Unbecoming: Let Life Reveal its Purpose",
       "url": "https://iicdelhi.in/programmes/book-discussion-group-unbecoming-let-life-reveal-its-purpose",
       "venue": "Lecture Room II, IIC Annexe"
+    },
+    {
+      "category": "Book Talk",
+      "date": "2026-08-13",
+      "description": "The eighth talk in the Living Landscapes series (conceptualised by Anuj Srivastava), re-examining our relationship with nature and the built environment. A talk by artist and conservationist Arun Kumar HG on learning from the ecosystems of the Western Ghats, followed by a panel discussion with Vijay Dhasmana (ecological restoration), ecologist and author Ghazala Shahabuddin, and Anuj Srivastava.",
+      "end_date": null,
+      "image": "images/events/art-as-ecology.jpg",
+      "score": 75,
+      "source": "iic",
+      "tags": [],
+      "time": "06:30 PM",
+      "title": "Art as Ecology: Learning from the Ecosystems of the Western Ghats",
+      "url": "https://iicdelhi.in/programmes/current",
+      "venue": "Conference Room 1, IIC main"
     },
     {
       "category": "Book Talk",
@@ -1402,5 +1402,5 @@
       "venue": "Art Gallery, Kamaladevi Complex, IIC"
     }
   ],
-  "generated_at": "2026-07-30"
+  "generated_at": "2026-07-31"
 }

@@ -1,5 +1,5 @@
 {
-  "count": 5,
+  "count": 8,
   "events": [
     {
       "category": "Museum",
@@ -58,19 +58,61 @@
       "venue": "Bikaner House"
     },
     {
-      "category": "Indian Classical",
-      "date": "2026-07-30",
+      "category": "Dance",
+      "date": "2026-07-31",
       "description": "",
       "end_date": null,
       "image": null,
-      "score": 80,
+      "score": 70,
       "source": "ihc",
       "tags": [],
       "time": "7:00 PM",
-      "title": "Austrian Musical Heritage: Piano Recital",
-      "url": "https://indiahabitat.org/Events_details/1321",
+      "title": "Bharatanatyam Margam",
+      "url": "https://indiahabitat.org/Events_details/1322",
       "venue": "The Stein Auditorium"
+    },
+    {
+      "category": "Seminars",
+      "date": "2026-07-31",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_31%20July%202026_3_0.jpg",
+      "score": 50,
+      "source": "iic",
+      "tags": [],
+      "time": "09:00 AM",
+      "title": "3rd All India Conference of East Asian Studies",
+      "url": "https://iicdelhi.in/programmes/3rd-all-india-conference-east-asian-studies",
+      "venue": "Conference Room I, IIC main"
+    },
+    {
+      "category": "Library Programmes",
+      "date": "2026-07-31",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-07/WhatsApp%20Image%202026-07-23%20at%203.09.59%20PM.jpeg",
+      "score": 50,
+      "source": "iic",
+      "tags": [],
+      "time": "06:00 PM",
+      "title": "BOOK DISCUSSION GROUP- Stories Carved in Stone Voices Rooted in Earth  Silent Walls, Speaking Stones & Indigenized/ Tribalized: Poems",
+      "url": "https://iicdelhi.in/programmes/book-discussion-group-stories-carved-stone-voices-rooted-earth-silent-walls-speaking",
+      "venue": "Conference Room II, IIC main"
+    },
+    {
+      "category": "Cultural",
+      "date": "2026-07-31",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-06/Website%20Programme%20Image_31%20July%202026_1.jpg",
+      "score": 50,
+      "source": "iic",
+      "tags": [],
+      "time": "06:30 PM",
+      "title": "Twamaham Vande",
+      "url": "https://iicdelhi.in/programmes/twamaham-vande",
+      "venue": "C.D. Deshmukh Auditorium, IIC main"
     }
   ],
-  "generated_at": "2026-07-30"
+  "generated_at": "2026-07-31"
 }
