@@ -1,76 +1,6 @@
 {
-  "count": 27,
+  "count": 25,
   "events": [
-    {
-      "category": "Museum",
-      "date": "2026-08-01",
-      "description": "",
-      "end_date": "2026-08-02",
-      "image": null,
-      "score": 85,
-      "source": "bikanerhouse",
-      "tags": [],
-      "time": null,
-      "title": "Splendour of the Raj",
-      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/8",
-      "venue": "Bikaner House"
-    },
-    {
-      "category": "Theatre",
-      "date": "2026-08-01",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 65,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:30 PM",
-      "title": "The Big Fat City",
-      "url": "https://indiahabitat.org/Events_details/1329",
-      "venue": "The Stein Auditorium"
-    },
-    {
-      "category": "Film",
-      "date": "2026-08-01",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 55,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "Bhupen Da Uncut",
-      "url": "https://indiahabitat.org/Events_details/1328",
-      "venue": "Gulmohar"
-    },
-    {
-      "category": "Seminars",
-      "date": "2026-08-01",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_31%20July%202026_3.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "09:00 AM",
-      "title": "3rd All India Conference of East Asian Studies (AICEAS)",
-      "url": "https://iicdelhi.in/programmes/3rd-all-india-conference-east-asian-studies-aiceas",
-      "venue": "Conference Room I, IIC main"
-    },
-    {
-      "category": "Cultural",
-      "date": "2026-08-01",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_1%20August%202026.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "06:00 PM",
-      "title": "Nar-Hari: 6 Verses from Shri Guru Granth Sahib & Panchvani",
-      "url": "https://iicdelhi.in/programmes/nar-hari-6-verses-shri-guru-granth-sahib-panchvani-0",
-      "venue": "C.D. Deshmukh Auditorium, IIC main"
-    },
     {
       "category": "Indian Classical",
       "date": "2026-08-02",
@@ -146,7 +76,7 @@
       "date": "2026-08-03",
       "description": "",
       "end_date": null,
-      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_3%20August%202026_1.jpg",
       "score": 75,
       "source": "iic",
       "tags": [],
@@ -226,11 +156,25 @@
       "venue": "Lecture Room I, IIC Annexe"
     },
     {
+      "category": "Library Programmes",
+      "date": "2026-08-04",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_4%20August%202026_2.jpg",
+      "score": 50,
+      "source": "iic",
+      "tags": [],
+      "time": "06:00 PM",
+      "title": "BOOK DISCUSSION GROUP-  On Angels’ Wings: Beyond the Bombing of Air India 182, My Journey of Resilience and Courage By Sanjay Lazar (Author, 2026)",
+      "url": "https://iicdelhi.in/programmes/book-discussion-group-angels-wings-beyond-bombing-air-india-182-my-journey-resilience",
+      "venue": "Lecture Room II, IIC Annexe"
+    },
+    {
       "category": "Seminars",
       "date": "2026-08-04",
       "description": "",
       "end_date": null,
-      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_4%20August%202026_3.jpg",
       "score": 50,
       "source": "iic",
       "tags": [],
@@ -238,20 +182,6 @@
       "title": "Fascinating Light and Colour Phenomena in Nature",
       "url": "https://iicdelhi.in/programmes/fascinating-light-and-colour-phenomena-nature",
       "venue": "Conference Room II, IIC main"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-08-05",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_5%20August%202026.jpg",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
-      "time": "03:30 PM",
-      "title": "25TH BCF ANNUAL LECTURE",
-      "url": "https://iicdelhi.in/programmes/25th-bcf-annual-lecture",
-      "venue": "Seminar Rooms 1,2,3"
     },
     {
       "category": "Book Talk",
@@ -378,7 +308,49 @@
       "title": "Raseedi Ticket – A Journey into the Soul of Amrita Pritam",
       "url": "https://iicdelhi.in/programmes/raseedi-ticket-journey-soul-amrita-pritam",
       "venue": "C.D. Deshmukh Auditorium, IIC main"
+    },
+    {
+      "category": "Indian Classical",
+      "date": "2026-08-08",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 80,
+      "source": "ihc",
+      "tags": [],
+      "time": "7:00 PM",
+      "title": "IHC Lok Sangeet Sammelan. Day 1",
+      "url": "https://indiahabitat.org/Events_details/1326",
+      "venue": "The Stein Auditorium"
+    },
+    {
+      "category": "Book Talk",
+      "date": "2026-08-08",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_8%20August%202026_1.jpg",
+      "score": 75,
+      "source": "iic",
+      "tags": [],
+      "time": "06:30 PM",
+      "title": "MOUNTAIN DIALOGUES",
+      "url": "https://iicdelhi.in/programmes/mountain-dialogues-1",
+      "venue": "Conference Room I, IIC main"
+    },
+    {
+      "category": "Library Programmes",
+      "date": "2026-08-08",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_8%20August%202026.jpg",
+      "score": 50,
+      "source": "iic",
+      "tags": [],
+      "time": "06:00 PM",
+      "title": "BOOK DISCUSSION GROUP  -CHINDIA: Journey to an Asian Century.",
+      "url": "https://iicdelhi.in/programmes/book-discussion-group-chindia-journey-asian-century",
+      "venue": "Conference Room II, IIC main"
     }
   ],
-  "generated_at": "2026-07-31"
+  "generated_at": "2026-08-01"
 }

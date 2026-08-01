@@ -1,5 +1,5 @@
 {
-  "count": 100,
+  "count": 94,
   "events": [
     {
       "category": "Museum",
@@ -28,90 +28,6 @@
       "title": "Exhibition- Flux of Being",
       "url": "https://iicdelhi.in/programmes/exhibition-flux-being",
       "venue": "Art Gallery, IIC Annexe"
-    },
-    {
-      "category": "Museum",
-      "date": "2026-07-30",
-      "description": "",
-      "end_date": "2026-08-02",
-      "image": null,
-      "score": 85,
-      "source": "bikanerhouse",
-      "tags": [],
-      "time": null,
-      "title": "The Screaming Cavases",
-      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/7",
-      "venue": "Bikaner House"
-    },
-    {
-      "category": "Museum",
-      "date": "2026-07-30",
-      "description": "",
-      "end_date": "2026-08-02",
-      "image": null,
-      "score": 85,
-      "source": "bikanerhouse",
-      "tags": [],
-      "time": null,
-      "title": "The Shifting of Silence",
-      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/7",
-      "venue": "Bikaner House"
-    },
-    {
-      "category": "Dance",
-      "date": "2026-07-31",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 70,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "Bharatanatyam Margam",
-      "url": "https://indiahabitat.org/Events_details/1322",
-      "venue": "The Stein Auditorium"
-    },
-    {
-      "category": "Seminars",
-      "date": "2026-07-31",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_31%20July%202026_3_0.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "09:00 AM",
-      "title": "3rd All India Conference of East Asian Studies",
-      "url": "https://iicdelhi.in/programmes/3rd-all-india-conference-east-asian-studies",
-      "venue": "Conference Room I, IIC main"
-    },
-    {
-      "category": "Library Programmes",
-      "date": "2026-07-31",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-07/WhatsApp%20Image%202026-07-23%20at%203.09.59%20PM.jpeg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "06:00 PM",
-      "title": "BOOK DISCUSSION GROUP- Stories Carved in Stone Voices Rooted in Earth  Silent Walls, Speaking Stones & Indigenized/ Tribalized: Poems",
-      "url": "https://iicdelhi.in/programmes/book-discussion-group-stories-carved-stone-voices-rooted-earth-silent-walls-speaking",
-      "venue": "Conference Room II, IIC main"
-    },
-    {
-      "category": "Cultural",
-      "date": "2026-07-31",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-06/Website%20Programme%20Image_31%20July%202026_1.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "Twamaham Vande",
-      "url": "https://iicdelhi.in/programmes/twamaham-vande",
-      "venue": "C.D. Deshmukh Auditorium, IIC main"
     },
     {
       "category": "Museum",
@@ -258,7 +174,7 @@
       "date": "2026-08-03",
       "description": "",
       "end_date": null,
-      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_3%20August%202026_1.jpg",
       "score": 75,
       "source": "iic",
       "tags": [],
@@ -338,11 +254,25 @@
       "venue": "Lecture Room I, IIC Annexe"
     },
     {
+      "category": "Library Programmes",
+      "date": "2026-08-04",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_4%20August%202026_2.jpg",
+      "score": 50,
+      "source": "iic",
+      "tags": [],
+      "time": "06:00 PM",
+      "title": "BOOK DISCUSSION GROUP-  On Angels’ Wings: Beyond the Bombing of Air India 182, My Journey of Resilience and Courage By Sanjay Lazar (Author, 2026)",
+      "url": "https://iicdelhi.in/programmes/book-discussion-group-angels-wings-beyond-bombing-air-india-182-my-journey-resilience",
+      "venue": "Lecture Room II, IIC Annexe"
+    },
+    {
       "category": "Seminars",
       "date": "2026-08-04",
       "description": "",
       "end_date": null,
-      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_4%20August%202026_3.jpg",
       "score": 50,
       "source": "iic",
       "tags": [],
@@ -350,20 +280,6 @@
       "title": "Fascinating Light and Colour Phenomena in Nature",
       "url": "https://iicdelhi.in/programmes/fascinating-light-and-colour-phenomena-nature",
       "venue": "Conference Room II, IIC main"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-08-05",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_5%20August%202026.jpg",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
-      "time": "03:30 PM",
-      "title": "25TH BCF ANNUAL LECTURE",
-      "url": "https://iicdelhi.in/programmes/25th-bcf-annual-lecture",
-      "venue": "Seminar Rooms 1,2,3"
     },
     {
       "category": "Book Talk",
@@ -758,12 +674,12 @@
       "venue": "Art Gallery, Kamaladevi Complex, IIC"
     },
     {
-      "category": "Film",
+      "category": "Film & Theatre",
       "date": "2026-08-16",
       "description": "",
       "end_date": null,
       "image": null,
-      "score": 55,
+      "score": 50,
       "source": "ihc",
       "tags": [],
       "time": "7:00 PM",
@@ -1066,12 +982,12 @@
       "venue": "The Stein Auditorium"
     },
     {
-      "category": "Film",
+      "category": "Film & Talk",
       "date": "2026-08-22",
       "description": "",
       "end_date": null,
       "image": null,
-      "score": 55,
+      "score": 50,
       "source": "ihc",
       "tags": [],
       "time": "6:00 PM",
@@ -1206,20 +1122,6 @@
       "venue": "The Theatre"
     },
     {
-      "category": "Indian Classical",
-      "date": "2026-08-26",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 80,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "National Dance & Music Festival 2026",
-      "url": "https://indiahabitat.org/Events_details/1364",
-      "venue": "The Stein Auditorium"
-    },
-    {
       "category": "Book Talk",
       "date": "2026-08-26",
       "description": "",
@@ -1232,6 +1134,20 @@
       "title": "Conversations on Public Policy",
       "url": "https://indiahabitat.org/Events_details/1365",
       "venue": "Gulmohar"
+    },
+    {
+      "category": "Music & Dance",
+      "date": "2026-08-26",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 50,
+      "source": "ihc",
+      "tags": [],
+      "time": "7:00 PM",
+      "title": "National Dance & Music Festival 2026",
+      "url": "https://indiahabitat.org/Events_details/1364",
+      "venue": "The Stein Auditorium"
     },
     {
       "category": "Indian Classical",
@@ -1402,5 +1318,5 @@
       "venue": "Art Gallery, Kamaladevi Complex, IIC"
     }
   ],
-  "generated_at": "2026-07-31"
+  "generated_at": "2026-08-01"
 }
