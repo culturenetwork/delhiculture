@@ -44,8 +44,36 @@
       "venue": "Bikaner House"
     },
     {
+      "category": "Indian Classical",
+      "date": "2026-08-02",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 80,
+      "source": "ihc",
+      "tags": [],
+      "time": "7:00 PM",
+      "title": "Sawani - Jugalbandi",
+      "url": "https://indiahabitat.org/Events_details/1331",
+      "venue": "The Theatre"
+    },
+    {
+      "category": "Book Talk",
+      "date": "2026-08-02",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 75,
+      "source": "ihc",
+      "tags": [],
+      "time": "7:00 PM",
+      "title": "She Walked Anyway",
+      "url": "https://indiahabitat.org/Events_details/1332",
+      "venue": "Casuarina"
+    },
+    {
       "category": "Theatre",
-      "date": "2026-08-01",
+      "date": "2026-08-02",
       "description": "",
       "end_date": null,
       "image": null,
@@ -53,52 +81,24 @@
       "source": "ihc",
       "tags": [],
       "time": "7:30 PM",
-      "title": "The Big Fat City",
-      "url": "https://indiahabitat.org/Events_details/1329",
+      "title": "The House of Bernarda Alba",
+      "url": "https://indiahabitat.org/Events_details/1333",
       "venue": "The Stein Auditorium"
     },
     {
-      "category": "Film",
-      "date": "2026-08-01",
+      "category": "Cultural",
+      "date": "2026-08-02",
       "description": "",
       "end_date": null,
       "image": null,
-      "score": 55,
+      "score": 50,
       "source": "ihc",
       "tags": [],
-      "time": "7:00 PM",
-      "title": "Bhupen Da Uncut",
-      "url": "https://indiahabitat.org/Events_details/1328",
-      "venue": "Gulmohar"
-    },
-    {
-      "category": "Seminars",
-      "date": "2026-08-01",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_31%20July%202026_3.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "09:00 AM",
-      "title": "3rd All India Conference of East Asian Studies (AICEAS)",
-      "url": "https://iicdelhi.in/programmes/3rd-all-india-conference-east-asian-studies-aiceas",
-      "venue": "Conference Room I, IIC main"
-    },
-    {
-      "category": "Cultural",
-      "date": "2026-08-01",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_1%20August%202026.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "06:00 PM",
-      "title": "Nar-Hari: 6 Verses from Shri Guru Granth Sahib & Panchvani",
-      "url": "https://iicdelhi.in/programmes/nar-hari-6-verses-shri-guru-granth-sahib-panchvani-0",
-      "venue": "C.D. Deshmukh Auditorium, IIC main"
+      "time": "11:00 AM",
+      "title": "The IHC Free Book X'Change",
+      "url": "https://indiahabitat.org/Events_details/1330",
+      "venue": "Near the IHC Information Centre"
     }
   ],
-  "generated_at": "2026-08-01"
+  "generated_at": "2026-08-02"
 }

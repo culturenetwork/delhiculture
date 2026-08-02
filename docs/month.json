@@ -1,20 +1,6 @@
 {
-  "count": 60,
+  "count": 61,
   "events": [
-    {
-      "category": "Indian Classical",
-      "date": "2026-08-09",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 80,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "IHC Lok Sangeet Sammelan. Day 2",
-      "url": "https://indiahabitat.org/Events_details/1327",
-      "venue": "The Stein Auditorium"
-    },
     {
       "category": "Book Talk",
       "date": "2026-08-10",
@@ -632,6 +618,20 @@
       "venue": "Gulmohar"
     },
     {
+      "category": "Book Talk",
+      "date": "2026-08-24",
+      "description": "",
+      "end_date": null,
+      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "score": 75,
+      "source": "iic",
+      "tags": [],
+      "time": "06:30 PM",
+      "title": "Thinking Strategies",
+      "url": "https://iicdelhi.in/programmes/thinking-strategies",
+      "venue": "Conference Room II, IIC main"
+    },
+    {
       "category": "Library Programmes",
       "date": "2026-08-24",
       "description": "",
@@ -840,7 +840,21 @@
       "title": "A Celebration of Bharat Vibhav",
       "url": "https://indiahabitat.org/Events_details/1372",
       "venue": "The Stein Auditorium"
+    },
+    {
+      "category": "Book Talk",
+      "date": "2026-09-01",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_1%20September%202026.jpg",
+      "score": 75,
+      "source": "iic",
+      "tags": [],
+      "time": "06:30 PM",
+      "title": "1940s–1960s: The 13th Dalai Lama's ‘Declaration’ in Tsepon Shakabpa's Tibet: A Political History",
+      "url": "https://iicdelhi.in/programmes/1940s-1960s-13th-dalai-lamas-declaration-tsepon-shakabpas-tibet-political-history",
+      "venue": "Conference Room II, IIC main"
     }
   ],
-  "generated_at": "2026-08-01"
+  "generated_at": "2026-08-02"
 }

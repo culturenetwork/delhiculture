@@ -1,62 +1,6 @@
 {
-  "count": 25,
+  "count": 23,
   "events": [
-    {
-      "category": "Indian Classical",
-      "date": "2026-08-02",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 80,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "Sawani - Jugalbandi",
-      "url": "https://indiahabitat.org/Events_details/1331",
-      "venue": "The Theatre"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-08-02",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 75,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "She Walked Anyway",
-      "url": "https://indiahabitat.org/Events_details/1332",
-      "venue": "Casuarina"
-    },
-    {
-      "category": "Theatre",
-      "date": "2026-08-02",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 65,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:30 PM",
-      "title": "The House of Bernarda Alba",
-      "url": "https://indiahabitat.org/Events_details/1333",
-      "venue": "The Stein Auditorium"
-    },
-    {
-      "category": "Cultural",
-      "date": "2026-08-02",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 50,
-      "source": "ihc",
-      "tags": [],
-      "time": "11:00 AM",
-      "title": "The IHC Free Book X'Change",
-      "url": "https://indiahabitat.org/Events_details/1330",
-      "venue": "Near the IHC Information Centre"
-    },
     {
       "category": "Book Talk",
       "date": "2026-08-03",
@@ -182,6 +126,20 @@
       "title": "Fascinating Light and Colour Phenomena in Nature",
       "url": "https://iicdelhi.in/programmes/fascinating-light-and-colour-phenomena-nature",
       "venue": "Conference Room II, IIC main"
+    },
+    {
+      "category": "Book Talk",
+      "date": "2026-08-05",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_5%20August%202026.jpg",
+      "score": 75,
+      "source": "iic",
+      "tags": [],
+      "time": "03:30 PM",
+      "title": "25TH BCF ANNUAL LECTURE",
+      "url": "https://iicdelhi.in/programmes/25th-bcf-annual-lecture",
+      "venue": "Seminar Rooms 1,2,3"
     },
     {
       "category": "Book Talk",
@@ -350,7 +308,21 @@
       "title": "BOOK DISCUSSION GROUP  -CHINDIA: Journey to an Asian Century.",
       "url": "https://iicdelhi.in/programmes/book-discussion-group-chindia-journey-asian-century",
       "venue": "Conference Room II, IIC main"
+    },
+    {
+      "category": "Indian Classical",
+      "date": "2026-08-09",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 80,
+      "source": "ihc",
+      "tags": [],
+      "time": "7:00 PM",
+      "title": "IHC Lok Sangeet Sammelan. Day 2",
+      "url": "https://indiahabitat.org/Events_details/1327",
+      "venue": "The Stein Auditorium"
     }
   ],
-  "generated_at": "2026-08-01"
+  "generated_at": "2026-08-02"
 }
