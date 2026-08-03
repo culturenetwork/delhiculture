@@ -1,48 +1,6 @@
 {
-  "count": 61,
+  "count": 59,
   "events": [
-    {
-      "category": "Book Talk",
-      "date": "2026-08-10",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 75,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "TERI-IHC Lecture Series",
-      "url": "https://indiahabitat.org/Events_details/1340",
-      "venue": "Gulmohar"
-    },
-    {
-      "category": "Dance",
-      "date": "2026-08-10",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 70,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "Saare Jahan Se Accha Festival. Day 1",
-      "url": "https://indiahabitat.org/Events_details/1373",
-      "venue": "The Stein Auditorium"
-    },
-    {
-      "category": "Film",
-      "date": "2026-08-10",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_10%20August%202026.jpg",
-      "score": 55,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "FILM -Outsider. Freud",
-      "url": "https://iicdelhi.in/programmes/film-outsider-freud",
-      "venue": "Lecture Room I, IIC Annexe"
-    },
     {
       "category": "Book Talk",
       "date": "2026-08-11",
@@ -854,7 +812,21 @@
       "title": "1940s–1960s: The 13th Dalai Lama's ‘Declaration’ in Tsepon Shakabpa's Tibet: A Political History",
       "url": "https://iicdelhi.in/programmes/1940s-1960s-13th-dalai-lamas-declaration-tsepon-shakabpas-tibet-political-history",
       "venue": "Conference Room II, IIC main"
+    },
+    {
+      "category": "Museum",
+      "date": "2026-09-02",
+      "description": "Solo exhibition by Anup Shrivastava, contemporary artist from Dhar, Madhya Pradesh. He has held numerous solo exhibitions across India and participated in national and international exhibitions.",
+      "end_date": "2026-09-13",
+      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_2%20September%202026.jpg",
+      "score": 85,
+      "source": "iic",
+      "tags": [],
+      "time": "11:00 AM",
+      "title": "EXHIBITION - Rang Mela",
+      "url": "https://iicdelhi.in/programmes/exhibition-rang-mela",
+      "venue": "Art Gallery, Kamaladevi Complex, IIC"
     }
   ],
-  "generated_at": "2026-08-02"
+  "generated_at": "2026-08-03"
 }

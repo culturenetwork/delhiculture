@@ -1,5 +1,5 @@
 {
-  "count": 7,
+  "count": 4,
   "events": [
     {
       "category": "Museum",
@@ -16,89 +16,47 @@
       "venue": "Art Gallery, Kamaladevi Complex, IIC"
     },
     {
-      "category": "Museum",
-      "date": "2026-07-26",
-      "description": "A Solo Exhibition by Ravi Kant Jha, National award-winning artist, his practice investigates themes of consciousness, memory, and transformation.",
-      "end_date": "2026-08-02",
-      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_26%20July%202026.png",
-      "score": 85,
-      "source": "iic",
-      "tags": [],
-      "time": "11:00 AM",
-      "title": "Exhibition- Flux of Being",
-      "url": "https://iicdelhi.in/programmes/exhibition-flux-being",
-      "venue": "Art Gallery, IIC Annexe"
-    },
-    {
-      "category": "Museum",
-      "date": "2026-08-01",
-      "description": "",
-      "end_date": "2026-08-02",
-      "image": null,
-      "score": 85,
-      "source": "bikanerhouse",
-      "tags": [],
-      "time": null,
-      "title": "Splendour of the Raj",
-      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/8",
-      "venue": "Bikaner House"
-    },
-    {
-      "category": "Indian Classical",
-      "date": "2026-08-02",
+      "category": "Book Talk",
+      "date": "2026-08-03",
       "description": "",
       "end_date": null,
-      "image": null,
-      "score": 80,
-      "source": "ihc",
+      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_3%20August%202026.jpg",
+      "score": 75,
+      "source": "iic",
       "tags": [],
-      "time": "7:00 PM",
-      "title": "Sawani - Jugalbandi",
-      "url": "https://indiahabitat.org/Events_details/1331",
-      "venue": "The Theatre"
+      "time": "06:30 PM",
+      "title": "Archival Echoes of a Folk Lute in the Indian Himalaya",
+      "url": "https://iicdelhi.in/programmes/archival-echoes-folk-lute-indian-himalaya",
+      "venue": "Conference Room I, IIC main"
     },
     {
       "category": "Book Talk",
-      "date": "2026-08-02",
+      "date": "2026-08-03",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_3%20August%202026_1.jpg",
+      "score": 75,
+      "source": "iic",
+      "tags": [],
+      "time": "06:30 PM",
+      "title": "Cleaning Transport – Tackling Vehicular Emissions and the Future of Mobility Uniting Science, Health, Policy & People",
+      "url": "https://iicdelhi.in/programmes/cleaning-transport-tackling-vehicular-emissions-and-future-mobility-uniting-science",
+      "venue": "Lecture Room II, IIC Annexe"
+    },
+    {
+      "category": "Dance",
+      "date": "2026-08-03",
       "description": "",
       "end_date": null,
       "image": null,
-      "score": 75,
+      "score": 70,
       "source": "ihc",
       "tags": [],
       "time": "7:00 PM",
-      "title": "She Walked Anyway",
-      "url": "https://indiahabitat.org/Events_details/1332",
-      "venue": "Casuarina"
-    },
-    {
-      "category": "Theatre",
-      "date": "2026-08-02",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 65,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:30 PM",
-      "title": "The House of Bernarda Alba",
-      "url": "https://indiahabitat.org/Events_details/1333",
+      "title": "Choreographic Duets - The Poetry of Two",
+      "url": "https://indiahabitat.org/Events_details/1334",
       "venue": "The Stein Auditorium"
-    },
-    {
-      "category": "Cultural",
-      "date": "2026-08-02",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 50,
-      "source": "ihc",
-      "tags": [],
-      "time": "11:00 AM",
-      "title": "The IHC Free Book X'Change",
-      "url": "https://indiahabitat.org/Events_details/1330",
-      "venue": "Near the IHC Information Centre"
     }
   ],
-  "generated_at": "2026-08-02"
+  "generated_at": "2026-08-03"
 }
