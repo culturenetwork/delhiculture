@@ -1,48 +1,6 @@
 {
-  "count": 59,
+  "count": 57,
   "events": [
-    {
-      "category": "Book Talk",
-      "date": "2026-08-11",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_11%20August%202026_1.jpg",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "BOOK DISCUSSION GROUP-  Is This the Time for the Indian Elephant and the Chinese Dragon to Dance Together?",
-      "url": "https://iicdelhi.in/programmes/book-discussion-group-time-indian-elephant-and-chinese-dragon-dance-together",
-      "venue": "Lecture Room II, IIC Annexe"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-08-11",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_11%20August%202026.jpg",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
-      "time": "10:00 AM",
-      "title": "DIALOGUES IN HEALTH AND WELLNESS",
-      "url": "https://iicdelhi.in/programmes/dialogues-health-and-wellness-36",
-      "venue": "Seminar Rooms 1,2,3"
-    },
-    {
-      "category": "Dance",
-      "date": "2026-08-11",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 70,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "Saare Jahan Se Accha Festival. Day 2",
-      "url": "https://indiahabitat.org/Events_details/1341",
-      "venue": "The Stein Auditorium"
-    },
     {
       "category": "Indian Classical",
       "date": "2026-08-12",
@@ -238,6 +196,20 @@
       "title": "Stories of Co-Existence & Conservation from the North East",
       "url": "https://indiahabitat.org/Events_details/1350",
       "venue": "Gulmohar"
+    },
+    {
+      "category": "Library Programmes",
+      "date": "2026-08-18",
+      "description": "",
+      "end_date": null,
+      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "score": 50,
+      "source": "iic",
+      "tags": [],
+      "time": "06:00 PM",
+      "title": "BOOK DISCUSSION GROUP - The Quiet that Remains: A poetic mapping of memory and emotion",
+      "url": "https://iicdelhi.in/programmes/book-discussion-group-quiet-remains-poetic-mapping-memory-and-emotion",
+      "venue": "Seminar Rooms 1,2,3"
     },
     {
       "category": "Museum",
@@ -585,8 +557,8 @@
       "source": "iic",
       "tags": [],
       "time": "06:30 PM",
-      "title": "Thinking Strategies",
-      "url": "https://iicdelhi.in/programmes/thinking-strategies",
+      "title": "Think Smart -  Thinking Strategies",
+      "url": "https://iicdelhi.in/programmes/think-smart-thinking-strategies",
       "venue": "Conference Room II, IIC main"
     },
     {
@@ -828,5 +800,5 @@
       "venue": "Art Gallery, Kamaladevi Complex, IIC"
     }
   ],
-  "generated_at": "2026-08-03"
+  "generated_at": "2026-08-04"
 }

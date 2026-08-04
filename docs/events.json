@@ -1,5 +1,5 @@
 {
-  "count": 86,
+  "count": 84,
   "events": [
     {
       "category": "Museum",
@@ -14,48 +14,6 @@
       "title": "Exhibition- UNSUNG: Celebrating the Extraordinary Grandeur of Smallness",
       "url": "https://iicdelhi.in/programmes/exhibition-unsung-celebrating-extraordinary-grandeur-smallness",
       "venue": "Art Gallery, Kamaladevi Complex, IIC"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-08-03",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_3%20August%202026.jpg",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "Archival Echoes of a Folk Lute in the Indian Himalaya",
-      "url": "https://iicdelhi.in/programmes/archival-echoes-folk-lute-indian-himalaya",
-      "venue": "Conference Room I, IIC main"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-08-03",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_3%20August%202026_1.jpg",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "Cleaning Transport – Tackling Vehicular Emissions and the Future of Mobility Uniting Science, Health, Policy & People",
-      "url": "https://iicdelhi.in/programmes/cleaning-transport-tackling-vehicular-emissions-and-future-mobility-uniting-science",
-      "venue": "Lecture Room II, IIC Annexe"
-    },
-    {
-      "category": "Dance",
-      "date": "2026-08-03",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 70,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "Choreographic Duets - The Poetry of Two",
-      "url": "https://indiahabitat.org/Events_details/1334",
-      "venue": "The Stein Auditorium"
     },
     {
       "category": "Museum",
@@ -212,6 +170,20 @@
       "venue": "Bikaner House"
     },
     {
+      "category": "Book Talk",
+      "date": "2026-08-06",
+      "description": "",
+      "end_date": null,
+      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "score": 75,
+      "source": "iic",
+      "tags": [],
+      "time": "06:30 PM",
+      "title": "IIC/Media Dialogues  -Gen Z Risen: How the Media Reported the Youth Protests",
+      "url": "https://iicdelhi.in/programmes/iicmedia-dialogues-gen-z-risen-how-media-reported-youth-protests",
+      "venue": "Conference Room I, IIC main"
+    },
+    {
       "category": "Cultural",
       "date": "2026-08-06",
       "description": "",
@@ -238,20 +210,6 @@
       "title": "(Re)claiming Rights of Render(ing)",
       "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/8",
       "venue": "Bikaner House"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-08-07",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_7%20August%202026_2.jpg",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "Sculptor's Lens: Isamu Noguchi and Premodern India",
-      "url": "https://iicdelhi.in/programmes/sculptors-lens-isamu-noguchi-and-premodern-india",
-      "venue": "Conference Room I, IIC main"
     },
     {
       "category": "Library Programmes",
@@ -618,6 +576,20 @@
       "venue": "Gulmohar"
     },
     {
+      "category": "Library Programmes",
+      "date": "2026-08-18",
+      "description": "",
+      "end_date": null,
+      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "score": 50,
+      "source": "iic",
+      "tags": [],
+      "time": "06:00 PM",
+      "title": "BOOK DISCUSSION GROUP - The Quiet that Remains: A poetic mapping of memory and emotion",
+      "url": "https://iicdelhi.in/programmes/book-discussion-group-quiet-remains-poetic-mapping-memory-and-emotion",
+      "venue": "Seminar Rooms 1,2,3"
+    },
+    {
       "category": "Museum",
       "date": "2026-08-19",
       "description": "The Journey to the Unknown By Mohammad Naseem Khan, Delhi-based contemporary artist known for his evocative landscapes inspired by his travels through the mountains and coastlines of India. The exhibition presents a series of landscapes that evoke serenity through subtle shifts o",
@@ -963,8 +935,8 @@
       "source": "iic",
       "tags": [],
       "time": "06:30 PM",
-      "title": "Thinking Strategies",
-      "url": "https://iicdelhi.in/programmes/thinking-strategies",
+      "title": "Think Smart -  Thinking Strategies",
+      "url": "https://iicdelhi.in/programmes/think-smart-thinking-strategies",
       "venue": "Conference Room II, IIC main"
     },
     {
@@ -1206,5 +1178,5 @@
       "venue": "Art Gallery, Kamaladevi Complex, IIC"
     }
   ],
-  "generated_at": "2026-08-03"
+  "generated_at": "2026-08-04"
 }
