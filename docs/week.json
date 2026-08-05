@@ -2,48 +2,6 @@
   "count": 20,
   "events": [
     {
-      "category": "Book Talk",
-      "date": "2026-08-05",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_5%20August%202026.jpg",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
-      "time": "03:30 PM",
-      "title": "25TH BCF ANNUAL LECTURE",
-      "url": "https://iicdelhi.in/programmes/25th-bcf-annual-lecture",
-      "venue": "Seminar Rooms 1,2,3"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-08-05",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 75,
-      "source": "ihc",
-      "tags": [],
-      "time": "6:00 PM",
-      "title": "Indo-Pacific as Zone for Peace",
-      "url": "https://indiahabitat.org/Events_details/1374",
-      "venue": "Gulmohar"
-    },
-    {
-      "category": "Film",
-      "date": "2026-08-05",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_5%20August%202026_1_0.jpg",
-      "score": 55,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "FILM-  Two Poets and a River",
-      "url": "https://iicdelhi.in/programmes/film-two-poets-and-river",
-      "venue": "Lecture Room I, IIC Annexe"
-    },
-    {
       "category": "Museum",
       "date": "2026-08-06",
       "description": "Solo exhibition by Namita Prakash, visual artist and interior designer. The artist has exhibited at World Art Dubai, India Art Festival and Qatar International Art Festival",
@@ -76,7 +34,7 @@
       "date": "2026-08-06",
       "description": "",
       "end_date": null,
-      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "image": "https://aws-static.iicdelhi.in/2026-08/Website%20Programme%20Image_6%20August%202026_2.jpg",
       "score": 75,
       "source": "iic",
       "tags": [],
@@ -112,6 +70,20 @@
       "title": "(Re)claiming Rights of Render(ing)",
       "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/8",
       "venue": "Bikaner House"
+    },
+    {
+      "category": "Book Talk",
+      "date": "2026-08-07",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_7%20August%202026_2.jpg",
+      "score": 75,
+      "source": "iic",
+      "tags": [],
+      "time": "06:30 PM",
+      "title": "Sculptor's Lens: Isamu Noguchi and Premodern India",
+      "url": "https://iicdelhi.in/programmes/sculptors-lens-isamu-noguchi-and-premodern-india",
+      "venue": "Conference Room I, IIC main"
     },
     {
       "category": "Library Programmes",
@@ -254,20 +226,6 @@
       "venue": "Lecture Room II, IIC Annexe"
     },
     {
-      "category": "Book Talk",
-      "date": "2026-08-11",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_11%20August%202026.jpg",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
-      "time": "10:00 AM",
-      "title": "DIALOGUES IN HEALTH AND WELLNESS",
-      "url": "https://iicdelhi.in/programmes/dialogues-health-and-wellness-36",
-      "venue": "Seminar Rooms 1,2,3"
-    },
-    {
       "category": "Dance",
       "date": "2026-08-11",
       "description": "",
@@ -280,7 +238,49 @@
       "title": "Saare Jahan Se Accha Festival. Day 2",
       "url": "https://indiahabitat.org/Events_details/1341",
       "venue": "The Stein Auditorium"
+    },
+    {
+      "category": "Indian Classical",
+      "date": "2026-08-12",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 80,
+      "source": "ihc",
+      "tags": [],
+      "time": "7:30 PM",
+      "title": "Mahaprayan Diwas of Guru Rabindranath Tagore",
+      "url": "https://indiahabitat.org/Events_details/1344",
+      "venue": "The Stein Auditorium"
+    },
+    {
+      "category": "Library Programmes",
+      "date": "2026-08-12",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_12%20August%202026.jpg",
+      "score": 50,
+      "source": "iic",
+      "tags": [],
+      "time": "06:00 PM",
+      "title": "BOOK DISCUSSION GROUP  -Jayaprakash Narayan: The People's Leader.",
+      "url": "https://iicdelhi.in/programmes/book-discussion-group-jayaprakash-narayan-peoples-leader",
+      "venue": "Conference Room II, IIC main"
+    },
+    {
+      "category": "Library Programmes",
+      "date": "2026-08-12",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_12%20August%202026_1.jpg",
+      "score": 50,
+      "source": "iic",
+      "tags": [],
+      "time": "06:00 PM",
+      "title": "BOOK DISCUSSION GROUP  -The Unbecoming: Let Life Reveal its Purpose",
+      "url": "https://iicdelhi.in/programmes/book-discussion-group-unbecoming-let-life-reveal-its-purpose",
+      "venue": "Lecture Room II, IIC Annexe"
     }
   ],
-  "generated_at": "2026-08-04"
+  "generated_at": "2026-08-05"
 }

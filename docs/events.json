@@ -1,20 +1,6 @@
 {
-  "count": 84,
+  "count": 77,
   "events": [
-    {
-      "category": "Museum",
-      "date": "2026-07-22",
-      "description": "A photography exhibition curated by Amit Mehra, photographer, curator, and founder of the UNSUNG project, an ongoing initiative that celebrates the lives and contributions of extraordinary yet often overlooked individuals.",
-      "end_date": "2026-08-04",
-      "image": "https://aws-static.iicdelhi.in/2026-06/Website%20Programme%20Image_22%20July%202026.jpg",
-      "score": 85,
-      "source": "iic",
-      "tags": [],
-      "time": "11:00 AM",
-      "title": "Exhibition- UNSUNG: Celebrating the Extraordinary Grandeur of Smallness",
-      "url": "https://iicdelhi.in/programmes/exhibition-unsung-celebrating-extraordinary-grandeur-smallness",
-      "venue": "Art Gallery, Kamaladevi Complex, IIC"
-    },
     {
       "category": "Museum",
       "date": "2026-08-04",
@@ -28,76 +14,6 @@
       "title": "Exhibition  of rare and limited-edition  collectibles",
       "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/8",
       "venue": "Bikaner House"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-08-04",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 75,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "Decolonising the Dr. Bhau Daji Lad Museum",
-      "url": "https://indiahabitat.org/Events_details/1335",
-      "venue": "Gulmohar"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-08-04",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_4%20August%202026.jpg",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "Integration-the game changer in reversing chronic diseases",
-      "url": "https://iicdelhi.in/programmes/integration-game-changer-reversing-chronic-diseases",
-      "venue": "Conference Room I, IIC main"
-    },
-    {
-      "category": "Film",
-      "date": "2026-08-04",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_4%20August%202026_1.jpg",
-      "score": 55,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "FILM -Partners of the Heart",
-      "url": "https://iicdelhi.in/programmes/film-partners-heart",
-      "venue": "Lecture Room I, IIC Annexe"
-    },
-    {
-      "category": "Library Programmes",
-      "date": "2026-08-04",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_4%20August%202026_2.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "06:00 PM",
-      "title": "BOOK DISCUSSION GROUP-  On Angels’ Wings: Beyond the Bombing of Air India 182, My Journey of Resilience and Courage By Sanjay Lazar (Author, 2026)",
-      "url": "https://iicdelhi.in/programmes/book-discussion-group-angels-wings-beyond-bombing-air-india-182-my-journey-resilience",
-      "venue": "Lecture Room II, IIC Annexe"
-    },
-    {
-      "category": "Seminars",
-      "date": "2026-08-04",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_4%20August%202026_3.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "06:00 PM",
-      "title": "Fascinating Light and Colour Phenomena in Nature",
-      "url": "https://iicdelhi.in/programmes/fascinating-light-and-colour-phenomena-nature",
-      "venue": "Conference Room II, IIC main"
     },
     {
       "category": "Book Talk",
@@ -174,7 +90,7 @@
       "date": "2026-08-06",
       "description": "",
       "end_date": null,
-      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "image": "https://aws-static.iicdelhi.in/2026-08/Website%20Programme%20Image_6%20August%202026_2.jpg",
       "score": 75,
       "source": "iic",
       "tags": [],
@@ -210,6 +126,20 @@
       "title": "(Re)claiming Rights of Render(ing)",
       "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/8",
       "venue": "Bikaner House"
+    },
+    {
+      "category": "Book Talk",
+      "date": "2026-08-07",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_7%20August%202026_2.jpg",
+      "score": 75,
+      "source": "iic",
+      "tags": [],
+      "time": "06:30 PM",
+      "title": "Sculptor's Lens: Isamu Noguchi and Premodern India",
+      "url": "https://iicdelhi.in/programmes/sculptors-lens-isamu-noguchi-and-premodern-india",
+      "venue": "Conference Room I, IIC main"
     },
     {
       "category": "Library Programmes",
@@ -350,20 +280,6 @@
       "title": "BOOK DISCUSSION GROUP-  Is This the Time for the Indian Elephant and the Chinese Dragon to Dance Together?",
       "url": "https://iicdelhi.in/programmes/book-discussion-group-time-indian-elephant-and-chinese-dragon-dance-together",
       "venue": "Lecture Room II, IIC Annexe"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-08-11",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_11%20August%202026.jpg",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
-      "time": "10:00 AM",
-      "title": "DIALOGUES IN HEALTH AND WELLNESS",
-      "url": "https://iicdelhi.in/programmes/dialogues-health-and-wellness-36",
-      "venue": "Seminar Rooms 1,2,3"
     },
     {
       "category": "Dance",
@@ -580,7 +496,7 @@
       "date": "2026-08-18",
       "description": "",
       "end_date": null,
-      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "image": "https://aws-static.iicdelhi.in/2026-08/Website%20Programme%20Image_18%20August%202026.jpg",
       "score": 50,
       "source": "iic",
       "tags": [],
@@ -660,20 +576,6 @@
       "venue": "Lecture Room II, IIC Annexe"
     },
     {
-      "category": "Book Talk",
-      "date": "2026-08-20",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_20%20August%202026_1.jpg",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "IIC/MEDIA DIALOGUES-  Easy to Launch, Difficult to Sustain? The Future of Independent Digital Media",
-      "url": "https://iicdelhi.in/programmes/iicmedia-dialogues-easy-launch-difficult-sustain-future-independent-digital-media",
-      "venue": "Seminar Rooms 1,2,3"
-    },
-    {
       "category": "Library Programmes",
       "date": "2026-08-20",
       "description": "",
@@ -692,7 +594,7 @@
       "date": "2026-08-20",
       "description": "",
       "end_date": null,
-      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "image": "https://aws-static.iicdelhi.in/2026-08/Website%20Programme%20Image_20%20August%202026_3.jpg",
       "score": 50,
       "source": "iic",
       "tags": [],
@@ -734,7 +636,7 @@
       "date": "2026-08-21",
       "description": "",
       "end_date": null,
-      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "image": "https://aws-static.iicdelhi.in/2026-08/Website%20Programme%20Image_21%20August%202026.png",
       "score": 75,
       "source": "iic",
       "tags": [],
@@ -762,13 +664,13 @@
       "date": "2026-08-21",
       "description": "",
       "end_date": null,
-      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "image": "https://aws-static.iicdelhi.in/2026-08/Website%20Programme%20Image_21%20August%202026_1.jpg",
       "score": 50,
       "source": "iic",
       "tags": [],
       "time": "06:00 PM",
-      "title": "VARSHA RITU: IIC MONSOON FESTIVAL OF MUSIC",
-      "url": "https://iicdelhi.in/programmes/varsha-ritu-iic-monsoon-festival-music",
+      "title": "IIC MONSOON FESTIVAL OF MUSIC",
+      "url": "https://iicdelhi.in/programmes/iic-monsoon-festival-music",
       "venue": "C.D. Deshmukh Auditorium, IIC main"
     },
     {
@@ -790,7 +692,7 @@
       "date": "2026-08-22",
       "description": "",
       "end_date": null,
-      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "image": "https://aws-static.iicdelhi.in/2026-08/Website%20Programme%20Image_22%20August%202026_1.jpg",
       "score": 75,
       "source": "iic",
       "tags": [],
@@ -958,7 +860,7 @@
       "date": "2026-08-25",
       "description": "",
       "end_date": null,
-      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "image": "https://aws-static.iicdelhi.in/2026-08/Website%20Programme%20Image_25%20August%202026.jpg",
       "score": 75,
       "source": "iic",
       "tags": [],
@@ -1178,5 +1080,5 @@
       "venue": "Art Gallery, Kamaladevi Complex, IIC"
     }
   ],
-  "generated_at": "2026-08-04"
+  "generated_at": "2026-08-05"
 }

@@ -1,48 +1,6 @@
 {
-  "count": 57,
+  "count": 53,
   "events": [
-    {
-      "category": "Indian Classical",
-      "date": "2026-08-12",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 80,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:30 PM",
-      "title": "Mahaprayan Diwas of Guru Rabindranath Tagore",
-      "url": "https://indiahabitat.org/Events_details/1344",
-      "venue": "The Stein Auditorium"
-    },
-    {
-      "category": "Library Programmes",
-      "date": "2026-08-12",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_12%20August%202026.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "06:00 PM",
-      "title": "BOOK DISCUSSION GROUP  -Jayaprakash Narayan: The People's Leader.",
-      "url": "https://iicdelhi.in/programmes/book-discussion-group-jayaprakash-narayan-peoples-leader",
-      "venue": "Conference Room II, IIC main"
-    },
-    {
-      "category": "Library Programmes",
-      "date": "2026-08-12",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_12%20August%202026_1.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "06:00 PM",
-      "title": "BOOK DISCUSSION GROUP  -The Unbecoming: Let Life Reveal its Purpose",
-      "url": "https://iicdelhi.in/programmes/book-discussion-group-unbecoming-let-life-reveal-its-purpose",
-      "venue": "Lecture Room II, IIC Annexe"
-    },
     {
       "category": "Book Talk",
       "date": "2026-08-13",
@@ -202,7 +160,7 @@
       "date": "2026-08-18",
       "description": "",
       "end_date": null,
-      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "image": "https://aws-static.iicdelhi.in/2026-08/Website%20Programme%20Image_18%20August%202026.jpg",
       "score": 50,
       "source": "iic",
       "tags": [],
@@ -282,20 +240,6 @@
       "venue": "Lecture Room II, IIC Annexe"
     },
     {
-      "category": "Book Talk",
-      "date": "2026-08-20",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_20%20August%202026_1.jpg",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "IIC/MEDIA DIALOGUES-  Easy to Launch, Difficult to Sustain? The Future of Independent Digital Media",
-      "url": "https://iicdelhi.in/programmes/iicmedia-dialogues-easy-launch-difficult-sustain-future-independent-digital-media",
-      "venue": "Seminar Rooms 1,2,3"
-    },
-    {
       "category": "Library Programmes",
       "date": "2026-08-20",
       "description": "",
@@ -314,7 +258,7 @@
       "date": "2026-08-20",
       "description": "",
       "end_date": null,
-      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "image": "https://aws-static.iicdelhi.in/2026-08/Website%20Programme%20Image_20%20August%202026_3.jpg",
       "score": 50,
       "source": "iic",
       "tags": [],
@@ -356,7 +300,7 @@
       "date": "2026-08-21",
       "description": "",
       "end_date": null,
-      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "image": "https://aws-static.iicdelhi.in/2026-08/Website%20Programme%20Image_21%20August%202026.png",
       "score": 75,
       "source": "iic",
       "tags": [],
@@ -384,13 +328,13 @@
       "date": "2026-08-21",
       "description": "",
       "end_date": null,
-      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "image": "https://aws-static.iicdelhi.in/2026-08/Website%20Programme%20Image_21%20August%202026_1.jpg",
       "score": 50,
       "source": "iic",
       "tags": [],
       "time": "06:00 PM",
-      "title": "VARSHA RITU: IIC MONSOON FESTIVAL OF MUSIC",
-      "url": "https://iicdelhi.in/programmes/varsha-ritu-iic-monsoon-festival-music",
+      "title": "IIC MONSOON FESTIVAL OF MUSIC",
+      "url": "https://iicdelhi.in/programmes/iic-monsoon-festival-music",
       "venue": "C.D. Deshmukh Auditorium, IIC main"
     },
     {
@@ -412,7 +356,7 @@
       "date": "2026-08-22",
       "description": "",
       "end_date": null,
-      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "image": "https://aws-static.iicdelhi.in/2026-08/Website%20Programme%20Image_22%20August%202026_1.jpg",
       "score": 75,
       "source": "iic",
       "tags": [],
@@ -580,7 +524,7 @@
       "date": "2026-08-25",
       "description": "",
       "end_date": null,
-      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "image": "https://aws-static.iicdelhi.in/2026-08/Website%20Programme%20Image_25%20August%202026.jpg",
       "score": 75,
       "source": "iic",
       "tags": [],
@@ -800,5 +744,5 @@
       "venue": "Art Gallery, Kamaladevi Complex, IIC"
     }
   ],
-  "generated_at": "2026-08-04"
+  "generated_at": "2026-08-05"
 }
