@@ -1,5 +1,5 @@
 {
-  "count": 77,
+  "count": 78,
   "events": [
     {
       "category": "Museum",
@@ -14,48 +14,6 @@
       "title": "Exhibition  of rare and limited-edition  collectibles",
       "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/8",
       "venue": "Bikaner House"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-08-05",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_5%20August%202026.jpg",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
-      "time": "03:30 PM",
-      "title": "25TH BCF ANNUAL LECTURE",
-      "url": "https://iicdelhi.in/programmes/25th-bcf-annual-lecture",
-      "venue": "Seminar Rooms 1,2,3"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-08-05",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 75,
-      "source": "ihc",
-      "tags": [],
-      "time": "6:00 PM",
-      "title": "Indo-Pacific as Zone for Peace",
-      "url": "https://indiahabitat.org/Events_details/1374",
-      "venue": "Gulmohar"
-    },
-    {
-      "category": "Film",
-      "date": "2026-08-05",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_5%20August%202026_1_0.jpg",
-      "score": 55,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "FILM-  Two Poets and a River",
-      "url": "https://iicdelhi.in/programmes/film-two-poets-and-river",
-      "venue": "Lecture Room I, IIC Annexe"
     },
     {
       "category": "Museum",
@@ -282,6 +240,20 @@
       "venue": "Lecture Room II, IIC Annexe"
     },
     {
+      "category": "Book Talk",
+      "date": "2026-08-11",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_11%20August%202026.jpg",
+      "score": 75,
+      "source": "iic",
+      "tags": [],
+      "time": "10:00 AM",
+      "title": "DIALOGUES IN HEALTH AND WELLNESS",
+      "url": "https://iicdelhi.in/programmes/dialogues-health-and-wellness-36",
+      "venue": "Seminar Rooms 1,2,3"
+    },
+    {
       "category": "Dance",
       "date": "2026-08-11",
       "description": "",
@@ -294,6 +266,20 @@
       "title": "Saare Jahan Se Accha Festival. Day 2",
       "url": "https://indiahabitat.org/Events_details/1341",
       "venue": "The Stein Auditorium"
+    },
+    {
+      "category": "Film Club",
+      "date": "2026-08-11",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-08/Film%20Club%20August_Website%20Programme%20Image%20copy.jpg",
+      "score": 50,
+      "source": "iic",
+      "tags": [],
+      "time": "06:30 PM",
+      "title": "FIPRESCI–IIC SHOWCASE: STORIES FROM CONTEMPORARY INDIA II-Film-GONDHAL",
+      "url": "https://iicdelhi.in/programmes/fipresci-iic-showcase-stories-contemporary-india-ii-film-gondhal",
+      "venue": "Lecture Room I, IIC Annexe"
     },
     {
       "category": "Indian Classical",
@@ -506,17 +492,31 @@
       "venue": "Seminar Rooms 1,2,3"
     },
     {
+      "category": "Film Club",
+      "date": "2026-08-18",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-08/Film%20Club%20August_Website%20Programme%20Image%20copy%202.jpg",
+      "score": 50,
+      "source": "iic",
+      "tags": [],
+      "time": "06:30 PM",
+      "title": "FIPRESCI–IIC SHOWCASE: STORIES FROM CONTEMPORARY INDIA II- FEMINICHI FATHIMA (FEMINIST FATHIMA)",
+      "url": "https://iicdelhi.in/programmes/fipresci-iic-showcase-stories-contemporary-india-ii-feminichi-fathima-feminist-fathima",
+      "venue": "Lecture Room I, IIC Annexe"
+    },
+    {
       "category": "Museum",
       "date": "2026-08-19",
-      "description": "The Journey to the Unknown By Mohammad Naseem Khan, Delhi-based contemporary artist known for his evocative landscapes inspired by his travels through the mountains and coastlines of India. The exhibition presents a series of landscapes that evoke serenity through subtle shifts o",
-      "end_date": "2026-08-28",
-      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "description": "The exhibition brings together the works of six contemporary artists whose diverse practices in painting, drawing, printmaking and new media explore the relationships between memory, identity, place and tradition. Through varied artistic languages, the exhibition reflects on the",
+      "end_date": "2026-08-29",
+      "image": "https://aws-static.iicdelhi.in/2026-08/Website%20Programme%20Image_19%20August%202026_1.jpg",
       "score": 85,
       "source": "iic",
       "tags": [],
       "time": "11:00 AM",
-      "title": "EXHIBITION- The Journey to the Unknown",
-      "url": "https://iicdelhi.in/programmes/exhibition-journey-unknown",
+      "title": "Connections-   A Group Exhibition of Drawings, Prints, Paintings and New Media",
+      "url": "https://iicdelhi.in/programmes/connections-group-exhibition-drawings-prints-paintings-and-new-media",
       "venue": "Art Gallery, IIC Annexe"
     },
     {
@@ -804,7 +804,7 @@
       "date": "2026-08-24",
       "description": "",
       "end_date": null,
-      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "image": "https://aws-static.iicdelhi.in/2026-08/Website%20Programme%20Image_24%20August%202026_1_2.jpg",
       "score": 75,
       "source": "iic",
       "tags": [],
@@ -832,7 +832,7 @@
       "date": "2026-08-24",
       "description": "",
       "end_date": null,
-      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "image": "https://aws-static.iicdelhi.in/2026-08/Website%20Programme%20Image_24%20August%202026_1.jpg",
       "score": 75,
       "source": "iic",
       "tags": [],
@@ -868,6 +868,20 @@
       "title": "Architecture and Art – Processes, Products and Perceptions",
       "url": "https://iicdelhi.in/programmes/architecture-and-art-processes-products-and-perceptions",
       "venue": "Conference Room II, IIC main"
+    },
+    {
+      "category": "Film Club",
+      "date": "2026-08-25",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-08/Film%20Club%20August_Website%20Programme%20Image%20copy%203.jpg",
+      "score": 50,
+      "source": "iic",
+      "tags": [],
+      "time": "06:30 PM",
+      "title": "FIPRESCI–IIC SHOWCASE: STORIES FROM CONTEMPORARY INDIA II- Film- IN THE NAME OF FIRE- SWAHA",
+      "url": "https://iicdelhi.in/programmes/fipresci-iic-showcase-stories-contemporary-india-ii-film-name-fire-swaha",
+      "venue": "C.D. Deshmukh Auditorium, IIC main"
     },
     {
       "category": "Indian Classical",
@@ -1080,5 +1094,5 @@
       "venue": "Art Gallery, Kamaladevi Complex, IIC"
     }
   ],
-  "generated_at": "2026-08-05"
+  "generated_at": "2026-08-06"
 }

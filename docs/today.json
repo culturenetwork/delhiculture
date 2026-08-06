@@ -1,5 +1,5 @@
 {
-  "count": 4,
+  "count": 5,
   "events": [
     {
       "category": "Museum",
@@ -16,47 +16,61 @@
       "venue": "Bikaner House"
     },
     {
-      "category": "Book Talk",
-      "date": "2026-08-05",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_5%20August%202026.jpg",
-      "score": 75,
+      "category": "Museum",
+      "date": "2026-08-06",
+      "description": "Solo exhibition by Namita Prakash, visual artist and interior designer. The artist has exhibited at World Art Dubai, India Art Festival and Qatar International Art Festival",
+      "end_date": "2026-09-13",
+      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_6%20August%202026.jpg",
+      "score": 85,
       "source": "iic",
       "tags": [],
-      "time": "03:30 PM",
-      "title": "25TH BCF ANNUAL LECTURE",
-      "url": "https://iicdelhi.in/programmes/25th-bcf-annual-lecture",
-      "venue": "Seminar Rooms 1,2,3"
+      "time": "11:00 AM",
+      "title": "EXHIBITION- अंदरूनी सरहदें (Inner Frontiers)",
+      "url": "https://iicdelhi.in/programmes/exhibition-andarauunai-sarahadaen-inner-frontiers",
+      "venue": "Art Gallery, IIC Annexe"
+    },
+    {
+      "category": "Museum",
+      "date": "2026-08-06",
+      "description": "",
+      "end_date": "2026-08-13",
+      "image": null,
+      "score": 85,
+      "source": "bikanerhouse",
+      "tags": [],
+      "time": null,
+      "title": "Mool",
+      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/8",
+      "venue": "Bikaner House"
     },
     {
       "category": "Book Talk",
-      "date": "2026-08-05",
+      "date": "2026-08-06",
       "description": "",
       "end_date": null,
-      "image": null,
+      "image": "https://aws-static.iicdelhi.in/2026-08/Website%20Programme%20Image_6%20August%202026_2.jpg",
       "score": 75,
-      "source": "ihc",
-      "tags": [],
-      "time": "6:00 PM",
-      "title": "Indo-Pacific as Zone for Peace",
-      "url": "https://indiahabitat.org/Events_details/1374",
-      "venue": "Gulmohar"
-    },
-    {
-      "category": "Film",
-      "date": "2026-08-05",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_5%20August%202026_1_0.jpg",
-      "score": 55,
       "source": "iic",
       "tags": [],
       "time": "06:30 PM",
-      "title": "FILM-  Two Poets and a River",
-      "url": "https://iicdelhi.in/programmes/film-two-poets-and-river",
-      "venue": "Lecture Room I, IIC Annexe"
+      "title": "IIC/Media Dialogues  -Gen Z Risen: How the Media Reported the Youth Protests",
+      "url": "https://iicdelhi.in/programmes/iicmedia-dialogues-gen-z-risen-how-media-reported-youth-protests",
+      "venue": "Conference Room I, IIC main"
+    },
+    {
+      "category": "Cultural",
+      "date": "2026-08-06",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_6%20August%202026_1.jpg",
+      "score": 50,
+      "source": "iic",
+      "tags": [],
+      "time": "06:30 PM",
+      "title": "Afsaana Hui Shaam: Dramatized reading of short stories of Begum Masroor Jahan",
+      "url": "https://iicdelhi.in/programmes/afsaana-hui-shaam-dramatized-reading-short-stories-begum-masroor-jahan",
+      "venue": "C.D. Deshmukh Auditorium, IIC main"
     }
   ],
-  "generated_at": "2026-08-05"
+  "generated_at": "2026-08-06"
 }
