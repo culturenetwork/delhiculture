@@ -1,34 +1,6 @@
 {
-  "count": 52,
+  "count": 50,
   "events": [
-    {
-      "category": "Book Talk",
-      "date": "2026-08-14",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 75,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "Azaadi Se Sukoon Tak: Launch of P-SAD, India’s Program for Prevention of Stress, Anxiety & Depression",
-      "url": "https://indiahabitat.org/Events_details/1346",
-      "venue": "Gulmohar"
-    },
-    {
-      "category": "Cultural",
-      "date": "2026-08-14",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_14%20August%202026.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "MUSIC APPRECIATION PROMOTION  -The Teaching Legacy of Franz Liszt",
-      "url": "https://iicdelhi.in/programmes/music-appreciation-promotion-teaching-legacy-franz-liszt",
-      "venue": "Lecture Room II, IIC Annexe"
-    },
     {
       "category": "Museum",
       "date": "2026-08-16",
@@ -206,24 +178,24 @@
       "score": 75,
       "source": "iic",
       "tags": [],
-      "time": "06:30 PM",
+      "time": "06:00 PM",
       "title": "18TH GIRI DESHINGKAR MEMORIAL LECTURE-  Was Nehru an Englishman?",
       "url": "https://iicdelhi.in/programmes/18th-giri-deshingkar-memorial-lecture-was-nehru-englishman",
       "venue": "Lecture Room II, IIC Annexe"
     },
     {
-      "category": "Library Programmes",
+      "category": "Book Talk",
       "date": "2026-08-20",
       "description": "",
       "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_20%20August%202026.jpg",
-      "score": 50,
+      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_20%20August%202026_1.jpg",
+      "score": 75,
       "source": "iic",
       "tags": [],
-      "time": "06:00 PM",
-      "title": "BOOK DISCUSSION GROUP - The Immortal King: Yama",
-      "url": "https://iicdelhi.in/programmes/book-discussion-group-immortal-king-yama",
-      "venue": "Conference Room II, IIC main"
+      "time": "06:30 PM",
+      "title": "IIC/MEDIA DIALOGUES-  Easy to Launch, Difficult to Sustain? The Future of Independent Digital Media",
+      "url": "https://iicdelhi.in/programmes/iicmedia-dialogues-easy-launch-difficult-sustain-future-independent-digital-media",
+      "venue": "Seminar Rooms 1,2,3"
     },
     {
       "category": "Cultural",
@@ -706,11 +678,11 @@
       "date": "2026-09-01",
       "description": "",
       "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_1%20September%202026.jpg",
+      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
       "score": 75,
       "source": "iic",
       "tags": [],
-      "time": "06:30 PM",
+      "time": "06:00 PM",
       "title": "1940s–1960s: The 13th Dalai Lama's ‘Declaration’ in Tsepon Shakabpa's Tibet: A Political History",
       "url": "https://iicdelhi.in/programmes/1940s-1960s-13th-dalai-lamas-declaration-tsepon-shakabpas-tibet-political-history",
       "venue": "Conference Room II, IIC main"
@@ -730,5 +702,5 @@
       "venue": "Art Gallery, Kamaladevi Complex, IIC"
     }
   ],
-  "generated_at": "2026-08-06"
+  "generated_at": "2026-08-07"
 }

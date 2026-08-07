@@ -1,5 +1,5 @@
 {
-  "count": 78,
+  "count": 76,
   "events": [
     {
       "category": "Museum",
@@ -19,7 +19,7 @@
       "category": "Museum",
       "date": "2026-08-06",
       "description": "Solo exhibition by Namita Prakash, visual artist and interior designer. The artist has exhibited at World Art Dubai, India Art Festival and Qatar International Art Festival",
-      "end_date": "2026-09-13",
+      "end_date": "2026-08-13",
       "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_6%20August%202026.jpg",
       "score": 85,
       "source": "iic",
@@ -42,34 +42,6 @@
       "title": "Mool",
       "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/8",
       "venue": "Bikaner House"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-08-06",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-08/Website%20Programme%20Image_6%20August%202026_2.jpg",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "IIC/Media Dialogues  -Gen Z Risen: How the Media Reported the Youth Protests",
-      "url": "https://iicdelhi.in/programmes/iicmedia-dialogues-gen-z-risen-how-media-reported-youth-protests",
-      "venue": "Conference Room I, IIC main"
-    },
-    {
-      "category": "Cultural",
-      "date": "2026-08-06",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_6%20August%202026_1.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "Afsaana Hui Shaam: Dramatized reading of short stories of Begum Masroor Jahan",
-      "url": "https://iicdelhi.in/programmes/afsaana-hui-shaam-dramatized-reading-short-stories-begum-masroor-jahan",
-      "venue": "C.D. Deshmukh Auditorium, IIC main"
     },
     {
       "category": "Museum",
@@ -570,24 +542,24 @@
       "score": 75,
       "source": "iic",
       "tags": [],
-      "time": "06:30 PM",
+      "time": "06:00 PM",
       "title": "18TH GIRI DESHINGKAR MEMORIAL LECTURE-  Was Nehru an Englishman?",
       "url": "https://iicdelhi.in/programmes/18th-giri-deshingkar-memorial-lecture-was-nehru-englishman",
       "venue": "Lecture Room II, IIC Annexe"
     },
     {
-      "category": "Library Programmes",
+      "category": "Book Talk",
       "date": "2026-08-20",
       "description": "",
       "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_20%20August%202026.jpg",
-      "score": 50,
+      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_20%20August%202026_1.jpg",
+      "score": 75,
       "source": "iic",
       "tags": [],
-      "time": "06:00 PM",
-      "title": "BOOK DISCUSSION GROUP - The Immortal King: Yama",
-      "url": "https://iicdelhi.in/programmes/book-discussion-group-immortal-king-yama",
-      "venue": "Conference Room II, IIC main"
+      "time": "06:30 PM",
+      "title": "IIC/MEDIA DIALOGUES-  Easy to Launch, Difficult to Sustain? The Future of Independent Digital Media",
+      "url": "https://iicdelhi.in/programmes/iicmedia-dialogues-easy-launch-difficult-sustain-future-independent-digital-media",
+      "venue": "Seminar Rooms 1,2,3"
     },
     {
       "category": "Cultural",
@@ -1070,11 +1042,11 @@
       "date": "2026-09-01",
       "description": "",
       "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_1%20September%202026.jpg",
+      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
       "score": 75,
       "source": "iic",
       "tags": [],
-      "time": "06:30 PM",
+      "time": "06:00 PM",
       "title": "1940s–1960s: The 13th Dalai Lama's ‘Declaration’ in Tsepon Shakabpa's Tibet: A Political History",
       "url": "https://iicdelhi.in/programmes/1940s-1960s-13th-dalai-lamas-declaration-tsepon-shakabpas-tibet-political-history",
       "venue": "Conference Room II, IIC main"
@@ -1094,5 +1066,5 @@
       "venue": "Art Gallery, Kamaladevi Complex, IIC"
     }
   ],
-  "generated_at": "2026-08-06"
+  "generated_at": "2026-08-07"
 }

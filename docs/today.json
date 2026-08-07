@@ -1,5 +1,5 @@
 {
-  "count": 5,
+  "count": 7,
   "events": [
     {
       "category": "Museum",
@@ -19,7 +19,7 @@
       "category": "Museum",
       "date": "2026-08-06",
       "description": "Solo exhibition by Namita Prakash, visual artist and interior designer. The artist has exhibited at World Art Dubai, India Art Festival and Qatar International Art Festival",
-      "end_date": "2026-09-13",
+      "end_date": "2026-08-13",
       "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_6%20August%202026.jpg",
       "score": 85,
       "source": "iic",
@@ -44,33 +44,61 @@
       "venue": "Bikaner House"
     },
     {
+      "category": "Museum",
+      "date": "2026-08-07",
+      "description": "",
+      "end_date": "2026-08-13",
+      "image": null,
+      "score": 85,
+      "source": "bikanerhouse",
+      "tags": [],
+      "time": null,
+      "title": "(Re)claiming Rights of Render(ing)",
+      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/8",
+      "venue": "Bikaner House"
+    },
+    {
       "category": "Book Talk",
-      "date": "2026-08-06",
+      "date": "2026-08-07",
       "description": "",
       "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-08/Website%20Programme%20Image_6%20August%202026_2.jpg",
+      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_7%20August%202026_2.jpg",
       "score": 75,
       "source": "iic",
       "tags": [],
       "time": "06:30 PM",
-      "title": "IIC/Media Dialogues  -Gen Z Risen: How the Media Reported the Youth Protests",
-      "url": "https://iicdelhi.in/programmes/iicmedia-dialogues-gen-z-risen-how-media-reported-youth-protests",
+      "title": "Sculptor's Lens: Isamu Noguchi and Premodern India",
+      "url": "https://iicdelhi.in/programmes/sculptors-lens-isamu-noguchi-and-premodern-india",
       "venue": "Conference Room I, IIC main"
     },
     {
-      "category": "Cultural",
-      "date": "2026-08-06",
+      "category": "Library Programmes",
+      "date": "2026-08-07",
       "description": "",
       "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_6%20August%202026_1.jpg",
+      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_7%20August%202026_1.jpg",
+      "score": 50,
+      "source": "iic",
+      "tags": [],
+      "time": "06:00 PM",
+      "title": "BOOK DISCUSSION GROUP-  Raag Darbari: Polity as Fiction, Fiction as Reality",
+      "url": "https://iicdelhi.in/programmes/book-discussion-group-raag-darbari-polity-fiction-fiction-reality",
+      "venue": "Conference Room II, IIC main"
+    },
+    {
+      "category": "Cultural",
+      "date": "2026-08-07",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_7%20August%202026.jpg",
       "score": 50,
       "source": "iic",
       "tags": [],
       "time": "06:30 PM",
-      "title": "Afsaana Hui Shaam: Dramatized reading of short stories of Begum Masroor Jahan",
-      "url": "https://iicdelhi.in/programmes/afsaana-hui-shaam-dramatized-reading-short-stories-begum-masroor-jahan",
+      "title": "Raseedi Ticket – A Journey into the Soul of Amrita Pritam",
+      "url": "https://iicdelhi.in/programmes/raseedi-ticket-journey-soul-amrita-pritam",
       "venue": "C.D. Deshmukh Auditorium, IIC main"
     }
   ],
-  "generated_at": "2026-08-06"
+  "generated_at": "2026-08-07"
 }
