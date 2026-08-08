@@ -58,47 +58,47 @@
       "venue": "Bikaner House"
     },
     {
-      "category": "Book Talk",
-      "date": "2026-08-07",
+      "category": "Indian Classical",
+      "date": "2026-08-08",
       "description": "",
       "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_7%20August%202026_2.jpg",
+      "image": null,
+      "score": 80,
+      "source": "ihc",
+      "tags": [],
+      "time": "7:00 PM",
+      "title": "IHC Lok Sangeet Sammelan. Day 1",
+      "url": "https://indiahabitat.org/Events_details/1326",
+      "venue": "The Stein Auditorium"
+    },
+    {
+      "category": "Book Talk",
+      "date": "2026-08-08",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_8%20August%202026_1.jpg",
       "score": 75,
       "source": "iic",
       "tags": [],
       "time": "06:30 PM",
-      "title": "Sculptor's Lens: Isamu Noguchi and Premodern India",
-      "url": "https://iicdelhi.in/programmes/sculptors-lens-isamu-noguchi-and-premodern-india",
+      "title": "MOUNTAIN DIALOGUES",
+      "url": "https://iicdelhi.in/programmes/mountain-dialogues-1",
       "venue": "Conference Room I, IIC main"
     },
     {
       "category": "Library Programmes",
-      "date": "2026-08-07",
+      "date": "2026-08-08",
       "description": "",
       "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_7%20August%202026_1.jpg",
+      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_8%20August%202026.jpg",
       "score": 50,
       "source": "iic",
       "tags": [],
       "time": "06:00 PM",
-      "title": "BOOK DISCUSSION GROUP-  Raag Darbari: Polity as Fiction, Fiction as Reality",
-      "url": "https://iicdelhi.in/programmes/book-discussion-group-raag-darbari-polity-fiction-fiction-reality",
+      "title": "BOOK DISCUSSION GROUP  -CHINDIA: Journey to an Asian Century.",
+      "url": "https://iicdelhi.in/programmes/book-discussion-group-chindia-journey-asian-century",
       "venue": "Conference Room II, IIC main"
-    },
-    {
-      "category": "Cultural",
-      "date": "2026-08-07",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_7%20August%202026.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "Raseedi Ticket – A Journey into the Soul of Amrita Pritam",
-      "url": "https://iicdelhi.in/programmes/raseedi-ticket-journey-soul-amrita-pritam",
-      "venue": "C.D. Deshmukh Auditorium, IIC main"
     }
   ],
-  "generated_at": "2026-08-07"
+  "generated_at": "2026-08-08"
 }

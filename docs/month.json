@@ -1,5 +1,5 @@
 {
-  "count": 50,
+  "count": 47,
   "events": [
     {
       "category": "Museum",
@@ -174,20 +174,6 @@
       "date": "2026-08-20",
       "description": "",
       "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_20%20August%202026_2_0.jpg",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
-      "time": "06:00 PM",
-      "title": "18TH GIRI DESHINGKAR MEMORIAL LECTURE-  Was Nehru an Englishman?",
-      "url": "https://iicdelhi.in/programmes/18th-giri-deshingkar-memorial-lecture-was-nehru-englishman",
-      "venue": "Lecture Room II, IIC Annexe"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-08-20",
-      "description": "",
-      "end_date": null,
       "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_20%20August%202026_1.jpg",
       "score": 75,
       "source": "iic",
@@ -196,6 +182,20 @@
       "title": "IIC/MEDIA DIALOGUES-  Easy to Launch, Difficult to Sustain? The Future of Independent Digital Media",
       "url": "https://iicdelhi.in/programmes/iicmedia-dialogues-easy-launch-difficult-sustain-future-independent-digital-media",
       "venue": "Seminar Rooms 1,2,3"
+    },
+    {
+      "category": "Library Programmes",
+      "date": "2026-08-20",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_20%20August%202026.jpg",
+      "score": 50,
+      "source": "iic",
+      "tags": [],
+      "time": "06:00 PM",
+      "title": "BOOK DISCUSSION GROUP - The Immortal King: Yama",
+      "url": "https://iicdelhi.in/programmes/book-discussion-group-immortal-king-yama",
+      "venue": "Conference Room II, IIC main"
     },
     {
       "category": "Cultural",
@@ -646,20 +646,6 @@
       "venue": "Conference Room II, IIC main"
     },
     {
-      "category": "Book Talk",
-      "date": "2026-08-31",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20programme%20Image_31%20August_1.jpg",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "Woman| Life| Freedom",
-      "url": "https://iicdelhi.in/programmes/woman-life-freedom",
-      "venue": "Lecture Room II, IIC Annexe"
-    },
-    {
       "category": "Dance",
       "date": "2026-08-31",
       "description": "",
@@ -672,35 +658,7 @@
       "title": "A Celebration of Bharat Vibhav",
       "url": "https://indiahabitat.org/Events_details/1372",
       "venue": "The Stein Auditorium"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-09-01",
-      "description": "",
-      "end_date": null,
-      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
-      "time": "06:00 PM",
-      "title": "1940s–1960s: The 13th Dalai Lama's ‘Declaration’ in Tsepon Shakabpa's Tibet: A Political History",
-      "url": "https://iicdelhi.in/programmes/1940s-1960s-13th-dalai-lamas-declaration-tsepon-shakabpas-tibet-political-history",
-      "venue": "Conference Room II, IIC main"
-    },
-    {
-      "category": "Museum",
-      "date": "2026-09-02",
-      "description": "Solo exhibition by Anup Shrivastava, contemporary artist from Dhar, Madhya Pradesh. He has held numerous solo exhibitions across India and participated in national and international exhibitions.",
-      "end_date": "2026-09-13",
-      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_2%20September%202026.jpg",
-      "score": 85,
-      "source": "iic",
-      "tags": [],
-      "time": "11:00 AM",
-      "title": "EXHIBITION - Rang Mela",
-      "url": "https://iicdelhi.in/programmes/exhibition-rang-mela",
-      "venue": "Art Gallery, Kamaladevi Complex, IIC"
     }
   ],
-  "generated_at": "2026-08-07"
+  "generated_at": "2026-08-08"
 }
