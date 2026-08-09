@@ -1,5 +1,5 @@
 {
-  "count": 7,
+  "count": 5,
   "events": [
     {
       "category": "Museum",
@@ -59,7 +59,7 @@
     },
     {
       "category": "Indian Classical",
-      "date": "2026-08-08",
+      "date": "2026-08-09",
       "description": "",
       "end_date": null,
       "image": null,
@@ -67,38 +67,10 @@
       "source": "ihc",
       "tags": [],
       "time": "7:00 PM",
-      "title": "IHC Lok Sangeet Sammelan. Day 1",
-      "url": "https://indiahabitat.org/Events_details/1326",
+      "title": "IHC Lok Sangeet Sammelan. Day 2",
+      "url": "https://indiahabitat.org/Events_details/1327",
       "venue": "The Stein Auditorium"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-08-08",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_8%20August%202026_1.jpg",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "MOUNTAIN DIALOGUES",
-      "url": "https://iicdelhi.in/programmes/mountain-dialogues-1",
-      "venue": "Conference Room I, IIC main"
-    },
-    {
-      "category": "Library Programmes",
-      "date": "2026-08-08",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_8%20August%202026.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "06:00 PM",
-      "title": "BOOK DISCUSSION GROUP  -CHINDIA: Journey to an Asian Century.",
-      "url": "https://iicdelhi.in/programmes/book-discussion-group-chindia-journey-asian-century",
-      "venue": "Conference Room II, IIC main"
     }
   ],
-  "generated_at": "2026-08-08"
+  "generated_at": "2026-08-09"
 }
