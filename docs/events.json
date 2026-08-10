@@ -1,20 +1,6 @@
 {
-  "count": 71,
+  "count": 69,
   "events": [
-    {
-      "category": "Museum",
-      "date": "2026-08-04",
-      "description": "",
-      "end_date": "2026-08-09",
-      "image": null,
-      "score": 85,
-      "source": "bikanerhouse",
-      "tags": [],
-      "time": null,
-      "title": "Exhibition  of rare and limited-edition  collectibles",
-      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/8",
-      "venue": "Bikaner House"
-    },
     {
       "category": "Museum",
       "date": "2026-08-06",
@@ -56,20 +42,6 @@
       "title": "(Re)claiming Rights of Render(ing)",
       "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/8",
       "venue": "Bikaner House"
-    },
-    {
-      "category": "Indian Classical",
-      "date": "2026-08-09",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 80,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "IHC Lok Sangeet Sammelan. Day 2",
-      "url": "https://indiahabitat.org/Events_details/1327",
-      "venue": "The Stein Auditorium"
     },
     {
       "category": "Book Talk",
@@ -996,5 +968,5 @@
       "venue": "Art Gallery, Kamaladevi Complex, IIC"
     }
   ],
-  "generated_at": "2026-08-09"
+  "generated_at": "2026-08-10"
 }

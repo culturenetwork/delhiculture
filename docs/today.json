@@ -1,20 +1,6 @@
 {
-  "count": 5,
+  "count": 6,
   "events": [
-    {
-      "category": "Museum",
-      "date": "2026-08-04",
-      "description": "",
-      "end_date": "2026-08-09",
-      "image": null,
-      "score": 85,
-      "source": "bikanerhouse",
-      "tags": [],
-      "time": null,
-      "title": "Exhibition  of rare and limited-edition  collectibles",
-      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/8",
-      "venue": "Bikaner House"
-    },
     {
       "category": "Museum",
       "date": "2026-08-06",
@@ -58,19 +44,47 @@
       "venue": "Bikaner House"
     },
     {
-      "category": "Indian Classical",
-      "date": "2026-08-09",
+      "category": "Book Talk",
+      "date": "2026-08-10",
       "description": "",
       "end_date": null,
       "image": null,
-      "score": 80,
+      "score": 75,
       "source": "ihc",
       "tags": [],
       "time": "7:00 PM",
-      "title": "IHC Lok Sangeet Sammelan. Day 2",
-      "url": "https://indiahabitat.org/Events_details/1327",
+      "title": "TERI-IHC Lecture Series",
+      "url": "https://indiahabitat.org/Events_details/1340",
+      "venue": "Gulmohar"
+    },
+    {
+      "category": "Dance",
+      "date": "2026-08-10",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 70,
+      "source": "ihc",
+      "tags": [],
+      "time": "7:00 PM",
+      "title": "Saare Jahan Se Accha Festival. Day 1",
+      "url": "https://indiahabitat.org/Events_details/1373",
       "venue": "The Stein Auditorium"
+    },
+    {
+      "category": "Film",
+      "date": "2026-08-10",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_10%20August%202026.jpg",
+      "score": 55,
+      "source": "iic",
+      "tags": [],
+      "time": "06:30 PM",
+      "title": "FILM -Outsider. Freud",
+      "url": "https://iicdelhi.in/programmes/film-outsider-freud",
+      "venue": "Lecture Room I, IIC Annexe"
     }
   ],
-  "generated_at": "2026-08-09"
+  "generated_at": "2026-08-10"
 }
