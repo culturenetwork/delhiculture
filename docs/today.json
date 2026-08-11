@@ -1,5 +1,5 @@
 {
-  "count": 6,
+  "count": 7,
   "events": [
     {
       "category": "Museum",
@@ -45,21 +45,35 @@
     },
     {
       "category": "Book Talk",
-      "date": "2026-08-10",
+      "date": "2026-08-11",
       "description": "",
       "end_date": null,
-      "image": null,
+      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_11%20August%202026_1.jpg",
       "score": 75,
-      "source": "ihc",
+      "source": "iic",
       "tags": [],
-      "time": "7:00 PM",
-      "title": "TERI-IHC Lecture Series",
-      "url": "https://indiahabitat.org/Events_details/1340",
-      "venue": "Gulmohar"
+      "time": "06:30 PM",
+      "title": "BOOK DISCUSSION GROUP-  Is This the Time for the Indian Elephant and the Chinese Dragon to Dance Together?",
+      "url": "https://iicdelhi.in/programmes/book-discussion-group-time-indian-elephant-and-chinese-dragon-dance-together",
+      "venue": "Lecture Room II, IIC Annexe"
+    },
+    {
+      "category": "Book Talk",
+      "date": "2026-08-11",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_11%20August%202026.jpg",
+      "score": 75,
+      "source": "iic",
+      "tags": [],
+      "time": "10:00 AM",
+      "title": "DIALOGUES IN HEALTH AND WELLNESS",
+      "url": "https://iicdelhi.in/programmes/dialogues-health-and-wellness-36",
+      "venue": "Seminar Rooms 1,2,3"
     },
     {
       "category": "Dance",
-      "date": "2026-08-10",
+      "date": "2026-08-11",
       "description": "",
       "end_date": null,
       "image": null,
@@ -67,24 +81,24 @@
       "source": "ihc",
       "tags": [],
       "time": "7:00 PM",
-      "title": "Saare Jahan Se Accha Festival. Day 1",
-      "url": "https://indiahabitat.org/Events_details/1373",
+      "title": "Saare Jahan Se Accha Festival. Day 2",
+      "url": "https://indiahabitat.org/Events_details/1341",
       "venue": "The Stein Auditorium"
     },
     {
-      "category": "Film",
-      "date": "2026-08-10",
+      "category": "Film Club",
+      "date": "2026-08-11",
       "description": "",
       "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_10%20August%202026.jpg",
-      "score": 55,
+      "image": "https://aws-static.iicdelhi.in/2026-08/Film%20Club%20August_Website%20Programme%20Image%20copy.jpg",
+      "score": 50,
       "source": "iic",
       "tags": [],
       "time": "06:30 PM",
-      "title": "FILM -Outsider. Freud",
-      "url": "https://iicdelhi.in/programmes/film-outsider-freud",
+      "title": "FIPRESCI–IIC SHOWCASE: STORIES FROM CONTEMPORARY INDIA II-Film-GONDHAL",
+      "url": "https://iicdelhi.in/programmes/fipresci-iic-showcase-stories-contemporary-india-ii-film-gondhal",
       "venue": "Lecture Room I, IIC Annexe"
     }
   ],
-  "generated_at": "2026-08-10"
+  "generated_at": "2026-08-11"
 }

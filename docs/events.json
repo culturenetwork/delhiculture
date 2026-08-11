@@ -1,5 +1,5 @@
 {
-  "count": 69,
+  "count": 65,
   "events": [
     {
       "category": "Museum",
@@ -42,48 +42,6 @@
       "title": "(Re)claiming Rights of Render(ing)",
       "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/8",
       "venue": "Bikaner House"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-08-10",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 75,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "TERI-IHC Lecture Series",
-      "url": "https://indiahabitat.org/Events_details/1340",
-      "venue": "Gulmohar"
-    },
-    {
-      "category": "Dance",
-      "date": "2026-08-10",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 70,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "Saare Jahan Se Accha Festival. Day 1",
-      "url": "https://indiahabitat.org/Events_details/1373",
-      "venue": "The Stein Auditorium"
-    },
-    {
-      "category": "Film",
-      "date": "2026-08-10",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_10%20August%202026.jpg",
-      "score": 55,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "FILM -Outsider. Freud",
-      "url": "https://iicdelhi.in/programmes/film-outsider-freud",
-      "venue": "Lecture Room I, IIC Annexe"
     },
     {
       "category": "Book Talk",
@@ -195,7 +153,7 @@
       "time": "06:00 PM",
       "title": "BOOK DISCUSSION GROUP  -The Unbecoming: Let Life Reveal its Purpose",
       "url": "https://iicdelhi.in/programmes/book-discussion-group-unbecoming-let-life-reveal-its-purpose",
-      "venue": "Lecture Room II, IIC Annexe"
+      "venue": "C.D. Deshmukh Auditorium, IIC main"
     },
     {
       "category": "Book Talk",
@@ -445,8 +403,8 @@
       "source": "iic",
       "tags": [],
       "time": "06:30 PM",
-      "title": "IIC/MEDIA DIALOGUES-  Easy to Launch, Difficult to Sustain? The Future of Independent Digital Media",
-      "url": "https://iicdelhi.in/programmes/iicmedia-dialogues-easy-launch-difficult-sustain-future-independent-digital-media",
+      "title": "IIC/Media Dialogues - Digital News Media: Easy to Set Up, Difficult to Sustain?",
+      "url": "https://iicdelhi.in/programmes/iicmedia-dialogues-digital-news-media-easy-set-difficult-sustain",
       "venue": "Seminar Rooms 1,2,3"
     },
     {
@@ -496,13 +454,13 @@
       "date": "2026-08-21",
       "description": "",
       "end_date": null,
-      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "image": "https://aws-static.iicdelhi.in/2026-08/Website%20Programme%20Image_21%20August%202026_2.jpg",
       "score": 75,
       "source": "iic",
       "tags": [],
       "time": "06:30 PM",
-      "title": "ART MATTERS- Protest and the Arts",
-      "url": "https://iicdelhi.in/programmes/art-matters-protest-and-arts",
+      "title": "ART MATTERS CXI- Protest and the Arts",
+      "url": "https://iicdelhi.in/programmes/art-matters-cxi-protest-and-arts",
       "venue": "Seminar Rooms 1,2,3"
     },
     {
@@ -714,20 +672,6 @@
       "title": "Think Smart -  Thinking Strategies",
       "url": "https://iicdelhi.in/programmes/think-smart-thinking-strategies",
       "venue": "Conference Room II, IIC main"
-    },
-    {
-      "category": "Library Programmes",
-      "date": "2026-08-24",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_24%20August%202026.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "06:00 PM",
-      "title": "BOOK DISCUSSION GROUP - Design your thinking",
-      "url": "https://iicdelhi.in/programmes/book-discussion-group-design-your-thinking",
-      "venue": "Lecture Room II, IIC Annexe"
     },
     {
       "category": "Book Talk",
@@ -968,5 +912,5 @@
       "venue": "Art Gallery, Kamaladevi Complex, IIC"
     }
   ],
-  "generated_at": "2026-08-10"
+  "generated_at": "2026-08-11"
 }

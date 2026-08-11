@@ -2,62 +2,6 @@
   "count": 17,
   "events": [
     {
-      "category": "Book Talk",
-      "date": "2026-08-11",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_11%20August%202026_1.jpg",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "BOOK DISCUSSION GROUP-  Is This the Time for the Indian Elephant and the Chinese Dragon to Dance Together?",
-      "url": "https://iicdelhi.in/programmes/book-discussion-group-time-indian-elephant-and-chinese-dragon-dance-together",
-      "venue": "Lecture Room II, IIC Annexe"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-08-11",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_11%20August%202026.jpg",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
-      "time": "10:00 AM",
-      "title": "DIALOGUES IN HEALTH AND WELLNESS",
-      "url": "https://iicdelhi.in/programmes/dialogues-health-and-wellness-36",
-      "venue": "Seminar Rooms 1,2,3"
-    },
-    {
-      "category": "Dance",
-      "date": "2026-08-11",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 70,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "Saare Jahan Se Accha Festival. Day 2",
-      "url": "https://indiahabitat.org/Events_details/1341",
-      "venue": "The Stein Auditorium"
-    },
-    {
-      "category": "Film Club",
-      "date": "2026-08-11",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-08/Film%20Club%20August_Website%20Programme%20Image%20copy.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "FIPRESCI–IIC SHOWCASE: STORIES FROM CONTEMPORARY INDIA II-Film-GONDHAL",
-      "url": "https://iicdelhi.in/programmes/fipresci-iic-showcase-stories-contemporary-india-ii-film-gondhal",
-      "venue": "Lecture Room I, IIC Annexe"
-    },
-    {
       "category": "Indian Classical",
       "date": "2026-08-12",
       "description": "",
@@ -111,7 +55,7 @@
       "time": "06:00 PM",
       "title": "BOOK DISCUSSION GROUP  -The Unbecoming: Let Life Reveal its Purpose",
       "url": "https://iicdelhi.in/programmes/book-discussion-group-unbecoming-let-life-reveal-its-purpose",
-      "venue": "Lecture Room II, IIC Annexe"
+      "venue": "C.D. Deshmukh Auditorium, IIC main"
     },
     {
       "category": "Book Talk",
@@ -238,7 +182,63 @@
       "title": "IHC Connect",
       "url": "https://indiahabitat.org/Events_details/1376",
       "venue": "Gulmohar"
+    },
+    {
+      "category": "Dance",
+      "date": "2026-08-18",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 70,
+      "source": "ihc",
+      "tags": [],
+      "time": "7:00 PM",
+      "title": "Spandana",
+      "url": "https://indiahabitat.org/Events_details/1349",
+      "venue": "The Stein Auditorium"
+    },
+    {
+      "category": "Film",
+      "date": "2026-08-18",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 55,
+      "source": "ihc",
+      "tags": [],
+      "time": "7:00 PM",
+      "title": "Stories of Co-Existence & Conservation from the North East",
+      "url": "https://indiahabitat.org/Events_details/1350",
+      "venue": "Gulmohar"
+    },
+    {
+      "category": "Library Programmes",
+      "date": "2026-08-18",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-08/Website%20Programme%20Image_18%20August%202026.jpg",
+      "score": 50,
+      "source": "iic",
+      "tags": [],
+      "time": "06:00 PM",
+      "title": "BOOK DISCUSSION GROUP - The Quiet that Remains: A poetic mapping of memory and emotion",
+      "url": "https://iicdelhi.in/programmes/book-discussion-group-quiet-remains-poetic-mapping-memory-and-emotion",
+      "venue": "Seminar Rooms 1,2,3"
+    },
+    {
+      "category": "Film Club",
+      "date": "2026-08-18",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-08/Film%20Club%20August_Website%20Programme%20Image%20copy%202.jpg",
+      "score": 50,
+      "source": "iic",
+      "tags": [],
+      "time": "06:30 PM",
+      "title": "FIPRESCI–IIC SHOWCASE: STORIES FROM CONTEMPORARY INDIA II- FEMINICHI FATHIMA (FEMINIST FATHIMA)",
+      "url": "https://iicdelhi.in/programmes/fipresci-iic-showcase-stories-contemporary-india-ii-feminichi-fathima-feminist-fathima",
+      "venue": "Lecture Room I, IIC Annexe"
     }
   ],
-  "generated_at": "2026-08-10"
+  "generated_at": "2026-08-11"
 }
