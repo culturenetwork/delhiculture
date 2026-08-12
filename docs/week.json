@@ -2,62 +2,6 @@
   "count": 17,
   "events": [
     {
-      "category": "Indian Classical",
-      "date": "2026-08-12",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 80,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:30 PM",
-      "title": "Mahaprayan Diwas of Guru Rabindranath Tagore",
-      "url": "https://indiahabitat.org/Events_details/1344",
-      "venue": "The Stein Auditorium"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-08-12",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 75,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "Sikhism's Inclusivity: Punjab's Gift to Humanity",
-      "url": "https://indiahabitat.org/Events_details/1377",
-      "venue": "Gulmohar"
-    },
-    {
-      "category": "Library Programmes",
-      "date": "2026-08-12",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_12%20August%202026.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "06:00 PM",
-      "title": "BOOK DISCUSSION GROUP  -Jayaprakash Narayan: The People's Leader.",
-      "url": "https://iicdelhi.in/programmes/book-discussion-group-jayaprakash-narayan-peoples-leader",
-      "venue": "Conference Room II, IIC main"
-    },
-    {
-      "category": "Library Programmes",
-      "date": "2026-08-12",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_12%20August%202026_1.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "06:00 PM",
-      "title": "BOOK DISCUSSION GROUP  -The Unbecoming: Let Life Reveal its Purpose",
-      "url": "https://iicdelhi.in/programmes/book-discussion-group-unbecoming-let-life-reveal-its-purpose",
-      "venue": "C.D. Deshmukh Auditorium, IIC main"
-    },
-    {
       "category": "Book Talk",
       "date": "2026-08-13",
       "description": "The eighth talk in the Living Landscapes series (conceptualised by Anuj Srivastava), re-examining our relationship with nature and the built environment. A talk by artist and conservationist Arun Kumar HG on learning from the ecosystems of the Western Ghats, followed by a panel discussion with Vijay Dhasmana (ecological restoration), ecologist and author Ghazala Shahabuddin, and Anuj Srivastava.",
@@ -238,7 +182,63 @@
       "title": "FIPRESCI–IIC SHOWCASE: STORIES FROM CONTEMPORARY INDIA II- FEMINICHI FATHIMA (FEMINIST FATHIMA)",
       "url": "https://iicdelhi.in/programmes/fipresci-iic-showcase-stories-contemporary-india-ii-feminichi-fathima-feminist-fathima",
       "venue": "Lecture Room I, IIC Annexe"
+    },
+    {
+      "category": "Museum",
+      "date": "2026-08-19",
+      "description": "The exhibition brings together the works of six contemporary artists whose diverse practices in painting, drawing, printmaking and new media explore the relationships between memory, identity, place and tradition. Through varied artistic languages, the exhibition reflects on the",
+      "end_date": "2026-08-29",
+      "image": "https://aws-static.iicdelhi.in/2026-08/Website%20Programme%20Image_19%20August%202026_1.jpg",
+      "score": 85,
+      "source": "iic",
+      "tags": [],
+      "time": "11:00 AM",
+      "title": "Connections-   A Group Exhibition of Drawings, Prints, Paintings and New Media",
+      "url": "https://iicdelhi.in/programmes/connections-group-exhibition-drawings-prints-paintings-and-new-media",
+      "venue": "Art Gallery, IIC Annexe"
+    },
+    {
+      "category": "Book Talk",
+      "date": "2026-08-19",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 75,
+      "source": "ihc",
+      "tags": [],
+      "time": "7:00 PM",
+      "title": "Building an Athlete Brand: The Modern Athlete's Playbook",
+      "url": "https://indiahabitat.org/Events_details/1351",
+      "venue": "Gulmohar"
+    },
+    {
+      "category": "Book Talk",
+      "date": "2026-08-19",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_19%20August%202026.jpg",
+      "score": 75,
+      "source": "iic",
+      "tags": [],
+      "time": "06:30 PM",
+      "title": "Vaccines: Emerging Viral Outbreaks",
+      "url": "https://iicdelhi.in/programmes/vaccines-emerging-viral-outbreaks",
+      "venue": "Conference Room II, IIC main"
+    },
+    {
+      "category": "Dance",
+      "date": "2026-08-19",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 70,
+      "source": "ihc",
+      "tags": [],
+      "time": "7:00 PM",
+      "title": "Sargun se Nirgun: Kabir in Motion",
+      "url": "https://indiahabitat.org/Events_details/1352",
+      "venue": "The Stein Auditorium"
     }
   ],
-  "generated_at": "2026-08-11"
+  "generated_at": "2026-08-12"
 }
