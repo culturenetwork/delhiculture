@@ -1,5 +1,5 @@
 {
-  "count": 61,
+  "count": 60,
   "events": [
     {
       "category": "Museum",
@@ -42,62 +42,6 @@
       "title": "(Re)claiming Rights of Render(ing)",
       "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/8",
       "venue": "Bikaner House"
-    },
-    {
-      "category": "Indian Classical",
-      "date": "2026-08-12",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 80,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:30 PM",
-      "title": "Mahaprayan Diwas of Guru Rabindranath Tagore",
-      "url": "https://indiahabitat.org/Events_details/1344",
-      "venue": "The Stein Auditorium"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-08-12",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 75,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "Sikhism's Inclusivity: Punjab's Gift to Humanity",
-      "url": "https://indiahabitat.org/Events_details/1377",
-      "venue": "Gulmohar"
-    },
-    {
-      "category": "Library Programmes",
-      "date": "2026-08-12",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_12%20August%202026.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "06:00 PM",
-      "title": "BOOK DISCUSSION GROUP  -Jayaprakash Narayan: The People's Leader.",
-      "url": "https://iicdelhi.in/programmes/book-discussion-group-jayaprakash-narayan-peoples-leader",
-      "venue": "Conference Room II, IIC main"
-    },
-    {
-      "category": "Library Programmes",
-      "date": "2026-08-12",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_12%20August%202026_1.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "06:00 PM",
-      "title": "BOOK DISCUSSION GROUP  -The Unbecoming: Let Life Reveal its Purpose",
-      "url": "https://iicdelhi.in/programmes/book-discussion-group-unbecoming-let-life-reveal-its-purpose",
-      "venue": "C.D. Deshmukh Auditorium, IIC main"
     },
     {
       "category": "Book Talk",
@@ -198,6 +142,20 @@
       "venue": "The Stein Auditorium"
     },
     {
+      "category": "Museum",
+      "date": "2026-08-17",
+      "description": "",
+      "end_date": "2026-08-22",
+      "image": null,
+      "score": 85,
+      "source": "bikanerhouse",
+      "tags": [],
+      "time": null,
+      "title": "Two and a half letters",
+      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/8",
+      "venue": "Bikaner House"
+    },
+    {
       "category": "Book Talk",
       "date": "2026-08-17",
       "description": "",
@@ -280,6 +238,20 @@
       "title": "FIPRESCI–IIC SHOWCASE: STORIES FROM CONTEMPORARY INDIA II- FEMINICHI FATHIMA (FEMINIST FATHIMA)",
       "url": "https://iicdelhi.in/programmes/fipresci-iic-showcase-stories-contemporary-india-ii-feminichi-fathima-feminist-fathima",
       "venue": "Lecture Room I, IIC Annexe"
+    },
+    {
+      "category": "Museum",
+      "date": "2026-08-19",
+      "description": "",
+      "end_date": "2026-08-23",
+      "image": null,
+      "score": 85,
+      "source": "bikanerhouse",
+      "tags": [],
+      "time": null,
+      "title": "Alchemy of Colors",
+      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/8",
+      "venue": "Bikaner House"
     },
     {
       "category": "Museum",
@@ -646,6 +618,20 @@
       "venue": "Conference Room II, IIC main"
     },
     {
+      "category": "Film Club",
+      "date": "2026-08-25",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-08/Film%20Club%20August_Website%20Programme%20Image%20copy%203.jpg",
+      "score": 50,
+      "source": "iic",
+      "tags": [],
+      "time": "06:30 PM",
+      "title": "FIPRESCI–IIC SHOWCASE: STORIES FROM CONTEMPORARY INDIA II- Film- IN THE NAME OF FIRE- SWAHA",
+      "url": "https://iicdelhi.in/programmes/fipresci-iic-showcase-stories-contemporary-india-ii-film-name-fire-swaha",
+      "venue": "C.D. Deshmukh Auditorium, IIC main"
+    },
+    {
       "category": "Indian Classical",
       "date": "2026-08-26",
       "description": "",
@@ -832,7 +818,7 @@
       "date": "2026-09-01",
       "description": "",
       "end_date": null,
-      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "image": "https://aws-static.iicdelhi.in/2026-08/1%20September%202026_Website%20Programme%20Image.jpg",
       "score": 75,
       "source": "iic",
       "tags": [],
@@ -856,5 +842,5 @@
       "venue": "Art Gallery, Kamaladevi Complex, IIC"
     }
   ],
-  "generated_at": "2026-08-12"
+  "generated_at": "2026-08-13"
 }

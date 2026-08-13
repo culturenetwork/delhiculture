@@ -1,5 +1,5 @@
 {
-  "count": 7,
+  "count": 6,
   "events": [
     {
       "category": "Museum",
@@ -44,61 +44,47 @@
       "venue": "Bikaner House"
     },
     {
-      "category": "Indian Classical",
-      "date": "2026-08-12",
-      "description": "",
+      "category": "Book Talk",
+      "date": "2026-08-13",
+      "description": "The eighth talk in the Living Landscapes series (conceptualised by Anuj Srivastava), re-examining our relationship with nature and the built environment. A talk by artist and conservationist Arun Kumar HG on learning from the ecosystems of the Western Ghats, followed by a panel discussion with Vijay Dhasmana (ecological restoration), ecologist and author Ghazala Shahabuddin, and Anuj Srivastava.",
       "end_date": null,
-      "image": null,
-      "score": 80,
-      "source": "ihc",
+      "image": "images/events/art-as-ecology.jpg",
+      "score": 75,
+      "source": "iic",
       "tags": [],
-      "time": "7:30 PM",
-      "title": "Mahaprayan Diwas of Guru Rabindranath Tagore",
-      "url": "https://indiahabitat.org/Events_details/1344",
-      "venue": "The Stein Auditorium"
+      "time": "06:30 PM",
+      "title": "Art as Ecology: Learning from the Ecosystems of the Western Ghats",
+      "url": "https://iicdelhi.in/programmes/current",
+      "venue": "Conference Room 1, IIC main"
     },
     {
       "category": "Book Talk",
-      "date": "2026-08-12",
+      "date": "2026-08-13",
       "description": "",
       "end_date": null,
-      "image": null,
+      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_13%20August%202026_1.jpg",
       "score": 75,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "Sikhism's Inclusivity: Punjab's Gift to Humanity",
-      "url": "https://indiahabitat.org/Events_details/1377",
-      "venue": "Gulmohar"
-    },
-    {
-      "category": "Library Programmes",
-      "date": "2026-08-12",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_12%20August%202026.jpg",
-      "score": 50,
       "source": "iic",
       "tags": [],
-      "time": "06:00 PM",
-      "title": "BOOK DISCUSSION GROUP  -Jayaprakash Narayan: The People's Leader.",
-      "url": "https://iicdelhi.in/programmes/book-discussion-group-jayaprakash-narayan-peoples-leader",
-      "venue": "Conference Room II, IIC main"
+      "time": "06:30 PM",
+      "title": "LIVING LANDSCAPES-  Conceptualized by Anuj Srivastava",
+      "url": "https://iicdelhi.in/programmes/living-landscapes-conceptualized-anuj-srivastava",
+      "venue": "Conference Room I, IIC main"
     },
     {
-      "category": "Library Programmes",
-      "date": "2026-08-12",
+      "category": "Film",
+      "date": "2026-08-13",
       "description": "",
       "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_12%20August%202026_1.jpg",
-      "score": 50,
+      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_13%20August%202026.jpg",
+      "score": 55,
       "source": "iic",
       "tags": [],
-      "time": "06:00 PM",
-      "title": "BOOK DISCUSSION GROUP  -The Unbecoming: Let Life Reveal its Purpose",
-      "url": "https://iicdelhi.in/programmes/book-discussion-group-unbecoming-let-life-reveal-its-purpose",
+      "time": "06:30 PM",
+      "title": "FILM  -Amma’s Way: A Journey to Embrace the World Again",
+      "url": "https://iicdelhi.in/programmes/film-ammas-way-journey-embrace-world-again",
       "venue": "C.D. Deshmukh Auditorium, IIC main"
     }
   ],
-  "generated_at": "2026-08-12"
+  "generated_at": "2026-08-13"
 }

@@ -1,48 +1,6 @@
 {
-  "count": 17,
+  "count": 19,
   "events": [
-    {
-      "category": "Book Talk",
-      "date": "2026-08-13",
-      "description": "The eighth talk in the Living Landscapes series (conceptualised by Anuj Srivastava), re-examining our relationship with nature and the built environment. A talk by artist and conservationist Arun Kumar HG on learning from the ecosystems of the Western Ghats, followed by a panel discussion with Vijay Dhasmana (ecological restoration), ecologist and author Ghazala Shahabuddin, and Anuj Srivastava.",
-      "end_date": null,
-      "image": "images/events/art-as-ecology.jpg",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "Art as Ecology: Learning from the Ecosystems of the Western Ghats",
-      "url": "https://iicdelhi.in/programmes/current",
-      "venue": "Conference Room 1, IIC main"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-08-13",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_13%20August%202026_1.jpg",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "LIVING LANDSCAPES-  Conceptualized by Anuj Srivastava",
-      "url": "https://iicdelhi.in/programmes/living-landscapes-conceptualized-anuj-srivastava",
-      "venue": "Conference Room I, IIC main"
-    },
-    {
-      "category": "Film",
-      "date": "2026-08-13",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_13%20August%202026.jpg",
-      "score": 55,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "FILM  -Amma’s Way: A Journey to Embrace the World Again",
-      "url": "https://iicdelhi.in/programmes/film-ammas-way-journey-embrace-world-again",
-      "venue": "C.D. Deshmukh Auditorium, IIC main"
-    },
     {
       "category": "Book Talk",
       "date": "2026-08-14",
@@ -98,6 +56,20 @@
       "title": "Les Liaisons Dangereuses",
       "url": "https://indiahabitat.org/Events_details/1347",
       "venue": "The Stein Auditorium"
+    },
+    {
+      "category": "Museum",
+      "date": "2026-08-17",
+      "description": "",
+      "end_date": "2026-08-22",
+      "image": null,
+      "score": 85,
+      "source": "bikanerhouse",
+      "tags": [],
+      "time": null,
+      "title": "Two and a half letters",
+      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/8",
+      "venue": "Bikaner House"
     },
     {
       "category": "Book Talk",
@@ -186,6 +158,20 @@
     {
       "category": "Museum",
       "date": "2026-08-19",
+      "description": "",
+      "end_date": "2026-08-23",
+      "image": null,
+      "score": 85,
+      "source": "bikanerhouse",
+      "tags": [],
+      "time": null,
+      "title": "Alchemy of Colors",
+      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/8",
+      "venue": "Bikaner House"
+    },
+    {
+      "category": "Museum",
+      "date": "2026-08-19",
       "description": "The exhibition brings together the works of six contemporary artists whose diverse practices in painting, drawing, printmaking and new media explore the relationships between memory, identity, place and tradition. Through varied artistic languages, the exhibition reflects on the",
       "end_date": "2026-08-29",
       "image": "https://aws-static.iicdelhi.in/2026-08/Website%20Programme%20Image_19%20August%202026_1.jpg",
@@ -238,7 +224,49 @@
       "title": "Sargun se Nirgun: Kabir in Motion",
       "url": "https://indiahabitat.org/Events_details/1352",
       "venue": "The Stein Auditorium"
+    },
+    {
+      "category": "Book Talk",
+      "date": "2026-08-20",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_20%20August%202026_1.jpg",
+      "score": 75,
+      "source": "iic",
+      "tags": [],
+      "time": "06:30 PM",
+      "title": "IIC/Media Dialogues - Digital News Media: Easy to Set Up, Difficult to Sustain?",
+      "url": "https://iicdelhi.in/programmes/iicmedia-dialogues-digital-news-media-easy-set-difficult-sustain",
+      "venue": "Seminar Rooms 1,2,3"
+    },
+    {
+      "category": "Library Programmes",
+      "date": "2026-08-20",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_20%20August%202026.jpg",
+      "score": 50,
+      "source": "iic",
+      "tags": [],
+      "time": "06:00 PM",
+      "title": "BOOK DISCUSSION GROUP - The Immortal King: Yama",
+      "url": "https://iicdelhi.in/programmes/book-discussion-group-immortal-king-yama",
+      "venue": "Conference Room II, IIC main"
+    },
+    {
+      "category": "Cultural",
+      "date": "2026-08-20",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-08/Website%20Programme%20Image_20%20August%202026_3.jpg",
+      "score": 50,
+      "source": "iic",
+      "tags": [],
+      "time": "06:00 PM",
+      "title": "IIC MONSOON FESTIVAL OF DANCE: 20 & 21 AUGUST 2026",
+      "url": "https://iicdelhi.in/programmes/iic-monsoon-festival-dance-20-21-august-2026",
+      "venue": "C.D. Deshmukh Auditorium, IIC main"
     }
   ],
-  "generated_at": "2026-08-12"
+  "generated_at": "2026-08-13"
 }
