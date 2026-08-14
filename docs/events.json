@@ -1,90 +1,6 @@
 {
-  "count": 60,
+  "count": 52,
   "events": [
-    {
-      "category": "Museum",
-      "date": "2026-08-06",
-      "description": "Solo exhibition by Namita Prakash, visual artist and interior designer. The artist has exhibited at World Art Dubai, India Art Festival and Qatar International Art Festival",
-      "end_date": "2026-08-13",
-      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_6%20August%202026.jpg",
-      "score": 85,
-      "source": "iic",
-      "tags": [],
-      "time": "11:00 AM",
-      "title": "EXHIBITION- अंदरूनी सरहदें (Inner Frontiers)",
-      "url": "https://iicdelhi.in/programmes/exhibition-andarauunai-sarahadaen-inner-frontiers",
-      "venue": "Art Gallery, IIC Annexe"
-    },
-    {
-      "category": "Museum",
-      "date": "2026-08-06",
-      "description": "",
-      "end_date": "2026-08-13",
-      "image": null,
-      "score": 85,
-      "source": "bikanerhouse",
-      "tags": [],
-      "time": null,
-      "title": "Mool",
-      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/8",
-      "venue": "Bikaner House"
-    },
-    {
-      "category": "Museum",
-      "date": "2026-08-07",
-      "description": "",
-      "end_date": "2026-08-13",
-      "image": null,
-      "score": 85,
-      "source": "bikanerhouse",
-      "tags": [],
-      "time": null,
-      "title": "(Re)claiming Rights of Render(ing)",
-      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/8",
-      "venue": "Bikaner House"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-08-13",
-      "description": "The eighth talk in the Living Landscapes series (conceptualised by Anuj Srivastava), re-examining our relationship with nature and the built environment. A talk by artist and conservationist Arun Kumar HG on learning from the ecosystems of the Western Ghats, followed by a panel discussion with Vijay Dhasmana (ecological restoration), ecologist and author Ghazala Shahabuddin, and Anuj Srivastava.",
-      "end_date": null,
-      "image": "images/events/art-as-ecology.jpg",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "Art as Ecology: Learning from the Ecosystems of the Western Ghats",
-      "url": "https://iicdelhi.in/programmes/current",
-      "venue": "Conference Room 1, IIC main"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-08-13",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_13%20August%202026_1.jpg",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "LIVING LANDSCAPES-  Conceptualized by Anuj Srivastava",
-      "url": "https://iicdelhi.in/programmes/living-landscapes-conceptualized-anuj-srivastava",
-      "venue": "Conference Room I, IIC main"
-    },
-    {
-      "category": "Film",
-      "date": "2026-08-13",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_13%20August%202026.jpg",
-      "score": 55,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "FILM  -Amma’s Way: A Journey to Embrace the World Again",
-      "url": "https://iicdelhi.in/programmes/film-ammas-way-journey-embrace-world-again",
-      "venue": "C.D. Deshmukh Auditorium, IIC main"
-    },
     {
       "category": "Book Talk",
       "date": "2026-08-14",
@@ -310,20 +226,6 @@
       "venue": "The Stein Auditorium"
     },
     {
-      "category": "Book Talk",
-      "date": "2026-08-20",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_20%20August%202026_1.jpg",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "IIC/Media Dialogues - Digital News Media: Easy to Set Up, Difficult to Sustain?",
-      "url": "https://iicdelhi.in/programmes/iicmedia-dialogues-digital-news-media-easy-set-difficult-sustain",
-      "venue": "Seminar Rooms 1,2,3"
-    },
-    {
       "category": "Library Programmes",
       "date": "2026-08-20",
       "description": "",
@@ -406,20 +308,6 @@
       "title": "Rashtra Yajna: Every Step in Service, Every Beat for the Nation",
       "url": "https://indiahabitat.org/Events_details/1354",
       "venue": "The Stein Auditorium"
-    },
-    {
-      "category": "Cultural",
-      "date": "2026-08-21",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-08/Website%20Programme%20Image_21%20August%202026_1.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "06:00 PM",
-      "title": "IIC MONSOON FESTIVAL OF MUSIC",
-      "url": "https://iicdelhi.in/programmes/iic-monsoon-festival-music",
-      "venue": "C.D. Deshmukh Auditorium, IIC main"
     },
     {
       "category": "Indian Classical",
@@ -842,5 +730,5 @@
       "venue": "Art Gallery, Kamaladevi Complex, IIC"
     }
   ],
-  "generated_at": "2026-08-13"
+  "generated_at": "2026-08-14"
 }

@@ -1,76 +1,6 @@
 {
-  "count": 35,
+  "count": 30,
   "events": [
-    {
-      "category": "Indian Classical",
-      "date": "2026-08-21",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 80,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "21st Pandit Siyaram Tiwari Music Festival",
-      "url": "https://indiahabitat.org/Events_details/1353",
-      "venue": "The Theatre"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-08-21",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-08/Website%20Programme%20Image_21%20August%202026_2.jpg",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "ART MATTERS CXI- Protest and the Arts",
-      "url": "https://iicdelhi.in/programmes/art-matters-cxi-protest-and-arts",
-      "venue": "Seminar Rooms 1,2,3"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-08-21",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-08/Website%20Programme%20Image_21%20August%202026.png",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "Decoding Bangladesh",
-      "url": "https://iicdelhi.in/programmes/decoding-bangladesh",
-      "venue": "Conference Room II, IIC main"
-    },
-    {
-      "category": "Dance",
-      "date": "2026-08-21",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 70,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "Rashtra Yajna: Every Step in Service, Every Beat for the Nation",
-      "url": "https://indiahabitat.org/Events_details/1354",
-      "venue": "The Stein Auditorium"
-    },
-    {
-      "category": "Cultural",
-      "date": "2026-08-21",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-08/Website%20Programme%20Image_21%20August%202026_1.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "06:00 PM",
-      "title": "IIC MONSOON FESTIVAL OF MUSIC",
-      "url": "https://iicdelhi.in/programmes/iic-monsoon-festival-music",
-      "venue": "C.D. Deshmukh Auditorium, IIC main"
-    },
     {
       "category": "Indian Classical",
       "date": "2026-08-22",
@@ -492,5 +422,5 @@
       "venue": "Art Gallery, Kamaladevi Complex, IIC"
     }
   ],
-  "generated_at": "2026-08-13"
+  "generated_at": "2026-08-14"
 }

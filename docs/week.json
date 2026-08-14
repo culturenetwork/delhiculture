@@ -1,34 +1,6 @@
 {
-  "count": 19,
+  "count": 20,
   "events": [
-    {
-      "category": "Book Talk",
-      "date": "2026-08-14",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 75,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "Azaadi Se Sukoon Tak: Launch of P-SAD, India’s Program for Prevention of Stress, Anxiety & Depression",
-      "url": "https://indiahabitat.org/Events_details/1346",
-      "venue": "Gulmohar"
-    },
-    {
-      "category": "Cultural",
-      "date": "2026-08-14",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_14%20August%202026.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "MUSIC APPRECIATION PROMOTION  -The Teaching Legacy of Franz Liszt",
-      "url": "https://iicdelhi.in/programmes/music-appreciation-promotion-teaching-legacy-franz-liszt",
-      "venue": "Lecture Room II, IIC Annexe"
-    },
     {
       "category": "Museum",
       "date": "2026-08-16",
@@ -226,20 +198,6 @@
       "venue": "The Stein Auditorium"
     },
     {
-      "category": "Book Talk",
-      "date": "2026-08-20",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_20%20August%202026_1.jpg",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "IIC/Media Dialogues - Digital News Media: Easy to Set Up, Difficult to Sustain?",
-      "url": "https://iicdelhi.in/programmes/iicmedia-dialogues-digital-news-media-easy-set-difficult-sustain",
-      "venue": "Seminar Rooms 1,2,3"
-    },
-    {
       "category": "Library Programmes",
       "date": "2026-08-20",
       "description": "",
@@ -266,7 +224,63 @@
       "title": "IIC MONSOON FESTIVAL OF DANCE: 20 & 21 AUGUST 2026",
       "url": "https://iicdelhi.in/programmes/iic-monsoon-festival-dance-20-21-august-2026",
       "venue": "C.D. Deshmukh Auditorium, IIC main"
+    },
+    {
+      "category": "Indian Classical",
+      "date": "2026-08-21",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 80,
+      "source": "ihc",
+      "tags": [],
+      "time": "7:00 PM",
+      "title": "21st Pandit Siyaram Tiwari Music Festival",
+      "url": "https://indiahabitat.org/Events_details/1353",
+      "venue": "The Theatre"
+    },
+    {
+      "category": "Book Talk",
+      "date": "2026-08-21",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-08/Website%20Programme%20Image_21%20August%202026_2.jpg",
+      "score": 75,
+      "source": "iic",
+      "tags": [],
+      "time": "06:30 PM",
+      "title": "ART MATTERS CXI- Protest and the Arts",
+      "url": "https://iicdelhi.in/programmes/art-matters-cxi-protest-and-arts",
+      "venue": "Seminar Rooms 1,2,3"
+    },
+    {
+      "category": "Book Talk",
+      "date": "2026-08-21",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-08/Website%20Programme%20Image_21%20August%202026.png",
+      "score": 75,
+      "source": "iic",
+      "tags": [],
+      "time": "06:30 PM",
+      "title": "Decoding Bangladesh",
+      "url": "https://iicdelhi.in/programmes/decoding-bangladesh",
+      "venue": "Conference Room II, IIC main"
+    },
+    {
+      "category": "Dance",
+      "date": "2026-08-21",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 70,
+      "source": "ihc",
+      "tags": [],
+      "time": "7:00 PM",
+      "title": "Rashtra Yajna: Every Step in Service, Every Beat for the Nation",
+      "url": "https://indiahabitat.org/Events_details/1354",
+      "venue": "The Stein Auditorium"
     }
   ],
-  "generated_at": "2026-08-13"
+  "generated_at": "2026-08-14"
 }
