@@ -1,34 +1,5 @@
 {
-  "count": 2,
-  "events": [
-    {
-      "category": "Book Talk",
-      "date": "2026-08-14",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 75,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "Azaadi Se Sukoon Tak: Launch of P-SAD, India’s Program for Prevention of Stress, Anxiety & Depression",
-      "url": "https://indiahabitat.org/Events_details/1346",
-      "venue": "Gulmohar"
-    },
-    {
-      "category": "Cultural",
-      "date": "2026-08-14",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_14%20August%202026.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "MUSIC APPRECIATION PROMOTION  -The Teaching Legacy of Franz Liszt",
-      "url": "https://iicdelhi.in/programmes/music-appreciation-promotion-teaching-legacy-franz-liszt",
-      "venue": "Lecture Room II, IIC Annexe"
-    }
-  ],
-  "generated_at": "2026-08-14"
+  "count": 0,
+  "events": [],
+  "generated_at": "2026-08-15"
 }

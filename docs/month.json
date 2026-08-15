@@ -1,90 +1,6 @@
 {
-  "count": 30,
+  "count": 24,
   "events": [
-    {
-      "category": "Indian Classical",
-      "date": "2026-08-22",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 80,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "चहुँमुखी… A Musical Efflorescence of Dhrupad, Khayal, Thumri & Bhajan",
-      "url": "https://indiahabitat.org/Events_details/1357",
-      "venue": "The Theatre"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-08-22",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-08/Website%20Programme%20Image_22%20August%202026_1.jpg",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "A Symphony of Discordant Notes: Navigating Evolving Technologies, Copyright Law, and Age-Old Indian Music",
-      "url": "https://iicdelhi.in/programmes/symphony-discordant-notes-navigating-evolving-technologies-copyright-law-and-age-old",
-      "venue": "Conference Room I, IIC main"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-08-22",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 75,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "Bharat Bodh: A National Seminar on India’s Knowledge Traditions",
-      "url": "https://indiahabitat.org/Events_details/1356",
-      "venue": "Gulmohar"
-    },
-    {
-      "category": "Theatre",
-      "date": "2026-08-22",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 65,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "Dalla Ayaara",
-      "url": "https://indiahabitat.org/Events_details/1358",
-      "venue": "The Stein Auditorium"
-    },
-    {
-      "category": "Film & Talk",
-      "date": "2026-08-22",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 50,
-      "source": "ihc",
-      "tags": [],
-      "time": "6:00 PM",
-      "title": "Baul Singers of Bengal",
-      "url": "https://indiahabitat.org/Events_details/1355",
-      "venue": "Online"
-    },
-    {
-      "category": "Cultural",
-      "date": "2026-08-22",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_22%20August%202026.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "06:00 PM",
-      "title": "Life and Legacy of Kazi Nazrul Islam",
-      "url": "https://iicdelhi.in/programmes/life-and-legacy-kazi-nazrul-islam",
-      "venue": "Lecture Room II, IIC Annexe"
-    },
     {
       "category": "Theatre",
       "date": "2026-08-23",
@@ -412,7 +328,7 @@
       "date": "2026-09-02",
       "description": "Solo exhibition by Anup Shrivastava, contemporary artist from Dhar, Madhya Pradesh. He has held numerous solo exhibitions across India and participated in national and international exhibitions.",
       "end_date": "2026-09-13",
-      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_2%20September%202026.jpg",
+      "image": "https://aws-static.iicdelhi.in/2026-08/2%20September%202026_Website%20Programme%20Image.jpg",
       "score": 85,
       "source": "iic",
       "tags": [],
@@ -422,5 +338,5 @@
       "venue": "Art Gallery, Kamaladevi Complex, IIC"
     }
   ],
-  "generated_at": "2026-08-14"
+  "generated_at": "2026-08-15"
 }

@@ -1,34 +1,6 @@
 {
-  "count": 52,
+  "count": 53,
   "events": [
-    {
-      "category": "Book Talk",
-      "date": "2026-08-14",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 75,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "Azaadi Se Sukoon Tak: Launch of P-SAD, India’s Program for Prevention of Stress, Anxiety & Depression",
-      "url": "https://indiahabitat.org/Events_details/1346",
-      "venue": "Gulmohar"
-    },
-    {
-      "category": "Cultural",
-      "date": "2026-08-14",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_14%20August%202026.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "MUSIC APPRECIATION PROMOTION  -The Teaching Legacy of Franz Liszt",
-      "url": "https://iicdelhi.in/programmes/music-appreciation-promotion-teaching-legacy-franz-liszt",
-      "venue": "Lecture Room II, IIC Annexe"
-    },
     {
       "category": "Museum",
       "date": "2026-08-16",
@@ -226,6 +198,20 @@
       "venue": "The Stein Auditorium"
     },
     {
+      "category": "Book Talk",
+      "date": "2026-08-20",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_20%20August%202026_1.jpg",
+      "score": 75,
+      "source": "iic",
+      "tags": [],
+      "time": "06:30 PM",
+      "title": "IIC/Media Dialogues - Digital News Media: Easy to Set Up, Difficult to Sustain?",
+      "url": "https://iicdelhi.in/programmes/iicmedia-dialogues-digital-news-media-easy-set-difficult-sustain",
+      "venue": "Seminar Rooms 1,2,3"
+    },
+    {
       "category": "Library Programmes",
       "date": "2026-08-20",
       "description": "",
@@ -308,6 +294,34 @@
       "title": "Rashtra Yajna: Every Step in Service, Every Beat for the Nation",
       "url": "https://indiahabitat.org/Events_details/1354",
       "venue": "The Stein Auditorium"
+    },
+    {
+      "category": "Library Programmes",
+      "date": "2026-08-21",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-08/Website%20Programme%20Image_21%20August%202026_3.jpg",
+      "score": 50,
+      "source": "iic",
+      "tags": [],
+      "time": "06:00 PM",
+      "title": "Book Discussion Group  -The Kashmiri Yogi Extraordinaire Gopi Krishna Shivpuri",
+      "url": "https://iicdelhi.in/programmes/book-discussion-group-kashmiri-yogi-extraordinaire-gopi-krishna-shivpuri",
+      "venue": "Lecture Room II, IIC Annexe"
+    },
+    {
+      "category": "Cultural",
+      "date": "2026-08-21",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-08/Website%20Programme%20Image_21%20August%202026_1.jpg",
+      "score": 50,
+      "source": "iic",
+      "tags": [],
+      "time": "06:00 PM",
+      "title": "IIC MONSOON FESTIVAL OF MUSIC",
+      "url": "https://iicdelhi.in/programmes/iic-monsoon-festival-music",
+      "venue": "C.D. Deshmukh Auditorium, IIC main"
     },
     {
       "category": "Indian Classical",
@@ -720,7 +734,7 @@
       "date": "2026-09-02",
       "description": "Solo exhibition by Anup Shrivastava, contemporary artist from Dhar, Madhya Pradesh. He has held numerous solo exhibitions across India and participated in national and international exhibitions.",
       "end_date": "2026-09-13",
-      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_2%20September%202026.jpg",
+      "image": "https://aws-static.iicdelhi.in/2026-08/2%20September%202026_Website%20Programme%20Image.jpg",
       "score": 85,
       "source": "iic",
       "tags": [],
@@ -730,5 +744,5 @@
       "venue": "Art Gallery, Kamaladevi Complex, IIC"
     }
   ],
-  "generated_at": "2026-08-14"
+  "generated_at": "2026-08-15"
 }
