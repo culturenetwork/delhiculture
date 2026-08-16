@@ -1,5 +1,34 @@
 {
-  "count": 0,
-  "events": [],
-  "generated_at": "2026-08-15"
+  "count": 2,
+  "events": [
+    {
+      "category": "Museum",
+      "date": "2026-08-16",
+      "description": "By Ravi Shail, Delhi-based artist and photographer. Recipient of Lalit Kala Akademi National Academy Award and the National Photography Award (Govt. of India)",
+      "end_date": "2026-08-29",
+      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_16%20August%202026.jpg",
+      "score": 85,
+      "source": "iic",
+      "tags": [],
+      "time": "11:00 AM",
+      "title": "EXHIBITION -  Unconfined",
+      "url": "https://iicdelhi.in/programmes/exhibition-unconfined",
+      "venue": "Art Gallery, Kamaladevi Complex, IIC"
+    },
+    {
+      "category": "Film & Theatre",
+      "date": "2026-08-16",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 50,
+      "source": "ihc",
+      "tags": [],
+      "time": "7:00 PM",
+      "title": "Les Liaisons Dangereuses",
+      "url": "https://indiahabitat.org/Events_details/1347",
+      "venue": "The Stein Auditorium"
+    }
+  ],
+  "generated_at": "2026-08-16"
 }

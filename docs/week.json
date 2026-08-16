@@ -1,34 +1,6 @@
 {
-  "count": 29,
+  "count": 27,
   "events": [
-    {
-      "category": "Museum",
-      "date": "2026-08-16",
-      "description": "By Ravi Shail, Delhi-based artist and photographer. Recipient of Lalit Kala Akademi National Academy Award and the National Photography Award (Govt. of India)",
-      "end_date": "2026-08-29",
-      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_16%20August%202026.jpg",
-      "score": 85,
-      "source": "iic",
-      "tags": [],
-      "time": "11:00 AM",
-      "title": "EXHIBITION -  Unconfined",
-      "url": "https://iicdelhi.in/programmes/exhibition-unconfined",
-      "venue": "Art Gallery, Kamaladevi Complex, IIC"
-    },
-    {
-      "category": "Film & Theatre",
-      "date": "2026-08-16",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 50,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "Les Liaisons Dangereuses",
-      "url": "https://indiahabitat.org/Events_details/1347",
-      "venue": "The Stein Auditorium"
-    },
     {
       "category": "Museum",
       "date": "2026-08-17",
@@ -258,20 +230,6 @@
       "date": "2026-08-21",
       "description": "",
       "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-08/Website%20Programme%20Image_21%20August%202026_2.jpg",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "ART MATTERS CXI- Protest and the Arts",
-      "url": "https://iicdelhi.in/programmes/art-matters-cxi-protest-and-arts",
-      "venue": "Seminar Rooms 1,2,3"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-08-21",
-      "description": "",
-      "end_date": null,
       "image": "https://aws-static.iicdelhi.in/2026-08/Website%20Programme%20Image_21%20August%202026.png",
       "score": 75,
       "source": "iic",
@@ -406,7 +364,21 @@
       "title": "Life and Legacy of Kazi Nazrul Islam",
       "url": "https://iicdelhi.in/programmes/life-and-legacy-kazi-nazrul-islam",
       "venue": "Lecture Room II, IIC Annexe"
+    },
+    {
+      "category": "Theatre",
+      "date": "2026-08-23",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 65,
+      "source": "ihc",
+      "tags": [],
+      "time": "7:00 PM",
+      "title": "Dastan - e - Raahi",
+      "url": "https://indiahabitat.org/Events_details/1359",
+      "venue": "The Stein Auditorium"
     }
   ],
-  "generated_at": "2026-08-15"
+  "generated_at": "2026-08-16"
 }

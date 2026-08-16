@@ -1,5 +1,5 @@
 {
-  "count": 53,
+  "count": 52,
   "events": [
     {
       "category": "Museum",
@@ -252,20 +252,6 @@
       "title": "21st Pandit Siyaram Tiwari Music Festival",
       "url": "https://indiahabitat.org/Events_details/1353",
       "venue": "The Theatre"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-08-21",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-08/Website%20Programme%20Image_21%20August%202026_2.jpg",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "ART MATTERS CXI- Protest and the Arts",
-      "url": "https://iicdelhi.in/programmes/art-matters-cxi-protest-and-arts",
-      "venue": "Seminar Rooms 1,2,3"
     },
     {
       "category": "Book Talk",
@@ -744,5 +730,5 @@
       "venue": "Art Gallery, Kamaladevi Complex, IIC"
     }
   ],
-  "generated_at": "2026-08-15"
+  "generated_at": "2026-08-16"
 }

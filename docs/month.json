@@ -1,20 +1,6 @@
 {
-  "count": 24,
+  "count": 23,
   "events": [
-    {
-      "category": "Theatre",
-      "date": "2026-08-23",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 65,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "Dastan - e - Raahi",
-      "url": "https://indiahabitat.org/Events_details/1359",
-      "venue": "The Stein Auditorium"
-    },
     {
       "category": "Indian Classical",
       "date": "2026-08-24",
@@ -338,5 +324,5 @@
       "venue": "Art Gallery, Kamaladevi Complex, IIC"
     }
   ],
-  "generated_at": "2026-08-15"
+  "generated_at": "2026-08-16"
 }
