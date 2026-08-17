@@ -1,5 +1,5 @@
 {
-  "count": 2,
+  "count": 4,
   "events": [
     {
       "category": "Museum",
@@ -16,19 +16,47 @@
       "venue": "Art Gallery, Kamaladevi Complex, IIC"
     },
     {
-      "category": "Film & Theatre",
-      "date": "2026-08-16",
+      "category": "Museum",
+      "date": "2026-08-17",
+      "description": "",
+      "end_date": "2026-08-22",
+      "image": null,
+      "score": 85,
+      "source": "bikanerhouse",
+      "tags": [],
+      "time": null,
+      "title": "Two and a half letters",
+      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/8",
+      "venue": "Bikaner House"
+    },
+    {
+      "category": "Book Talk",
+      "date": "2026-08-17",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Inage_17%20August%202026.jpg",
+      "score": 75,
+      "source": "iic",
+      "tags": [],
+      "time": "06:30 PM",
+      "title": "Building Resilient Relations: People as Stakeholders",
+      "url": "https://iicdelhi.in/programmes/building-resilient-relations-people-stakeholders",
+      "venue": "Conference Room I, IIC main"
+    },
+    {
+      "category": "Book Talk",
+      "date": "2026-08-17",
       "description": "",
       "end_date": null,
       "image": null,
-      "score": 50,
+      "score": 75,
       "source": "ihc",
       "tags": [],
       "time": "7:00 PM",
-      "title": "Les Liaisons Dangereuses",
-      "url": "https://indiahabitat.org/Events_details/1347",
-      "venue": "The Stein Auditorium"
+      "title": "IHC Connect",
+      "url": "https://indiahabitat.org/Events_details/1376",
+      "venue": "Gulmohar"
     }
   ],
-  "generated_at": "2026-08-16"
+  "generated_at": "2026-08-17"
 }
