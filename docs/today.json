@@ -1,5 +1,5 @@
 {
-  "count": 6,
+  "count": 8,
   "events": [
     {
       "category": "Museum",
@@ -30,8 +30,78 @@
       "venue": "Bikaner House"
     },
     {
+      "category": "Museum",
+      "date": "2026-08-19",
+      "description": "",
+      "end_date": "2026-08-23",
+      "image": null,
+      "score": 85,
+      "source": "bikanerhouse",
+      "tags": [],
+      "time": null,
+      "title": "Alchemy of Colors",
+      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/8",
+      "venue": "Bikaner House"
+    },
+    {
+      "category": "Museum",
+      "date": "2026-08-19",
+      "description": "The exhibition brings together the works of six contemporary artists whose diverse practices in painting, drawing, printmaking and new media explore the relationships between memory, identity, place and tradition. Through varied artistic languages, the exhibition reflects on the",
+      "end_date": "2026-08-29",
+      "image": "https://aws-static.iicdelhi.in/2026-08/Website%20Programme%20Image_19%20August%202026_1.jpg",
+      "score": 85,
+      "source": "iic",
+      "tags": [],
+      "time": "11:00 AM",
+      "title": "Connections-   A Group Exhibition of Drawings, Prints, Paintings and New Media",
+      "url": "https://iicdelhi.in/programmes/connections-group-exhibition-drawings-prints-paintings-and-new-media",
+      "venue": "Art Gallery, IIC Annexe"
+    },
+    {
+      "category": "Book Talk",
+      "date": "2026-08-19",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 75,
+      "source": "ihc",
+      "tags": [],
+      "time": "7:00 PM",
+      "title": "Building an Athlete Brand: The Modern Athlete's Playbook",
+      "url": "https://indiahabitat.org/Events_details/1351",
+      "venue": "Gulmohar"
+    },
+    {
+      "category": "Book Talk",
+      "date": "2026-08-19",
+      "description": "Discussants: Ashish Chawla, Ravi Dhingra, Ravi Shail, Manoj Jain, Sanjay Das, Maneesh Aggarwal and Ashwani Prithviwasi",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-08/Website%20Programme%20Image_19%20August%202026_2.jpg",
+      "score": 75,
+      "source": "iic",
+      "tags": [],
+      "time": "03:00 PM",
+      "title": "Photography: What Next?",
+      "url": "https://iicdelhi.in/programmes/photography-what-next",
+      "venue": "Art Gallery, Kamaladevi Complex, IIC"
+    },
+    {
+      "category": "Book Talk",
+      "date": "2026-08-19",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_19%20August%202026.jpg",
+      "score": 75,
+      "source": "iic",
+      "tags": [],
+      "time": "06:30 PM",
+      "title": "Vaccines: Emerging Viral Outbreaks",
+      "url": "https://iicdelhi.in/programmes/vaccines-emerging-viral-outbreaks",
+      "venue": "Conference Room II, IIC main"
+    },
+    {
       "category": "Dance",
-      "date": "2026-08-18",
+      "date": "2026-08-19",
       "description": "",
       "end_date": null,
       "image": null,
@@ -39,52 +109,10 @@
       "source": "ihc",
       "tags": [],
       "time": "7:00 PM",
-      "title": "Spandana",
-      "url": "https://indiahabitat.org/Events_details/1349",
+      "title": "Sargun se Nirgun: Kabir in Motion",
+      "url": "https://indiahabitat.org/Events_details/1352",
       "venue": "The Stein Auditorium"
-    },
-    {
-      "category": "Film",
-      "date": "2026-08-18",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 55,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "Stories of Co-Existence & Conservation from the North East",
-      "url": "https://indiahabitat.org/Events_details/1350",
-      "venue": "Gulmohar"
-    },
-    {
-      "category": "Library Programmes",
-      "date": "2026-08-18",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-08/Website%20Programme%20Image_18%20August%202026.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "06:00 PM",
-      "title": "BOOK DISCUSSION GROUP - The Quiet that Remains: A poetic mapping of memory and emotion",
-      "url": "https://iicdelhi.in/programmes/book-discussion-group-quiet-remains-poetic-mapping-memory-and-emotion",
-      "venue": "Seminar Rooms 1,2,3"
-    },
-    {
-      "category": "Film Club",
-      "date": "2026-08-18",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-08/Film%20Club%20August_Website%20Programme%20Image%20copy%202.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "FIPRESCI–IIC SHOWCASE: STORIES FROM CONTEMPORARY INDIA II- FEMINICHI FATHIMA (FEMINIST FATHIMA)",
-      "url": "https://iicdelhi.in/programmes/fipresci-iic-showcase-stories-contemporary-india-ii-feminichi-fathima-feminist-fathima",
-      "venue": "Lecture Room I, IIC Annexe"
     }
   ],
-  "generated_at": "2026-08-18"
+  "generated_at": "2026-08-19"
 }
