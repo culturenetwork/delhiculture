@@ -1,6 +1,20 @@
 {
-  "count": 47,
+  "count": 44,
   "events": [
+    {
+      "category": "Museum",
+      "date": "2026-08-15",
+      "description": "",
+      "end_date": "2026-08-24",
+      "image": null,
+      "score": 85,
+      "source": "bikanerhouse",
+      "tags": [],
+      "time": null,
+      "title": "Teej Utsav 2026",
+      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/8",
+      "venue": "Bikaner House"
+    },
     {
       "category": "Museum",
       "date": "2026-08-16",
@@ -56,62 +70,6 @@
       "title": "Connections-   A Group Exhibition of Drawings, Prints, Paintings and New Media",
       "url": "https://iicdelhi.in/programmes/connections-group-exhibition-drawings-prints-paintings-and-new-media",
       "venue": "Art Gallery, IIC Annexe"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-08-19",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 75,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "Building an Athlete Brand: The Modern Athlete's Playbook",
-      "url": "https://indiahabitat.org/Events_details/1351",
-      "venue": "Gulmohar"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-08-19",
-      "description": "Discussants: Ashish Chawla, Ravi Dhingra, Ravi Shail, Manoj Jain, Sanjay Das, Maneesh Aggarwal and Ashwani Prithviwasi",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-08/Website%20Programme%20Image_19%20August%202026_2.jpg",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
-      "time": "03:00 PM",
-      "title": "Photography: What Next?",
-      "url": "https://iicdelhi.in/programmes/photography-what-next",
-      "venue": "Art Gallery, Kamaladevi Complex, IIC"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-08-19",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_19%20August%202026.jpg",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "Vaccines: Emerging Viral Outbreaks",
-      "url": "https://iicdelhi.in/programmes/vaccines-emerging-viral-outbreaks",
-      "venue": "Conference Room II, IIC main"
-    },
-    {
-      "category": "Dance",
-      "date": "2026-08-19",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 70,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "Sargun se Nirgun: Kabir in Motion",
-      "url": "https://indiahabitat.org/Events_details/1352",
-      "venue": "The Stein Auditorium"
     },
     {
       "category": "Book Talk",
@@ -660,5 +618,5 @@
       "venue": "Art Gallery, Kamaladevi Complex, IIC"
     }
   ],
-  "generated_at": "2026-08-19"
+  "generated_at": "2026-08-20"
 }

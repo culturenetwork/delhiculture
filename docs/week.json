@@ -2,48 +2,6 @@
   "count": 27,
   "events": [
     {
-      "category": "Book Talk",
-      "date": "2026-08-20",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_20%20August%202026_1.jpg",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "IIC/Media Dialogues - Digital News Media: Easy to Set Up, Difficult to Sustain?",
-      "url": "https://iicdelhi.in/programmes/iicmedia-dialogues-digital-news-media-easy-set-difficult-sustain",
-      "venue": "Seminar Rooms 1,2,3"
-    },
-    {
-      "category": "Library Programmes",
-      "date": "2026-08-20",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_20%20August%202026.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "06:00 PM",
-      "title": "BOOK DISCUSSION GROUP - The Immortal King: Yama",
-      "url": "https://iicdelhi.in/programmes/book-discussion-group-immortal-king-yama",
-      "venue": "Conference Room II, IIC main"
-    },
-    {
-      "category": "Cultural",
-      "date": "2026-08-20",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-08/Website%20Programme%20Image_20%20August%202026_3.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "06:00 PM",
-      "title": "IIC MONSOON FESTIVAL OF DANCE: 20 & 21 AUGUST 2026",
-      "url": "https://iicdelhi.in/programmes/iic-monsoon-festival-dance-20-21-august-2026",
-      "venue": "C.D. Deshmukh Auditorium, IIC main"
-    },
-    {
       "category": "Indian Classical",
       "date": "2026-08-21",
       "description": "",
@@ -378,7 +336,49 @@
       "title": "National Dance & Music Festival 2026",
       "url": "https://indiahabitat.org/Events_details/1364",
       "venue": "The Stein Auditorium"
+    },
+    {
+      "category": "Indian Classical",
+      "date": "2026-08-27",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 80,
+      "source": "ihc",
+      "tags": [],
+      "time": "7:00 PM",
+      "title": "Concert of classic melodies",
+      "url": "https://indiahabitat.org/Events_details/1366",
+      "venue": "The Theatre"
+    },
+    {
+      "category": "Book Talk",
+      "date": "2026-08-27",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 75,
+      "source": "ihc",
+      "tags": [],
+      "time": "7:00 PM",
+      "title": "Indian Poetics on Trees / Natural World",
+      "url": "https://indiahabitat.org/Events_details/1367",
+      "venue": "Gulmohar"
+    },
+    {
+      "category": "Library Programmes",
+      "date": "2026-08-27",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_27%20August%202026.jpg",
+      "score": 50,
+      "source": "iic",
+      "tags": [],
+      "time": "06:00 PM",
+      "title": "BOOK DISCUSSION GROUP-   Migrants and other poems: A Collection of Reflective Poetry on Loss, Migration, and Displacement",
+      "url": "https://iicdelhi.in/programmes/book-discussion-group-migrants-and-other-poems-collection-reflective-poetry-loss",
+      "venue": "Conference Room II, IIC main"
     }
   ],
-  "generated_at": "2026-08-19"
+  "generated_at": "2026-08-20"
 }
