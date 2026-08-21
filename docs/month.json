@@ -3,20 +3,6 @@
   "events": [
     {
       "category": "Dance",
-      "date": "2026-08-28",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 70,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "Parijatham",
-      "url": "https://indiahabitat.org/Events_details/1368",
-      "venue": "The Stein Auditorium"
-    },
-    {
-      "category": "Dance",
       "date": "2026-08-29",
       "description": "",
       "end_date": null,
@@ -56,6 +42,20 @@
       "title": "Hansika: An Adaptation of Swan Lake",
       "url": "https://indiahabitat.org/Events_details/1371",
       "venue": "The Stein Auditorium"
+    },
+    {
+      "category": "Museum",
+      "date": "2026-08-31",
+      "description": "",
+      "end_date": "2026-09-05",
+      "image": null,
+      "score": 85,
+      "source": "bikanerhouse",
+      "tags": [],
+      "time": null,
+      "title": "Delhi Contempory Art Week 2026",
+      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/8",
+      "venue": "Bikaner House"
     },
     {
       "category": "Book Talk",
@@ -128,5 +128,5 @@
       "venue": "Art Gallery, Kamaladevi Complex, IIC"
     }
   ],
-  "generated_at": "2026-08-20"
+  "generated_at": "2026-08-21"
 }
