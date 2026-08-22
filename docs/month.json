@@ -1,20 +1,6 @@
 {
-  "count": 9,
+  "count": 8,
   "events": [
-    {
-      "category": "Dance",
-      "date": "2026-08-29",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 70,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:30 PM",
-      "title": "Parabola of Dance - Performance & Process 2026",
-      "url": "https://indiahabitat.org/Events_details/1369",
-      "venue": "The Stein Auditorium"
-    },
     {
       "category": "Indian Classical",
       "date": "2026-08-30",
@@ -128,5 +114,5 @@
       "venue": "Art Gallery, Kamaladevi Complex, IIC"
     }
   ],
-  "generated_at": "2026-08-21"
+  "generated_at": "2026-08-22"
 }

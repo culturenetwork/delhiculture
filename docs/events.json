@@ -1,5 +1,5 @@
 {
-  "count": 41,
+  "count": 36,
   "events": [
     {
       "category": "Museum",
@@ -70,90 +70,6 @@
       "title": "Connections-   A Group Exhibition of Drawings, Prints, Paintings and New Media",
       "url": "https://iicdelhi.in/programmes/connections-group-exhibition-drawings-prints-paintings-and-new-media",
       "venue": "Art Gallery, IIC Annexe"
-    },
-    {
-      "category": "Indian Classical",
-      "date": "2026-08-21",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 80,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "21st Pandit Siyaram Tiwari Music Festival",
-      "url": "https://indiahabitat.org/Events_details/1353",
-      "venue": "The Theatre"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-08-21",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-08/Website%20Programme%20Image_21%20August%202026_2.jpg",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "ART MATTERS CXI- Protest and the Arts",
-      "url": "https://iicdelhi.in/programmes/art-matters-cxi-protest-and-arts",
-      "venue": "Seminar Rooms 1,2,3"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-08-21",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-08/Website%20Programme%20Image_21%20August%202026.png",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "Decoding Bangladesh",
-      "url": "https://iicdelhi.in/programmes/decoding-bangladesh",
-      "venue": "Conference Room II, IIC main"
-    },
-    {
-      "category": "Dance",
-      "date": "2026-08-21",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 70,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "Rashtra Yajna: Every Step in Service, Every Beat for the Nation",
-      "url": "https://indiahabitat.org/Events_details/1354",
-      "venue": "The Stein Auditorium"
-    },
-    {
-      "category": "Library Programmes",
-      "date": "2026-08-21",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-08/Website%20Programme%20Image_21%20August%202026_3.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "06:00 PM",
-      "title": "Book Discussion Group  -The Kashmiri Yogi Extraordinaire Gopi Krishna Shivpuri",
-      "url": "https://iicdelhi.in/programmes/book-discussion-group-kashmiri-yogi-extraordinaire-gopi-krishna-shivpuri",
-      "venue": "Lecture Room II, IIC Annexe"
-    },
-    {
-      "category": "Cultural",
-      "date": "2026-08-21",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-08/Website%20Programme%20Image_21%20August%202026_1.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "06:00 PM",
-      "title": "IIC MONSOON FESTIVAL OF MUSIC",
-      "url": "https://iicdelhi.in/programmes/iic-monsoon-festival-music",
-      "venue": "C.D. Deshmukh Auditorium, IIC main"
     },
     {
       "category": "Indian Classical",
@@ -350,6 +266,20 @@
       "title": "Architecture and Art – Processes, Products and Perceptions",
       "url": "https://iicdelhi.in/programmes/architecture-and-art-processes-products-and-perceptions",
       "venue": "Conference Room II, IIC main"
+    },
+    {
+      "category": "Film Club",
+      "date": "2026-08-25",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-08/Film%20Club%20August_Website%20Programme%20Image%20copy%203.jpg",
+      "score": 50,
+      "source": "iic",
+      "tags": [],
+      "time": "06:30 PM",
+      "title": "FIPRESCI–IIC SHOWCASE: STORIES FROM CONTEMPORARY INDIA II- Film- IN THE NAME OF FIRE- SWAHA",
+      "url": "https://iicdelhi.in/programmes/fipresci-iic-showcase-stories-contemporary-india-ii-film-name-fire-swaha",
+      "venue": "C.D. Deshmukh Auditorium, IIC main"
     },
     {
       "category": "Indian Classical",
@@ -576,5 +506,5 @@
       "venue": "Art Gallery, Kamaladevi Complex, IIC"
     }
   ],
-  "generated_at": "2026-08-21"
+  "generated_at": "2026-08-22"
 }
