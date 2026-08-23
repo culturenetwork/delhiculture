@@ -1,20 +1,6 @@
 {
-  "count": 17,
+  "count": 18,
   "events": [
-    {
-      "category": "Theatre",
-      "date": "2026-08-23",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 65,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "Dastan - e - Raahi",
-      "url": "https://indiahabitat.org/Events_details/1359",
-      "venue": "The Stein Auditorium"
-    },
     {
       "category": "Indian Classical",
       "date": "2026-08-24",
@@ -238,7 +224,35 @@
       "title": "Parabola of Dance - Performance & Process 2026",
       "url": "https://indiahabitat.org/Events_details/1369",
       "venue": "The Stein Auditorium"
+    },
+    {
+      "category": "Indian Classical",
+      "date": "2026-08-30",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 80,
+      "source": "ihc",
+      "tags": [],
+      "time": "7:00 PM",
+      "title": "VANDE MATARAM: BHARAT VANDAN",
+      "url": "https://indiahabitat.org/Events_details/1370",
+      "venue": "The Theatre"
+    },
+    {
+      "category": "Dance",
+      "date": "2026-08-30",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 70,
+      "source": "ihc",
+      "tags": [],
+      "time": "7:30 PM",
+      "title": "Hansika: An Adaptation of Swan Lake",
+      "url": "https://indiahabitat.org/Events_details/1371",
+      "venue": "The Stein Auditorium"
     }
   ],
-  "generated_at": "2026-08-22"
+  "generated_at": "2026-08-23"
 }
