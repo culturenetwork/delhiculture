@@ -1,62 +1,6 @@
 {
-  "count": 6,
+  "count": 2,
   "events": [
-    {
-      "category": "Museum",
-      "date": "2026-08-31",
-      "description": "",
-      "end_date": "2026-09-05",
-      "image": null,
-      "score": 85,
-      "source": "bikanerhouse",
-      "tags": [],
-      "time": null,
-      "title": "Delhi Contempory Art Week 2026",
-      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/8",
-      "venue": "Bikaner House"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-08-31",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20programme%20Image_31%20August.jpg",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "INDIAN ARCHAEOLOGY - Buddhist Monasteries in Rock Art Sites of Central India",
-      "url": "https://iicdelhi.in/programmes/indian-archaeology-buddhist-monasteries-rock-art-sites-central-india",
-      "venue": "Conference Room II, IIC main"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-08-31",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20programme%20Image_31%20August_1.jpg",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "Woman| Life| Freedom",
-      "url": "https://iicdelhi.in/programmes/woman-life-freedom",
-      "venue": "Lecture Room II, IIC Annexe"
-    },
-    {
-      "category": "Dance",
-      "date": "2026-08-31",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 70,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "A Celebration of Bharat Vibhav",
-      "url": "https://indiahabitat.org/Events_details/1372",
-      "venue": "The Stein Auditorium"
-    },
     {
       "category": "Book Talk",
       "date": "2026-09-01",
@@ -86,5 +30,5 @@
       "venue": "Art Gallery, Kamaladevi Complex, IIC"
     }
   ],
-  "generated_at": "2026-08-23"
+  "generated_at": "2026-08-24"
 }
