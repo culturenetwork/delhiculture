@@ -1,34 +1,6 @@
 {
-  "count": 16,
+  "count": 15,
   "events": [
-    {
-      "category": "Book Talk",
-      "date": "2026-08-25",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-08/Website%20Programme%20Image_25%20August%202026.jpg",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "Architecture and Art – Processes, Products and Perceptions",
-      "url": "https://iicdelhi.in/programmes/architecture-and-art-processes-products-and-perceptions",
-      "venue": "Conference Room II, IIC main"
-    },
-    {
-      "category": "Film Club",
-      "date": "2026-08-25",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-08/Film%20Club%20August_Website%20Programme%20Image%20copy%203.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "FIPRESCI–IIC SHOWCASE: STORIES FROM CONTEMPORARY INDIA II- Film- IN THE NAME OF FIRE- SWAHA",
-      "url": "https://iicdelhi.in/programmes/fipresci-iic-showcase-stories-contemporary-india-ii-film-name-fire-swaha",
-      "venue": "C.D. Deshmukh Auditorium, IIC main"
-    },
     {
       "category": "Indian Classical",
       "date": "2026-08-26",
@@ -224,7 +196,21 @@
       "title": "A Celebration of Bharat Vibhav",
       "url": "https://indiahabitat.org/Events_details/1372",
       "venue": "The Stein Auditorium"
+    },
+    {
+      "category": "Book Talk",
+      "date": "2026-09-01",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-08/1%20September%202026_Website%20Programme%20Image.jpg",
+      "score": 75,
+      "source": "iic",
+      "tags": [],
+      "time": "06:00 PM",
+      "title": "1940s–1960s: The 13th Dalai Lama's ‘Declaration’ in Tsepon Shakabpa's Tibet: A Political History",
+      "url": "https://iicdelhi.in/programmes/1940s-1960s-13th-dalai-lamas-declaration-tsepon-shakabpas-tibet-political-history",
+      "venue": "Conference Room II, IIC main"
     }
   ],
-  "generated_at": "2026-08-24"
+  "generated_at": "2026-08-25"
 }
