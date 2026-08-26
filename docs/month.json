@@ -1,20 +1,5 @@
 {
-  "count": 1,
-  "events": [
-    {
-      "category": "Museum",
-      "date": "2026-09-02",
-      "description": "Solo exhibition by Anup Shrivastava, contemporary artist from Dhar, Madhya Pradesh. He has held numerous solo exhibitions across India and participated in national and international exhibitions.",
-      "end_date": "2026-09-13",
-      "image": "https://aws-static.iicdelhi.in/2026-08/2%20September%202026_Website%20Programme%20Image.jpg",
-      "score": 85,
-      "source": "iic",
-      "tags": [],
-      "time": "11:00 AM",
-      "title": "EXHIBITION - Rang Mela",
-      "url": "https://iicdelhi.in/programmes/exhibition-rang-mela",
-      "venue": "Art Gallery, Kamaladevi Complex, IIC"
-    }
-  ],
-  "generated_at": "2026-08-25"
+  "count": 0,
+  "events": [],
+  "generated_at": "2026-08-26"
 }
