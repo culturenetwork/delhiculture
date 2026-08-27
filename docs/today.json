@@ -31,7 +31,7 @@
     },
     {
       "category": "Indian Classical",
-      "date": "2026-08-26",
+      "date": "2026-08-27",
       "description": "",
       "end_date": null,
       "image": null,
@@ -39,13 +39,13 @@
       "source": "ihc",
       "tags": [],
       "time": "7:00 PM",
-      "title": "Aarambh",
-      "url": "https://indiahabitat.org/Events_details/1363",
+      "title": "Concert of classic melodies",
+      "url": "https://indiahabitat.org/Events_details/1366",
       "venue": "The Theatre"
     },
     {
       "category": "Book Talk",
-      "date": "2026-08-26",
+      "date": "2026-08-27",
       "description": "",
       "end_date": null,
       "image": null,
@@ -53,24 +53,24 @@
       "source": "ihc",
       "tags": [],
       "time": "7:00 PM",
-      "title": "Conversations on Public Policy",
-      "url": "https://indiahabitat.org/Events_details/1365",
+      "title": "Rasa-Dhvani and Prakriti",
+      "url": "https://indiahabitat.org/Events_details/1367",
       "venue": "Gulmohar"
     },
     {
-      "category": "Music & Dance",
-      "date": "2026-08-26",
+      "category": "Library Programmes",
+      "date": "2026-08-27",
       "description": "",
       "end_date": null,
-      "image": null,
+      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_27%20August%202026.jpg",
       "score": 50,
-      "source": "ihc",
+      "source": "iic",
       "tags": [],
-      "time": "7:00 PM",
-      "title": "National Dance & Music Festival 2026",
-      "url": "https://indiahabitat.org/Events_details/1364",
-      "venue": "The Stein Auditorium"
+      "time": "06:00 PM",
+      "title": "BOOK DISCUSSION GROUP-   Migrants and other poems: A Collection of Reflective Poetry on Loss, Migration, and Displacement",
+      "url": "https://iicdelhi.in/programmes/book-discussion-group-migrants-and-other-poems-collection-reflective-poetry-loss",
+      "venue": "Conference Room II, IIC main"
     }
   ],
-  "generated_at": "2026-08-26"
+  "generated_at": "2026-08-27"
 }
