@@ -1,20 +1,6 @@
 {
-  "count": 10,
+  "count": 14,
   "events": [
-    {
-      "category": "Dance",
-      "date": "2026-08-28",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 70,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "Parijatham",
-      "url": "https://indiahabitat.org/Events_details/1368",
-      "venue": "The Stein Auditorium"
-    },
     {
       "category": "Dance",
       "date": "2026-08-29",
@@ -97,7 +83,7 @@
       "time": "06:30 PM",
       "title": "Woman| Life| Freedom",
       "url": "https://iicdelhi.in/programmes/woman-life-freedom",
-      "venue": "Lecture Room II, IIC Annexe"
+      "venue": "C.D. Deshmukh Auditorium, IIC main"
     },
     {
       "category": "Dance",
@@ -140,7 +126,77 @@
       "title": "EXHIBITION - Rang Mela",
       "url": "https://iicdelhi.in/programmes/exhibition-rang-mela",
       "venue": "Art Gallery, Kamaladevi Complex, IIC"
+    },
+    {
+      "category": "Book Talk",
+      "date": "2026-09-03",
+      "description": "",
+      "end_date": null,
+      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "score": 75,
+      "source": "iic",
+      "tags": [],
+      "time": "06:30 PM",
+      "title": "The Mecca Pact: Implications and Complication",
+      "url": "https://iicdelhi.in/programmes/mecca-pact-implications-and-complication",
+      "venue": "Conference Room I, IIC main"
+    },
+    {
+      "category": "Library Programmes",
+      "date": "2026-09-03",
+      "description": "",
+      "end_date": null,
+      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "score": 50,
+      "source": "iic",
+      "tags": [],
+      "time": "06:00 PM",
+      "title": "BOOK DISCUSSION GROUP  - Your Silent Love: Poems",
+      "url": "https://iicdelhi.in/programmes/book-discussion-group-your-silent-love-poems",
+      "venue": "Conference Room II, IIC main"
+    },
+    {
+      "category": "Museum",
+      "date": "2026-09-04",
+      "description": "An exhibition inspired by the landscapes and living traditions of Northeast India, particularly Meghalaya’s remarkable living root bridges. Drawing upon her travels through the Himalayan region, Pratibha Awasthi explores the relationship between nature, tribal knowledge and cultu",
+      "end_date": "2026-09-13",
+      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "score": 85,
+      "source": "iic",
+      "tags": [],
+      "time": "11:00 AM",
+      "title": "EXHIBITION - Beyond the Word",
+      "url": "https://iicdelhi.in/programmes/exhibition-beyond-word",
+      "venue": "Art Gallery, IIC Annexe"
+    },
+    {
+      "category": "Seminars",
+      "date": "2026-09-04",
+      "description": "",
+      "end_date": null,
+      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "score": 50,
+      "source": "iic",
+      "tags": [],
+      "time": "04:30 PM",
+      "title": "13TH CREATIVE THEORY COLLOQUIUM: 4 TO 6 SEPTEMBER 2026",
+      "url": "https://iicdelhi.in/programmes/13th-creative-theory-colloquium-4-6-september-2026",
+      "venue": "Conference Room II, IIC main"
+    },
+    {
+      "category": "Cultural",
+      "date": "2026-09-04",
+      "description": "",
+      "end_date": null,
+      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "score": 50,
+      "source": "iic",
+      "tags": [],
+      "time": "06:30 PM",
+      "title": "Janmashtami Celebrations by Dr Uma Sharma and Disciples",
+      "url": "https://iicdelhi.in/programmes/janmashtami-celebrations-dr-uma-sharma-and-disciples",
+      "venue": "C.D. Deshmukh Auditorium, IIC main"
     }
   ],
-  "generated_at": "2026-08-27"
+  "generated_at": "2026-08-28"
 }

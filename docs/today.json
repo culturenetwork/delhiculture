@@ -1,5 +1,5 @@
 {
-  "count": 5,
+  "count": 3,
   "events": [
     {
       "category": "Museum",
@@ -30,47 +30,19 @@
       "venue": "Art Gallery, IIC Annexe"
     },
     {
-      "category": "Indian Classical",
-      "date": "2026-08-27",
+      "category": "Dance",
+      "date": "2026-08-28",
       "description": "",
       "end_date": null,
       "image": null,
-      "score": 80,
+      "score": 70,
       "source": "ihc",
       "tags": [],
       "time": "7:00 PM",
-      "title": "Concert of classic melodies",
-      "url": "https://indiahabitat.org/Events_details/1366",
-      "venue": "The Theatre"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-08-27",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 75,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "Rasa-Dhvani and Prakriti",
-      "url": "https://indiahabitat.org/Events_details/1367",
-      "venue": "Gulmohar"
-    },
-    {
-      "category": "Library Programmes",
-      "date": "2026-08-27",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_27%20August%202026.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "06:00 PM",
-      "title": "BOOK DISCUSSION GROUP-   Migrants and other poems: A Collection of Reflective Poetry on Loss, Migration, and Displacement",
-      "url": "https://iicdelhi.in/programmes/book-discussion-group-migrants-and-other-poems-collection-reflective-poetry-loss",
-      "venue": "Conference Room II, IIC main"
+      "title": "Parijatham",
+      "url": "https://indiahabitat.org/Events_details/1368",
+      "venue": "The Stein Auditorium"
     }
   ],
-  "generated_at": "2026-08-27"
+  "generated_at": "2026-08-28"
 }
