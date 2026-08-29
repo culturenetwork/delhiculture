@@ -1,20 +1,6 @@
 {
-  "count": 14,
+  "count": 15,
   "events": [
-    {
-      "category": "Dance",
-      "date": "2026-08-29",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 70,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:30 PM",
-      "title": "Parabola of Dance - Performance & Process 2026",
-      "url": "https://indiahabitat.org/Events_details/1369",
-      "venue": "The Stein Auditorium"
-    },
     {
       "category": "Indian Classical",
       "date": "2026-08-30",
@@ -196,7 +182,35 @@
       "title": "Janmashtami Celebrations by Dr Uma Sharma and Disciples",
       "url": "https://iicdelhi.in/programmes/janmashtami-celebrations-dr-uma-sharma-and-disciples",
       "venue": "C.D. Deshmukh Auditorium, IIC main"
+    },
+    {
+      "category": "Seminars",
+      "date": "2026-09-05",
+      "description": "",
+      "end_date": null,
+      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "score": 50,
+      "source": "iic",
+      "tags": [],
+      "time": "09:30 AM",
+      "title": "13TH CREATIVE THEORY COLLOQUIUM: 4 TO 6 SEPTEMBER 2026",
+      "url": "https://iicdelhi.in/programmes/13th-creative-theory-colloquium-4-6-september-2026-0",
+      "venue": "Conference Room II, IIC main"
+    },
+    {
+      "category": "Cultural",
+      "date": "2026-09-05",
+      "description": "",
+      "end_date": null,
+      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "score": 50,
+      "source": "iic",
+      "tags": [],
+      "time": "06:30 PM",
+      "title": "Vision to Victory",
+      "url": "https://iicdelhi.in/programmes/vision-victory",
+      "venue": "C.D. Deshmukh Auditorium, IIC main"
     }
   ],
-  "generated_at": "2026-08-28"
+  "generated_at": "2026-08-29"
 }

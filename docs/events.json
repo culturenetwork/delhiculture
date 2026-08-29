@@ -1,5 +1,5 @@
 {
-  "count": 27,
+  "count": 26,
   "events": [
     {
       "category": "Museum",
@@ -28,20 +28,6 @@
       "title": "Connections-   A Group Exhibition of Drawings, Prints, Paintings and New Media",
       "url": "https://iicdelhi.in/programmes/connections-group-exhibition-drawings-prints-paintings-and-new-media",
       "venue": "Art Gallery, IIC Annexe"
-    },
-    {
-      "category": "Dance",
-      "date": "2026-08-28",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 70,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "Parijatham",
-      "url": "https://indiahabitat.org/Events_details/1368",
-      "venue": "The Stein Auditorium"
     },
     {
       "category": "Dance",
@@ -380,5 +366,5 @@
       "venue": "C.D. Deshmukh Auditorium, IIC main"
     }
   ],
-  "generated_at": "2026-08-28"
+  "generated_at": "2026-08-29"
 }
