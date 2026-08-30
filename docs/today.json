@@ -1,37 +1,23 @@
 {
-  "count": 3,
+  "count": 2,
   "events": [
     {
-      "category": "Museum",
-      "date": "2026-08-16",
-      "description": "By Ravi Shail, Delhi-based artist and photographer. Recipient of Lalit Kala Akademi National Academy Award and the National Photography Award (Govt. of India)",
-      "end_date": "2026-08-29",
-      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20Programme%20Image_16%20August%202026.jpg",
-      "score": 85,
-      "source": "iic",
+      "category": "Indian Classical",
+      "date": "2026-08-30",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 80,
+      "source": "ihc",
       "tags": [],
-      "time": "11:00 AM",
-      "title": "EXHIBITION -  Unconfined",
-      "url": "https://iicdelhi.in/programmes/exhibition-unconfined",
-      "venue": "Art Gallery, Kamaladevi Complex, IIC"
-    },
-    {
-      "category": "Museum",
-      "date": "2026-08-19",
-      "description": "The exhibition brings together the works of six contemporary artists whose diverse practices in painting, drawing, printmaking and new media explore the relationships between memory, identity, place and tradition. Through varied artistic languages, the exhibition reflects on the",
-      "end_date": "2026-08-29",
-      "image": "https://aws-static.iicdelhi.in/2026-08/Website%20Programme%20Image_19%20August%202026_1.jpg",
-      "score": 85,
-      "source": "iic",
-      "tags": [],
-      "time": "11:00 AM",
-      "title": "Connections-   A Group Exhibition of Drawings, Prints, Paintings and New Media",
-      "url": "https://iicdelhi.in/programmes/connections-group-exhibition-drawings-prints-paintings-and-new-media",
-      "venue": "Art Gallery, IIC Annexe"
+      "time": "7:00 PM",
+      "title": "VANDE MATARAM: BHARAT VANDAN",
+      "url": "https://indiahabitat.org/Events_details/1370",
+      "venue": "The Theatre"
     },
     {
       "category": "Dance",
-      "date": "2026-08-29",
+      "date": "2026-08-30",
       "description": "",
       "end_date": null,
       "image": null,
@@ -39,10 +25,10 @@
       "source": "ihc",
       "tags": [],
       "time": "7:30 PM",
-      "title": "Parabola of Dance - Performance & Process 2026",
-      "url": "https://indiahabitat.org/Events_details/1369",
+      "title": "Hansika: An Adaptation of Swan Lake",
+      "url": "https://indiahabitat.org/Events_details/1371",
       "venue": "The Stein Auditorium"
     }
   ],
-  "generated_at": "2026-08-29"
+  "generated_at": "2026-08-30"
 }
