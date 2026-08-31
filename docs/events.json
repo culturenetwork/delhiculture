@@ -1,34 +1,6 @@
 {
-  "count": 45,
+  "count": 43,
   "events": [
-    {
-      "category": "Indian Classical",
-      "date": "2026-08-30",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 80,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "VANDE MATARAM: BHARAT VANDAN",
-      "url": "https://indiahabitat.org/Events_details/1370",
-      "venue": "The Theatre"
-    },
-    {
-      "category": "Dance",
-      "date": "2026-08-30",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 70,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:30 PM",
-      "title": "Hansika: An Adaptation of Swan Lake",
-      "url": "https://indiahabitat.org/Events_details/1371",
-      "venue": "The Stein Auditorium"
-    },
     {
       "category": "Museum",
       "date": "2026-08-31",
@@ -632,5 +604,5 @@
       "venue": "Conference Room I, IIC main"
     }
   ],
-  "generated_at": "2026-08-30"
+  "generated_at": "2026-08-31"
 }

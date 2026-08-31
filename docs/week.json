@@ -2,62 +2,6 @@
   "count": 18,
   "events": [
     {
-      "category": "Museum",
-      "date": "2026-08-31",
-      "description": "",
-      "end_date": "2026-09-05",
-      "image": null,
-      "score": 85,
-      "source": "bikanerhouse",
-      "tags": [],
-      "time": null,
-      "title": "Delhi Contempory Art Week 2026",
-      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/8",
-      "venue": "Bikaner House"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-08-31",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-07/Website%20programme%20Image_31%20August.jpg",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "INDIAN ARCHAEOLOGY - Buddhist Monasteries in Rock Art Sites of Central India",
-      "url": "https://iicdelhi.in/programmes/indian-archaeology-buddhist-monasteries-rock-art-sites-central-india",
-      "venue": "Conference Room II, IIC main"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-08-31",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-08/Website%20programme%20Image_31%20August_1.jpg",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "Woman| Life| Freedom",
-      "url": "https://iicdelhi.in/programmes/woman-life-freedom",
-      "venue": "C.D. Deshmukh Auditorium, IIC main"
-    },
-    {
-      "category": "Dance",
-      "date": "2026-08-31",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 70,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "A Celebration of Bharat Vibhav",
-      "url": "https://indiahabitat.org/Events_details/1372",
-      "venue": "The Stein Auditorium"
-    },
-    {
       "category": "Book Talk",
       "date": "2026-09-01",
       "description": "",
@@ -252,7 +196,63 @@
       "title": "MUSIC APPRECIATION PROMOTION",
       "url": "https://iicdelhi.in/programmes/music-appreciation-promotion-356",
       "venue": "Lecture Room I, IIC Annexe"
+    },
+    {
+      "category": "Book Talk",
+      "date": "2026-09-07",
+      "description": "",
+      "end_date": null,
+      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "score": 75,
+      "source": "iic",
+      "tags": [],
+      "time": "10:00 AM",
+      "title": "Changing Climate, Land & Life Interplay: Spatial Intelligence for Sustainable Futures",
+      "url": "https://iicdelhi.in/programmes/changing-climate-land-life-interplay-spatial-intelligence-sustainable-futures",
+      "venue": "Seminar Rooms 1,2,3"
+    },
+    {
+      "category": "Book Talk",
+      "date": "2026-09-07",
+      "description": "",
+      "end_date": null,
+      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "score": 75,
+      "source": "iic",
+      "tags": [],
+      "time": "06:30 PM",
+      "title": "CLEAN AIR DIALOGUES -International Clean Air Day",
+      "url": "https://iicdelhi.in/programmes/clean-air-dialogues-international-clean-air-day",
+      "venue": "Lecture Room II, IIC Annexe"
+    },
+    {
+      "category": "Book Talk",
+      "date": "2026-09-07",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-08/7%20September%202026_Website%20Programme%20Image.jpg",
+      "score": 75,
+      "source": "iic",
+      "tags": [],
+      "time": "04:30 PM",
+      "title": "Taş Tepeler – The Genesis of Myths: An Archaeological Talk by Prof. Necmi Karul",
+      "url": "https://iicdelhi.in/programmes/tas-tepeler-genesis-myths-archaeological-talk-prof-necmi-karul",
+      "venue": "Seminar Rooms 1,2,3"
+    },
+    {
+      "category": "Film",
+      "date": "2026-09-07",
+      "description": "",
+      "end_date": null,
+      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "score": 55,
+      "source": "iic",
+      "tags": [],
+      "time": "06:30 PM",
+      "title": "Aa Manas Gujarati Lage Che (This man looks like a Gujarati)",
+      "url": "https://iicdelhi.in/programmes/aa-manas-gujarati-lage-che-man-looks-gujarati",
+      "venue": "C.D. Deshmukh Auditorium, IIC main"
     }
   ],
-  "generated_at": "2026-08-30"
+  "generated_at": "2026-08-31"
 }

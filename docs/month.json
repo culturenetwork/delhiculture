@@ -1,62 +1,6 @@
 {
-  "count": 25,
+  "count": 21,
   "events": [
-    {
-      "category": "Book Talk",
-      "date": "2026-09-07",
-      "description": "",
-      "end_date": null,
-      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
-      "time": "10:00 AM",
-      "title": "Changing Climate, Land & Life Interplay: Spatial Intelligence for Sustainable Futures",
-      "url": "https://iicdelhi.in/programmes/changing-climate-land-life-interplay-spatial-intelligence-sustainable-futures",
-      "venue": "Seminar Rooms 1,2,3"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-09-07",
-      "description": "",
-      "end_date": null,
-      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "CLEAN AIR DIALOGUES -International Clean Air Day",
-      "url": "https://iicdelhi.in/programmes/clean-air-dialogues-international-clean-air-day",
-      "venue": "Lecture Room II, IIC Annexe"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-09-07",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-08/7%20September%202026_Website%20Programme%20Image.jpg",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
-      "time": "04:30 PM",
-      "title": "Taş Tepeler – The Genesis of Myths: An Archaeological Talk by Prof. Necmi Karul",
-      "url": "https://iicdelhi.in/programmes/tas-tepeler-genesis-myths-archaeological-talk-prof-necmi-karul",
-      "venue": "Seminar Rooms 1,2,3"
-    },
-    {
-      "category": "Film",
-      "date": "2026-09-07",
-      "description": "",
-      "end_date": null,
-      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
-      "score": 55,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "Aa Manas Gujarati Lage Che (This man looks like a Gujarati)",
-      "url": "https://iicdelhi.in/programmes/aa-manas-gujarati-lage-che-man-looks-gujarati",
-      "venue": "C.D. Deshmukh Auditorium, IIC main"
-    },
     {
       "category": "Library Programmes",
       "date": "2026-09-08",
@@ -352,5 +296,5 @@
       "venue": "Conference Room I, IIC main"
     }
   ],
-  "generated_at": "2026-08-30"
+  "generated_at": "2026-08-31"
 }
