@@ -1,20 +1,6 @@
 {
-  "count": 18,
+  "count": 19,
   "events": [
-    {
-      "category": "Book Talk",
-      "date": "2026-09-01",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-08/1%20September%202026_Website%20Programme%20Image_0.jpg",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
-      "time": "06:00 PM",
-      "title": "1940s–1960s: The 13th Dalai Lama's ‘Declaration’ in Tsepon Shakabpa's Tibet: A Political History",
-      "url": "https://iicdelhi.in/programmes/1940s-1960s-13th-dalai-lamas-declaration-tsepon-shakabpas-tibet-political-history-1",
-      "venue": "Conference Room II, IIC main"
-    },
     {
       "category": "Museum",
       "date": "2026-09-02",
@@ -167,7 +153,7 @@
       "time": "06:00 PM",
       "title": "BOOK DISCUSSION GROUP  - Just Being: A Memoir (The India List)",
       "url": "https://iicdelhi.in/programmes/book-discussion-group-just-being-memoir-india-list",
-      "venue": "Conference Room I, IIC main"
+      "venue": "Conference Room II, IIC main"
     },
     {
       "category": "Cultural",
@@ -252,7 +238,35 @@
       "title": "Aa Manas Gujarati Lage Che (This man looks like a Gujarati)",
       "url": "https://iicdelhi.in/programmes/aa-manas-gujarati-lage-che-man-looks-gujarati",
       "venue": "C.D. Deshmukh Auditorium, IIC main"
+    },
+    {
+      "category": "Library Programmes",
+      "date": "2026-09-08",
+      "description": "",
+      "end_date": null,
+      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "score": 50,
+      "source": "iic",
+      "tags": [],
+      "time": "06:00 PM",
+      "title": "BOOK DISCUSSION GROUP   From Manuscript to Memory, Safeguarding Living Heritage; Tangible and Natural Heritage Sites of Incredible India",
+      "url": "https://iicdelhi.in/programmes/book-discussion-group-manuscript-memory-safeguarding-living-heritage-tangible-and",
+      "venue": "Conference Room I, IIC main"
+    },
+    {
+      "category": "Cultural",
+      "date": "2026-09-08",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-08/8%20September%202026_Website%20Programme%20Image_0.jpg",
+      "score": 50,
+      "source": "iic",
+      "tags": [],
+      "time": "06:00 PM",
+      "title": "IIC DOUBLE BILL: MUSIC & DANCE RECITALS",
+      "url": "https://iicdelhi.in/programmes/iic-double-bill-music-dance-recitals-5",
+      "venue": "C.D. Deshmukh Auditorium, IIC main"
     }
   ],
-  "generated_at": "2026-08-31"
+  "generated_at": "2026-09-01"
 }
