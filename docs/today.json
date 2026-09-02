@@ -1,20 +1,34 @@
 {
-  "count": 1,
+  "count": 2,
   "events": [
     {
-      "category": "Book Talk",
-      "date": "2026-09-01",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-08/1%20September%202026_Website%20Programme%20Image_0.jpg",
-      "score": 75,
+      "category": "Museum",
+      "date": "2026-09-02",
+      "description": "Solo exhibition by Anup Shrivastava, artist from Dhar, Madhya Pradesh. Rang Mela celebrates the cultural traditions and festive spirit of the tribal communities of the Malwa and Nimar regions. Inspired by the Bhagoria festival, the exhibition captures the energy of tribal fairs,",
+      "end_date": "2026-09-13",
+      "image": "https://aws-static.iicdelhi.in/2026-08/2%20September%202026_Website%20Programme%20Image.jpg",
+      "score": 85,
       "source": "iic",
       "tags": [],
-      "time": "06:00 PM",
-      "title": "1940s–1960s: The 13th Dalai Lama's ‘Declaration’ in Tsepon Shakabpa's Tibet: A Political History",
-      "url": "https://iicdelhi.in/programmes/1940s-1960s-13th-dalai-lamas-declaration-tsepon-shakabpas-tibet-political-history-1",
-      "venue": "Conference Room II, IIC main"
+      "time": "11:00 AM",
+      "title": "EXHIBITION - Rang Mela",
+      "url": "https://iicdelhi.in/programmes/exhibition-rang-mela",
+      "venue": "Art Gallery, Kamaladevi Complex, IIC"
+    },
+    {
+      "category": "Book Talk",
+      "date": "2026-09-02",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 75,
+      "source": "ihc",
+      "tags": [],
+      "time": "7:00 PM",
+      "title": "Design as Resistance",
+      "url": "https://indiahabitat.org/Events_details/1381",
+      "venue": "Gulmohar"
     }
   ],
-  "generated_at": "2026-09-01"
+  "generated_at": "2026-09-02"
 }

@@ -1,19 +1,19 @@
 {
-  "count": 19,
+  "count": 25,
   "events": [
     {
-      "category": "Museum",
-      "date": "2026-09-02",
-      "description": "Solo exhibition by Anup Shrivastava, artist from Dhar, Madhya Pradesh. Rang Mela celebrates the cultural traditions and festive spirit of the tribal communities of the Malwa and Nimar regions. Inspired by the Bhagoria festival, the exhibition captures the energy of tribal fairs,",
-      "end_date": "2026-09-13",
-      "image": "https://aws-static.iicdelhi.in/2026-08/2%20September%202026_Website%20Programme%20Image.jpg",
-      "score": 85,
-      "source": "iic",
+      "category": "Indian Classical",
+      "date": "2026-09-03",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 80,
+      "source": "ihc",
       "tags": [],
-      "time": "11:00 AM",
-      "title": "EXHIBITION - Rang Mela",
-      "url": "https://iicdelhi.in/programmes/exhibition-rang-mela",
-      "venue": "Art Gallery, Kamaladevi Complex, IIC"
+      "time": "7:00 PM",
+      "title": "Shruti Samvaad",
+      "url": "https://indiahabitat.org/Events_details/1382",
+      "venue": "The Theatre"
     },
     {
       "category": "Book Talk",
@@ -128,20 +128,6 @@
       "venue": "C.D. Deshmukh Auditorium, IIC main"
     },
     {
-      "category": "Seminars",
-      "date": "2026-09-06",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-08/4%20September%202026_Website%20Programme%20Image_1_0.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "09:30 AM",
-      "title": "13TH CREATIVE THEORY COLLOQUIUM: 4 TO 6 SEPTEMBER 2026",
-      "url": "https://iicdelhi.in/programmes/13th-creative-theory-colloquium-4-6-september-2026-1",
-      "venue": "Conference Room II, IIC main"
-    },
-    {
       "category": "Library Programmes",
       "date": "2026-09-06",
       "description": "",
@@ -184,6 +170,34 @@
       "venue": "Lecture Room I, IIC Annexe"
     },
     {
+      "category": "Dance & Music",
+      "date": "2026-09-06",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 50,
+      "source": "ihc",
+      "tags": [],
+      "time": "7:30 PM",
+      "title": "Naya Swar: Kastoori",
+      "url": "https://indiahabitat.org/Events_details/1385",
+      "venue": "The Stein Auditorium"
+    },
+    {
+      "category": "Cultural",
+      "date": "2026-09-06",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 50,
+      "source": "ihc",
+      "tags": [],
+      "time": "11:00 AM",
+      "title": "The IHC Free Book X'Change",
+      "url": "https://indiahabitat.org/Events_details/1384",
+      "venue": "Near the IHC Information Centre"
+    },
+    {
       "category": "Book Talk",
       "date": "2026-09-07",
       "description": "",
@@ -202,7 +216,7 @@
       "date": "2026-09-07",
       "description": "",
       "end_date": null,
-      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "image": "https://aws-static.iicdelhi.in/2026-09/7%20September%202026_Website%20Programme%20Image_1.jpg",
       "score": 75,
       "source": "iic",
       "tags": [],
@@ -240,18 +254,46 @@
       "venue": "C.D. Deshmukh Auditorium, IIC main"
     },
     {
-      "category": "Library Programmes",
+      "category": "Film",
+      "date": "2026-09-07",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 55,
+      "source": "ihc",
+      "tags": [],
+      "time": "7:00 PM",
+      "title": "Shape of Momo",
+      "url": "https://indiahabitat.org/Events_details/1386",
+      "venue": "The Stein Auditorium"
+    },
+    {
+      "category": "Book Talk",
       "date": "2026-09-08",
       "description": "",
       "end_date": null,
-      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
-      "score": 50,
-      "source": "iic",
+      "image": null,
+      "score": 75,
+      "source": "ihc",
       "tags": [],
-      "time": "06:00 PM",
-      "title": "BOOK DISCUSSION GROUP   From Manuscript to Memory, Safeguarding Living Heritage; Tangible and Natural Heritage Sites of Incredible India",
-      "url": "https://iicdelhi.in/programmes/book-discussion-group-manuscript-memory-safeguarding-living-heritage-tangible-and",
-      "venue": "Conference Room I, IIC main"
+      "time": "6:00 PM",
+      "title": "Mecca Pact and Its implications for the Region",
+      "url": "https://indiahabitat.org/Events_details/1387",
+      "venue": "Gulmohar"
+    },
+    {
+      "category": "Dance",
+      "date": "2026-09-08",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 70,
+      "source": "ihc",
+      "tags": [],
+      "time": "7:00 PM",
+      "title": "Charukarya: The Choreography Festival",
+      "url": "https://indiahabitat.org/Events_details/1388",
+      "venue": "The Stein Auditorium"
     },
     {
       "category": "Cultural",
@@ -266,7 +308,49 @@
       "title": "IIC DOUBLE BILL: MUSIC & DANCE RECITALS",
       "url": "https://iicdelhi.in/programmes/iic-double-bill-music-dance-recitals-5",
       "venue": "C.D. Deshmukh Auditorium, IIC main"
+    },
+    {
+      "category": "Library Programmes",
+      "date": "2026-09-08",
+      "description": "",
+      "end_date": null,
+      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "score": 50,
+      "source": "iic",
+      "tags": [],
+      "time": "06:00 PM",
+      "title": "POSTPONED --BOOK DISCUSSION From Manuscript to Memory, Safeguarding Living Heritage; Tangible and Natural Heritage Sites of Incredible India",
+      "url": "https://iicdelhi.in/programmes/postponed-book-discussion-manuscript-memory-safeguarding-living-heritage-tangible-and",
+      "venue": "Conference Room I, IIC main"
+    },
+    {
+      "category": "Indian Classical",
+      "date": "2026-09-09",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 80,
+      "source": "ihc",
+      "tags": [],
+      "time": "7:00 PM",
+      "title": "Sangeetanjali Classical Music 2026",
+      "url": "https://indiahabitat.org/Events_details/1434",
+      "venue": "The Theatre"
+    },
+    {
+      "category": "Library Programmes",
+      "date": "2026-09-09",
+      "description": "",
+      "end_date": null,
+      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "score": 50,
+      "source": "iic",
+      "tags": [],
+      "time": "06:00 PM",
+      "title": "BOOK DISCUSSION GROUP -  Meet the Author:  Dr Vikas Swarup",
+      "url": "https://iicdelhi.in/programmes/book-discussion-group-meet-author-dr-vikas-swarup",
+      "venue": "Seminar Rooms 1,2,3"
     }
   ],
-  "generated_at": "2026-09-01"
+  "generated_at": "2026-09-02"
 }
