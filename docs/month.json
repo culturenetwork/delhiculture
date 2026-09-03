@@ -1,48 +1,6 @@
 {
-  "count": 74,
+  "count": 71,
   "events": [
-    {
-      "category": "Book Talk",
-      "date": "2026-09-10",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-08/10%20September%202026_Website%20Programme%20Image.jpg",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "Dance with Space-  An evening of dance appreciation inviting viewers to look “into dance” rather than look “at dance”.",
-      "url": "https://iicdelhi.in/programmes/dance-space-evening-dance-appreciation-inviting-viewers-look-dance-rather-look-dance",
-      "venue": "C.D. Deshmukh Auditorium, IIC main"
-    },
-    {
-      "category": "Dance",
-      "date": "2026-09-10",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 70,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "Navin Anande",
-      "url": "https://indiahabitat.org/Events_details/1390",
-      "venue": "The Stein Auditorium"
-    },
-    {
-      "category": "Library Programmes",
-      "date": "2026-09-10",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-09/10%20September%202026_Website%20Programme%20Image_1.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "06:00 PM",
-      "title": "BOOK DISCUSSION GROUP-   Far from the Rooftop of the World: Travels among Tibetan Refugees on Four Continents",
-      "url": "https://iicdelhi.in/programmes/book-discussion-group-far-rooftop-world-travels-among-tibetan-refugees-four-continents",
-      "venue": "Lecture Room II, IIC Annexe"
-    },
     {
       "category": "Indian Classical",
       "date": "2026-09-11",
@@ -174,7 +132,7 @@
       "date": "2026-09-12",
       "description": "",
       "end_date": null,
-      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "image": "https://aws-static.iicdelhi.in/2026-09/12%20September%202026_Website%20Programme%20Image_0.jpg",
       "score": 75,
       "source": "iic",
       "tags": [],
@@ -216,7 +174,7 @@
       "date": "2026-09-14",
       "description": "",
       "end_date": null,
-      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "image": "https://aws-static.iicdelhi.in/2026-09/14%20September%202026_Website%20Programme%20Image.jpg",
       "score": 75,
       "source": "iic",
       "tags": [],
@@ -272,7 +230,7 @@
       "date": "2026-09-15",
       "description": "",
       "end_date": null,
-      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "image": "https://aws-static.iicdelhi.in/2026-09/15%20September%202026_Website%20Programme%20Image_1.jpg",
       "score": 50,
       "source": "iic",
       "tags": [],
@@ -846,7 +804,7 @@
       "date": "2026-09-26",
       "description": "",
       "end_date": null,
-      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "image": "https://aws-static.iicdelhi.in/2026-09/26%20September%202026_Website%20Programme%20Image.jpg",
       "score": 50,
       "source": "iic",
       "tags": [],
@@ -1038,5 +996,5 @@
       "venue": "Gandhi-King Memorial Plaza, IIC main"
     }
   ],
-  "generated_at": "2026-09-02"
+  "generated_at": "2026-09-03"
 }

@@ -1,5 +1,5 @@
 {
-  "count": 2,
+  "count": 5,
   "events": [
     {
       "category": "Museum",
@@ -16,19 +16,61 @@
       "venue": "Art Gallery, Kamaladevi Complex, IIC"
     },
     {
-      "category": "Book Talk",
-      "date": "2026-09-02",
+      "category": "Indian Classical",
+      "date": "2026-09-03",
       "description": "",
       "end_date": null,
       "image": null,
-      "score": 75,
+      "score": 80,
       "source": "ihc",
       "tags": [],
       "time": "7:00 PM",
-      "title": "Design as Resistance",
-      "url": "https://indiahabitat.org/Events_details/1381",
-      "venue": "Gulmohar"
+      "title": "Shruti Samvaad",
+      "url": "https://indiahabitat.org/Events_details/1382",
+      "venue": "The Theatre"
+    },
+    {
+      "category": "Book Talk",
+      "date": "2026-09-03",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-08/3%20September%202026_Website%20Programme%20Image_.jpg",
+      "score": 75,
+      "source": "iic",
+      "tags": [],
+      "time": "06:30 PM",
+      "title": "The Mecca Pact: Implications and Complications",
+      "url": "https://iicdelhi.in/programmes/mecca-pact-implications-and-complications",
+      "venue": "Conference Room I, IIC main"
+    },
+    {
+      "category": "Library Programmes",
+      "date": "2026-09-03",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-08/3%20September%202026_Website%20Programme%20Image.jpg",
+      "score": 50,
+      "source": "iic",
+      "tags": [],
+      "time": "06:00 PM",
+      "title": "BOOK DISCUSSION GROUP  - Your Silent Love: Poems",
+      "url": "https://iicdelhi.in/programmes/book-discussion-group-your-silent-love-poems",
+      "venue": "Conference Room II, IIC main"
+    },
+    {
+      "category": "Festivals",
+      "date": "2026-09-03",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-08/3%20September%202026_Website%20Programme%20Image_2.jpg",
+      "score": 50,
+      "source": "iic",
+      "tags": [],
+      "time": "10:00 AM",
+      "title": "Tibet Festival  Spirit of Tibet: Celebrating Culture and Compassion: 3 to 5 September 2026",
+      "url": "https://iicdelhi.in/programmes/tibet-festival-spirit-tibet-celebrating-culture-and-compassion-3-5-september-2026",
+      "venue": "Gandhi-King Memorial Plaza, IIC main"
     }
   ],
-  "generated_at": "2026-09-02"
+  "generated_at": "2026-09-03"
 }
