@@ -1,89 +1,33 @@
 {
-  "count": 71,
+  "count": 69,
   "events": [
     {
-      "category": "Indian Classical",
-      "date": "2026-09-11",
+      "category": "Museum",
+      "date": "2026-09-12",
       "description": "",
-      "end_date": null,
+      "end_date": "2026-09-16",
       "image": null,
-      "score": 80,
-      "source": "ihc",
+      "score": 85,
+      "source": "bikanerhouse",
       "tags": [],
-      "time": "7:00 PM",
-      "title": "An Evening of Indian Classical Music. Day1",
-      "url": "https://indiahabitat.org/Events_details/1392",
-      "venue": "The Theatre"
+      "time": null,
+      "title": "Paradise Promised",
+      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/9",
+      "venue": "Bikaner House"
     },
     {
-      "category": "Book Talk",
-      "date": "2026-09-11",
+      "category": "Museum",
+      "date": "2026-09-12",
       "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-09/11%20September%202026_Website%20Programme%20Image_1.jpg",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "ART MATTERS",
-      "url": "https://iicdelhi.in/programmes/art-matters-279",
-      "venue": "Seminar Rooms 1,2,3"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-09-11",
-      "description": "",
-      "end_date": null,
+      "end_date": "2026-09-18",
       "image": null,
-      "score": 75,
-      "source": "ihc",
+      "score": 85,
+      "source": "bikanerhouse",
       "tags": [],
-      "time": "6:30 PM",
-      "title": "Beyond Tailpipe: Electric Mobility at the Intersection of Air Quality and Energy Security",
-      "url": "https://indiahabitat.org/Events_details/1391",
-      "venue": "Gulmohar"
-    },
-    {
-      "category": "Dance",
-      "date": "2026-09-11",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 70,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "Punarāgama (पुनरागम)",
-      "url": "https://indiahabitat.org/Events_details/1393",
-      "venue": "The Stein Auditorium"
-    },
-    {
-      "category": "Film",
-      "date": "2026-09-11",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-09/11%20September%202026_Website%20Programme%20Image.jpg",
-      "score": 55,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "FILM-  Paswaar (Caress Me)",
-      "url": "https://iicdelhi.in/programmes/film-paswaar-caress-me",
-      "venue": "Lecture Room I, IIC Annexe"
-    },
-    {
-      "category": "Library Programmes",
-      "date": "2026-09-11",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-09/11%20September%202026_Website%20Programme%20Image_2.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "06:00 PM",
-      "title": "BOOK DISCUSSION GROUP-   Law of Sexual Harassment at Workplace: Practice and Procedure",
-      "url": "https://iicdelhi.in/programmes/book-discussion-group-law-sexual-harassment-workplace-practice-and-procedure",
-      "venue": "Lecture Room II, IIC Annexe"
+      "time": null,
+      "title": "The Grammar of the Self",
+      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/9",
+      "venue": "Bikaner House"
     },
     {
       "category": "Indian Classical",
@@ -142,6 +86,20 @@
       "venue": "Conference Room I, IIC main"
     },
     {
+      "category": "Museum",
+      "date": "2026-09-13",
+      "description": "",
+      "end_date": "2026-09-22",
+      "image": null,
+      "score": 85,
+      "source": "bikanerhouse",
+      "tags": [],
+      "time": null,
+      "title": "Standing on Sacred Ground",
+      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/9",
+      "venue": "Bikaner House"
+    },
+    {
       "category": "Film & Theatre",
       "date": "2026-09-13",
       "description": "",
@@ -154,6 +112,20 @@
       "title": "Fleabag Encore",
       "url": "https://indiahabitat.org/Events_details/1397",
       "venue": "The Stein Auditorium"
+    },
+    {
+      "category": "Museum",
+      "date": "2026-09-14",
+      "description": "",
+      "end_date": "2026-09-21",
+      "image": null,
+      "score": 85,
+      "source": "bikanerhouse",
+      "tags": [],
+      "time": null,
+      "title": "Tap Aur Tapish",
+      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/9",
+      "venue": "Bikaner House"
     },
     {
       "category": "Indian Classical",
@@ -838,7 +810,7 @@
       "tags": [],
       "time": "4:00 PM",
       "title": "IHC Theatre Festival 2026. Hindi Medium Tight",
-      "url": "https://indiahabitat.org/Events_details/1427",
+      "url": "https://indiahabitat.org/Events_details/1428",
       "venue": "The Theatre"
     },
     {
@@ -996,5 +968,5 @@
       "venue": "Gandhi-King Memorial Plaza, IIC main"
     }
   ],
-  "generated_at": "2026-09-03"
+  "generated_at": "2026-09-04"
 }

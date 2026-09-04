@@ -1,5 +1,5 @@
 {
-  "count": 5,
+  "count": 4,
   "events": [
     {
       "category": "Museum",
@@ -16,61 +16,47 @@
       "venue": "Art Gallery, Kamaladevi Complex, IIC"
     },
     {
-      "category": "Indian Classical",
-      "date": "2026-09-03",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 80,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "Shruti Samvaad",
-      "url": "https://indiahabitat.org/Events_details/1382",
-      "venue": "The Theatre"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-09-03",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-08/3%20September%202026_Website%20Programme%20Image_.jpg",
-      "score": 75,
+      "category": "Museum",
+      "date": "2026-09-04",
+      "description": "An exhibition inspired by the landscapes and living traditions of Northeast India, particularly Meghalaya’s remarkable living root bridges. Drawing upon her travels through the Himalayan region, Pratibha Awasthi explores the relationship between nature, tribal knowledge and cultu",
+      "end_date": "2026-09-13",
+      "image": "https://aws-static.iicdelhi.in/2026-08/4%20September%202026_Website%20Programme%20Image_2.jpg",
+      "score": 85,
       "source": "iic",
       "tags": [],
-      "time": "06:30 PM",
-      "title": "The Mecca Pact: Implications and Complications",
-      "url": "https://iicdelhi.in/programmes/mecca-pact-implications-and-complications",
-      "venue": "Conference Room I, IIC main"
+      "time": "11:00 AM",
+      "title": "EXHIBITION - Beyond the Word",
+      "url": "https://iicdelhi.in/programmes/exhibition-beyond-word",
+      "venue": "Art Gallery, IIC Annexe"
     },
     {
-      "category": "Library Programmes",
-      "date": "2026-09-03",
+      "category": "Seminars",
+      "date": "2026-09-04",
       "description": "",
       "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-08/3%20September%202026_Website%20Programme%20Image.jpg",
+      "image": "https://aws-static.iicdelhi.in/2026-08/4%20September%202026_Website%20Programme%20Image_1_2.jpg",
       "score": 50,
       "source": "iic",
       "tags": [],
-      "time": "06:00 PM",
-      "title": "BOOK DISCUSSION GROUP  - Your Silent Love: Poems",
-      "url": "https://iicdelhi.in/programmes/book-discussion-group-your-silent-love-poems",
+      "time": "04:30 PM",
+      "title": "13TH CREATIVE THEORY COLLOQUIUM: 4 TO 6 SEPTEMBER 2026",
+      "url": "https://iicdelhi.in/programmes/13th-creative-theory-colloquium-4-6-september-2026",
       "venue": "Conference Room II, IIC main"
     },
     {
-      "category": "Festivals",
-      "date": "2026-09-03",
+      "category": "Cultural",
+      "date": "2026-09-04",
       "description": "",
       "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-08/3%20September%202026_Website%20Programme%20Image_2.jpg",
+      "image": "https://aws-static.iicdelhi.in/2026-08/4%20September%202026_Website%20Programme%20Image.jpg",
       "score": 50,
       "source": "iic",
       "tags": [],
-      "time": "10:00 AM",
-      "title": "Tibet Festival  Spirit of Tibet: Celebrating Culture and Compassion: 3 to 5 September 2026",
-      "url": "https://iicdelhi.in/programmes/tibet-festival-spirit-tibet-celebrating-culture-and-compassion-3-5-september-2026",
-      "venue": "Gandhi-King Memorial Plaza, IIC main"
+      "time": "06:30 PM",
+      "title": "Janmashtami Celebrations by Dr Uma Sharma and Disciples",
+      "url": "https://iicdelhi.in/programmes/janmashtami-celebrations-dr-uma-sharma-and-disciples",
+      "venue": "C.D. Deshmukh Auditorium, IIC main"
     }
   ],
-  "generated_at": "2026-09-03"
+  "generated_at": "2026-09-04"
 }

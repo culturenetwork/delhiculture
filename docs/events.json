@@ -1,5 +1,5 @@
 {
-  "count": 101,
+  "count": 102,
   "events": [
     {
       "category": "Museum",
@@ -14,62 +14,6 @@
       "title": "EXHIBITION - Rang Mela",
       "url": "https://iicdelhi.in/programmes/exhibition-rang-mela",
       "venue": "Art Gallery, Kamaladevi Complex, IIC"
-    },
-    {
-      "category": "Indian Classical",
-      "date": "2026-09-03",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 80,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "Shruti Samvaad",
-      "url": "https://indiahabitat.org/Events_details/1382",
-      "venue": "The Theatre"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-09-03",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-08/3%20September%202026_Website%20Programme%20Image_.jpg",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "The Mecca Pact: Implications and Complications",
-      "url": "https://iicdelhi.in/programmes/mecca-pact-implications-and-complications",
-      "venue": "Conference Room I, IIC main"
-    },
-    {
-      "category": "Library Programmes",
-      "date": "2026-09-03",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-08/3%20September%202026_Website%20Programme%20Image.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "06:00 PM",
-      "title": "BOOK DISCUSSION GROUP  - Your Silent Love: Poems",
-      "url": "https://iicdelhi.in/programmes/book-discussion-group-your-silent-love-poems",
-      "venue": "Conference Room II, IIC main"
-    },
-    {
-      "category": "Festivals",
-      "date": "2026-09-03",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-08/3%20September%202026_Website%20Programme%20Image_2.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "10:00 AM",
-      "title": "Tibet Festival  Spirit of Tibet: Celebrating Culture and Compassion: 3 to 5 September 2026",
-      "url": "https://iicdelhi.in/programmes/tibet-festival-spirit-tibet-celebrating-culture-and-compassion-3-5-september-2026",
-      "venue": "Gandhi-King Memorial Plaza, IIC main"
     },
     {
       "category": "Museum",
@@ -156,6 +100,20 @@
       "venue": "Bikaner House"
     },
     {
+      "category": "Seminars",
+      "date": "2026-09-06",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-08/4%20September%202026_Website%20Programme%20Image_1_0.jpg",
+      "score": 50,
+      "source": "iic",
+      "tags": [],
+      "time": "09:30 AM",
+      "title": "13TH CREATIVE THEORY COLLOQUIUM: 4 TO 6 SEPTEMBER 2026",
+      "url": "https://iicdelhi.in/programmes/13th-creative-theory-colloquium-4-6-september-2026-1",
+      "venue": "Conference Room II, IIC main"
+    },
+    {
       "category": "Library Programmes",
       "date": "2026-09-06",
       "description": "",
@@ -193,9 +151,9 @@
       "source": "iic",
       "tags": [],
       "time": "06:00 PM",
-      "title": "MUSIC APPRECIATION PROMOTION",
-      "url": "https://iicdelhi.in/programmes/music-appreciation-promotion-356",
-      "venue": "Lecture Room I, IIC Annexe"
+      "title": "MUSIC APPRECIATION PROMOTION- 6th September & 7th Septemberber",
+      "url": "https://iicdelhi.in/programmes/music-appreciation-promotion-6th-september-7th-septemberber",
+      "venue": "Lecture Room II, IIC Annexe"
     },
     {
       "category": "Dance & Music",
@@ -226,6 +184,20 @@
       "venue": "Near the IHC Information Centre"
     },
     {
+      "category": "Museum",
+      "date": "2026-09-07",
+      "description": "",
+      "end_date": "2026-09-11",
+      "image": null,
+      "score": 85,
+      "source": "bikanerhouse",
+      "tags": [],
+      "time": null,
+      "title": "Imprints of (E)motion",
+      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/9",
+      "venue": "Bikaner House"
+    },
+    {
       "category": "Book Talk",
       "date": "2026-09-07",
       "description": "",
@@ -238,20 +210,6 @@
       "title": "Changing Climate, Land & Life Interplay: Spatial Intelligence for Sustainable Futures",
       "url": "https://iicdelhi.in/programmes/changing-climate-land-life-interplay-spatial-intelligence-sustainable-futures",
       "venue": "Seminar Rooms 1,2,3"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-09-07",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-09/7%20September%202026_Website%20Programme%20Image_1.jpg",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "CLEAN AIR DIALOGUES -International Clean Air Day",
-      "url": "https://iicdelhi.in/programmes/clean-air-dialogues-international-clean-air-day",
-      "venue": "Lecture Room II, IIC Annexe"
     },
     {
       "category": "Book Talk",
@@ -506,6 +464,34 @@
       "venue": "Lecture Room II, IIC Annexe"
     },
     {
+      "category": "Museum",
+      "date": "2026-09-12",
+      "description": "",
+      "end_date": "2026-09-16",
+      "image": null,
+      "score": 85,
+      "source": "bikanerhouse",
+      "tags": [],
+      "time": null,
+      "title": "Paradise Promised",
+      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/9",
+      "venue": "Bikaner House"
+    },
+    {
+      "category": "Museum",
+      "date": "2026-09-12",
+      "description": "",
+      "end_date": "2026-09-18",
+      "image": null,
+      "score": 85,
+      "source": "bikanerhouse",
+      "tags": [],
+      "time": null,
+      "title": "The Grammar of the Self",
+      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/9",
+      "venue": "Bikaner House"
+    },
+    {
       "category": "Indian Classical",
       "date": "2026-09-12",
       "description": "",
@@ -562,6 +548,20 @@
       "venue": "Conference Room I, IIC main"
     },
     {
+      "category": "Museum",
+      "date": "2026-09-13",
+      "description": "",
+      "end_date": "2026-09-22",
+      "image": null,
+      "score": 85,
+      "source": "bikanerhouse",
+      "tags": [],
+      "time": null,
+      "title": "Standing on Sacred Ground",
+      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/9",
+      "venue": "Bikaner House"
+    },
+    {
       "category": "Film & Theatre",
       "date": "2026-09-13",
       "description": "",
@@ -574,6 +574,20 @@
       "title": "Fleabag Encore",
       "url": "https://indiahabitat.org/Events_details/1397",
       "venue": "The Stein Auditorium"
+    },
+    {
+      "category": "Museum",
+      "date": "2026-09-14",
+      "description": "",
+      "end_date": "2026-09-21",
+      "image": null,
+      "score": 85,
+      "source": "bikanerhouse",
+      "tags": [],
+      "time": null,
+      "title": "Tap Aur Tapish",
+      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/9",
+      "venue": "Bikaner House"
     },
     {
       "category": "Indian Classical",
@@ -1258,7 +1272,7 @@
       "tags": [],
       "time": "4:00 PM",
       "title": "IHC Theatre Festival 2026. Hindi Medium Tight",
-      "url": "https://indiahabitat.org/Events_details/1427",
+      "url": "https://indiahabitat.org/Events_details/1428",
       "venue": "The Theatre"
     },
     {
@@ -1416,5 +1430,5 @@
       "venue": "Gandhi-King Memorial Plaza, IIC main"
     }
   ],
-  "generated_at": "2026-09-03"
+  "generated_at": "2026-09-04"
 }
