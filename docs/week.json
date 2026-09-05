@@ -1,34 +1,6 @@
 {
-  "count": 29,
+  "count": 34,
   "events": [
-    {
-      "category": "Seminars",
-      "date": "2026-09-05",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-08/4%20September%202026_Website%20Programme%20Image_1_1.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "09:30 AM",
-      "title": "13TH CREATIVE THEORY COLLOQUIUM: 4 TO 6 SEPTEMBER 2026",
-      "url": "https://iicdelhi.in/programmes/13th-creative-theory-colloquium-4-6-september-2026-0",
-      "venue": "Conference Room II, IIC main"
-    },
-    {
-      "category": "Cultural",
-      "date": "2026-09-05",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-08/5%20September%202026_Website%20Programme%20Image.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "Vision to Victory",
-      "url": "https://iicdelhi.in/programmes/vision-victory",
-      "venue": "C.D. Deshmukh Auditorium, IIC main"
-    },
     {
       "category": "Museum",
       "date": "2026-09-06",
@@ -154,6 +126,20 @@
       "title": "Changing Climate, Land & Life Interplay: Spatial Intelligence for Sustainable Futures",
       "url": "https://iicdelhi.in/programmes/changing-climate-land-life-interplay-spatial-intelligence-sustainable-futures",
       "venue": "Seminar Rooms 1,2,3"
+    },
+    {
+      "category": "Book Talk",
+      "date": "2026-09-07",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-09/7%20September%202026_Website%20Programme%20Image_1.jpg",
+      "score": 75,
+      "source": "iic",
+      "tags": [],
+      "time": "06:30 PM",
+      "title": "CLEAN AIR DIALOGUES -International Clean Air Day",
+      "url": "https://iicdelhi.in/programmes/clean-air-dialogues-international-clean-air-day",
+      "venue": "Lecture Room II, IIC Annexe"
     },
     {
       "category": "Book Talk",
@@ -406,7 +392,91 @@
       "title": "BOOK DISCUSSION GROUP-   Law of Sexual Harassment at Workplace: Practice and Procedure",
       "url": "https://iicdelhi.in/programmes/book-discussion-group-law-sexual-harassment-workplace-practice-and-procedure",
       "venue": "Lecture Room II, IIC Annexe"
+    },
+    {
+      "category": "Museum",
+      "date": "2026-09-12",
+      "description": "",
+      "end_date": "2026-09-16",
+      "image": null,
+      "score": 85,
+      "source": "bikanerhouse",
+      "tags": [],
+      "time": null,
+      "title": "Paradise Promised",
+      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/9",
+      "venue": "Bikaner House"
+    },
+    {
+      "category": "Museum",
+      "date": "2026-09-12",
+      "description": "",
+      "end_date": "2026-09-18",
+      "image": null,
+      "score": 85,
+      "source": "bikanerhouse",
+      "tags": [],
+      "time": null,
+      "title": "The Grammar of the Self",
+      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/9",
+      "venue": "Bikaner House"
+    },
+    {
+      "category": "Indian Classical",
+      "date": "2026-09-12",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 80,
+      "source": "ihc",
+      "tags": [],
+      "time": "7:00 PM",
+      "title": "An Evening of Indian Classical Music. Day 2",
+      "url": "https://indiahabitat.org/Events_details/1394",
+      "venue": "The Theatre"
+    },
+    {
+      "category": "Indian Classical",
+      "date": "2026-09-12",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 80,
+      "source": "ihc",
+      "tags": [],
+      "time": "7:30 PM",
+      "title": "Bhāva – Expressions of Emotions",
+      "url": "https://indiahabitat.org/Events_details/1396",
+      "venue": "The Stein Auditorium"
+    },
+    {
+      "category": "Book Talk",
+      "date": "2026-09-12",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 75,
+      "source": "ihc",
+      "tags": [],
+      "time": "7:00 PM",
+      "title": "Healthcare As It Should Be. Session1",
+      "url": "https://indiahabitat.org/Events_details/1395",
+      "venue": "Gulmohar"
+    },
+    {
+      "category": "Book Talk",
+      "date": "2026-09-12",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-09/12%20September%202026_Website%20Programme%20Image_0.jpg",
+      "score": 75,
+      "source": "iic",
+      "tags": [],
+      "time": "06:00 PM",
+      "title": "State of the Indian Media -Has social media fundamentally transformed India's media landscape?",
+      "url": "https://iicdelhi.in/programmes/state-indian-media-has-social-media-fundamentally-transformed-indias-media-landscape",
+      "venue": "Conference Room I, IIC main"
     }
   ],
-  "generated_at": "2026-09-04"
+  "generated_at": "2026-09-05"
 }
