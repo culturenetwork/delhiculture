@@ -1,34 +1,6 @@
 {
-  "count": 62,
+  "count": 60,
   "events": [
-    {
-      "category": "Museum",
-      "date": "2026-09-13",
-      "description": "",
-      "end_date": "2026-09-22",
-      "image": null,
-      "score": 85,
-      "source": "bikanerhouse",
-      "tags": [],
-      "time": null,
-      "title": "Standing on Sacred Ground",
-      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/9",
-      "venue": "Bikaner House"
-    },
-    {
-      "category": "Film & Theatre",
-      "date": "2026-09-13",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 50,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "Fleabag Encore",
-      "url": "https://indiahabitat.org/Events_details/1397",
-      "venue": "The Stein Auditorium"
-    },
     {
       "category": "Museum",
       "date": "2026-09-14",
@@ -154,20 +126,6 @@
       "title": "Guru Purnima: Tribute to Ustad Akhtar Nawaz Khan. Day 2",
       "url": "https://indiahabitat.org/Events_details/1401",
       "venue": "The Theatre"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-09-16",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-09/16%20September%202026_Website%20Programme%20Image_5.jpg",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "4TH KAPILA VATSYAYAN MEMORIAL LECTURE 2026",
-      "url": "https://iicdelhi.in/programmes/4th-kapila-vatsyayan-memorial-lecture-2026",
-      "venue": "C.D. Deshmukh Auditorium, IIC main"
     },
     {
       "category": "Book Talk",
@@ -800,6 +758,20 @@
       "venue": "Conference Room I, IIC main"
     },
     {
+      "category": "Book Talk",
+      "date": "2026-09-29",
+      "description": "",
+      "end_date": null,
+      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "score": 75,
+      "source": "iic",
+      "tags": [],
+      "time": "06:00 PM",
+      "title": "Is France a More Reliable Strategic Partner than US.at the Centre",
+      "url": "https://iicdelhi.in/programmes/france-more-reliable-strategic-partner-usat-centre",
+      "venue": "Conference Room II, IIC main"
+    },
+    {
       "category": "Dance & Music",
       "date": "2026-09-29",
       "description": "",
@@ -870,5 +842,5 @@
       "venue": "Gandhi-King Memorial Plaza, IIC main"
     }
   ],
-  "generated_at": "2026-09-05"
+  "generated_at": "2026-09-06"
 }
