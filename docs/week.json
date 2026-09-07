@@ -1,90 +1,6 @@
 {
-  "count": 28,
+  "count": 27,
   "events": [
-    {
-      "category": "Museum",
-      "date": "2026-09-07",
-      "description": "",
-      "end_date": "2026-09-11",
-      "image": null,
-      "score": 85,
-      "source": "bikanerhouse",
-      "tags": [],
-      "time": null,
-      "title": "Imprints of (E)motion",
-      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/9",
-      "venue": "Bikaner House"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-09-07",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-09/7%20September%202026_Website%20Programme%20Image_3.jpg",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
-      "time": "10:00 AM",
-      "title": "Changing Climate, Land & Life Interplay: Spatial Intelligence for Sustainable Futures",
-      "url": "https://iicdelhi.in/programmes/changing-climate-land-life-interplay-spatial-intelligence-sustainable-futures",
-      "venue": "Seminar Rooms 1,2,3"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-09-07",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-09/7%20September%202026_Website%20Programme%20Image_1.jpg",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "CLEAN AIR DIALOGUES -International Clean Air Day",
-      "url": "https://iicdelhi.in/programmes/clean-air-dialogues-international-clean-air-day",
-      "venue": "Lecture Room II, IIC Annexe"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-09-07",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-09/Untitled-1.jpg",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
-      "time": "04:30 PM",
-      "title": "POSTPONED! - Taş Tepeler – The Genesis of Myths: An Archaeological Talk by Prof. Necmi Karul",
-      "url": "https://iicdelhi.in/programmes/postponed-tas-tepeler-genesis-myths-archaeological-talk-prof-necmi-karul",
-      "venue": "Seminar Rooms 1,2,3"
-    },
-    {
-      "category": "Film",
-      "date": "2026-09-07",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-09/7%20September%202026_Website%20Programme%20Image_2.jpg",
-      "score": 55,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "Aa Manas Gujarati Lage Che (This man looks like a Gujarati)",
-      "url": "https://iicdelhi.in/programmes/aa-manas-gujarati-lage-che-man-looks-gujarati",
-      "venue": "C.D. Deshmukh Auditorium, IIC main"
-    },
-    {
-      "category": "Film",
-      "date": "2026-09-07",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 55,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "Shape of Momo",
-      "url": "https://indiahabitat.org/Events_details/1386",
-      "venue": "The Stein Auditorium"
-    },
     {
       "category": "Book Talk",
       "date": "2026-09-08",
@@ -112,6 +28,20 @@
       "title": "Charukarya: The Choreography Festival",
       "url": "https://indiahabitat.org/Events_details/1388",
       "venue": "The Stein Auditorium"
+    },
+    {
+      "category": "Cultural",
+      "date": "2026-09-08",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-08/8%20September%202026_Website%20Programme%20Image_0.jpg",
+      "score": 50,
+      "source": "iic",
+      "tags": [],
+      "time": "06:00 PM",
+      "title": "IIC DOUBLE BILL: MUSIC & DANCE RECITALS",
+      "url": "https://iicdelhi.in/programmes/iic-double-bill-music-dance-recitals-5",
+      "venue": "C.D. Deshmukh Auditorium, IIC main"
     },
     {
       "category": "Library Programmes",
@@ -392,7 +322,63 @@
       "title": "Fleabag Encore",
       "url": "https://indiahabitat.org/Events_details/1397",
       "venue": "The Stein Auditorium"
+    },
+    {
+      "category": "Museum",
+      "date": "2026-09-14",
+      "description": "",
+      "end_date": "2026-09-21",
+      "image": null,
+      "score": 85,
+      "source": "bikanerhouse",
+      "tags": [],
+      "time": null,
+      "title": "Tap Aur Tapish",
+      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/9",
+      "venue": "Bikaner House"
+    },
+    {
+      "category": "Indian Classical",
+      "date": "2026-09-14",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 80,
+      "source": "ihc",
+      "tags": [],
+      "time": "7:00 PM",
+      "title": "A Piano Concert",
+      "url": "https://indiahabitat.org/Events_details/1398",
+      "venue": "The Stein Auditorium"
+    },
+    {
+      "category": "Book Talk",
+      "date": "2026-09-14",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-09/14%20September%202026_Website%20Programme%20Image.jpg",
+      "score": 75,
+      "source": "iic",
+      "tags": [],
+      "time": "06:00 PM",
+      "title": "250 years of American Independence: Shifting Global Challenges and US Public Opinion - IN CONVERSATION",
+      "url": "https://iicdelhi.in/programmes/250-years-american-independence-shifting-global-challenges-and-us-public-opinion",
+      "venue": "C.D. Deshmukh Auditorium, IIC main"
+    },
+    {
+      "category": "Book Talk",
+      "date": "2026-09-14",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 75,
+      "source": "ihc",
+      "tags": [],
+      "time": "7:00 PM",
+      "title": "Alternative Innovative Education for Out-of-School and Socio-Economically Deprived Group of Children",
+      "url": "https://indiahabitat.org/Events_details/1399",
+      "venue": "Casuarina"
     }
   ],
-  "generated_at": "2026-09-06"
+  "generated_at": "2026-09-07"
 }

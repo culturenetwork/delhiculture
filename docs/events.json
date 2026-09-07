@@ -1,5 +1,5 @@
 {
-  "count": 97,
+  "count": 92,
   "events": [
     {
       "category": "Museum",
@@ -42,90 +42,6 @@
       "title": "Kani- The Garden of First Sight",
       "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/9",
       "venue": "Bikaner House"
-    },
-    {
-      "category": "Seminars",
-      "date": "2026-09-06",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-08/4%20September%202026_Website%20Programme%20Image_1_0.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "09:30 AM",
-      "title": "13TH CREATIVE THEORY COLLOQUIUM: 4 TO 6 SEPTEMBER 2026",
-      "url": "https://iicdelhi.in/programmes/13th-creative-theory-colloquium-4-6-september-2026-1",
-      "venue": "Conference Room II, IIC main"
-    },
-    {
-      "category": "Library Programmes",
-      "date": "2026-09-06",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-08/6%20September%202026_Website%20Programme%20Image_1.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "06:00 PM",
-      "title": "BOOK DISCUSSION GROUP  - Just Being: A Memoir (The India List)",
-      "url": "https://iicdelhi.in/programmes/book-discussion-group-just-being-memoir-india-list",
-      "venue": "Conference Room II, IIC main"
-    },
-    {
-      "category": "Cultural",
-      "date": "2026-09-06",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-08/6%20September%202026_Website%20Programme%20Image_2.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "Classical Vocal Recital",
-      "url": "https://iicdelhi.in/programmes/classical-vocal-recital",
-      "venue": "C.D. Deshmukh Auditorium, IIC main"
-    },
-    {
-      "category": "Seminars",
-      "date": "2026-09-06",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-08/6%20September%202026_Website%20Programme%20Image.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "06:00 PM",
-      "title": "MUSIC APPRECIATION PROMOTION- 6th September & 7th Septemberber",
-      "url": "https://iicdelhi.in/programmes/music-appreciation-promotion-6th-september-7th-septemberber",
-      "venue": "Lecture Room II, IIC Annexe"
-    },
-    {
-      "category": "Dance & Music",
-      "date": "2026-09-06",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 50,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:30 PM",
-      "title": "Naya Swar: Kastoori",
-      "url": "https://indiahabitat.org/Events_details/1385",
-      "venue": "The Stein Auditorium"
-    },
-    {
-      "category": "Cultural",
-      "date": "2026-09-06",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 50,
-      "source": "ihc",
-      "tags": [],
-      "time": "11:00 AM",
-      "title": "The IHC Free Book X'Change",
-      "url": "https://indiahabitat.org/Events_details/1384",
-      "venue": "Near the IHC Information Centre"
     },
     {
       "category": "Museum",
@@ -238,6 +154,20 @@
       "title": "Charukarya: The Choreography Festival",
       "url": "https://indiahabitat.org/Events_details/1388",
       "venue": "The Stein Auditorium"
+    },
+    {
+      "category": "Cultural",
+      "date": "2026-09-08",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-08/8%20September%202026_Website%20Programme%20Image_0.jpg",
+      "score": 50,
+      "source": "iic",
+      "tags": [],
+      "time": "06:00 PM",
+      "title": "IIC DOUBLE BILL: MUSIC & DANCE RECITALS",
+      "url": "https://iicdelhi.in/programmes/iic-double-bill-music-dance-recitals-5",
+      "venue": "C.D. Deshmukh Auditorium, IIC main"
     },
     {
       "category": "Library Programmes",
@@ -650,6 +580,20 @@
       "date": "2026-09-16",
       "description": "",
       "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-09/16%20September%202026_Website%20Programme%20Image_5.jpg",
+      "score": 75,
+      "source": "iic",
+      "tags": [],
+      "time": "06:30 PM",
+      "title": "4TH KAPILA VATSYAYAN MEMORIAL LECTURE 2026",
+      "url": "https://iicdelhi.in/programmes/4th-kapila-vatsyayan-memorial-lecture-2026",
+      "venue": "C.D. Deshmukh Auditorium, IIC main"
+    },
+    {
+      "category": "Book Talk",
+      "date": "2026-09-16",
+      "description": "",
+      "end_date": null,
       "image": "https://aws-static.iicdelhi.in/2026-09/16%20September_Website%20Programme%20Image.jpg",
       "score": 75,
       "source": "iic",
@@ -686,20 +630,6 @@
       "title": "The Earlier You Know, The More You Can Do: A Dementia Diagnosis Matters",
       "url": "https://indiahabitat.org/Events_details/1402",
       "venue": "Gulmohar"
-    },
-    {
-      "category": "Film",
-      "date": "2026-09-16",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-09/16%20September%202026_Website%20Programme%20Image_4.jpg",
-      "score": 55,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "FILM-  Curandera: The Path from Tragedy to Truth",
-      "url": "https://iicdelhi.in/programmes/film-curandera-path-tragedy-truth",
-      "venue": "Lecture Room I, IIC Annexe"
     },
     {
       "category": "Library Programmes",
@@ -1360,5 +1290,5 @@
       "venue": "Gandhi-King Memorial Plaza, IIC main"
     }
   ],
-  "generated_at": "2026-09-06"
+  "generated_at": "2026-09-07"
 }

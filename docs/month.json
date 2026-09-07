@@ -1,62 +1,6 @@
 {
-  "count": 60,
+  "count": 56,
   "events": [
-    {
-      "category": "Museum",
-      "date": "2026-09-14",
-      "description": "",
-      "end_date": "2026-09-21",
-      "image": null,
-      "score": 85,
-      "source": "bikanerhouse",
-      "tags": [],
-      "time": null,
-      "title": "Tap Aur Tapish",
-      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/9",
-      "venue": "Bikaner House"
-    },
-    {
-      "category": "Indian Classical",
-      "date": "2026-09-14",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 80,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "A Piano Concert",
-      "url": "https://indiahabitat.org/Events_details/1398",
-      "venue": "The Stein Auditorium"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-09-14",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-09/14%20September%202026_Website%20Programme%20Image.jpg",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
-      "time": "06:00 PM",
-      "title": "250 years of American Independence: Shifting Global Challenges and US Public Opinion - IN CONVERSATION",
-      "url": "https://iicdelhi.in/programmes/250-years-american-independence-shifting-global-challenges-and-us-public-opinion",
-      "venue": "C.D. Deshmukh Auditorium, IIC main"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-09-14",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 75,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "Alternative Innovative Education for Out-of-School and Socio-Economically Deprived Group of Children",
-      "url": "https://indiahabitat.org/Events_details/1399",
-      "venue": "Casuarina"
-    },
     {
       "category": "Indian Classical",
       "date": "2026-09-15",
@@ -132,6 +76,20 @@
       "date": "2026-09-16",
       "description": "",
       "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-09/16%20September%202026_Website%20Programme%20Image_5.jpg",
+      "score": 75,
+      "source": "iic",
+      "tags": [],
+      "time": "06:30 PM",
+      "title": "4TH KAPILA VATSYAYAN MEMORIAL LECTURE 2026",
+      "url": "https://iicdelhi.in/programmes/4th-kapila-vatsyayan-memorial-lecture-2026",
+      "venue": "C.D. Deshmukh Auditorium, IIC main"
+    },
+    {
+      "category": "Book Talk",
+      "date": "2026-09-16",
+      "description": "",
+      "end_date": null,
       "image": "https://aws-static.iicdelhi.in/2026-09/16%20September_Website%20Programme%20Image.jpg",
       "score": 75,
       "source": "iic",
@@ -168,20 +126,6 @@
       "title": "The Earlier You Know, The More You Can Do: A Dementia Diagnosis Matters",
       "url": "https://indiahabitat.org/Events_details/1402",
       "venue": "Gulmohar"
-    },
-    {
-      "category": "Film",
-      "date": "2026-09-16",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-09/16%20September%202026_Website%20Programme%20Image_4.jpg",
-      "score": 55,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "FILM-  Curandera: The Path from Tragedy to Truth",
-      "url": "https://iicdelhi.in/programmes/film-curandera-path-tragedy-truth",
-      "venue": "Lecture Room I, IIC Annexe"
     },
     {
       "category": "Library Programmes",
@@ -842,5 +786,5 @@
       "venue": "Gandhi-King Memorial Plaza, IIC main"
     }
   ],
-  "generated_at": "2026-09-06"
+  "generated_at": "2026-09-07"
 }
