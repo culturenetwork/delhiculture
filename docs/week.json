@@ -2,62 +2,6 @@
   "count": 27,
   "events": [
     {
-      "category": "Book Talk",
-      "date": "2026-09-08",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 75,
-      "source": "ihc",
-      "tags": [],
-      "time": "6:00 PM",
-      "title": "Mecca Pact and Its implications for the Region",
-      "url": "https://indiahabitat.org/Events_details/1387",
-      "venue": "Gulmohar"
-    },
-    {
-      "category": "Dance",
-      "date": "2026-09-08",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 70,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "Charukarya: The Choreography Festival",
-      "url": "https://indiahabitat.org/Events_details/1388",
-      "venue": "The Stein Auditorium"
-    },
-    {
-      "category": "Cultural",
-      "date": "2026-09-08",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-08/8%20September%202026_Website%20Programme%20Image_0.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "06:00 PM",
-      "title": "IIC DOUBLE BILL: MUSIC & DANCE RECITALS",
-      "url": "https://iicdelhi.in/programmes/iic-double-bill-music-dance-recitals-5",
-      "venue": "C.D. Deshmukh Auditorium, IIC main"
-    },
-    {
-      "category": "Library Programmes",
-      "date": "2026-09-08",
-      "description": "",
-      "end_date": null,
-      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "06:00 PM",
-      "title": "POSTPONED --BOOK DISCUSSION From Manuscript to Memory, Safeguarding Living Heritage; Tangible and Natural Heritage Sites of Incredible India",
-      "url": "https://iicdelhi.in/programmes/postponed-book-discussion-manuscript-memory-safeguarding-living-heritage-tangible-and",
-      "venue": "Conference Room I, IIC main"
-    },
-    {
       "category": "Indian Classical",
       "date": "2026-09-09",
       "description": "",
@@ -98,6 +42,20 @@
       "title": "Dance with Space-  An evening of dance appreciation inviting viewers to look “into dance” rather than look “at dance”.",
       "url": "https://iicdelhi.in/programmes/dance-space-evening-dance-appreciation-inviting-viewers-look-dance-rather-look-dance",
       "venue": "C.D. Deshmukh Auditorium, IIC main"
+    },
+    {
+      "category": "Book Talk",
+      "date": "2026-09-10",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 75,
+      "source": "ihc",
+      "tags": [],
+      "time": "7:00 PM",
+      "title": "IHC Connect",
+      "url": "https://indiahabitat.org/Events_details/1436",
+      "venue": "Gulmohar"
     },
     {
       "category": "Dance",
@@ -193,8 +151,8 @@
       "source": "iic",
       "tags": [],
       "time": "06:30 PM",
-      "title": "FILM-  Paswaar (Caress Me)",
-      "url": "https://iicdelhi.in/programmes/film-paswaar-caress-me",
+      "title": "POSTPONED!-   FILM-  Paswaar (Caress Me)",
+      "url": "https://iicdelhi.in/programmes/postponed-film-paswaar-caress-me",
       "venue": "Lecture Room I, IIC Annexe"
     },
     {
@@ -378,7 +336,49 @@
       "title": "Alternative Innovative Education for Out-of-School and Socio-Economically Deprived Group of Children",
       "url": "https://indiahabitat.org/Events_details/1399",
       "venue": "Casuarina"
+    },
+    {
+      "category": "Indian Classical",
+      "date": "2026-09-15",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 80,
+      "source": "ihc",
+      "tags": [],
+      "time": "7:00 PM",
+      "title": "Guru Purnima: Tribute to Ustad Akhtar Nawaz Khan. Day 1",
+      "url": "https://indiahabitat.org/Events_details/1400",
+      "venue": "The Theatre"
+    },
+    {
+      "category": "Book Talk",
+      "date": "2026-09-15",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-09/15%20September%202026_Website%20Programme%20Inage.jpg",
+      "score": 75,
+      "source": "iic",
+      "tags": [],
+      "time": "10:00 AM",
+      "title": "DIALOGUES IN HEALTH AND WELLNESS-Short Talk: Recognition of Stress, Anxiety & Depression!",
+      "url": "https://iicdelhi.in/programmes/dialogues-health-and-wellness-short-talk-recognition-stress-anxiety-depression",
+      "venue": "Seminar Rooms 1,2,3"
+    },
+    {
+      "category": "Cultural",
+      "date": "2026-09-15",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-09/15%20September%202026_Website%20Programme%20Image_1.jpg",
+      "score": 50,
+      "source": "iic",
+      "tags": [],
+      "time": "06:00 PM",
+      "title": "IIC DOUBLE BILL: MUSIC & DANCE RECITALS",
+      "url": "https://iicdelhi.in/programmes/iic-double-bill-music-dance-recitals-6",
+      "venue": "C.D. Deshmukh Auditorium, IIC main"
     }
   ],
-  "generated_at": "2026-09-07"
+  "generated_at": "2026-09-08"
 }

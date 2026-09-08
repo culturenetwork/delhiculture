@@ -1,5 +1,5 @@
 {
-  "count": 92,
+  "count": 90,
   "events": [
     {
       "category": "Museum",
@@ -56,76 +56,6 @@
       "title": "Imprints of (E)motion",
       "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/9",
       "venue": "Bikaner House"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-09-07",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-09/7%20September%202026_Website%20Programme%20Image_3.jpg",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
-      "time": "10:00 AM",
-      "title": "Changing Climate, Land & Life Interplay: Spatial Intelligence for Sustainable Futures",
-      "url": "https://iicdelhi.in/programmes/changing-climate-land-life-interplay-spatial-intelligence-sustainable-futures",
-      "venue": "Seminar Rooms 1,2,3"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-09-07",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-09/7%20September%202026_Website%20Programme%20Image_1.jpg",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "CLEAN AIR DIALOGUES -International Clean Air Day",
-      "url": "https://iicdelhi.in/programmes/clean-air-dialogues-international-clean-air-day",
-      "venue": "Lecture Room II, IIC Annexe"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-09-07",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-09/Untitled-1.jpg",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
-      "time": "04:30 PM",
-      "title": "POSTPONED! - Taş Tepeler – The Genesis of Myths: An Archaeological Talk by Prof. Necmi Karul",
-      "url": "https://iicdelhi.in/programmes/postponed-tas-tepeler-genesis-myths-archaeological-talk-prof-necmi-karul",
-      "venue": "Seminar Rooms 1,2,3"
-    },
-    {
-      "category": "Film",
-      "date": "2026-09-07",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-09/7%20September%202026_Website%20Programme%20Image_2.jpg",
-      "score": 55,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "Aa Manas Gujarati Lage Che (This man looks like a Gujarati)",
-      "url": "https://iicdelhi.in/programmes/aa-manas-gujarati-lage-che-man-looks-gujarati",
-      "venue": "C.D. Deshmukh Auditorium, IIC main"
-    },
-    {
-      "category": "Film",
-      "date": "2026-09-07",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 55,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "Shape of Momo",
-      "url": "https://indiahabitat.org/Events_details/1386",
-      "venue": "The Stein Auditorium"
     },
     {
       "category": "Book Talk",
@@ -226,6 +156,20 @@
       "venue": "C.D. Deshmukh Auditorium, IIC main"
     },
     {
+      "category": "Book Talk",
+      "date": "2026-09-10",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 75,
+      "source": "ihc",
+      "tags": [],
+      "time": "7:00 PM",
+      "title": "IHC Connect",
+      "url": "https://indiahabitat.org/Events_details/1436",
+      "venue": "Gulmohar"
+    },
+    {
       "category": "Dance",
       "date": "2026-09-10",
       "description": "",
@@ -319,8 +263,8 @@
       "source": "iic",
       "tags": [],
       "time": "06:30 PM",
-      "title": "FILM-  Paswaar (Caress Me)",
-      "url": "https://iicdelhi.in/programmes/film-paswaar-caress-me",
+      "title": "POSTPONED!-   FILM-  Paswaar (Caress Me)",
+      "url": "https://iicdelhi.in/programmes/postponed-film-paswaar-caress-me",
       "venue": "Lecture Room I, IIC Annexe"
     },
     {
@@ -632,6 +576,20 @@
       "venue": "Gulmohar"
     },
     {
+      "category": "Film",
+      "date": "2026-09-16",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-09/16%20September%202026_Website%20Programme%20Image_4.jpg",
+      "score": 55,
+      "source": "iic",
+      "tags": [],
+      "time": "06:30 PM",
+      "title": "FILM-  Curandera: The Path from Tragedy to Truth",
+      "url": "https://iicdelhi.in/programmes/film-curandera-path-tragedy-truth",
+      "venue": "Lecture Room I, IIC Annexe"
+    },
+    {
       "category": "Library Programmes",
       "date": "2026-09-16",
       "description": "",
@@ -714,6 +672,20 @@
       "title": "BOOK DISCUSSION GROUP  - Ashes to Light: Stories of Hope Towards Gender Justice",
       "url": "https://iicdelhi.in/programmes/book-discussion-group-ashes-light-stories-hope-towards-gender-justice",
       "venue": "Conference Room I, IIC main"
+    },
+    {
+      "category": "Book Talk",
+      "date": "2026-09-19",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 75,
+      "source": "ihc",
+      "tags": [],
+      "time": "7:00 PM",
+      "title": "Why Indraprastha?",
+      "url": "https://indiahabitat.org/Events_details/1437",
+      "venue": "Gulmohar"
     },
     {
       "category": "Theatre",
@@ -1290,5 +1262,5 @@
       "venue": "Gandhi-King Memorial Plaza, IIC main"
     }
   ],
-  "generated_at": "2026-09-07"
+  "generated_at": "2026-09-08"
 }
