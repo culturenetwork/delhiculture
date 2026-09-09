@@ -1,34 +1,6 @@
 {
-  "count": 27,
+  "count": 33,
   "events": [
-    {
-      "category": "Indian Classical",
-      "date": "2026-09-09",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 80,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "Sangeetanjali Classical Music 2026",
-      "url": "https://indiahabitat.org/Events_details/1434",
-      "venue": "The Theatre"
-    },
-    {
-      "category": "Library Programmes",
-      "date": "2026-09-09",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-09/10%20September%202026_Website%20Programme%20Image_2.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "06:00 PM",
-      "title": "BOOK DISCUSSION GROUP -  Meet the Author:  Dr Vikas Swarup",
-      "url": "https://iicdelhi.in/programmes/book-discussion-group-meet-author-dr-vikas-swarup",
-      "venue": "Seminar Rooms 1,2,3"
-    },
     {
       "category": "Book Talk",
       "date": "2026-09-10",
@@ -112,20 +84,6 @@
       "title": "ART MATTERS",
       "url": "https://iicdelhi.in/programmes/art-matters-279",
       "venue": "Seminar Rooms 1,2,3"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-09-11",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 75,
-      "source": "ihc",
-      "tags": [],
-      "time": "6:30 PM",
-      "title": "Beyond Tailpipe: Electric Mobility at the Intersection of Air Quality and Energy Security",
-      "url": "https://indiahabitat.org/Events_details/1391",
-      "venue": "Gulmohar"
     },
     {
       "category": "Dance",
@@ -338,6 +296,20 @@
       "venue": "Casuarina"
     },
     {
+      "category": "Museum",
+      "date": "2026-09-15",
+      "description": "",
+      "end_date": "2026-09-24",
+      "image": null,
+      "score": 85,
+      "source": "bikanerhouse",
+      "tags": [],
+      "time": null,
+      "title": "Oriental Scenary",
+      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/9",
+      "venue": "Bikaner House"
+    },
+    {
       "category": "Indian Classical",
       "date": "2026-09-15",
       "description": "",
@@ -378,7 +350,119 @@
       "title": "IIC DOUBLE BILL: MUSIC & DANCE RECITALS",
       "url": "https://iicdelhi.in/programmes/iic-double-bill-music-dance-recitals-6",
       "venue": "C.D. Deshmukh Auditorium, IIC main"
+    },
+    {
+      "category": "Museum",
+      "date": "2026-09-16",
+      "description": "Phulkari, the vibrant embroidery tradition of Punjab, evokes nostalgic memories of color, music, dance and poetry. The exhibition traces the journey of reviving the thread-counted Phulkari embroidery and its iconic Pehchaan motif, celebrating Punjabi womanhood through a rich coll",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-09/16%20September%202026_Website%20Programme%20Image_3.jpg",
+      "score": 85,
+      "source": "iic",
+      "tags": [],
+      "time": "11:00 AM",
+      "title": "EXHIBITION- Phulkari: A Lingering Presence By Sunaina Suneja",
+      "url": "https://iicdelhi.in/programmes/exhibition-phulkari-lingering-presence-sunaina-suneja",
+      "venue": "Art Gallery, Kamaladevi Complex, IIC"
+    },
+    {
+      "category": "Indian Classical",
+      "date": "2026-09-16",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 80,
+      "source": "ihc",
+      "tags": [],
+      "time": "7:00 PM",
+      "title": "Guru Purnima: Tribute to Ustad Akhtar Nawaz Khan. Day 2",
+      "url": "https://indiahabitat.org/Events_details/1401",
+      "venue": "The Theatre"
+    },
+    {
+      "category": "Book Talk",
+      "date": "2026-09-16",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-09/16%20September%202026_Website%20Programme%20Image_5.jpg",
+      "score": 75,
+      "source": "iic",
+      "tags": [],
+      "time": "06:30 PM",
+      "title": "4TH KAPILA VATSYAYAN MEMORIAL LECTURE 2026",
+      "url": "https://iicdelhi.in/programmes/4th-kapila-vatsyayan-memorial-lecture-2026",
+      "venue": "C.D. Deshmukh Auditorium, IIC main"
+    },
+    {
+      "category": "Book Talk",
+      "date": "2026-09-16",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-09/16%20September_Website%20Programme%20Image.jpg",
+      "score": 75,
+      "source": "iic",
+      "tags": [],
+      "time": "06:30 PM",
+      "title": "Connected Histories, Shared Present: Cross-Cultural Experiences between Latin America, the Caribbean and India",
+      "url": "https://iicdelhi.in/programmes/connected-histories-shared-present-cross-cultural-experiences-between-latin-america-3",
+      "venue": "Conference Room I, IIC main"
+    },
+    {
+      "category": "Book Talk",
+      "date": "2026-09-16",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-09/16%20September%202026_Website%20Programme%20Image_1.jpg",
+      "score": 75,
+      "source": "iic",
+      "tags": [],
+      "time": "06:30 PM",
+      "title": "Kriya Yoga and Peace of Individual and Planet Earth",
+      "url": "https://iicdelhi.in/programmes/kriya-yoga-and-peace-individual-and-planet-earth",
+      "venue": "Multipurpose Hall, Kamaladevi Complex, IIC"
+    },
+    {
+      "category": "Book Talk",
+      "date": "2026-09-16",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 75,
+      "source": "ihc",
+      "tags": [],
+      "time": "7:00 PM",
+      "title": "The Earlier You Know, The More You Can Do: A Dementia Diagnosis Matters",
+      "url": "https://indiahabitat.org/Events_details/1402",
+      "venue": "Gulmohar"
+    },
+    {
+      "category": "Film",
+      "date": "2026-09-16",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-09/16%20September%202026_Website%20Programme%20Image_4.jpg",
+      "score": 55,
+      "source": "iic",
+      "tags": [],
+      "time": "06:30 PM",
+      "title": "FILM-  Curandera: The Path from Tragedy to Truth",
+      "url": "https://iicdelhi.in/programmes/film-curandera-path-tragedy-truth",
+      "venue": "Lecture Room I, IIC Annexe"
+    },
+    {
+      "category": "Library Programmes",
+      "date": "2026-09-16",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-09/16%20September%202026_Website%20Programme%20Image_2.jpg",
+      "score": 50,
+      "source": "iic",
+      "tags": [],
+      "time": "06:00 PM",
+      "title": "BOOK DISCUSSION GROUP -   Rabindranath Tagore: The Myriad Minded Man.",
+      "url": "https://iicdelhi.in/programmes/book-discussion-group-rabindranath-tagore-myriad-minded-man",
+      "venue": "Conference Room II, IIC main"
     }
   ],
-  "generated_at": "2026-09-08"
+  "generated_at": "2026-09-09"
 }

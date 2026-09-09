@@ -1,5 +1,5 @@
 {
-  "count": 90,
+  "count": 87,
   "events": [
     {
       "category": "Museum",
@@ -56,62 +56,6 @@
       "title": "Imprints of (E)motion",
       "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/9",
       "venue": "Bikaner House"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-09-08",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 75,
-      "source": "ihc",
-      "tags": [],
-      "time": "6:00 PM",
-      "title": "Mecca Pact and Its implications for the Region",
-      "url": "https://indiahabitat.org/Events_details/1387",
-      "venue": "Gulmohar"
-    },
-    {
-      "category": "Dance",
-      "date": "2026-09-08",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 70,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "Charukarya: The Choreography Festival",
-      "url": "https://indiahabitat.org/Events_details/1388",
-      "venue": "The Stein Auditorium"
-    },
-    {
-      "category": "Cultural",
-      "date": "2026-09-08",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-08/8%20September%202026_Website%20Programme%20Image_0.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "06:00 PM",
-      "title": "IIC DOUBLE BILL: MUSIC & DANCE RECITALS",
-      "url": "https://iicdelhi.in/programmes/iic-double-bill-music-dance-recitals-5",
-      "venue": "C.D. Deshmukh Auditorium, IIC main"
-    },
-    {
-      "category": "Library Programmes",
-      "date": "2026-09-08",
-      "description": "",
-      "end_date": null,
-      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "06:00 PM",
-      "title": "POSTPONED --BOOK DISCUSSION From Manuscript to Memory, Safeguarding Living Heritage; Tangible and Natural Heritage Sites of Incredible India",
-      "url": "https://iicdelhi.in/programmes/postponed-book-discussion-manuscript-memory-safeguarding-living-heritage-tangible-and",
-      "venue": "Conference Room I, IIC main"
     },
     {
       "category": "Indian Classical",
@@ -224,20 +168,6 @@
       "title": "ART MATTERS",
       "url": "https://iicdelhi.in/programmes/art-matters-279",
       "venue": "Seminar Rooms 1,2,3"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-09-11",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 75,
-      "source": "ihc",
-      "tags": [],
-      "time": "6:30 PM",
-      "title": "Beyond Tailpipe: Electric Mobility at the Intersection of Air Quality and Energy Security",
-      "url": "https://indiahabitat.org/Events_details/1391",
-      "venue": "Gulmohar"
     },
     {
       "category": "Dance",
@@ -450,6 +380,20 @@
       "venue": "Casuarina"
     },
     {
+      "category": "Museum",
+      "date": "2026-09-15",
+      "description": "",
+      "end_date": "2026-09-24",
+      "image": null,
+      "score": 85,
+      "source": "bikanerhouse",
+      "tags": [],
+      "time": null,
+      "title": "Oriental Scenary",
+      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/9",
+      "venue": "Bikaner House"
+    },
+    {
       "category": "Indian Classical",
       "date": "2026-09-15",
       "description": "",
@@ -613,7 +557,7 @@
       "source": "ihc",
       "tags": [],
       "time": "7:00 PM",
-      "title": "An Evening of Hindustani Classical Music",
+      "title": "In Harmony with Purpose",
       "url": "https://indiahabitat.org/Events_details/1403",
       "venue": "The Theatre"
     },
@@ -790,6 +734,20 @@
       "date": "2026-09-21",
       "description": "",
       "end_date": null,
+      "image": null,
+      "score": 75,
+      "source": "ihc",
+      "tags": [],
+      "time": "6:30 PM",
+      "title": "Beyond Tailpipe: Electric Mobility at the Intersection of Air Quality and Energy Security",
+      "url": "https://indiahabitat.org/Events_details/1391",
+      "venue": "Gulmohar"
+    },
+    {
+      "category": "Book Talk",
+      "date": "2026-09-21",
+      "description": "",
+      "end_date": null,
       "image": "https://aws-static.iicdelhi.in/2026-09/21%20September%202026_Website%20Programme%20Image_1.jpg",
       "score": 75,
       "source": "iic",
@@ -884,20 +842,6 @@
       "venue": "Conference Room II, IIC main"
     },
     {
-      "category": "Book Talk",
-      "date": "2026-09-23",
-      "description": "",
-      "end_date": null,
-      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "Delimitation after 2026: Electoral Equality or Federal Balance?",
-      "url": "https://iicdelhi.in/programmes/delimitation-after-2026-electoral-equality-or-federal-balance",
-      "venue": "Conference Room I, IIC main"
-    },
-    {
       "category": "Theatre",
       "date": "2026-09-23",
       "description": "",
@@ -907,7 +851,7 @@
       "source": "ihc",
       "tags": [],
       "time": "7:00 PM",
-      "title": "IHC Theatre Festival 2026",
+      "title": "IHC Theatre Festival 2026. Window Tak Aashiqui",
       "url": "https://indiahabitat.org/Events_details/1417",
       "venue": "The Stein Auditorium"
     },
@@ -1036,6 +980,20 @@
       "title": "FILM-Oslo: A Tail of Promise",
       "url": "https://iicdelhi.in/programmes/film-oslo-tail-promise",
       "venue": "Lecture Room I, IIC Annexe"
+    },
+    {
+      "category": "Book Talk",
+      "date": "2026-09-26",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 75,
+      "source": "ihc",
+      "tags": [],
+      "time": "7:00 PM",
+      "title": "Unlocking Indian Tourism: How Deregulation and Policy Reform Can Drive Growth",
+      "url": "https://indiahabitat.org/Events_details/1438",
+      "venue": "Gulmohar"
     },
     {
       "category": "Theatre",
@@ -1262,5 +1220,5 @@
       "venue": "Gandhi-King Memorial Plaza, IIC main"
     }
   ],
-  "generated_at": "2026-09-08"
+  "generated_at": "2026-09-09"
 }
