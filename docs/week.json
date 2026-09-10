@@ -1,62 +1,6 @@
 {
-  "count": 33,
+  "count": 32,
   "events": [
-    {
-      "category": "Book Talk",
-      "date": "2026-09-10",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-08/10%20September%202026_Website%20Programme%20Image.jpg",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "Dance with Space-  An evening of dance appreciation inviting viewers to look “into dance” rather than look “at dance”.",
-      "url": "https://iicdelhi.in/programmes/dance-space-evening-dance-appreciation-inviting-viewers-look-dance-rather-look-dance",
-      "venue": "C.D. Deshmukh Auditorium, IIC main"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-09-10",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 75,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "IHC Connect",
-      "url": "https://indiahabitat.org/Events_details/1436",
-      "venue": "Gulmohar"
-    },
-    {
-      "category": "Dance",
-      "date": "2026-09-10",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 70,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "Navin Anande",
-      "url": "https://indiahabitat.org/Events_details/1390",
-      "venue": "The Stein Auditorium"
-    },
-    {
-      "category": "Library Programmes",
-      "date": "2026-09-10",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-09/10%20September%202026_Website%20Programme%20Image_1.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "06:00 PM",
-      "title": "BOOK DISCUSSION GROUP-   Far from the Rooftop of the World: Travels among Tibetan Refugees on Four Continents",
-      "url": "https://iicdelhi.in/programmes/book-discussion-group-far-rooftop-world-travels-among-tibetan-refugees-four-continents",
-      "venue": "Lecture Room II, IIC Annexe"
-    },
     {
       "category": "Indian Classical",
       "date": "2026-09-11",
@@ -347,8 +291,8 @@
       "source": "iic",
       "tags": [],
       "time": "06:00 PM",
-      "title": "IIC DOUBLE BILL: MUSIC & DANCE RECITALS",
-      "url": "https://iicdelhi.in/programmes/iic-double-bill-music-dance-recitals-6",
+      "title": "IIC DOUBLE BILL: MUSIC RECITALS",
+      "url": "https://iicdelhi.in/programmes/iic-double-bill-music-recitals-22",
       "venue": "C.D. Deshmukh Auditorium, IIC main"
     },
     {
@@ -462,7 +406,49 @@
       "title": "BOOK DISCUSSION GROUP -   Rabindranath Tagore: The Myriad Minded Man.",
       "url": "https://iicdelhi.in/programmes/book-discussion-group-rabindranath-tagore-myriad-minded-man",
       "venue": "Conference Room II, IIC main"
+    },
+    {
+      "category": "Indian Classical",
+      "date": "2026-09-17",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 80,
+      "source": "ihc",
+      "tags": [],
+      "time": "7:00 PM",
+      "title": "In Harmony with Purpose",
+      "url": "https://indiahabitat.org/Events_details/1403",
+      "venue": "The Theatre"
+    },
+    {
+      "category": "Film",
+      "date": "2026-09-17",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-09/17%20September%202026_Website%20Programme%20Image.jpg",
+      "score": 55,
+      "source": "iic",
+      "tags": [],
+      "time": "06:00 PM",
+      "title": "MAHARASHTRA SANSKRITIK DIWAS 2026",
+      "url": "https://iicdelhi.in/programmes/maharashtra-sanskritik-diwas-2026",
+      "venue": "C.D. Deshmukh Auditorium, IIC main"
+    },
+    {
+      "category": "Film",
+      "date": "2026-09-17",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 55,
+      "source": "ihc",
+      "tags": [],
+      "time": "7:00 PM",
+      "title": "Oslo – A Tail of Promise",
+      "url": "https://indiahabitat.org/Events_details/1404",
+      "venue": "The Stein Auditorium"
     }
   ],
-  "generated_at": "2026-09-09"
+  "generated_at": "2026-09-10"
 }

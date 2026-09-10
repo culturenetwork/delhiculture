@@ -1,5 +1,5 @@
 {
-  "count": 6,
+  "count": 8,
   "events": [
     {
       "category": "Museum",
@@ -58,33 +58,61 @@
       "venue": "Bikaner House"
     },
     {
-      "category": "Indian Classical",
-      "date": "2026-09-09",
+      "category": "Book Talk",
+      "date": "2026-09-10",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-08/10%20September%202026_Website%20Programme%20Image.jpg",
+      "score": 75,
+      "source": "iic",
+      "tags": [],
+      "time": "06:30 PM",
+      "title": "Dance with Space-  An evening of dance appreciation inviting viewers to look “into dance” rather than look “at dance”.",
+      "url": "https://iicdelhi.in/programmes/dance-space-evening-dance-appreciation-inviting-viewers-look-dance-rather-look-dance",
+      "venue": "C.D. Deshmukh Auditorium, IIC main"
+    },
+    {
+      "category": "Book Talk",
+      "date": "2026-09-10",
       "description": "",
       "end_date": null,
       "image": null,
-      "score": 80,
+      "score": 75,
       "source": "ihc",
       "tags": [],
       "time": "7:00 PM",
-      "title": "Sangeetanjali Classical Music 2026",
-      "url": "https://indiahabitat.org/Events_details/1434",
-      "venue": "The Theatre"
+      "title": "IHC Connect",
+      "url": "https://indiahabitat.org/Events_details/1436",
+      "venue": "Gulmohar"
+    },
+    {
+      "category": "Dance",
+      "date": "2026-09-10",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 70,
+      "source": "ihc",
+      "tags": [],
+      "time": "7:00 PM",
+      "title": "Navin Anande",
+      "url": "https://indiahabitat.org/Events_details/1390",
+      "venue": "The Stein Auditorium"
     },
     {
       "category": "Library Programmes",
-      "date": "2026-09-09",
+      "date": "2026-09-10",
       "description": "",
       "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-09/10%20September%202026_Website%20Programme%20Image_2.jpg",
+      "image": "https://aws-static.iicdelhi.in/2026-09/10%20September%202026_Website%20Programme%20Image_1.jpg",
       "score": 50,
       "source": "iic",
       "tags": [],
       "time": "06:00 PM",
-      "title": "BOOK DISCUSSION GROUP -  Meet the Author:  Dr Vikas Swarup",
-      "url": "https://iicdelhi.in/programmes/book-discussion-group-meet-author-dr-vikas-swarup",
-      "venue": "Seminar Rooms 1,2,3"
+      "title": "BOOK DISCUSSION GROUP-   Far from the Rooftop of the World: Travels among Tibetan Refugees on Four Continents",
+      "url": "https://iicdelhi.in/programmes/book-discussion-group-far-rooftop-world-travels-among-tibetan-refugees-four-continents",
+      "venue": "Lecture Room II, IIC Annexe"
     }
   ],
-  "generated_at": "2026-09-09"
+  "generated_at": "2026-09-10"
 }
