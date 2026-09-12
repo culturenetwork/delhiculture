@@ -1,5 +1,5 @@
 {
-  "count": 80,
+  "count": 76,
   "events": [
     {
       "category": "Museum",
@@ -28,90 +28,6 @@
       "title": "EXHIBITION - Beyond the Word",
       "url": "https://iicdelhi.in/programmes/exhibition-beyond-word",
       "venue": "Art Gallery, IIC Annexe"
-    },
-    {
-      "category": "Museum",
-      "date": "2026-09-07",
-      "description": "",
-      "end_date": "2026-09-11",
-      "image": null,
-      "score": 85,
-      "source": "bikanerhouse",
-      "tags": [],
-      "time": null,
-      "title": "Imprints of (E)motion",
-      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/9",
-      "venue": "Bikaner House"
-    },
-    {
-      "category": "Indian Classical",
-      "date": "2026-09-11",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 80,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "An Evening of Indian Classical Music. Day1",
-      "url": "https://indiahabitat.org/Events_details/1392",
-      "venue": "The Theatre"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-09-11",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-09/11%20September%202026_Website%20Programme%20Image_1_0.jpg",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "CANCELLED- ART MATTERS",
-      "url": "https://iicdelhi.in/programmes/cancelled-art-matters",
-      "venue": "Seminar Rooms 1,2,3"
-    },
-    {
-      "category": "Dance",
-      "date": "2026-09-11",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 70,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "Punarāgama (पुनरागम)",
-      "url": "https://indiahabitat.org/Events_details/1393",
-      "venue": "The Stein Auditorium"
-    },
-    {
-      "category": "Film",
-      "date": "2026-09-11",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-09/11%20September%202026_Website%20Programme%20Image.jpg",
-      "score": 55,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "POSTPONED!-   FILM-  Paswaar (Caress Me)",
-      "url": "https://iicdelhi.in/programmes/postponed-film-paswaar-caress-me",
-      "venue": "Lecture Room I, IIC Annexe"
-    },
-    {
-      "category": "Library Programmes",
-      "date": "2026-09-11",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-09/11%20September%202026_Website%20Programme%20Image_2.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "06:00 PM",
-      "title": "BOOK DISCUSSION GROUP-   Law of Sexual Harassment at Workplace: Practice and Procedure",
-      "url": "https://iicdelhi.in/programmes/book-discussion-group-law-sexual-harassment-workplace-practice-and-procedure",
-      "venue": "Lecture Room II, IIC Annexe"
     },
     {
       "category": "Museum",
@@ -370,6 +286,34 @@
       "date": "2026-09-16",
       "description": "",
       "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-09/16%20September%202026_Website%20Programme%20Image_5.jpg",
+      "score": 75,
+      "source": "iic",
+      "tags": [],
+      "time": "06:30 PM",
+      "title": "4TH KAPILA VATSYAYAN MEMORIAL LECTURE 2026",
+      "url": "https://iicdelhi.in/programmes/4th-kapila-vatsyayan-memorial-lecture-2026",
+      "venue": "C.D. Deshmukh Auditorium, IIC main"
+    },
+    {
+      "category": "Book Talk",
+      "date": "2026-09-16",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-09/16%20September_Website%20Programme%20Image.jpg",
+      "score": 75,
+      "source": "iic",
+      "tags": [],
+      "time": "06:30 PM",
+      "title": "Connected Histories, Shared Present: Cross-Cultural Experiences between Latin America, the Caribbean and India",
+      "url": "https://iicdelhi.in/programmes/connected-histories-shared-present-cross-cultural-experiences-between-latin-america-3",
+      "venue": "Conference Room I, IIC main"
+    },
+    {
+      "category": "Book Talk",
+      "date": "2026-09-16",
+      "description": "",
+      "end_date": null,
       "image": "https://aws-static.iicdelhi.in/2026-09/16%20September%202026_Website%20Programme%20Image_1.jpg",
       "score": 75,
       "source": "iic",
@@ -416,10 +360,10 @@
       "score": 50,
       "source": "iic",
       "tags": [],
-      "time": "06:00 PM",
+      "time": "03:00 PM",
       "title": "BOOK DISCUSSION GROUP -   Rabindranath Tagore: The Myriad Minded Man.",
       "url": "https://iicdelhi.in/programmes/book-discussion-group-rabindranath-tagore-myriad-minded-man",
-      "venue": "Conference Room II, IIC main"
+      "venue": "Lecture Room I, IIC Annexe"
     },
     {
       "category": "Indian Classical",
@@ -1122,5 +1066,5 @@
       "venue": "Gandhi-King Memorial Plaza, IIC main"
     }
   ],
-  "generated_at": "2026-09-11"
+  "generated_at": "2026-09-12"
 }

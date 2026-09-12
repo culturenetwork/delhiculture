@@ -1,62 +1,6 @@
 {
-  "count": 45,
+  "count": 41,
   "events": [
-    {
-      "category": "Book Talk",
-      "date": "2026-09-19",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 75,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "Why Indraprastha?",
-      "url": "https://indiahabitat.org/Events_details/1437",
-      "venue": "Gulmohar"
-    },
-    {
-      "category": "Theatre",
-      "date": "2026-09-19",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 65,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "IHC Theatre Festival 2026. Breast of Luck",
-      "url": "https://indiahabitat.org/Events_details/1408",
-      "venue": "The Stein Auditorium"
-    },
-    {
-      "category": "Theatre",
-      "date": "2026-09-19",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 65,
-      "source": "ihc",
-      "tags": [],
-      "time": "5:00 PM",
-      "title": "IHC Theatre Festival 2026. Maaye Ni Meri Akh Lag Gayi",
-      "url": "https://indiahabitat.org/Events_details/1409",
-      "venue": "The Theatre"
-    },
-    {
-      "category": "Cultural",
-      "date": "2026-09-19",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 50,
-      "source": "ihc",
-      "tags": [],
-      "time": "6:00 PM",
-      "title": "IHC Members Meet",
-      "url": "https://indiahabitat.org/Events_details/1407",
-      "venue": "The Habitat Lounge"
-    },
     {
       "category": "Theatre",
       "date": "2026-09-20",
@@ -632,5 +576,5 @@
       "venue": "Gandhi-King Memorial Plaza, IIC main"
     }
   ],
-  "generated_at": "2026-09-11"
+  "generated_at": "2026-09-12"
 }
