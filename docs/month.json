@@ -1,62 +1,6 @@
 {
-  "count": 41,
+  "count": 37,
   "events": [
-    {
-      "category": "Theatre",
-      "date": "2026-09-20",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 65,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "IHC Theatre Festival 2026. Amb Da Boota",
-      "url": "https://indiahabitat.org/Events_details/1411",
-      "venue": "The Stein Auditorium"
-    },
-    {
-      "category": "Theatre",
-      "date": "2026-09-20",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 65,
-      "source": "ihc",
-      "tags": [],
-      "time": "12:00 PM",
-      "title": "IHC Theatre Festival 2026. Home in a Suitcase",
-      "url": "https://indiahabitat.org/Events_details/1412",
-      "venue": "The Theatre"
-    },
-    {
-      "category": "Theatre",
-      "date": "2026-09-20",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 65,
-      "source": "ihc",
-      "tags": [],
-      "time": "4:00 PM",
-      "title": "IHC Theatre Festival 2026. Home in a Suitcase",
-      "url": "https://indiahabitat.org/Events_details/1413",
-      "venue": "The Theatre"
-    },
-    {
-      "category": "Workshop",
-      "date": "2026-09-20",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 50,
-      "source": "ihc",
-      "tags": [],
-      "time": "12:00 PM",
-      "title": "Indian Art: History and Appreciation Course",
-      "url": "https://indiahabitat.org/Events_details/1410",
-      "venue": "Casuarina"
-    },
     {
       "category": "Book Talk",
       "date": "2026-09-21",
@@ -576,5 +520,5 @@
       "venue": "Gandhi-King Memorial Plaza, IIC main"
     }
   ],
-  "generated_at": "2026-09-12"
+  "generated_at": "2026-09-13"
 }

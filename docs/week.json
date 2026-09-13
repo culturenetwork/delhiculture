@@ -1,34 +1,6 @@
 {
-  "count": 27,
+  "count": 29,
   "events": [
-    {
-      "category": "Museum",
-      "date": "2026-09-13",
-      "description": "",
-      "end_date": "2026-09-22",
-      "image": null,
-      "score": 85,
-      "source": "bikanerhouse",
-      "tags": [],
-      "time": null,
-      "title": "Standing on Sacred Ground",
-      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/9",
-      "venue": "Bikaner House"
-    },
-    {
-      "category": "Film & Theatre",
-      "date": "2026-09-13",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 50,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "Fleabag Encore",
-      "url": "https://indiahabitat.org/Events_details/1397",
-      "venue": "The Stein Auditorium"
-    },
     {
       "category": "Museum",
       "date": "2026-09-14",
@@ -378,7 +350,63 @@
       "title": "IHC Members Meet",
       "url": "https://indiahabitat.org/Events_details/1407",
       "venue": "The Habitat Lounge"
+    },
+    {
+      "category": "Theatre",
+      "date": "2026-09-20",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 65,
+      "source": "ihc",
+      "tags": [],
+      "time": "7:00 PM",
+      "title": "IHC Theatre Festival 2026. Amb Da Boota",
+      "url": "https://indiahabitat.org/Events_details/1411",
+      "venue": "The Stein Auditorium"
+    },
+    {
+      "category": "Theatre",
+      "date": "2026-09-20",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 65,
+      "source": "ihc",
+      "tags": [],
+      "time": "12:00 PM",
+      "title": "IHC Theatre Festival 2026. Home in a Suitcase",
+      "url": "https://indiahabitat.org/Events_details/1412",
+      "venue": "The Theatre"
+    },
+    {
+      "category": "Theatre",
+      "date": "2026-09-20",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 65,
+      "source": "ihc",
+      "tags": [],
+      "time": "4:00 PM",
+      "title": "IHC Theatre Festival 2026. Home in a Suitcase",
+      "url": "https://indiahabitat.org/Events_details/1413",
+      "venue": "The Theatre"
+    },
+    {
+      "category": "Workshop",
+      "date": "2026-09-20",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 50,
+      "source": "ihc",
+      "tags": [],
+      "time": "12:00 PM",
+      "title": "Indian Art: History and Appreciation Course",
+      "url": "https://indiahabitat.org/Events_details/1410",
+      "venue": "Casuarina"
     }
   ],
-  "generated_at": "2026-09-12"
+  "generated_at": "2026-09-13"
 }
