@@ -1,76 +1,6 @@
 {
-  "count": 37,
+  "count": 33,
   "events": [
-    {
-      "category": "Book Talk",
-      "date": "2026-09-21",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 75,
-      "source": "ihc",
-      "tags": [],
-      "time": "6:30 PM",
-      "title": "Beyond Tailpipe: Electric Mobility at the Intersection of Air Quality and Energy Security",
-      "url": "https://indiahabitat.org/Events_details/1391",
-      "venue": "Gulmohar"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-09-21",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-09/21%20September%202026_Website%20Programme%20Image_1.jpg",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "INDIAN ARCHAEOLOGY",
-      "url": "https://iicdelhi.in/programmes/indian-archaeology-151",
-      "venue": "Conference Room II, IIC main"
-    },
-    {
-      "category": "Theatre",
-      "date": "2026-09-21",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 65,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "IHC Theatre Festival 2026",
-      "url": "https://indiahabitat.org/Events_details/1414",
-      "venue": "The Stein Auditorium"
-    },
-    {
-      "category": "Library Programmes",
-      "date": "2026-09-21",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-09/21%20September%202026_Website%20Programme%20Image.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "06:00 PM",
-      "title": "BOOK DISCUSSION GROUP - What the Shadow Said",
-      "url": "https://iicdelhi.in/programmes/book-discussion-group-what-shadow-said",
-      "venue": "Conference Room I, IIC main"
-    },
-    {
-      "category": "Festivals",
-      "date": "2026-09-21",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-09/16%20September_Website%20Programme%20Image_6.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "04:00 PM",
-      "title": "New Programme- KODAVA NATIONAL SEMINAR - Coorg Cultural & Food Celebration",
-      "url": "https://iicdelhi.in/programmes/new-programme-kodava-national-seminar-coorg-cultural-food-celebration",
-      "venue": "C.D. Deshmukh Auditorium, IIC main"
-    },
     {
       "category": "Book Talk",
       "date": "2026-09-22",
@@ -346,6 +276,20 @@
       "score": 65,
       "source": "ihc",
       "tags": [],
+      "time": "12:00 PM",
+      "title": "Hindi Medium Tight",
+      "url": "https://indiahabitat.org/Events_details/1439",
+      "venue": "The Theatre"
+    },
+    {
+      "category": "Theatre",
+      "date": "2026-09-27",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 65,
+      "source": "ihc",
+      "tags": [],
       "time": "7:00 PM",
       "title": "IHC Theatre Festival 2026. Bhasbharatam",
       "url": "https://indiahabitat.org/Events_details/1426",
@@ -520,5 +464,5 @@
       "venue": "Gandhi-King Memorial Plaza, IIC main"
     }
   ],
-  "generated_at": "2026-09-13"
+  "generated_at": "2026-09-14"
 }

@@ -1,34 +1,6 @@
 {
-  "count": 6,
+  "count": 7,
   "events": [
-    {
-      "category": "Museum",
-      "date": "2026-09-02",
-      "description": "Solo exhibition by Anup Shrivastava, artist from Dhar, Madhya Pradesh. Rang Mela celebrates the cultural traditions and festive spirit of the tribal communities of the Malwa and Nimar regions. Inspired by the Bhagoria festival, the exhibition captures the energy of tribal fairs,",
-      "end_date": "2026-09-13",
-      "image": "https://aws-static.iicdelhi.in/2026-08/2%20September%202026_Website%20Programme%20Image.jpg",
-      "score": 85,
-      "source": "iic",
-      "tags": [],
-      "time": "11:00 AM",
-      "title": "EXHIBITION - Rang Mela",
-      "url": "https://iicdelhi.in/programmes/exhibition-rang-mela",
-      "venue": "Art Gallery, Kamaladevi Complex, IIC"
-    },
-    {
-      "category": "Museum",
-      "date": "2026-09-04",
-      "description": "An exhibition inspired by the landscapes and living traditions of Northeast India, particularly Meghalaya’s remarkable living root bridges. Drawing upon her travels through the Himalayan region, Pratibha Awasthi explores the relationship between nature, tribal knowledge and cultu",
-      "end_date": "2026-09-13",
-      "image": "https://aws-static.iicdelhi.in/2026-08/4%20September%202026_Website%20Programme%20Image_2.jpg",
-      "score": 85,
-      "source": "iic",
-      "tags": [],
-      "time": "11:00 AM",
-      "title": "EXHIBITION - Beyond the Word",
-      "url": "https://iicdelhi.in/programmes/exhibition-beyond-word",
-      "venue": "Art Gallery, IIC Annexe"
-    },
     {
       "category": "Museum",
       "date": "2026-09-12",
@@ -72,19 +44,61 @@
       "venue": "Bikaner House"
     },
     {
-      "category": "Film & Theatre",
-      "date": "2026-09-13",
+      "category": "Museum",
+      "date": "2026-09-14",
+      "description": "",
+      "end_date": "2026-09-21",
+      "image": null,
+      "score": 85,
+      "source": "bikanerhouse",
+      "tags": [],
+      "time": null,
+      "title": "Tap Aur Tapish",
+      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/9",
+      "venue": "Bikaner House"
+    },
+    {
+      "category": "Indian Classical",
+      "date": "2026-09-14",
       "description": "",
       "end_date": null,
       "image": null,
-      "score": 50,
+      "score": 80,
       "source": "ihc",
       "tags": [],
       "time": "7:00 PM",
-      "title": "Fleabag Encore",
-      "url": "https://indiahabitat.org/Events_details/1397",
+      "title": "A Piano Concert",
+      "url": "https://indiahabitat.org/Events_details/1398",
       "venue": "The Stein Auditorium"
+    },
+    {
+      "category": "Book Talk",
+      "date": "2026-09-14",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-09/14%20September%202026_Website%20Programme%20Image.jpg",
+      "score": 75,
+      "source": "iic",
+      "tags": [],
+      "time": "06:00 PM",
+      "title": "250 years of American Independence: Shifting Global Challenges and US Public Opinion - IN CONVERSATION",
+      "url": "https://iicdelhi.in/programmes/250-years-american-independence-shifting-global-challenges-and-us-public-opinion",
+      "venue": "C.D. Deshmukh Auditorium, IIC main"
+    },
+    {
+      "category": "Book Talk",
+      "date": "2026-09-14",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 75,
+      "source": "ihc",
+      "tags": [],
+      "time": "7:00 PM",
+      "title": "Alternative Innovative Education for Out-of-School and Socio-Economically Deprived Group of Children",
+      "url": "https://indiahabitat.org/Events_details/1399",
+      "venue": "Casuarina"
     }
   ],
-  "generated_at": "2026-09-13"
+  "generated_at": "2026-09-14"
 }
