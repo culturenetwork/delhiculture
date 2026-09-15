@@ -1,62 +1,6 @@
 {
-  "count": 29,
+  "count": 28,
   "events": [
-    {
-      "category": "Museum",
-      "date": "2026-09-15",
-      "description": "",
-      "end_date": "2026-09-24",
-      "image": null,
-      "score": 85,
-      "source": "bikanerhouse",
-      "tags": [],
-      "time": null,
-      "title": "Oriental Scenary",
-      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/9",
-      "venue": "Bikaner House"
-    },
-    {
-      "category": "Indian Classical",
-      "date": "2026-09-15",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 80,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "Guru Purnima: Tribute to Ustad Akhtar Nawaz Khan. Day 1",
-      "url": "https://indiahabitat.org/Events_details/1400",
-      "venue": "The Theatre"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-09-15",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-09/15%20September%202026_Website%20Programme%20Inage.jpg",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
-      "time": "10:00 AM",
-      "title": "DIALOGUES IN HEALTH AND WELLNESS-Short Talk: Recognition of Stress, Anxiety & Depression!",
-      "url": "https://iicdelhi.in/programmes/dialogues-health-and-wellness-short-talk-recognition-stress-anxiety-depression",
-      "venue": "Seminar Rooms 1,2,3"
-    },
-    {
-      "category": "Cultural",
-      "date": "2026-09-15",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-09/15%20September%202026_Website%20Programme%20Image_1.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "06:00 PM",
-      "title": "IIC DOUBLE BILL: MUSIC RECITALS",
-      "url": "https://iicdelhi.in/programmes/iic-double-bill-music-recitals-22",
-      "venue": "C.D. Deshmukh Auditorium, IIC main"
-    },
     {
       "category": "Museum",
       "date": "2026-09-16",
@@ -296,6 +240,20 @@
       "venue": "The Habitat Lounge"
     },
     {
+      "category": "Workshop",
+      "date": "2026-09-19",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 50,
+      "source": "ihc",
+      "tags": [],
+      "time": "12:00 PM",
+      "title": "Indian Art: History and Appreciation Course",
+      "url": "https://indiahabitat.org/Events_details/1406",
+      "venue": "Casuarina"
+    },
+    {
       "category": "Theatre",
       "date": "2026-09-20",
       "description": "",
@@ -394,19 +352,47 @@
       "venue": "The Stein Auditorium"
     },
     {
-      "category": "Festivals",
+      "category": "Library Programmes",
       "date": "2026-09-21",
       "description": "",
       "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-09/16%20September_Website%20Programme%20Image_6.jpg",
+      "image": "https://aws-static.iicdelhi.in/2026-09/21%20September%202026_Website%20Programme%20Image.jpg",
       "score": 50,
       "source": "iic",
       "tags": [],
-      "time": "04:00 PM",
-      "title": "New Programme- KODAVA NATIONAL SEMINAR - Coorg Cultural & Food Celebration",
-      "url": "https://iicdelhi.in/programmes/new-programme-kodava-national-seminar-coorg-cultural-food-celebration",
-      "venue": "C.D. Deshmukh Auditorium, IIC main"
+      "time": "06:00 PM",
+      "title": "BOOK DISCUSSION GROUP - What the Shadow Said",
+      "url": "https://iicdelhi.in/programmes/book-discussion-group-what-shadow-said",
+      "venue": "Conference Room I, IIC main"
+    },
+    {
+      "category": "Book Talk",
+      "date": "2026-09-22",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-09/22%20September%202026_Website%20Programme%20Image.jpg",
+      "score": 75,
+      "source": "iic",
+      "tags": [],
+      "time": "06:30 PM",
+      "title": "Police Reforms – 20 years",
+      "url": "https://iicdelhi.in/programmes/police-reforms-20-years",
+      "venue": "Seminar Rooms 1,2,3"
+    },
+    {
+      "category": "Theatre",
+      "date": "2026-09-22",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 65,
+      "source": "ihc",
+      "tags": [],
+      "time": "7:00 PM",
+      "title": "IHC Theatre Festival 2026. The Tragedy of Ham MacLear",
+      "url": "https://indiahabitat.org/Events_details/1416",
+      "venue": "The Stein Auditorium"
     }
   ],
-  "generated_at": "2026-09-14"
+  "generated_at": "2026-09-15"
 }

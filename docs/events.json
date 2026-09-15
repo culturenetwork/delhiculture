@@ -1,5 +1,5 @@
 {
-  "count": 69,
+  "count": 67,
   "events": [
     {
       "category": "Museum",
@@ -56,48 +56,6 @@
       "title": "Tap Aur Tapish",
       "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/9",
       "venue": "Bikaner House"
-    },
-    {
-      "category": "Indian Classical",
-      "date": "2026-09-14",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 80,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "A Piano Concert",
-      "url": "https://indiahabitat.org/Events_details/1398",
-      "venue": "The Stein Auditorium"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-09-14",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-09/14%20September%202026_Website%20Programme%20Image.jpg",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
-      "time": "06:00 PM",
-      "title": "250 years of American Independence: Shifting Global Challenges and US Public Opinion - IN CONVERSATION",
-      "url": "https://iicdelhi.in/programmes/250-years-american-independence-shifting-global-challenges-and-us-public-opinion",
-      "venue": "C.D. Deshmukh Auditorium, IIC main"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-09-14",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 75,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "Alternative Innovative Education for Out-of-School and Socio-Economically Deprived Group of Children",
-      "url": "https://indiahabitat.org/Events_details/1399",
-      "venue": "Casuarina"
     },
     {
       "category": "Museum",
@@ -394,6 +352,20 @@
       "venue": "The Habitat Lounge"
     },
     {
+      "category": "Workshop",
+      "date": "2026-09-19",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 50,
+      "source": "ihc",
+      "tags": [],
+      "time": "12:00 PM",
+      "title": "Indian Art: History and Appreciation Course",
+      "url": "https://indiahabitat.org/Events_details/1406",
+      "venue": "Casuarina"
+    },
+    {
       "category": "Theatre",
       "date": "2026-09-20",
       "description": "",
@@ -492,18 +464,18 @@
       "venue": "The Stein Auditorium"
     },
     {
-      "category": "Festivals",
+      "category": "Library Programmes",
       "date": "2026-09-21",
       "description": "",
       "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-09/16%20September_Website%20Programme%20Image_6.jpg",
+      "image": "https://aws-static.iicdelhi.in/2026-09/21%20September%202026_Website%20Programme%20Image.jpg",
       "score": 50,
       "source": "iic",
       "tags": [],
-      "time": "04:00 PM",
-      "title": "New Programme- KODAVA NATIONAL SEMINAR - Coorg Cultural & Food Celebration",
-      "url": "https://iicdelhi.in/programmes/new-programme-kodava-national-seminar-coorg-cultural-food-celebration",
-      "venue": "C.D. Deshmukh Auditorium, IIC main"
+      "time": "06:00 PM",
+      "title": "BOOK DISCUSSION GROUP - What the Shadow Said",
+      "url": "https://iicdelhi.in/programmes/book-discussion-group-what-shadow-said",
+      "venue": "Conference Room I, IIC main"
     },
     {
       "category": "Book Talk",
@@ -566,7 +538,7 @@
       "date": "2026-09-23",
       "description": "",
       "end_date": null,
-      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "image": "https://aws-static.iicdelhi.in/2026-09/23%20September%202026_Website%20Programme%20Image_2.jpg",
       "score": 75,
       "source": "iic",
       "tags": [],
@@ -968,5 +940,5 @@
       "venue": "Gandhi-King Memorial Plaza, IIC main"
     }
   ],
-  "generated_at": "2026-09-14"
+  "generated_at": "2026-09-15"
 }
