@@ -1,62 +1,6 @@
 {
-  "count": 26,
+  "count": 22,
   "events": [
-    {
-      "category": "Book Talk",
-      "date": "2026-09-24",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 75,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "From Policy to Practice: Powering Maritime Excellence",
-      "url": "https://indiahabitat.org/Events_details/1419",
-      "venue": "Gulmohar"
-    },
-    {
-      "category": "Theatre",
-      "date": "2026-09-24",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 65,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "Cilappatikaram / The Anklet's Verdict",
-      "url": "https://indiahabitat.org/Events_details/1420",
-      "venue": "The Stein Auditorium"
-    },
-    {
-      "category": "Film",
-      "date": "2026-09-24",
-      "description": "",
-      "end_date": null,
-      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
-      "score": 55,
-      "source": "iic",
-      "tags": [],
-      "time": "09:30 AM",
-      "title": "Film -Sagarmatha Samta-India Largest Inclusive Trek to Everest Base Camp",
-      "url": "https://iicdelhi.in/programmes/film-sagarmatha-samta-india-largest-inclusive-trek-everest-base-camp",
-      "venue": "C.D. Deshmukh Auditorium, IIC main"
-    },
-    {
-      "category": "Cultural",
-      "date": "2026-09-24",
-      "description": "",
-      "end_date": null,
-      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "06:00 PM",
-      "title": "IIC DOUBLE BILL: MUSIC AND DANCE RECITAL",
-      "url": "https://iicdelhi.in/programmes/iic-double-bill-music-and-dance-recital",
-      "venue": "C.D. Deshmukh Auditorium, IIC main"
-    },
     {
       "category": "Book Talk",
       "date": "2026-09-25",
@@ -286,7 +230,7 @@
       "date": "2026-09-29",
       "description": "",
       "end_date": null,
-      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "image": "https://aws-static.iicdelhi.in/2026-09/29%20September%202026_Website%20Programme%20Image.jpg",
       "score": 75,
       "source": "iic",
       "tags": [],
@@ -366,5 +310,5 @@
       "venue": "Gandhi-King Memorial Plaza, IIC main"
     }
   ],
-  "generated_at": "2026-09-16"
+  "generated_at": "2026-09-17"
 }

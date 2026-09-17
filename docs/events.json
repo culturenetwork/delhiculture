@@ -1,20 +1,6 @@
 {
-  "count": 66,
+  "count": 60,
   "events": [
-    {
-      "category": "Museum",
-      "date": "2026-09-12",
-      "description": "",
-      "end_date": "2026-09-16",
-      "image": null,
-      "score": 85,
-      "source": "bikanerhouse",
-      "tags": [],
-      "time": null,
-      "title": "Paradise Promised",
-      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/9",
-      "venue": "Bikaner House"
-    },
     {
       "category": "Museum",
       "date": "2026-09-12",
@@ -86,102 +72,18 @@
       "venue": "Art Gallery, Kamaladevi Complex, IIC"
     },
     {
-      "category": "Indian Classical",
-      "date": "2026-09-16",
+      "category": "Museum",
+      "date": "2026-09-17",
       "description": "",
-      "end_date": null,
+      "end_date": "2026-09-21",
       "image": null,
-      "score": 80,
-      "source": "ihc",
+      "score": 85,
+      "source": "bikanerhouse",
       "tags": [],
-      "time": "7:00 PM",
-      "title": "Guru Purnima: Tribute to Ustad Akhtar Nawaz Khan. Day 2",
-      "url": "https://indiahabitat.org/Events_details/1401",
-      "venue": "The Theatre"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-09-16",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-09/16%20September%202026_Website%20Programme%20Image_5.jpg",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "4TH KAPILA VATSYAYAN MEMORIAL LECTURE 2026",
-      "url": "https://iicdelhi.in/programmes/4th-kapila-vatsyayan-memorial-lecture-2026",
-      "venue": "C.D. Deshmukh Auditorium, IIC main"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-09-16",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-09/16%20September_Website%20Programme%20Image.jpg",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "Connected Histories, Shared Present: Cross-Cultural Experiences between Latin America, the Caribbean and India",
-      "url": "https://iicdelhi.in/programmes/connected-histories-shared-present-cross-cultural-experiences-between-latin-america-3",
-      "venue": "Conference Room I, IIC main"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-09-16",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-09/16%20September%202026_Website%20Programme%20Image_1.jpg",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "Kriya Yoga and Peace of Individual and Planet Earth",
-      "url": "https://iicdelhi.in/programmes/kriya-yoga-and-peace-individual-and-planet-earth",
-      "venue": "Multipurpose Hall, Kamaladevi Complex, IIC"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-09-16",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 75,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "The Earlier You Know, The More You Can Do: A Dementia Diagnosis Matters",
-      "url": "https://indiahabitat.org/Events_details/1402",
-      "venue": "Gulmohar"
-    },
-    {
-      "category": "Film",
-      "date": "2026-09-16",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-09/16%20September%202026_Website%20Programme%20Image_4.jpg",
-      "score": 55,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "FILM-  Curandera: The Path from Tragedy to Truth",
-      "url": "https://iicdelhi.in/programmes/film-curandera-path-tragedy-truth",
-      "venue": "Lecture Room I, IIC Annexe"
-    },
-    {
-      "category": "Library Programmes",
-      "date": "2026-09-16",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-09/16%20September%202026_Website%20Programme%20Image_2.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "03:00 PM",
-      "title": "BOOK DISCUSSION GROUP -   Rabindranath Tagore: The Myriad Minded Man.",
-      "url": "https://iicdelhi.in/programmes/book-discussion-group-rabindranath-tagore-myriad-minded-man",
-      "venue": "Lecture Room I, IIC Annexe"
+      "time": null,
+      "title": "Visible Vapour",
+      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/9",
+      "venue": "Bikaner House"
     },
     {
       "category": "Indian Classical",
@@ -216,7 +118,7 @@
       "date": "2026-09-17",
       "description": "",
       "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-09/17%20September%202026_Website%20Programme%20Image.jpg",
+      "image": "https://aws-static.iicdelhi.in/2026-09/17%20September%202026_Website%20Programme%20Image_0.jpg",
       "score": 55,
       "source": "iic",
       "tags": [],
@@ -506,6 +408,20 @@
       "venue": "Art Gallery, IIC Annexe"
     },
     {
+      "category": "Museum",
+      "date": "2026-09-23",
+      "description": "",
+      "end_date": "2026-09-28",
+      "image": null,
+      "score": 85,
+      "source": "bikanerhouse",
+      "tags": [],
+      "time": null,
+      "title": "Odyssey",
+      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/9",
+      "venue": "Bikaner House"
+    },
+    {
       "category": "Book Talk",
       "date": "2026-09-23",
       "description": "",
@@ -594,7 +510,7 @@
       "date": "2026-09-24",
       "description": "",
       "end_date": null,
-      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "image": "https://aws-static.iicdelhi.in/2026-09/Website%20Spotlight_24%20September%202026_1.jpg",
       "score": 55,
       "source": "iic",
       "tags": [],
@@ -608,7 +524,7 @@
       "date": "2026-09-24",
       "description": "",
       "end_date": null,
-      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "image": "https://aws-static.iicdelhi.in/2026-09/Website%20Spotlight_24%20September%202026_2.jpg",
       "score": 50,
       "source": "iic",
       "tags": [],
@@ -846,7 +762,7 @@
       "date": "2026-09-29",
       "description": "",
       "end_date": null,
-      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "image": "https://aws-static.iicdelhi.in/2026-09/29%20September%202026_Website%20Programme%20Image.jpg",
       "score": 75,
       "source": "iic",
       "tags": [],
@@ -926,5 +842,5 @@
       "venue": "Gandhi-King Memorial Plaza, IIC main"
     }
   ],
-  "generated_at": "2026-09-16"
+  "generated_at": "2026-09-17"
 }
