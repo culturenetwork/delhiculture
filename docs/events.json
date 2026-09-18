@@ -1,5 +1,5 @@
 {
-  "count": 60,
+  "count": 66,
   "events": [
     {
       "category": "Museum",
@@ -86,62 +86,6 @@
       "venue": "Bikaner House"
     },
     {
-      "category": "Indian Classical",
-      "date": "2026-09-17",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 80,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "In Harmony with Purpose",
-      "url": "https://indiahabitat.org/Events_details/1403",
-      "venue": "The Theatre"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-09-17",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 75,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "संविधान सभा भाषायी विमर्श",
-      "url": "https://indiahabitat.org/Events_details/1440",
-      "venue": "Gulmohar"
-    },
-    {
-      "category": "Film",
-      "date": "2026-09-17",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-09/17%20September%202026_Website%20Programme%20Image_0.jpg",
-      "score": 55,
-      "source": "iic",
-      "tags": [],
-      "time": "06:00 PM",
-      "title": "MAHARASHTRA SANSKRITIK DIWAS 2026",
-      "url": "https://iicdelhi.in/programmes/maharashtra-sanskritik-diwas-2026",
-      "venue": "C.D. Deshmukh Auditorium, IIC main"
-    },
-    {
-      "category": "Film",
-      "date": "2026-09-17",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 55,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "Oslo – A Tail of Promise",
-      "url": "https://indiahabitat.org/Events_details/1404",
-      "venue": "The Stein Auditorium"
-    },
-    {
       "category": "Theatre",
       "date": "2026-09-18",
       "description": "",
@@ -212,6 +156,20 @@
       "venue": "The Theatre"
     },
     {
+      "category": "Workshop",
+      "date": "2026-09-19",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 50,
+      "source": "ihc",
+      "tags": [],
+      "time": "11:00 AM",
+      "title": "Acting in Different Mediums: Understanding Theatre, Radio, and Film",
+      "url": "https://indiahabitat.org/Events_details/1442",
+      "venue": "The Theatre"
+    },
+    {
       "category": "Cultural",
       "date": "2026-09-19",
       "description": "",
@@ -238,6 +196,20 @@
       "title": "Indian Art: History and Appreciation Course",
       "url": "https://indiahabitat.org/Events_details/1406",
       "venue": "Casuarina"
+    },
+    {
+      "category": "Workshop",
+      "date": "2026-09-19",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 50,
+      "source": "ihc",
+      "tags": [],
+      "time": "10:00 AM",
+      "title": "Rhythm and movement for Theatre",
+      "url": "https://indiahabitat.org/Events_details/1441",
+      "venue": "The Theatre"
     },
     {
       "category": "Theatre",
@@ -280,6 +252,34 @@
       "title": "IHC Theatre Festival 2026. Home in a Suitcase",
       "url": "https://indiahabitat.org/Events_details/1413",
       "venue": "The Theatre"
+    },
+    {
+      "category": "Workshop",
+      "date": "2026-09-20",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 50,
+      "source": "ihc",
+      "tags": [],
+      "time": "5:00 PM",
+      "title": "An Interaction with Ramanjit Kaur & Ruhani Singh.",
+      "url": "https://indiahabitat.org/Events_details/1444",
+      "venue": "The Theatre"
+    },
+    {
+      "category": "Workshop",
+      "date": "2026-09-20",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 50,
+      "source": "ihc",
+      "tags": [],
+      "time": "10:00 AM",
+      "title": "An Interaction with Tannishtha Chatterjee & Sharib Hashmi.",
+      "url": "https://indiahabitat.org/Events_details/1443",
+      "venue": "The Stein Auditorium"
     },
     {
       "category": "Workshop",
@@ -336,6 +336,20 @@
       "title": "IHC Theatre Festival 2026",
       "url": "https://indiahabitat.org/Events_details/1414",
       "venue": "The Stein Auditorium"
+    },
+    {
+      "category": "Workshop",
+      "date": "2026-09-21",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 50,
+      "source": "ihc",
+      "tags": [],
+      "time": "10:00 AM",
+      "title": "An Interaction with the Team of Amb Da Boota.",
+      "url": "https://indiahabitat.org/Events_details/1445",
+      "venue": "The Theatre"
     },
     {
       "category": "Library Programmes",
@@ -478,6 +492,34 @@
       "venue": "Gulmohar"
     },
     {
+      "category": "Workshop",
+      "date": "2026-09-23",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 50,
+      "source": "ihc",
+      "tags": [],
+      "time": "10:00 AM",
+      "title": "Find Your Voice",
+      "url": "https://indiahabitat.org/Events_details/1446",
+      "venue": "The Theatre"
+    },
+    {
+      "category": "Museum",
+      "date": "2026-09-24",
+      "description": "",
+      "end_date": "2026-09-28",
+      "image": null,
+      "score": 85,
+      "source": "bikanerhouse",
+      "tags": [],
+      "time": null,
+      "title": "Main Hoon Warli",
+      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/9",
+      "venue": "Bikaner House"
+    },
+    {
       "category": "Book Talk",
       "date": "2026-09-24",
       "description": "",
@@ -534,11 +576,25 @@
       "venue": "C.D. Deshmukh Auditorium, IIC main"
     },
     {
+      "category": "Museum",
+      "date": "2026-09-25",
+      "description": "",
+      "end_date": "2026-09-26",
+      "image": null,
+      "score": 85,
+      "source": "bikanerhouse",
+      "tags": [],
+      "time": null,
+      "title": "Rang by Devi",
+      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/9",
+      "venue": "Bikaner House"
+    },
+    {
       "category": "Book Talk",
       "date": "2026-09-25",
       "description": "",
       "end_date": null,
-      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "image": "https://aws-static.iicdelhi.in/2026-09/25%20September%202026_Website%20Programme%20Image_2.jpg",
       "score": 75,
       "source": "iic",
       "tags": [],
@@ -588,6 +644,20 @@
       "title": "FILM-Oslo: A Tail of Promise",
       "url": "https://iicdelhi.in/programmes/film-oslo-tail-promise",
       "venue": "Lecture Room I, IIC Annexe"
+    },
+    {
+      "category": "Workshop",
+      "date": "2026-09-25",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 50,
+      "source": "ihc",
+      "tags": [],
+      "time": "10:00 AM",
+      "title": "Understanding Kutiyattam: A Dialogue with the Experts",
+      "url": "https://indiahabitat.org/Events_details/1447",
+      "venue": "The Theatre"
     },
     {
       "category": "Book Talk",
@@ -644,6 +714,20 @@
       "title": "Hindustani Classical Music Recital",
       "url": "https://iicdelhi.in/programmes/hindustani-classical-music-recital",
       "venue": "C.D. Deshmukh Auditorium, IIC main"
+    },
+    {
+      "category": "Workshop",
+      "date": "2026-09-26",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 50,
+      "source": "ihc",
+      "tags": [],
+      "time": "10:00 AM",
+      "title": "Interaction with the Team of Har Marz Ki Dawa.",
+      "url": "https://indiahabitat.org/Events_details/1448",
+      "venue": "The Theatre"
     },
     {
       "category": "Theatre",
@@ -748,7 +832,7 @@
       "date": "2026-09-29",
       "description": "",
       "end_date": null,
-      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "image": "https://aws-static.iicdelhi.in/2026-09/29%20September%202026_Website%20Programme%20Image_1.jpg",
       "score": 75,
       "source": "iic",
       "tags": [],
@@ -842,5 +926,5 @@
       "venue": "Gandhi-King Memorial Plaza, IIC main"
     }
   ],
-  "generated_at": "2026-09-17"
+  "generated_at": "2026-09-18"
 }

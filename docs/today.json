@@ -1,5 +1,5 @@
 {
-  "count": 10,
+  "count": 8,
   "events": [
     {
       "category": "Museum",
@@ -86,61 +86,33 @@
       "venue": "Bikaner House"
     },
     {
-      "category": "Indian Classical",
-      "date": "2026-09-17",
+      "category": "Theatre",
+      "date": "2026-09-18",
       "description": "",
       "end_date": null,
       "image": null,
-      "score": 80,
+      "score": 65,
       "source": "ihc",
       "tags": [],
       "time": "7:00 PM",
-      "title": "In Harmony with Purpose",
-      "url": "https://indiahabitat.org/Events_details/1403",
-      "venue": "The Theatre"
+      "title": "IHC Theatre Festival 2026. Dancing With Dad",
+      "url": "https://indiahabitat.org/Events_details/1405",
+      "venue": "The Stein Auditorium"
     },
     {
-      "category": "Book Talk",
-      "date": "2026-09-17",
+      "category": "Library Programmes",
+      "date": "2026-09-18",
       "description": "",
       "end_date": null,
-      "image": null,
-      "score": 75,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "संविधान सभा भाषायी विमर्श",
-      "url": "https://indiahabitat.org/Events_details/1440",
-      "venue": "Gulmohar"
-    },
-    {
-      "category": "Film",
-      "date": "2026-09-17",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-09/17%20September%202026_Website%20Programme%20Image_0.jpg",
-      "score": 55,
+      "image": "https://aws-static.iicdelhi.in/2026-09/18September%202026_Website%20Programme%20Image.jpg",
+      "score": 50,
       "source": "iic",
       "tags": [],
       "time": "06:00 PM",
-      "title": "MAHARASHTRA SANSKRITIK DIWAS 2026",
-      "url": "https://iicdelhi.in/programmes/maharashtra-sanskritik-diwas-2026",
-      "venue": "C.D. Deshmukh Auditorium, IIC main"
-    },
-    {
-      "category": "Film",
-      "date": "2026-09-17",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 55,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "Oslo – A Tail of Promise",
-      "url": "https://indiahabitat.org/Events_details/1404",
-      "venue": "The Stein Auditorium"
+      "title": "BOOK DISCUSSION GROUP  - Ashes to Light: Stories of Hope Towards Gender Justice",
+      "url": "https://iicdelhi.in/programmes/book-discussion-group-ashes-light-stories-hope-towards-gender-justice",
+      "venue": "Conference Room I, IIC main"
     }
   ],
-  "generated_at": "2026-09-17"
+  "generated_at": "2026-09-18"
 }

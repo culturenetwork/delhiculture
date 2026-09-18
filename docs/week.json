@@ -1,34 +1,6 @@
 {
-  "count": 28,
+  "count": 39,
   "events": [
-    {
-      "category": "Theatre",
-      "date": "2026-09-18",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 65,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "IHC Theatre Festival 2026. Dancing With Dad",
-      "url": "https://indiahabitat.org/Events_details/1405",
-      "venue": "The Stein Auditorium"
-    },
-    {
-      "category": "Library Programmes",
-      "date": "2026-09-18",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-09/18September%202026_Website%20Programme%20Image.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "06:00 PM",
-      "title": "BOOK DISCUSSION GROUP  - Ashes to Light: Stories of Hope Towards Gender Justice",
-      "url": "https://iicdelhi.in/programmes/book-discussion-group-ashes-light-stories-hope-towards-gender-justice",
-      "venue": "Conference Room I, IIC main"
-    },
     {
       "category": "Book Talk",
       "date": "2026-09-19",
@@ -72,6 +44,20 @@
       "venue": "The Theatre"
     },
     {
+      "category": "Workshop",
+      "date": "2026-09-19",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 50,
+      "source": "ihc",
+      "tags": [],
+      "time": "11:00 AM",
+      "title": "Acting in Different Mediums: Understanding Theatre, Radio, and Film",
+      "url": "https://indiahabitat.org/Events_details/1442",
+      "venue": "The Theatre"
+    },
+    {
       "category": "Cultural",
       "date": "2026-09-19",
       "description": "",
@@ -98,6 +84,20 @@
       "title": "Indian Art: History and Appreciation Course",
       "url": "https://indiahabitat.org/Events_details/1406",
       "venue": "Casuarina"
+    },
+    {
+      "category": "Workshop",
+      "date": "2026-09-19",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 50,
+      "source": "ihc",
+      "tags": [],
+      "time": "10:00 AM",
+      "title": "Rhythm and movement for Theatre",
+      "url": "https://indiahabitat.org/Events_details/1441",
+      "venue": "The Theatre"
     },
     {
       "category": "Theatre",
@@ -140,6 +140,34 @@
       "title": "IHC Theatre Festival 2026. Home in a Suitcase",
       "url": "https://indiahabitat.org/Events_details/1413",
       "venue": "The Theatre"
+    },
+    {
+      "category": "Workshop",
+      "date": "2026-09-20",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 50,
+      "source": "ihc",
+      "tags": [],
+      "time": "5:00 PM",
+      "title": "An Interaction with Ramanjit Kaur & Ruhani Singh.",
+      "url": "https://indiahabitat.org/Events_details/1444",
+      "venue": "The Theatre"
+    },
+    {
+      "category": "Workshop",
+      "date": "2026-09-20",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 50,
+      "source": "ihc",
+      "tags": [],
+      "time": "10:00 AM",
+      "title": "An Interaction with Tannishtha Chatterjee & Sharib Hashmi.",
+      "url": "https://indiahabitat.org/Events_details/1443",
+      "venue": "The Stein Auditorium"
     },
     {
       "category": "Workshop",
@@ -196,6 +224,20 @@
       "title": "IHC Theatre Festival 2026",
       "url": "https://indiahabitat.org/Events_details/1414",
       "venue": "The Stein Auditorium"
+    },
+    {
+      "category": "Workshop",
+      "date": "2026-09-21",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 50,
+      "source": "ihc",
+      "tags": [],
+      "time": "10:00 AM",
+      "title": "An Interaction with the Team of Amb Da Boota.",
+      "url": "https://indiahabitat.org/Events_details/1445",
+      "venue": "The Theatre"
     },
     {
       "category": "Library Programmes",
@@ -338,6 +380,34 @@
       "venue": "Gulmohar"
     },
     {
+      "category": "Workshop",
+      "date": "2026-09-23",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 50,
+      "source": "ihc",
+      "tags": [],
+      "time": "10:00 AM",
+      "title": "Find Your Voice",
+      "url": "https://indiahabitat.org/Events_details/1446",
+      "venue": "The Theatre"
+    },
+    {
+      "category": "Museum",
+      "date": "2026-09-24",
+      "description": "",
+      "end_date": "2026-09-28",
+      "image": null,
+      "score": 85,
+      "source": "bikanerhouse",
+      "tags": [],
+      "time": null,
+      "title": "Main Hoon Warli",
+      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/9",
+      "venue": "Bikaner House"
+    },
+    {
       "category": "Book Talk",
       "date": "2026-09-24",
       "description": "",
@@ -392,7 +462,91 @@
       "title": "IIC DOUBLE BILL: MUSIC AND DANCE RECITAL",
       "url": "https://iicdelhi.in/programmes/iic-double-bill-music-and-dance-recital",
       "venue": "C.D. Deshmukh Auditorium, IIC main"
+    },
+    {
+      "category": "Museum",
+      "date": "2026-09-25",
+      "description": "",
+      "end_date": "2026-09-26",
+      "image": null,
+      "score": 85,
+      "source": "bikanerhouse",
+      "tags": [],
+      "time": null,
+      "title": "Rang by Devi",
+      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/9",
+      "venue": "Bikaner House"
+    },
+    {
+      "category": "Book Talk",
+      "date": "2026-09-25",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-09/25%20September%202026_Website%20Programme%20Image_2.jpg",
+      "score": 75,
+      "source": "iic",
+      "tags": [],
+      "time": "06:30 PM",
+      "title": "AAJ KAVITA",
+      "url": "https://iicdelhi.in/programmes/aaj-kavita-49",
+      "venue": "Lecture Room II, IIC Annexe"
+    },
+    {
+      "category": "Book Talk",
+      "date": "2026-09-25",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-09/25%20September%202026_Website%20Programme%20Image_1.jpg",
+      "score": 75,
+      "source": "iic",
+      "tags": [],
+      "time": "06:30 PM",
+      "title": "The Infrastructure of Chinese Civilizationism",
+      "url": "https://iicdelhi.in/programmes/infrastructure-chinese-civilizationism",
+      "venue": "Seminar Rooms 1,2,3"
+    },
+    {
+      "category": "Theatre",
+      "date": "2026-09-25",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 65,
+      "source": "ihc",
+      "tags": [],
+      "time": "7:00 PM",
+      "title": "IHC Theatre Festival 2026. Har Marz Ki Dawa",
+      "url": "https://indiahabitat.org/Events_details/1421",
+      "venue": "The Stein Auditorium"
+    },
+    {
+      "category": "Film",
+      "date": "2026-09-25",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-09/25%20September%202026_Website%20Programme%20Image.jpg",
+      "score": 55,
+      "source": "iic",
+      "tags": [],
+      "time": "06:30 PM",
+      "title": "FILM-Oslo: A Tail of Promise",
+      "url": "https://iicdelhi.in/programmes/film-oslo-tail-promise",
+      "venue": "Lecture Room I, IIC Annexe"
+    },
+    {
+      "category": "Workshop",
+      "date": "2026-09-25",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 50,
+      "source": "ihc",
+      "tags": [],
+      "time": "10:00 AM",
+      "title": "Understanding Kutiyattam: A Dialogue with the Experts",
+      "url": "https://indiahabitat.org/Events_details/1447",
+      "venue": "The Theatre"
     }
   ],
-  "generated_at": "2026-09-17"
+  "generated_at": "2026-09-18"
 }

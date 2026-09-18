@@ -1,62 +1,6 @@
 {
-  "count": 22,
+  "count": 19,
   "events": [
-    {
-      "category": "Book Talk",
-      "date": "2026-09-25",
-      "description": "",
-      "end_date": null,
-      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "AAJ KAVITA",
-      "url": "https://iicdelhi.in/programmes/aaj-kavita-49",
-      "venue": "Lecture Room II, IIC Annexe"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-09-25",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-09/25%20September%202026_Website%20Programme%20Image_1.jpg",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "The Infrastructure of Chinese Civilizationism",
-      "url": "https://iicdelhi.in/programmes/infrastructure-chinese-civilizationism",
-      "venue": "Seminar Rooms 1,2,3"
-    },
-    {
-      "category": "Theatre",
-      "date": "2026-09-25",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 65,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "IHC Theatre Festival 2026. Har Marz Ki Dawa",
-      "url": "https://indiahabitat.org/Events_details/1421",
-      "venue": "The Stein Auditorium"
-    },
-    {
-      "category": "Film",
-      "date": "2026-09-25",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-09/25%20September%202026_Website%20Programme%20Image.jpg",
-      "score": 55,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "FILM-Oslo: A Tail of Promise",
-      "url": "https://iicdelhi.in/programmes/film-oslo-tail-promise",
-      "venue": "Lecture Room I, IIC Annexe"
-    },
     {
       "category": "Book Talk",
       "date": "2026-09-26",
@@ -112,6 +56,20 @@
       "title": "Hindustani Classical Music Recital",
       "url": "https://iicdelhi.in/programmes/hindustani-classical-music-recital",
       "venue": "C.D. Deshmukh Auditorium, IIC main"
+    },
+    {
+      "category": "Workshop",
+      "date": "2026-09-26",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 50,
+      "source": "ihc",
+      "tags": [],
+      "time": "10:00 AM",
+      "title": "Interaction with the Team of Har Marz Ki Dawa.",
+      "url": "https://indiahabitat.org/Events_details/1448",
+      "venue": "The Theatre"
     },
     {
       "category": "Theatre",
@@ -216,7 +174,7 @@
       "date": "2026-09-29",
       "description": "",
       "end_date": null,
-      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "image": "https://aws-static.iicdelhi.in/2026-09/29%20September%202026_Website%20Programme%20Image_1.jpg",
       "score": 75,
       "source": "iic",
       "tags": [],
@@ -310,5 +268,5 @@
       "venue": "Gandhi-King Memorial Plaza, IIC main"
     }
   ],
-  "generated_at": "2026-09-17"
+  "generated_at": "2026-09-18"
 }
