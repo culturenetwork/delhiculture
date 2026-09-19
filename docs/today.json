@@ -1,20 +1,6 @@
 {
-  "count": 8,
+  "count": 12,
   "events": [
-    {
-      "category": "Museum",
-      "date": "2026-09-12",
-      "description": "",
-      "end_date": "2026-09-18",
-      "image": null,
-      "score": 85,
-      "source": "bikanerhouse",
-      "tags": [],
-      "time": null,
-      "title": "The Grammar of the Self",
-      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/9",
-      "venue": "Bikaner House"
-    },
     {
       "category": "Museum",
       "date": "2026-09-13",
@@ -86,8 +72,22 @@
       "venue": "Bikaner House"
     },
     {
+      "category": "Book Talk",
+      "date": "2026-09-19",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 75,
+      "source": "ihc",
+      "tags": [],
+      "time": "7:00 PM",
+      "title": "Why Indraprastha?",
+      "url": "https://indiahabitat.org/Events_details/1437",
+      "venue": "Gulmohar"
+    },
+    {
       "category": "Theatre",
-      "date": "2026-09-18",
+      "date": "2026-09-19",
       "description": "",
       "end_date": null,
       "image": null,
@@ -95,24 +95,80 @@
       "source": "ihc",
       "tags": [],
       "time": "7:00 PM",
-      "title": "IHC Theatre Festival 2026. Dancing With Dad",
-      "url": "https://indiahabitat.org/Events_details/1405",
+      "title": "IHC Theatre Festival 2026. Breast of Luck",
+      "url": "https://indiahabitat.org/Events_details/1408",
       "venue": "The Stein Auditorium"
     },
     {
-      "category": "Library Programmes",
-      "date": "2026-09-18",
+      "category": "Theatre",
+      "date": "2026-09-19",
       "description": "",
       "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-09/18September%202026_Website%20Programme%20Image.jpg",
-      "score": 50,
-      "source": "iic",
+      "image": null,
+      "score": 65,
+      "source": "ihc",
       "tags": [],
-      "time": "06:00 PM",
-      "title": "BOOK DISCUSSION GROUP  - Ashes to Light: Stories of Hope Towards Gender Justice",
-      "url": "https://iicdelhi.in/programmes/book-discussion-group-ashes-light-stories-hope-towards-gender-justice",
-      "venue": "Conference Room I, IIC main"
+      "time": "5:00 PM",
+      "title": "IHC Theatre Festival 2026. Maaye Ni Meri Akh Lag Gayi",
+      "url": "https://indiahabitat.org/Events_details/1409",
+      "venue": "The Theatre"
+    },
+    {
+      "category": "Workshop",
+      "date": "2026-09-19",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 50,
+      "source": "ihc",
+      "tags": [],
+      "time": "11:00 AM",
+      "title": "Acting in Different Mediums: Understanding Theatre, Radio, and Film",
+      "url": "https://indiahabitat.org/Events_details/1442",
+      "venue": "The Theatre"
+    },
+    {
+      "category": "Cultural",
+      "date": "2026-09-19",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 50,
+      "source": "ihc",
+      "tags": [],
+      "time": "6:00 PM",
+      "title": "IHC Members Meet",
+      "url": "https://indiahabitat.org/Events_details/1407",
+      "venue": "The Habitat Lounge"
+    },
+    {
+      "category": "Workshop",
+      "date": "2026-09-19",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 50,
+      "source": "ihc",
+      "tags": [],
+      "time": "12:00 PM",
+      "title": "Indian Art: History and Appreciation Course",
+      "url": "https://indiahabitat.org/Events_details/1406",
+      "venue": "Casuarina"
+    },
+    {
+      "category": "Workshop",
+      "date": "2026-09-19",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 50,
+      "source": "ihc",
+      "tags": [],
+      "time": "10:00 AM",
+      "title": "Rhythm and movement for Theatre",
+      "url": "https://indiahabitat.org/Events_details/1441",
+      "venue": "The Theatre"
     }
   ],
-  "generated_at": "2026-09-18"
+  "generated_at": "2026-09-19"
 }

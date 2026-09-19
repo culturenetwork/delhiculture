@@ -1,20 +1,6 @@
 {
-  "count": 66,
+  "count": 65,
   "events": [
-    {
-      "category": "Museum",
-      "date": "2026-09-12",
-      "description": "",
-      "end_date": "2026-09-18",
-      "image": null,
-      "score": 85,
-      "source": "bikanerhouse",
-      "tags": [],
-      "time": null,
-      "title": "The Grammar of the Self",
-      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/9",
-      "venue": "Bikaner House"
-    },
     {
       "category": "Museum",
       "date": "2026-09-13",
@@ -84,34 +70,6 @@
       "title": "Visible Vapour",
       "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/9",
       "venue": "Bikaner House"
-    },
-    {
-      "category": "Theatre",
-      "date": "2026-09-18",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 65,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "IHC Theatre Festival 2026. Dancing With Dad",
-      "url": "https://indiahabitat.org/Events_details/1405",
-      "venue": "The Stein Auditorium"
-    },
-    {
-      "category": "Library Programmes",
-      "date": "2026-09-18",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-09/18September%202026_Website%20Programme%20Image.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "06:00 PM",
-      "title": "BOOK DISCUSSION GROUP  - Ashes to Light: Stories of Hope Towards Gender Justice",
-      "url": "https://iicdelhi.in/programmes/book-discussion-group-ashes-light-stories-hope-towards-gender-justice",
-      "venue": "Conference Room I, IIC main"
     },
     {
       "category": "Book Talk",
@@ -263,23 +221,9 @@
       "source": "ihc",
       "tags": [],
       "time": "5:00 PM",
-      "title": "An Interaction with Ramanjit Kaur & Ruhani Singh.",
+      "title": "Home in a Suitcase: Story, Act and Beyond",
       "url": "https://indiahabitat.org/Events_details/1444",
       "venue": "The Theatre"
-    },
-    {
-      "category": "Workshop",
-      "date": "2026-09-20",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 50,
-      "source": "ihc",
-      "tags": [],
-      "time": "10:00 AM",
-      "title": "An Interaction with Tannishtha Chatterjee & Sharib Hashmi.",
-      "url": "https://indiahabitat.org/Events_details/1443",
-      "venue": "The Stein Auditorium"
     },
     {
       "category": "Workshop",
@@ -294,6 +238,20 @@
       "title": "Indian Art: History and Appreciation Course",
       "url": "https://indiahabitat.org/Events_details/1410",
       "venue": "Casuarina"
+    },
+    {
+      "category": "Workshop",
+      "date": "2026-09-20",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 50,
+      "source": "ihc",
+      "tags": [],
+      "time": "10:00 AM",
+      "title": "Writing Life on Paper: Discovering Your Script",
+      "url": "https://indiahabitat.org/Events_details/1443",
+      "venue": "The Stein Auditorium"
     },
     {
       "category": "Book Talk",
@@ -411,7 +369,7 @@
       "category": "Museum",
       "date": "2026-09-23",
       "description": "An exhibition of artworks inspired by emotions, experiences and everyday life. The artist explores varied moods, ideas and perspectives, inviting viewers to engage with the distinctive expressions and narratives that shape her artistic practice. Sadaf Beg Khan, visual artist whos",
-      "end_date": "2026-09-29",
+      "end_date": "2026-09-30",
       "image": "https://aws-static.iicdelhi.in/2026-09/23%20September%202026_Website%20Programme%20Image.jpg",
       "score": 85,
       "source": "iic",
@@ -730,6 +688,20 @@
       "venue": "The Theatre"
     },
     {
+      "category": "Museum",
+      "date": "2026-09-27",
+      "description": "",
+      "end_date": "2026-10-06",
+      "image": null,
+      "score": 85,
+      "source": "bikanerhouse",
+      "tags": [],
+      "time": null,
+      "title": "A Moment in the Monumental",
+      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/9",
+      "venue": "Bikaner House"
+    },
+    {
       "category": "Theatre",
       "date": "2026-09-27",
       "description": "",
@@ -912,6 +884,20 @@
       "venue": "Conference Room I, IIC main"
     },
     {
+      "category": "Museum",
+      "date": "2026-10-01",
+      "description": "",
+      "end_date": "2026-10-06",
+      "image": null,
+      "score": 85,
+      "source": "bikanerhouse",
+      "tags": [],
+      "time": null,
+      "title": "Nar Nari 2.0",
+      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/10",
+      "venue": "Bikaner House"
+    },
+    {
       "category": "Festivals",
       "date": "2026-10-01",
       "description": "",
@@ -926,5 +912,5 @@
       "venue": "Gandhi-King Memorial Plaza, IIC main"
     }
   ],
-  "generated_at": "2026-09-18"
+  "generated_at": "2026-09-19"
 }

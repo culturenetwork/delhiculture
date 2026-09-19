@@ -1,75 +1,19 @@
 {
-  "count": 19,
+  "count": 16,
   "events": [
     {
-      "category": "Book Talk",
-      "date": "2026-09-26",
+      "category": "Museum",
+      "date": "2026-09-27",
       "description": "",
-      "end_date": null,
+      "end_date": "2026-10-06",
       "image": null,
-      "score": 75,
-      "source": "ihc",
+      "score": 85,
+      "source": "bikanerhouse",
       "tags": [],
-      "time": "7:00 PM",
-      "title": "Unlocking Indian Tourism: How Deregulation and Policy Reform Can Drive Growth",
-      "url": "https://indiahabitat.org/Events_details/1438",
-      "venue": "Gulmohar"
-    },
-    {
-      "category": "Theatre",
-      "date": "2026-09-26",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 65,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "IHC Theatre Festival 2026. The Queen",
-      "url": "https://indiahabitat.org/Events_details/1424",
-      "venue": "The Stein Auditorium"
-    },
-    {
-      "category": "Film & Talk",
-      "date": "2026-09-26",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 50,
-      "source": "ihc",
-      "tags": [],
-      "time": "6:00 PM",
-      "title": "Guru Padmasambhava - The Second Buddha",
-      "url": "https://indiahabitat.org/Events_details/1423",
-      "venue": "Online"
-    },
-    {
-      "category": "Cultural",
-      "date": "2026-09-26",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-09/26%20September%202026_Website%20Programme%20Image.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "05:00 PM",
-      "title": "Hindustani Classical Music Recital",
-      "url": "https://iicdelhi.in/programmes/hindustani-classical-music-recital",
-      "venue": "C.D. Deshmukh Auditorium, IIC main"
-    },
-    {
-      "category": "Workshop",
-      "date": "2026-09-26",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 50,
-      "source": "ihc",
-      "tags": [],
-      "time": "10:00 AM",
-      "title": "Interaction with the Team of Har Marz Ki Dawa.",
-      "url": "https://indiahabitat.org/Events_details/1448",
-      "venue": "The Theatre"
+      "time": null,
+      "title": "A Moment in the Monumental",
+      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/9",
+      "venue": "Bikaner House"
     },
     {
       "category": "Theatre",
@@ -254,6 +198,20 @@
       "venue": "Conference Room I, IIC main"
     },
     {
+      "category": "Museum",
+      "date": "2026-10-01",
+      "description": "",
+      "end_date": "2026-10-06",
+      "image": null,
+      "score": 85,
+      "source": "bikanerhouse",
+      "tags": [],
+      "time": null,
+      "title": "Nar Nari 2.0",
+      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/10",
+      "venue": "Bikaner House"
+    },
+    {
       "category": "Festivals",
       "date": "2026-10-01",
       "description": "",
@@ -268,5 +226,5 @@
       "venue": "Gandhi-King Memorial Plaza, IIC main"
     }
   ],
-  "generated_at": "2026-09-18"
+  "generated_at": "2026-09-19"
 }
