@@ -1,5 +1,5 @@
 {
-  "count": 12,
+  "count": 11,
   "events": [
     {
       "category": "Museum",
@@ -72,22 +72,8 @@
       "venue": "Bikaner House"
     },
     {
-      "category": "Book Talk",
-      "date": "2026-09-19",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 75,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "Why Indraprastha?",
-      "url": "https://indiahabitat.org/Events_details/1437",
-      "venue": "Gulmohar"
-    },
-    {
       "category": "Theatre",
-      "date": "2026-09-19",
+      "date": "2026-09-20",
       "description": "",
       "end_date": null,
       "image": null,
@@ -95,55 +81,55 @@
       "source": "ihc",
       "tags": [],
       "time": "7:00 PM",
-      "title": "IHC Theatre Festival 2026. Breast of Luck",
-      "url": "https://indiahabitat.org/Events_details/1408",
+      "title": "IHC Theatre Festival 2026. Amb Da Boota",
+      "url": "https://indiahabitat.org/Events_details/1411",
       "venue": "The Stein Auditorium"
     },
     {
       "category": "Theatre",
-      "date": "2026-09-19",
+      "date": "2026-09-20",
       "description": "",
       "end_date": null,
       "image": null,
       "score": 65,
       "source": "ihc",
       "tags": [],
+      "time": "12:00 PM",
+      "title": "IHC Theatre Festival 2026. Home in a Suitcase",
+      "url": "https://indiahabitat.org/Events_details/1412",
+      "venue": "The Theatre"
+    },
+    {
+      "category": "Theatre",
+      "date": "2026-09-20",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 65,
+      "source": "ihc",
+      "tags": [],
+      "time": "4:00 PM",
+      "title": "IHC Theatre Festival 2026. Home in a Suitcase",
+      "url": "https://indiahabitat.org/Events_details/1413",
+      "venue": "The Theatre"
+    },
+    {
+      "category": "Workshop",
+      "date": "2026-09-20",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 50,
+      "source": "ihc",
+      "tags": [],
       "time": "5:00 PM",
-      "title": "IHC Theatre Festival 2026. Maaye Ni Meri Akh Lag Gayi",
-      "url": "https://indiahabitat.org/Events_details/1409",
+      "title": "Home in a Suitcase: Story, Act and Beyond",
+      "url": "https://indiahabitat.org/Events_details/1444",
       "venue": "The Theatre"
     },
     {
       "category": "Workshop",
-      "date": "2026-09-19",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 50,
-      "source": "ihc",
-      "tags": [],
-      "time": "11:00 AM",
-      "title": "Acting in Different Mediums: Understanding Theatre, Radio, and Film",
-      "url": "https://indiahabitat.org/Events_details/1442",
-      "venue": "The Theatre"
-    },
-    {
-      "category": "Cultural",
-      "date": "2026-09-19",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 50,
-      "source": "ihc",
-      "tags": [],
-      "time": "6:00 PM",
-      "title": "IHC Members Meet",
-      "url": "https://indiahabitat.org/Events_details/1407",
-      "venue": "The Habitat Lounge"
-    },
-    {
-      "category": "Workshop",
-      "date": "2026-09-19",
+      "date": "2026-09-20",
       "description": "",
       "end_date": null,
       "image": null,
@@ -152,12 +138,12 @@
       "tags": [],
       "time": "12:00 PM",
       "title": "Indian Art: History and Appreciation Course",
-      "url": "https://indiahabitat.org/Events_details/1406",
+      "url": "https://indiahabitat.org/Events_details/1410",
       "venue": "Casuarina"
     },
     {
       "category": "Workshop",
-      "date": "2026-09-19",
+      "date": "2026-09-20",
       "description": "",
       "end_date": null,
       "image": null,
@@ -165,10 +151,10 @@
       "source": "ihc",
       "tags": [],
       "time": "10:00 AM",
-      "title": "Rhythm and movement for Theatre",
-      "url": "https://indiahabitat.org/Events_details/1441",
-      "venue": "The Theatre"
+      "title": "Writing Life on Paper: Discovering Your Script",
+      "url": "https://indiahabitat.org/Events_details/1443",
+      "venue": "The Stein Auditorium"
     }
   ],
-  "generated_at": "2026-09-19"
+  "generated_at": "2026-09-20"
 }
