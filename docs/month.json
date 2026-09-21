@@ -1,48 +1,6 @@
 {
-  "count": 12,
+  "count": 9,
   "events": [
-    {
-      "category": "Book Talk",
-      "date": "2026-09-28",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 75,
-      "source": "ihc",
-      "tags": [],
-      "time": "6:00 PM",
-      "title": "Invincible Somnath: A Saga of Millennia",
-      "url": "https://indiahabitat.org/Events_details/1429",
-      "venue": "Gulmohar"
-    },
-    {
-      "category": "Film",
-      "date": "2026-09-28",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 55,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "Kummatty",
-      "url": "https://indiahabitat.org/Events_details/1435",
-      "venue": "The Stein Auditorium"
-    },
-    {
-      "category": "Library Programmes",
-      "date": "2026-09-28",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-09/28%20September%202026_Website%20Programme%20Image.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "06:00 PM",
-      "title": "BOOK DISCUSSION GROUP- Moral Rupture of Kashmir Society: Impact of Prolonged Conflict",
-      "url": "https://iicdelhi.in/programmes/book-discussion-group-moral-rupture-kashmir-society-impact-prolonged-conflict",
-      "venue": "Conference Room I, IIC main"
-    },
     {
       "category": "Book Talk",
       "date": "2026-09-29",
@@ -170,5 +128,5 @@
       "venue": "Gandhi-King Memorial Plaza, IIC main"
     }
   ],
-  "generated_at": "2026-09-20"
+  "generated_at": "2026-09-21"
 }

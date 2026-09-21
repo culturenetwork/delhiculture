@@ -1,5 +1,5 @@
 {
-  "count": 58,
+  "count": 51,
   "events": [
     {
       "category": "Museum",
@@ -70,90 +70,6 @@
       "title": "Visible Vapour",
       "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/9",
       "venue": "Bikaner House"
-    },
-    {
-      "category": "Theatre",
-      "date": "2026-09-20",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 65,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "IHC Theatre Festival 2026. Amb Da Boota",
-      "url": "https://indiahabitat.org/Events_details/1411",
-      "venue": "The Stein Auditorium"
-    },
-    {
-      "category": "Theatre",
-      "date": "2026-09-20",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 65,
-      "source": "ihc",
-      "tags": [],
-      "time": "12:00 PM",
-      "title": "IHC Theatre Festival 2026. Home in a Suitcase",
-      "url": "https://indiahabitat.org/Events_details/1412",
-      "venue": "The Theatre"
-    },
-    {
-      "category": "Theatre",
-      "date": "2026-09-20",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 65,
-      "source": "ihc",
-      "tags": [],
-      "time": "4:00 PM",
-      "title": "IHC Theatre Festival 2026. Home in a Suitcase",
-      "url": "https://indiahabitat.org/Events_details/1413",
-      "venue": "The Theatre"
-    },
-    {
-      "category": "Workshop",
-      "date": "2026-09-20",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 50,
-      "source": "ihc",
-      "tags": [],
-      "time": "5:00 PM",
-      "title": "Home in a Suitcase: Story, Act and Beyond",
-      "url": "https://indiahabitat.org/Events_details/1444",
-      "venue": "The Theatre"
-    },
-    {
-      "category": "Workshop",
-      "date": "2026-09-20",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 50,
-      "source": "ihc",
-      "tags": [],
-      "time": "12:00 PM",
-      "title": "Indian Art: History and Appreciation Course",
-      "url": "https://indiahabitat.org/Events_details/1410",
-      "venue": "Casuarina"
-    },
-    {
-      "category": "Workshop",
-      "date": "2026-09-20",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 50,
-      "source": "ihc",
-      "tags": [],
-      "time": "10:00 AM",
-      "title": "Writing Life on Paper: Discovering Your Script",
-      "url": "https://indiahabitat.org/Events_details/1443",
-      "venue": "The Stein Auditorium"
     },
     {
       "category": "Book Talk",
@@ -492,20 +408,6 @@
       "venue": "The Stein Auditorium"
     },
     {
-      "category": "Film",
-      "date": "2026-09-25",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-09/25%20September%202026_Website%20Programme%20Image.jpg",
-      "score": 55,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "FILM-Oslo: A Tail of Promise",
-      "url": "https://iicdelhi.in/programmes/film-oslo-tail-promise",
-      "venue": "Lecture Room I, IIC Annexe"
-    },
-    {
       "category": "Workshop",
       "date": "2026-09-25",
       "description": "",
@@ -814,5 +716,5 @@
       "venue": "Gandhi-King Memorial Plaza, IIC main"
     }
   ],
-  "generated_at": "2026-09-20"
+  "generated_at": "2026-09-21"
 }
