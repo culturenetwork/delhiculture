@@ -1,5 +1,5 @@
 {
-  "count": 11,
+  "count": 5,
   "events": [
     {
       "category": "Museum",
@@ -12,20 +12,6 @@
       "tags": [],
       "time": null,
       "title": "Standing on Sacred Ground",
-      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/9",
-      "venue": "Bikaner House"
-    },
-    {
-      "category": "Museum",
-      "date": "2026-09-14",
-      "description": "",
-      "end_date": "2026-09-21",
-      "image": null,
-      "score": 85,
-      "source": "bikanerhouse",
-      "tags": [],
-      "time": null,
-      "title": "Tap Aur Tapish",
       "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/9",
       "venue": "Bikaner House"
     },
@@ -58,50 +44,22 @@
       "venue": "Art Gallery, Kamaladevi Complex, IIC"
     },
     {
-      "category": "Museum",
-      "date": "2026-09-17",
-      "description": "",
-      "end_date": "2026-09-21",
-      "image": null,
-      "score": 85,
-      "source": "bikanerhouse",
-      "tags": [],
-      "time": null,
-      "title": "Visible Vapour",
-      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/9",
-      "venue": "Bikaner House"
-    },
-    {
       "category": "Book Talk",
-      "date": "2026-09-21",
+      "date": "2026-09-22",
       "description": "",
       "end_date": null,
-      "image": null,
-      "score": 75,
-      "source": "ihc",
-      "tags": [],
-      "time": "6:30 PM",
-      "title": "Beyond Tailpipe: Electric Mobility at the Intersection of Air Quality and Energy Security",
-      "url": "https://indiahabitat.org/Events_details/1391",
-      "venue": "Gulmohar"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-09-21",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-09/21%20September%202026_Website%20Programme%20Image_1.jpg",
+      "image": "https://aws-static.iicdelhi.in/2026-09/22%20September%202026_Website%20Programme%20Image.jpg",
       "score": 75,
       "source": "iic",
       "tags": [],
       "time": "06:30 PM",
-      "title": "INDIAN ARCHAEOLOGY",
-      "url": "https://iicdelhi.in/programmes/indian-archaeology-151",
-      "venue": "Conference Room II, IIC main"
+      "title": "Police Reforms – 20 years",
+      "url": "https://iicdelhi.in/programmes/police-reforms-20-years",
+      "venue": "Seminar Rooms 1,2,3"
     },
     {
       "category": "Theatre",
-      "date": "2026-09-21",
+      "date": "2026-09-22",
       "description": "",
       "end_date": null,
       "image": null,
@@ -109,52 +67,10 @@
       "source": "ihc",
       "tags": [],
       "time": "7:00 PM",
-      "title": "IHC Theatre Festival 2026",
-      "url": "https://indiahabitat.org/Events_details/1414",
+      "title": "IHC Theatre Festival 2026. The Tragedy of Ham MacLear",
+      "url": "https://indiahabitat.org/Events_details/1416",
       "venue": "The Stein Auditorium"
-    },
-    {
-      "category": "Workshop",
-      "date": "2026-09-21",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 50,
-      "source": "ihc",
-      "tags": [],
-      "time": "10:00 AM",
-      "title": "An Interaction with the Team of Amb Da Boota.",
-      "url": "https://indiahabitat.org/Events_details/1445",
-      "venue": "The Theatre"
-    },
-    {
-      "category": "Library Programmes",
-      "date": "2026-09-21",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-09/21%20September%202026_Website%20Programme%20Image.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "06:00 PM",
-      "title": "BOOK DISCUSSION GROUP - What the Shadow Said",
-      "url": "https://iicdelhi.in/programmes/book-discussion-group-what-shadow-said",
-      "venue": "Conference Room I, IIC main"
-    },
-    {
-      "category": "Festivals",
-      "date": "2026-09-21",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-09/16%20September_Website%20Programme%20Image_6.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "04:00 PM",
-      "title": "New Programme- KODAVA NATIONAL SEMINAR - Coorg Cultural & Food Celebration",
-      "url": "https://iicdelhi.in/programmes/new-programme-kodava-national-seminar-coorg-cultural-food-celebration",
-      "venue": "C.D. Deshmukh Auditorium, IIC main"
     }
   ],
-  "generated_at": "2026-09-21"
+  "generated_at": "2026-09-22"
 }

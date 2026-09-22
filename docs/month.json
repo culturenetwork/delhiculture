@@ -1,62 +1,6 @@
 {
-  "count": 9,
+  "count": 5,
   "events": [
-    {
-      "category": "Book Talk",
-      "date": "2026-09-29",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 75,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "Ahiṃsā and Prakṛti",
-      "url": "https://indiahabitat.org/Events_details/1430",
-      "venue": "Gulmohar"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-09-29",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-09/29%20September%202026_Website%20Programme%20Image_1.jpg",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "Indigenous Knowledge Systems as Drivers of Economic Transformation in Northeast India: Institutional Pathways and Sustainable Development",
-      "url": "https://iicdelhi.in/programmes/indigenous-knowledge-systems-drivers-economic-transformation-northeast-india",
-      "venue": "Conference Room I, IIC main"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-09-29",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-09/29%20September%202026_Website%20Programme%20Image.jpg",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
-      "time": "06:00 PM",
-      "title": "Is France a More Reliable Strategic Partner than US.at the Centre",
-      "url": "https://iicdelhi.in/programmes/france-more-reliable-strategic-partner-usat-centre",
-      "venue": "Conference Room II, IIC main"
-    },
-    {
-      "category": "Dance & Music",
-      "date": "2026-09-29",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 50,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "Arpan – Festival of Dance & Music",
-      "url": "https://indiahabitat.org/Events_details/1431",
-      "venue": "The Stein Auditorium"
-    },
     {
       "category": "Book Talk",
       "date": "2026-09-30",
@@ -128,5 +72,5 @@
       "venue": "Gandhi-King Memorial Plaza, IIC main"
     }
   ],
-  "generated_at": "2026-09-21"
+  "generated_at": "2026-09-22"
 }

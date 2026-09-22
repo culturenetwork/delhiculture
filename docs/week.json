@@ -1,34 +1,6 @@
 {
-  "count": 31,
+  "count": 34,
   "events": [
-    {
-      "category": "Book Talk",
-      "date": "2026-09-22",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-09/22%20September%202026_Website%20Programme%20Image.jpg",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "Police Reforms – 20 years",
-      "url": "https://iicdelhi.in/programmes/police-reforms-20-years",
-      "venue": "Seminar Rooms 1,2,3"
-    },
-    {
-      "category": "Theatre",
-      "date": "2026-09-22",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 65,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "IHC Theatre Festival 2026. The Tragedy of Ham MacLear",
-      "url": "https://indiahabitat.org/Events_details/1416",
-      "venue": "The Stein Auditorium"
-    },
     {
       "category": "Museum",
       "date": "2026-09-23",
@@ -254,6 +226,20 @@
       "venue": "The Stein Auditorium"
     },
     {
+      "category": "Film",
+      "date": "2026-09-25",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-09/25%20September%202026_Website%20Programme%20Image.jpg",
+      "score": 55,
+      "source": "iic",
+      "tags": [],
+      "time": "06:30 PM",
+      "title": "FILM-Oslo: A Tail of Promise",
+      "url": "https://iicdelhi.in/programmes/film-oslo-tail-promise",
+      "venue": "Lecture Room I, IIC Annexe"
+    },
+    {
       "category": "Workshop",
       "date": "2026-09-25",
       "description": "",
@@ -434,7 +420,63 @@
       "title": "BOOK DISCUSSION GROUP- Moral Rupture of Kashmir Society: Impact of Prolonged Conflict",
       "url": "https://iicdelhi.in/programmes/book-discussion-group-moral-rupture-kashmir-society-impact-prolonged-conflict",
       "venue": "Conference Room I, IIC main"
+    },
+    {
+      "category": "Book Talk",
+      "date": "2026-09-29",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 75,
+      "source": "ihc",
+      "tags": [],
+      "time": "7:00 PM",
+      "title": "Ahiṃsā and Prakṛti",
+      "url": "https://indiahabitat.org/Events_details/1430",
+      "venue": "Gulmohar"
+    },
+    {
+      "category": "Book Talk",
+      "date": "2026-09-29",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-09/29%20September%202026_Website%20Programme%20Image_1.jpg",
+      "score": 75,
+      "source": "iic",
+      "tags": [],
+      "time": "06:30 PM",
+      "title": "Indigenous Knowledge Systems as Drivers of Economic Transformation in Northeast India: Institutional Pathways and Sustainable Development",
+      "url": "https://iicdelhi.in/programmes/indigenous-knowledge-systems-drivers-economic-transformation-northeast-india",
+      "venue": "Conference Room I, IIC main"
+    },
+    {
+      "category": "Book Talk",
+      "date": "2026-09-29",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-09/29%20September%202026_Website%20Programme%20Image.jpg",
+      "score": 75,
+      "source": "iic",
+      "tags": [],
+      "time": "06:00 PM",
+      "title": "Is France a More Reliable Strategic Partner than US.at the Centre",
+      "url": "https://iicdelhi.in/programmes/france-more-reliable-strategic-partner-usat-centre",
+      "venue": "Conference Room II, IIC main"
+    },
+    {
+      "category": "Dance & Music",
+      "date": "2026-09-29",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 50,
+      "source": "ihc",
+      "tags": [],
+      "time": "7:00 PM",
+      "title": "Arpan – Festival of Dance & Music",
+      "url": "https://indiahabitat.org/Events_details/1431",
+      "venue": "The Stein Auditorium"
     }
   ],
-  "generated_at": "2026-09-21"
+  "generated_at": "2026-09-22"
 }
