@@ -1,20 +1,6 @@
 {
-  "count": 44,
+  "count": 41,
   "events": [
-    {
-      "category": "Museum",
-      "date": "2026-09-13",
-      "description": "",
-      "end_date": "2026-09-22",
-      "image": null,
-      "score": 85,
-      "source": "bikanerhouse",
-      "tags": [],
-      "time": null,
-      "title": "Standing on Sacred Ground",
-      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/9",
-      "venue": "Bikaner House"
-    },
     {
       "category": "Museum",
       "date": "2026-09-15",
@@ -42,34 +28,6 @@
       "title": "EXHIBITION- Phulkari: A Lingering Presence By Sunaina Suneja",
       "url": "https://iicdelhi.in/programmes/exhibition-phulkari-lingering-presence-sunaina-suneja",
       "venue": "Art Gallery, Kamaladevi Complex, IIC"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-09-22",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-09/22%20September%202026_Website%20Programme%20Image.jpg",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "Police Reforms – 20 years",
-      "url": "https://iicdelhi.in/programmes/police-reforms-20-years",
-      "venue": "Seminar Rooms 1,2,3"
-    },
-    {
-      "category": "Theatre",
-      "date": "2026-09-22",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 65,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "IHC Theatre Festival 2026. The Tragedy of Ham MacLear",
-      "url": "https://indiahabitat.org/Events_details/1416",
-      "venue": "The Stein Auditorium"
     },
     {
       "category": "Museum",
@@ -487,8 +445,8 @@
       "source": "iic",
       "tags": [],
       "time": "06:00 PM",
-      "title": "BOOK DISCUSSION GROUP- Moral Rupture of Kashmir Society: Impact of Prolonged Conflict",
-      "url": "https://iicdelhi.in/programmes/book-discussion-group-moral-rupture-kashmir-society-impact-prolonged-conflict",
+      "title": "BOOK DISCUSSION GROUP- Rupture of Kashmir Society: Impact of Prolonged Conflict",
+      "url": "https://iicdelhi.in/programmes/book-discussion-group-rupture-kashmir-society-impact-prolonged-conflict",
       "venue": "Conference Room I, IIC main"
     },
     {
@@ -618,5 +576,5 @@
       "venue": "Gandhi-King Memorial Plaza, IIC main"
     }
   ],
-  "generated_at": "2026-09-22"
+  "generated_at": "2026-09-23"
 }

@@ -1,48 +1,6 @@
 {
-  "count": 5,
+  "count": 2,
   "events": [
-    {
-      "category": "Book Talk",
-      "date": "2026-09-30",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-09/30%20September%202026_Website%20Programme%20Image_0.jpg",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "TO MARK MARTYRS DAY",
-      "url": "https://iicdelhi.in/programmes/mark-martyrs-day-0",
-      "venue": "C.D. Deshmukh Auditorium, IIC main"
-    },
-    {
-      "category": "Dance",
-      "date": "2026-09-30",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 70,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "Sarat Smriti 2026: Agni",
-      "url": "https://indiahabitat.org/Events_details/1432",
-      "venue": "The Stein Auditorium"
-    },
-    {
-      "category": "Library Programmes",
-      "date": "2026-09-30",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-09/30%20September%202026_Website%20Programme%20Image_1.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "06:00 PM",
-      "title": "Book Discussion Group- Languages of Freedom: The Idea of India in Political Theory, Bombay Cinema and Progressive Urdu Poetry.",
-      "url": "https://iicdelhi.in/programmes/book-discussion-group-languages-freedom-idea-india-political-theory-bombay-cinema-and",
-      "venue": "Conference Room I, IIC main"
-    },
     {
       "category": "Museum",
       "date": "2026-10-01",
@@ -72,5 +30,5 @@
       "venue": "Gandhi-King Memorial Plaza, IIC main"
     }
   ],
-  "generated_at": "2026-09-22"
+  "generated_at": "2026-09-23"
 }

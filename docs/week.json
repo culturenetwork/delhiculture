@@ -1,104 +1,6 @@
 {
-  "count": 34,
+  "count": 30,
   "events": [
-    {
-      "category": "Museum",
-      "date": "2026-09-23",
-      "description": "An exhibition of artworks inspired by emotions, experiences and everyday life. The artist explores varied moods, ideas and perspectives, inviting viewers to engage with the distinctive expressions and narratives that shape her artistic practice. Sadaf Beg Khan, visual artist whos",
-      "end_date": "2026-09-30",
-      "image": "https://aws-static.iicdelhi.in/2026-09/23%20September%202026_Website%20Programme%20Image.jpg",
-      "score": 85,
-      "source": "iic",
-      "tags": [],
-      "time": "11:00 AM",
-      "title": "EXHIBITION - Journey of Colours A Solo Exhibition by Sadaf Beg Khan",
-      "url": "https://iicdelhi.in/programmes/exhibition-journey-colours-solo-exhibition-sadaf-beg-khan",
-      "venue": "Art Gallery, IIC Annexe"
-    },
-    {
-      "category": "Museum",
-      "date": "2026-09-23",
-      "description": "",
-      "end_date": "2026-09-28",
-      "image": null,
-      "score": 85,
-      "source": "bikanerhouse",
-      "tags": [],
-      "time": null,
-      "title": "Odyssey",
-      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/9",
-      "venue": "Bikaner House"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-09-23",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-09/23%20September%202026_Website%20Programme%20Image_1.jpg",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
-      "time": "06:00 PM",
-      "title": "BOOK DISCUSSION GROUP  - Signature on the Wind",
-      "url": "https://iicdelhi.in/programmes/book-discussion-group-signature-wind",
-      "venue": "Conference Room II, IIC main"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-09-23",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-09/23%20September%202026_Website%20Programme%20Image_2.jpg",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "Delimitation after 2026: Electoral Equality or Federal Balance?",
-      "url": "https://iicdelhi.in/programmes/delimitation-after-2026-electoral-equality-or-federal-balance",
-      "venue": "Conference Room I, IIC main"
-    },
-    {
-      "category": "Theatre",
-      "date": "2026-09-23",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 65,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "IHC Theatre Festival 2026. Window Tak Aashiqui",
-      "url": "https://indiahabitat.org/Events_details/1417",
-      "venue": "The Stein Auditorium"
-    },
-    {
-      "category": "Film",
-      "date": "2026-09-23",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 55,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "Visthapana",
-      "url": "https://indiahabitat.org/Events_details/1418",
-      "venue": "Gulmohar"
-    },
-    {
-      "category": "Workshop",
-      "date": "2026-09-23",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 50,
-      "source": "ihc",
-      "tags": [],
-      "time": "10:00 AM",
-      "title": "Find Your Voice",
-      "url": "https://indiahabitat.org/Events_details/1446",
-      "venue": "The Theatre"
-    },
     {
       "category": "Museum",
       "date": "2026-09-24",
@@ -417,8 +319,8 @@
       "source": "iic",
       "tags": [],
       "time": "06:00 PM",
-      "title": "BOOK DISCUSSION GROUP- Moral Rupture of Kashmir Society: Impact of Prolonged Conflict",
-      "url": "https://iicdelhi.in/programmes/book-discussion-group-moral-rupture-kashmir-society-impact-prolonged-conflict",
+      "title": "BOOK DISCUSSION GROUP- Rupture of Kashmir Society: Impact of Prolonged Conflict",
+      "url": "https://iicdelhi.in/programmes/book-discussion-group-rupture-kashmir-society-impact-prolonged-conflict",
       "venue": "Conference Room I, IIC main"
     },
     {
@@ -476,7 +378,49 @@
       "title": "Arpan – Festival of Dance & Music",
       "url": "https://indiahabitat.org/Events_details/1431",
       "venue": "The Stein Auditorium"
+    },
+    {
+      "category": "Book Talk",
+      "date": "2026-09-30",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-09/30%20September%202026_Website%20Programme%20Image_0.jpg",
+      "score": 75,
+      "source": "iic",
+      "tags": [],
+      "time": "06:30 PM",
+      "title": "TO MARK MARTYRS DAY",
+      "url": "https://iicdelhi.in/programmes/mark-martyrs-day-0",
+      "venue": "C.D. Deshmukh Auditorium, IIC main"
+    },
+    {
+      "category": "Dance",
+      "date": "2026-09-30",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 70,
+      "source": "ihc",
+      "tags": [],
+      "time": "7:00 PM",
+      "title": "Sarat Smriti 2026: Agni",
+      "url": "https://indiahabitat.org/Events_details/1432",
+      "venue": "The Stein Auditorium"
+    },
+    {
+      "category": "Library Programmes",
+      "date": "2026-09-30",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-09/30%20September%202026_Website%20Programme%20Image_1.jpg",
+      "score": 50,
+      "source": "iic",
+      "tags": [],
+      "time": "06:00 PM",
+      "title": "Book Discussion Group- Languages of Freedom: The Idea of India in Political Theory, Bombay Cinema and Progressive Urdu Poetry.",
+      "url": "https://iicdelhi.in/programmes/book-discussion-group-languages-freedom-idea-india-political-theory-bombay-cinema-and",
+      "venue": "Conference Room I, IIC main"
     }
   ],
-  "generated_at": "2026-09-22"
+  "generated_at": "2026-09-23"
 }
