@@ -1,20 +1,6 @@
 {
-  "count": 9,
+  "count": 10,
   "events": [
-    {
-      "category": "Museum",
-      "date": "2026-09-15",
-      "description": "",
-      "end_date": "2026-09-24",
-      "image": null,
-      "score": 85,
-      "source": "bikanerhouse",
-      "tags": [],
-      "time": null,
-      "title": "Oriental Scenary",
-      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/9",
-      "venue": "Bikaner House"
-    },
     {
       "category": "Museum",
       "date": "2026-09-16",
@@ -72,22 +58,50 @@
       "venue": "Bikaner House"
     },
     {
+      "category": "Museum",
+      "date": "2026-09-25",
+      "description": "",
+      "end_date": "2026-09-26",
+      "image": null,
+      "score": 85,
+      "source": "bikanerhouse",
+      "tags": [],
+      "time": null,
+      "title": "Rang by Devi",
+      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/9",
+      "venue": "Bikaner House"
+    },
+    {
       "category": "Book Talk",
-      "date": "2026-09-24",
+      "date": "2026-09-25",
       "description": "",
       "end_date": null,
-      "image": null,
+      "image": "https://aws-static.iicdelhi.in/2026-09/25%20September%202026_Website%20Programme%20Image_2.jpg",
       "score": 75,
-      "source": "ihc",
+      "source": "iic",
       "tags": [],
-      "time": "7:00 PM",
-      "title": "From Policy to Practice: Powering Maritime Excellence",
-      "url": "https://indiahabitat.org/Events_details/1419",
-      "venue": "Gulmohar"
+      "time": "06:30 PM",
+      "title": "AAJ KAVITA",
+      "url": "https://iicdelhi.in/programmes/aaj-kavita-49",
+      "venue": "Lecture Room II, IIC Annexe"
+    },
+    {
+      "category": "Book Talk",
+      "date": "2026-09-25",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-09/25%20September%202026_Website%20Programme%20Image_1.jpg",
+      "score": 75,
+      "source": "iic",
+      "tags": [],
+      "time": "06:30 PM",
+      "title": "The Infrastructure of Chinese Civilizationism",
+      "url": "https://iicdelhi.in/programmes/infrastructure-chinese-civilizationism",
+      "venue": "Seminar Rooms 1,2,3"
     },
     {
       "category": "Theatre",
-      "date": "2026-09-24",
+      "date": "2026-09-25",
       "description": "",
       "end_date": null,
       "image": null,
@@ -95,38 +109,38 @@
       "source": "ihc",
       "tags": [],
       "time": "7:00 PM",
-      "title": "Cilappatikaram / The Anklet's Verdict",
-      "url": "https://indiahabitat.org/Events_details/1420",
+      "title": "IHC Theatre Festival 2026. Har Marz Ki Dawa",
+      "url": "https://indiahabitat.org/Events_details/1421",
       "venue": "The Stein Auditorium"
     },
     {
       "category": "Film",
-      "date": "2026-09-24",
+      "date": "2026-09-25",
       "description": "",
       "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-09/Website%20Spotlight_24%20September%202026_1.jpg",
+      "image": "https://aws-static.iicdelhi.in/2026-09/25%20September%202026_Website%20Programme%20Image.jpg",
       "score": 55,
       "source": "iic",
       "tags": [],
-      "time": "09:30 AM",
-      "title": "Film -Sagarmatha Samta-India Largest Inclusive Trek to Everest Base Camp",
-      "url": "https://iicdelhi.in/programmes/film-sagarmatha-samta-india-largest-inclusive-trek-everest-base-camp",
-      "venue": "C.D. Deshmukh Auditorium, IIC main"
+      "time": "06:30 PM",
+      "title": "FILM-Oslo: A Tail of Promise",
+      "url": "https://iicdelhi.in/programmes/film-oslo-tail-promise",
+      "venue": "Lecture Room I, IIC Annexe"
     },
     {
-      "category": "Cultural",
-      "date": "2026-09-24",
+      "category": "Workshop",
+      "date": "2026-09-25",
       "description": "",
       "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-09/Website%20Spotlight_24%20September%202026_2.jpg",
+      "image": null,
       "score": 50,
-      "source": "iic",
+      "source": "ihc",
       "tags": [],
-      "time": "06:00 PM",
-      "title": "IIC DOUBLE BILL: MUSIC AND DANCE RECITAL",
-      "url": "https://iicdelhi.in/programmes/iic-double-bill-music-and-dance-recital",
-      "venue": "C.D. Deshmukh Auditorium, IIC main"
+      "time": "10:00 AM",
+      "title": "Understanding Kutiyattam: A Dialogue with the Experts",
+      "url": "https://indiahabitat.org/Events_details/1447",
+      "venue": "The Theatre"
     }
   ],
-  "generated_at": "2026-09-24"
+  "generated_at": "2026-09-25"
 }

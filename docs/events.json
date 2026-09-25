@@ -1,20 +1,6 @@
 {
-  "count": 36,
+  "count": 31,
   "events": [
-    {
-      "category": "Museum",
-      "date": "2026-09-15",
-      "description": "",
-      "end_date": "2026-09-24",
-      "image": null,
-      "score": 85,
-      "source": "bikanerhouse",
-      "tags": [],
-      "time": null,
-      "title": "Oriental Scenary",
-      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/9",
-      "venue": "Bikaner House"
-    },
     {
       "category": "Museum",
       "date": "2026-09-16",
@@ -70,62 +56,6 @@
       "title": "Main Hoon Warli",
       "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/9",
       "venue": "Bikaner House"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-09-24",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 75,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "From Policy to Practice: Powering Maritime Excellence",
-      "url": "https://indiahabitat.org/Events_details/1419",
-      "venue": "Gulmohar"
-    },
-    {
-      "category": "Theatre",
-      "date": "2026-09-24",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 65,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "Cilappatikaram / The Anklet's Verdict",
-      "url": "https://indiahabitat.org/Events_details/1420",
-      "venue": "The Stein Auditorium"
-    },
-    {
-      "category": "Film",
-      "date": "2026-09-24",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-09/Website%20Spotlight_24%20September%202026_1.jpg",
-      "score": 55,
-      "source": "iic",
-      "tags": [],
-      "time": "09:30 AM",
-      "title": "Film -Sagarmatha Samta-India Largest Inclusive Trek to Everest Base Camp",
-      "url": "https://iicdelhi.in/programmes/film-sagarmatha-samta-india-largest-inclusive-trek-everest-base-camp",
-      "venue": "C.D. Deshmukh Auditorium, IIC main"
-    },
-    {
-      "category": "Cultural",
-      "date": "2026-09-24",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-09/Website%20Spotlight_24%20September%202026_2.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "06:00 PM",
-      "title": "IIC DOUBLE BILL: MUSIC AND DANCE RECITAL",
-      "url": "https://iicdelhi.in/programmes/iic-double-bill-music-and-dance-recital",
-      "venue": "C.D. Deshmukh Auditorium, IIC main"
     },
     {
       "category": "Museum",
@@ -506,5 +436,5 @@
       "venue": "Gandhi-King Memorial Plaza, IIC main"
     }
   ],
-  "generated_at": "2026-09-24"
+  "generated_at": "2026-09-25"
 }
