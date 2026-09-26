@@ -1,76 +1,6 @@
 {
-  "count": 21,
+  "count": 16,
   "events": [
-    {
-      "category": "Book Talk",
-      "date": "2026-09-26",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 75,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "Unlocking Indian Tourism: How Deregulation and Policy Reform Can Drive Growth",
-      "url": "https://indiahabitat.org/Events_details/1438",
-      "venue": "Gulmohar"
-    },
-    {
-      "category": "Theatre",
-      "date": "2026-09-26",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 65,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "IHC Theatre Festival 2026. The Queen",
-      "url": "https://indiahabitat.org/Events_details/1424",
-      "venue": "The Stein Auditorium"
-    },
-    {
-      "category": "Film & Talk",
-      "date": "2026-09-26",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 50,
-      "source": "ihc",
-      "tags": [],
-      "time": "6:00 PM",
-      "title": "Guru Padmasambhava - The Second Buddha",
-      "url": "https://indiahabitat.org/Events_details/1423",
-      "venue": "Online"
-    },
-    {
-      "category": "Cultural",
-      "date": "2026-09-26",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-09/26%20September%202026_Website%20Programme%20Image.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "05:00 PM",
-      "title": "Hindustani Classical Music Recital",
-      "url": "https://iicdelhi.in/programmes/hindustani-classical-music-recital",
-      "venue": "C.D. Deshmukh Auditorium, IIC main"
-    },
-    {
-      "category": "Workshop",
-      "date": "2026-09-26",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 50,
-      "source": "ihc",
-      "tags": [],
-      "time": "10:00 AM",
-      "title": "Interaction with the Team of Har Marz Ki Dawa.",
-      "url": "https://indiahabitat.org/Events_details/1448",
-      "venue": "The Theatre"
-    },
     {
       "category": "Museum",
       "date": "2026-09-27",
@@ -296,5 +226,5 @@
       "venue": "Gandhi-King Memorial Plaza, IIC main"
     }
   ],
-  "generated_at": "2026-09-25"
+  "generated_at": "2026-09-26"
 }
