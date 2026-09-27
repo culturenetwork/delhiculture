@@ -1,5 +1,48 @@
 {
-  "count": 0,
-  "events": [],
-  "generated_at": "2026-09-26"
+  "count": 3,
+  "events": [
+    {
+      "category": "Museum",
+      "date": "2026-10-08",
+      "description": "",
+      "end_date": "2026-10-12",
+      "image": null,
+      "score": 85,
+      "source": "bikanerhouse",
+      "tags": [],
+      "time": null,
+      "title": "A Bird Call by Rupa Samaria",
+      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/10",
+      "venue": "Bikaner House"
+    },
+    {
+      "category": "Museum",
+      "date": "2026-10-08",
+      "description": "",
+      "end_date": "2026-10-11",
+      "image": null,
+      "score": 85,
+      "source": "bikanerhouse",
+      "tags": [],
+      "time": null,
+      "title": "WHAT WAS HERE?",
+      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/10",
+      "venue": "Bikaner House"
+    },
+    {
+      "category": "Museum",
+      "date": "2026-10-08",
+      "description": "",
+      "end_date": "2026-10-11",
+      "image": null,
+      "score": 85,
+      "source": "bikanerhouse",
+      "tags": [],
+      "time": null,
+      "title": "Whispers of kashi by Ranadip Mukherjee",
+      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/10",
+      "venue": "Bikaner House"
+    }
+  ],
+  "generated_at": "2026-09-27"
 }

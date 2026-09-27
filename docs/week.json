@@ -1,62 +1,6 @@
 {
-  "count": 16,
+  "count": 12,
   "events": [
-    {
-      "category": "Museum",
-      "date": "2026-09-27",
-      "description": "",
-      "end_date": "2026-10-06",
-      "image": null,
-      "score": 85,
-      "source": "bikanerhouse",
-      "tags": [],
-      "time": null,
-      "title": "A Moment in the Monumental",
-      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/9",
-      "venue": "Bikaner House"
-    },
-    {
-      "category": "Theatre",
-      "date": "2026-09-27",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 65,
-      "source": "ihc",
-      "tags": [],
-      "time": "12:00 PM",
-      "title": "Hindi Medium Tight",
-      "url": "https://indiahabitat.org/Events_details/1439",
-      "venue": "The Theatre"
-    },
-    {
-      "category": "Theatre",
-      "date": "2026-09-27",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 65,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "IHC Theatre Festival 2026. Bhasbharatam",
-      "url": "https://indiahabitat.org/Events_details/1426",
-      "venue": "The Stein Auditorium"
-    },
-    {
-      "category": "Theatre",
-      "date": "2026-09-27",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 65,
-      "source": "ihc",
-      "tags": [],
-      "time": "4:00 PM",
-      "title": "IHC Theatre Festival 2026. Hindi Medium Tight",
-      "url": "https://indiahabitat.org/Events_details/1428",
-      "venue": "The Theatre"
-    },
     {
       "category": "Book Talk",
       "date": "2026-09-28",
@@ -66,8 +10,8 @@
       "score": 75,
       "source": "ihc",
       "tags": [],
-      "time": "6:00 PM",
-      "title": "Invincible Somnath: A Saga of Millennia",
+      "time": "5:00 PM",
+      "title": "The Dragon The Elephant and The Emerging World Order: Between Competition and India and China: Civilisational States in a Fragmented World",
       "url": "https://indiahabitat.org/Events_details/1429",
       "venue": "Gulmohar"
     },
@@ -226,5 +170,5 @@
       "venue": "Gandhi-King Memorial Plaza, IIC main"
     }
   ],
-  "generated_at": "2026-09-26"
+  "generated_at": "2026-09-27"
 }

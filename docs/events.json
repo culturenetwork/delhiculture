@@ -1,5 +1,5 @@
 {
-  "count": 26,
+  "count": 23,
   "events": [
     {
       "category": "Museum",
@@ -56,90 +56,6 @@
       "title": "Main Hoon Warli",
       "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/9",
       "venue": "Bikaner House"
-    },
-    {
-      "category": "Museum",
-      "date": "2026-09-25",
-      "description": "",
-      "end_date": "2026-09-26",
-      "image": null,
-      "score": 85,
-      "source": "bikanerhouse",
-      "tags": [],
-      "time": null,
-      "title": "Rang by Devi",
-      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/9",
-      "venue": "Bikaner House"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-09-26",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 75,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "Unlocking Indian Tourism: How Deregulation and Policy Reform Can Drive Growth",
-      "url": "https://indiahabitat.org/Events_details/1438",
-      "venue": "Gulmohar"
-    },
-    {
-      "category": "Theatre",
-      "date": "2026-09-26",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 65,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "IHC Theatre Festival 2026. The Queen",
-      "url": "https://indiahabitat.org/Events_details/1424",
-      "venue": "The Stein Auditorium"
-    },
-    {
-      "category": "Film & Talk",
-      "date": "2026-09-26",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 50,
-      "source": "ihc",
-      "tags": [],
-      "time": "6:00 PM",
-      "title": "Guru Padmasambhava - The Second Buddha",
-      "url": "https://indiahabitat.org/Events_details/1423",
-      "venue": "Online"
-    },
-    {
-      "category": "Cultural",
-      "date": "2026-09-26",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-09/26%20September%202026_Website%20Programme%20Image.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "05:00 PM",
-      "title": "Hindustani Classical Music Recital",
-      "url": "https://iicdelhi.in/programmes/hindustani-classical-music-recital",
-      "venue": "C.D. Deshmukh Auditorium, IIC main"
-    },
-    {
-      "category": "Workshop",
-      "date": "2026-09-26",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 50,
-      "source": "ihc",
-      "tags": [],
-      "time": "10:00 AM",
-      "title": "Interaction with the Team of Har Marz Ki Dawa.",
-      "url": "https://indiahabitat.org/Events_details/1448",
-      "venue": "The Theatre"
     },
     {
       "category": "Museum",
@@ -206,8 +122,8 @@
       "score": 75,
       "source": "ihc",
       "tags": [],
-      "time": "6:00 PM",
-      "title": "Invincible Somnath: A Saga of Millennia",
+      "time": "5:00 PM",
+      "title": "The Dragon The Elephant and The Emerging World Order: Between Competition and India and China: Civilisational States in a Fragmented World",
       "url": "https://indiahabitat.org/Events_details/1429",
       "venue": "Gulmohar"
     },
@@ -364,7 +280,49 @@
       "title": "BHOOMI FESTIVAL 2026 -Women Regenerating the Earth, Renewing Humanity",
       "url": "https://iicdelhi.in/programmes/bhoomi-festival-2026-women-regenerating-earth-renewing-humanity",
       "venue": "Gandhi-King Memorial Plaza, IIC main"
+    },
+    {
+      "category": "Museum",
+      "date": "2026-10-08",
+      "description": "",
+      "end_date": "2026-10-12",
+      "image": null,
+      "score": 85,
+      "source": "bikanerhouse",
+      "tags": [],
+      "time": null,
+      "title": "A Bird Call by Rupa Samaria",
+      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/10",
+      "venue": "Bikaner House"
+    },
+    {
+      "category": "Museum",
+      "date": "2026-10-08",
+      "description": "",
+      "end_date": "2026-10-11",
+      "image": null,
+      "score": 85,
+      "source": "bikanerhouse",
+      "tags": [],
+      "time": null,
+      "title": "WHAT WAS HERE?",
+      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/10",
+      "venue": "Bikaner House"
+    },
+    {
+      "category": "Museum",
+      "date": "2026-10-08",
+      "description": "",
+      "end_date": "2026-10-11",
+      "image": null,
+      "score": 85,
+      "source": "bikanerhouse",
+      "tags": [],
+      "time": null,
+      "title": "Whispers of kashi by Ranadip Mukherjee",
+      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/10",
+      "venue": "Bikaner House"
     }
   ],
-  "generated_at": "2026-09-26"
+  "generated_at": "2026-09-27"
 }
