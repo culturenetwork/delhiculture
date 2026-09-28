@@ -72,47 +72,47 @@
       "venue": "Bikaner House"
     },
     {
-      "category": "Theatre",
-      "date": "2026-09-27",
+      "category": "Book Talk",
+      "date": "2026-09-28",
       "description": "",
       "end_date": null,
       "image": null,
-      "score": 65,
+      "score": 75,
       "source": "ihc",
       "tags": [],
-      "time": "12:00 PM",
-      "title": "Hindi Medium Tight",
-      "url": "https://indiahabitat.org/Events_details/1439",
-      "venue": "The Theatre"
+      "time": "5:00 PM",
+      "title": "The Dragon The Elephant and The Emerging World Order: Between Competition and India and China: Civilisational States in a Fragmented World",
+      "url": "https://indiahabitat.org/Events_details/1429",
+      "venue": "Gulmohar"
     },
     {
-      "category": "Theatre",
-      "date": "2026-09-27",
+      "category": "Film",
+      "date": "2026-09-28",
       "description": "",
       "end_date": null,
       "image": null,
-      "score": 65,
+      "score": 55,
       "source": "ihc",
       "tags": [],
       "time": "7:00 PM",
-      "title": "IHC Theatre Festival 2026. Bhasbharatam",
-      "url": "https://indiahabitat.org/Events_details/1426",
+      "title": "Kummatty",
+      "url": "https://indiahabitat.org/Events_details/1435",
       "venue": "The Stein Auditorium"
     },
     {
-      "category": "Theatre",
-      "date": "2026-09-27",
+      "category": "Library Programmes",
+      "date": "2026-09-28",
       "description": "",
       "end_date": null,
-      "image": null,
-      "score": 65,
-      "source": "ihc",
+      "image": "https://aws-static.iicdelhi.in/2026-09/28%20September%202026_Website%20Programme%20Image_1.jpg",
+      "score": 50,
+      "source": "iic",
       "tags": [],
-      "time": "4:00 PM",
-      "title": "IHC Theatre Festival 2026. Hindi Medium Tight",
-      "url": "https://indiahabitat.org/Events_details/1428",
-      "venue": "The Theatre"
+      "time": "06:00 PM",
+      "title": "BOOK DISCUSSION GROUP- Rupture of Kashmir Society: Impact of Prolonged Conflict",
+      "url": "https://iicdelhi.in/programmes/book-discussion-group-rupture-kashmir-society-impact-prolonged-conflict",
+      "venue": "Conference Room I, IIC main"
     }
   ],
-  "generated_at": "2026-09-27"
+  "generated_at": "2026-09-28"
 }
