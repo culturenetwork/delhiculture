@@ -1,62 +1,6 @@
 {
-  "count": 9,
+  "count": 12,
   "events": [
-    {
-      "category": "Book Talk",
-      "date": "2026-09-29",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 75,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "Ahiṃsā and Prakṛti",
-      "url": "https://indiahabitat.org/Events_details/1430",
-      "venue": "Gulmohar"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-09-29",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-09/29%20September%202026_Website%20Programme%20Image_1.jpg",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "Indigenous Knowledge Systems as Drivers of Economic Transformation in Northeast India: Institutional Pathways and Sustainable Development",
-      "url": "https://iicdelhi.in/programmes/indigenous-knowledge-systems-drivers-economic-transformation-northeast-india",
-      "venue": "Conference Room I, IIC main"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-09-29",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-09/29%20September%202026_Website%20Programme%20Image.jpg",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
-      "time": "06:00 PM",
-      "title": "Is France a More Reliable Strategic Partner than US.at the Centre",
-      "url": "https://iicdelhi.in/programmes/france-more-reliable-strategic-partner-usat-centre",
-      "venue": "Conference Room II, IIC main"
-    },
-    {
-      "category": "Dance & Music",
-      "date": "2026-09-29",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 50,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "Arpan – Festival of Dance & Music",
-      "url": "https://indiahabitat.org/Events_details/1431",
-      "venue": "The Stein Auditorium"
-    },
     {
       "category": "Book Talk",
       "date": "2026-09-30",
@@ -114,6 +58,34 @@
       "venue": "Bikaner House"
     },
     {
+      "category": "Book Talk",
+      "date": "2026-10-01",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 75,
+      "source": "ihc",
+      "tags": [],
+      "time": "7:00 PM",
+      "title": "From Choices to Change: Mission Life & India’s Net Zero Pathway",
+      "url": "https://indiahabitat.org/Events_details/1449",
+      "venue": "Gulmohar"
+    },
+    {
+      "category": "Film",
+      "date": "2026-10-01",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 55,
+      "source": "ihc",
+      "tags": [],
+      "time": "7:00 PM",
+      "title": "Bhangaar / Obsolete",
+      "url": "https://indiahabitat.org/Events_details/1450",
+      "venue": "The Stein Auditorium"
+    },
+    {
       "category": "Festivals",
       "date": "2026-10-01",
       "description": "",
@@ -126,7 +98,77 @@
       "title": "BHOOMI FESTIVAL 2026 -Women Regenerating the Earth, Renewing Humanity",
       "url": "https://iicdelhi.in/programmes/bhoomi-festival-2026-women-regenerating-earth-renewing-humanity",
       "venue": "Gandhi-King Memorial Plaza, IIC main"
+    },
+    {
+      "category": "Book Talk",
+      "date": "2026-10-03",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 75,
+      "source": "ihc",
+      "tags": [],
+      "time": "7:00 PM",
+      "title": "Bhakti, Bhasha and the Making of India",
+      "url": "https://indiahabitat.org/Events_details/1451",
+      "venue": "Gulmohar"
+    },
+    {
+      "category": "Film",
+      "date": "2026-10-04",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 55,
+      "source": "ihc",
+      "tags": [],
+      "time": "7:00 PM",
+      "title": "To Die A Frenchman",
+      "url": "https://indiahabitat.org/Events_details/1453",
+      "venue": "Gulmohar"
+    },
+    {
+      "category": "Cultural",
+      "date": "2026-10-04",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 50,
+      "source": "ihc",
+      "tags": [],
+      "time": "11:00 AM",
+      "title": "The IHC Free Book X'Change",
+      "url": "https://indiahabitat.org/Events_details/1452",
+      "venue": "Near the IHC Information Centre"
+    },
+    {
+      "category": "Film",
+      "date": "2026-10-05",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 55,
+      "source": "ihc",
+      "tags": [],
+      "time": "7:00 PM",
+      "title": "EcoReels 2026",
+      "url": "https://indiahabitat.org/Events_details/1454",
+      "venue": "Gulmohar"
+    },
+    {
+      "category": "Indian Classical",
+      "date": "2026-10-06",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 80,
+      "source": "ihc",
+      "tags": [],
+      "time": "7:00 PM",
+      "title": "Pt. Kashinath Khandekar Memorial Concert",
+      "url": "https://indiahabitat.org/Events_details/1455",
+      "venue": "The Theatre"
     }
   ],
-  "generated_at": "2026-09-28"
+  "generated_at": "2026-09-29"
 }

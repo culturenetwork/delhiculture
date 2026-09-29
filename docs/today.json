@@ -1,5 +1,5 @@
 {
-  "count": 8,
+  "count": 7,
   "events": [
     {
       "category": "Museum",
@@ -31,34 +31,6 @@
     },
     {
       "category": "Museum",
-      "date": "2026-09-23",
-      "description": "",
-      "end_date": "2026-09-28",
-      "image": null,
-      "score": 85,
-      "source": "bikanerhouse",
-      "tags": [],
-      "time": null,
-      "title": "Odyssey",
-      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/9",
-      "venue": "Bikaner House"
-    },
-    {
-      "category": "Museum",
-      "date": "2026-09-24",
-      "description": "",
-      "end_date": "2026-09-28",
-      "image": null,
-      "score": 85,
-      "source": "bikanerhouse",
-      "tags": [],
-      "time": null,
-      "title": "Main Hoon Warli",
-      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/9",
-      "venue": "Bikaner House"
-    },
-    {
-      "category": "Museum",
       "date": "2026-09-27",
       "description": "",
       "end_date": "2026-10-06",
@@ -73,46 +45,60 @@
     },
     {
       "category": "Book Talk",
-      "date": "2026-09-28",
+      "date": "2026-09-29",
       "description": "",
       "end_date": null,
       "image": null,
       "score": 75,
       "source": "ihc",
       "tags": [],
-      "time": "5:00 PM",
-      "title": "The Dragon The Elephant and The Emerging World Order: Between Competition and India and China: Civilisational States in a Fragmented World",
-      "url": "https://indiahabitat.org/Events_details/1429",
+      "time": "7:00 PM",
+      "title": "Ahiṃsā and Prakṛti",
+      "url": "https://indiahabitat.org/Events_details/1430",
       "venue": "Gulmohar"
     },
     {
-      "category": "Film",
-      "date": "2026-09-28",
+      "category": "Book Talk",
+      "date": "2026-09-29",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-09/29%20September%202026_Website%20Programme%20Image_1.jpg",
+      "score": 75,
+      "source": "iic",
+      "tags": [],
+      "time": "06:30 PM",
+      "title": "Indigenous Knowledge Systems as Drivers of Economic Transformation in Northeast India: Institutional Pathways and Sustainable Development",
+      "url": "https://iicdelhi.in/programmes/indigenous-knowledge-systems-drivers-economic-transformation-northeast-india",
+      "venue": "Conference Room I, IIC main"
+    },
+    {
+      "category": "Book Talk",
+      "date": "2026-09-29",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-09/29%20September%202026_Website%20Programme%20Image.jpg",
+      "score": 75,
+      "source": "iic",
+      "tags": [],
+      "time": "06:30 PM",
+      "title": "Is France a More Reliable Strategic Partner than US.at the Centre",
+      "url": "https://iicdelhi.in/programmes/france-more-reliable-strategic-partner-usat-centre",
+      "venue": "Conference Room II, IIC main"
+    },
+    {
+      "category": "Dance & Music",
+      "date": "2026-09-29",
       "description": "",
       "end_date": null,
       "image": null,
-      "score": 55,
+      "score": 50,
       "source": "ihc",
       "tags": [],
       "time": "7:00 PM",
-      "title": "Kummatty",
-      "url": "https://indiahabitat.org/Events_details/1435",
+      "title": "Arpan – Festival of Dance & Music",
+      "url": "https://indiahabitat.org/Events_details/1431",
       "venue": "The Stein Auditorium"
-    },
-    {
-      "category": "Library Programmes",
-      "date": "2026-09-28",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-09/28%20September%202026_Website%20Programme%20Image_1.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "06:00 PM",
-      "title": "BOOK DISCUSSION GROUP- Rupture of Kashmir Society: Impact of Prolonged Conflict",
-      "url": "https://iicdelhi.in/programmes/book-discussion-group-rupture-kashmir-society-impact-prolonged-conflict",
-      "venue": "Conference Room I, IIC main"
     }
   ],
-  "generated_at": "2026-09-28"
+  "generated_at": "2026-09-29"
 }
