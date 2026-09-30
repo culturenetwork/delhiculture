@@ -1,5 +1,5 @@
 {
-  "count": 63,
+  "count": 90,
   "events": [
     {
       "category": "Museum",
@@ -42,62 +42,6 @@
       "title": "A Moment in the Monumental",
       "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/9",
       "venue": "Bikaner House"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-09-29",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 75,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "Ahiṃsā and Prakṛti",
-      "url": "https://indiahabitat.org/Events_details/1430",
-      "venue": "Gulmohar"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-09-29",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-09/29%20September%202026_Website%20Programme%20Image_1.jpg",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "Indigenous Knowledge Systems as Drivers of Economic Transformation in Northeast India: Institutional Pathways and Sustainable Development",
-      "url": "https://iicdelhi.in/programmes/indigenous-knowledge-systems-drivers-economic-transformation-northeast-india",
-      "venue": "Conference Room I, IIC main"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-09-29",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-09/29%20September%202026_Website%20Programme%20Image.jpg",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "Is France a More Reliable Strategic Partner than US.at the Centre",
-      "url": "https://iicdelhi.in/programmes/france-more-reliable-strategic-partner-usat-centre",
-      "venue": "Conference Room II, IIC main"
-    },
-    {
-      "category": "Dance & Music",
-      "date": "2026-09-29",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 50,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "Arpan – Festival of Dance & Music",
-      "url": "https://indiahabitat.org/Events_details/1431",
-      "venue": "The Stein Auditorium"
     },
     {
       "category": "Book Talk",
@@ -254,6 +198,20 @@
       "venue": "Gulmohar"
     },
     {
+      "category": "Museum",
+      "date": "2026-10-06",
+      "description": "The exhibition will be inaugurated by Chief Guest Dr S. Jaishankar, Hon. Minister of External Affairs, Govt. of India (tbc) at 16:30 hrs on 6th October, 2026",
+      "end_date": "2026-10-18",
+      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "score": 85,
+      "source": "iic",
+      "tags": [],
+      "time": "11:00 AM",
+      "title": "EXHIBITION-  Nirāmayatā: Healing and Wellbeing in South Asian Texts and Practices",
+      "url": "https://iicdelhi.in/programmes/exhibition-niramayata-healing-and-wellbeing-south-asian-texts-and-practices",
+      "venue": "Art Gallery, Kamaladevi Complex, IIC"
+    },
+    {
       "category": "Indian Classical",
       "date": "2026-10-06",
       "description": "",
@@ -266,6 +224,62 @@
       "title": "Pt. Kashinath Khandekar Memorial Concert",
       "url": "https://indiahabitat.org/Events_details/1455",
       "venue": "The Theatre"
+    },
+    {
+      "category": "Book Talk",
+      "date": "2026-10-06",
+      "description": "The Kalanidhi Division, Indira Gandhi National Centre for the Arts (IGNCA) is organizing the following two programmes: 1. National Seminar on “The Management of Non-Print Materials in Galleries, Libraries, Archives and Museums”",
+      "end_date": "2026-10-07",
+      "image": null,
+      "score": 75,
+      "source": "ignca",
+      "tags": [],
+      "time": "10:00 am - 5:00 pm",
+      "title": "National Seminar on \"The Management of Non-Print Materials in Galleries, Libraries, Archives and Museums\"",
+      "url": "https://ignca.gov.in/events/national-seminar-on-the-management-of-non-print-materials-in-galleries-libraries-archives-and-museums/",
+      "venue": "Umang Conference Hall, IGNCA, Janpath, New Delhi"
+    },
+    {
+      "category": "Film",
+      "date": "2026-10-06",
+      "description": "",
+      "end_date": null,
+      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "score": 55,
+      "source": "iic",
+      "tags": [],
+      "time": "06:30 PM",
+      "title": "FILM- Corbett's Trail",
+      "url": "https://iicdelhi.in/programmes/film-corbetts-trail",
+      "venue": "Lecture Room I, IIC Annexe"
+    },
+    {
+      "category": "Library Programmes",
+      "date": "2026-10-06",
+      "description": "",
+      "end_date": null,
+      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "score": 50,
+      "source": "iic",
+      "tags": [],
+      "time": "06:00 PM",
+      "title": "BOOK DISCUSSION GROUP -  Tribal India: History, Struggles and Future",
+      "url": "https://iicdelhi.in/programmes/book-discussion-group-tribal-india-history-struggles-and-future",
+      "venue": "Conference Room I, IIC main"
+    },
+    {
+      "category": "Seminars",
+      "date": "2026-10-06",
+      "description": "",
+      "end_date": null,
+      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "score": 50,
+      "source": "iic",
+      "tags": [],
+      "time": "09:30 AM",
+      "title": "Nirāmayatā: Healing and Wellbeing in South Asian Texts and Practices",
+      "url": "https://iicdelhi.in/programmes/niramayata-healing-and-wellbeing-south-asian-texts-and-practices",
+      "venue": "Seminar Rooms 1,2,3"
     },
     {
       "category": "Indian Classical",
@@ -294,6 +308,20 @@
       "title": "Invincible Somnath: A Saga of Millennia",
       "url": "https://indiahabitat.org/Events_details/1456",
       "venue": "Gulmohar"
+    },
+    {
+      "category": "Book Talk",
+      "date": "2026-10-07",
+      "description": "",
+      "end_date": null,
+      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "score": 75,
+      "source": "iic",
+      "tags": [],
+      "time": "06:00 PM",
+      "title": "Now the labour of a fully committed heart is finished – Yayoi Kusama",
+      "url": "https://iicdelhi.in/programmes/now-labour-fully-committed-heart-finished-yayoi-kusama",
+      "venue": "Conference Room I, IIC main"
     },
     {
       "category": "Dance",
@@ -356,6 +384,48 @@
       "date": "2026-10-08",
       "description": "",
       "end_date": null,
+      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "score": 75,
+      "source": "iic",
+      "tags": [],
+      "time": "06:30 PM",
+      "title": "ART MATTERS - An evening on Hindustani classical vocalist Shanno Khurana",
+      "url": "https://iicdelhi.in/programmes/art-matters-evening-hindustani-classical-vocalist-shanno-khurana",
+      "venue": "Seminar Rooms 1,2,3"
+    },
+    {
+      "category": "Book Talk",
+      "date": "2026-10-08",
+      "description": "",
+      "end_date": null,
+      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "score": 75,
+      "source": "iic",
+      "tags": [],
+      "time": "06:00 PM",
+      "title": "BOOK DISCUSSION GROUP  -Arguments with Gandhi",
+      "url": "https://iicdelhi.in/programmes/book-discussion-group-arguments-gandhi",
+      "venue": "C.D. Deshmukh Auditorium, IIC main"
+    },
+    {
+      "category": "Book Talk",
+      "date": "2026-10-08",
+      "description": "",
+      "end_date": null,
+      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "score": 75,
+      "source": "iic",
+      "tags": [],
+      "time": "10:00 AM",
+      "title": "DIALOGUES ON HEALTH & WELLNESS",
+      "url": "https://iicdelhi.in/programmes/dialogues-health-wellness",
+      "venue": "Seminar Rooms 1,2,3"
+    },
+    {
+      "category": "Book Talk",
+      "date": "2026-10-08",
+      "description": "",
+      "end_date": null,
       "image": null,
       "score": 75,
       "source": "ihc",
@@ -392,6 +462,62 @@
       "title": "LalitArpan Festival 2026. Tradition, Transition, Transmission. Day 2. Sumang: The Silent Pillars",
       "url": "https://indiahabitat.org/Events_details/1461",
       "venue": "The Stein Auditorium"
+    },
+    {
+      "category": "Film",
+      "date": "2026-10-09",
+      "description": "",
+      "end_date": null,
+      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "score": 55,
+      "source": "iic",
+      "tags": [],
+      "time": "06:30 PM",
+      "title": "FILM -To Die a Frenchman",
+      "url": "https://iicdelhi.in/programmes/film-die-frenchman",
+      "venue": "Lecture Room I, IIC Annexe"
+    },
+    {
+      "category": "Cultural",
+      "date": "2026-10-09",
+      "description": "",
+      "end_date": null,
+      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "score": 50,
+      "source": "iic",
+      "tags": [],
+      "time": "06:30 PM",
+      "title": "PLAY-  A Man Apart",
+      "url": "https://iicdelhi.in/programmes/play-man-apart",
+      "venue": "C.D. Deshmukh Auditorium, IIC main"
+    },
+    {
+      "category": "Museum",
+      "date": "2026-10-10",
+      "description": "",
+      "end_date": "2026-10-17",
+      "image": null,
+      "score": 85,
+      "source": "bikanerhouse",
+      "tags": [],
+      "time": null,
+      "title": "Sacred Spaces",
+      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/10",
+      "venue": "Bikaner House"
+    },
+    {
+      "category": "Book Talk",
+      "date": "2026-10-10",
+      "description": "",
+      "end_date": null,
+      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "score": 75,
+      "source": "iic",
+      "tags": [],
+      "time": "02:00 PM",
+      "title": "Baithak -  On the Occasion of World Mental Health Day 2026",
+      "url": "https://iicdelhi.in/programmes/baithak-occasion-world-mental-health-day-2026",
+      "venue": "Conference Room II, IIC main"
     },
     {
       "category": "Indian Classical",
@@ -436,6 +562,62 @@
       "venue": "The Stein Auditorium"
     },
     {
+      "category": "Seminars",
+      "date": "2026-10-11",
+      "description": "",
+      "end_date": null,
+      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "score": 50,
+      "source": "iic",
+      "tags": [],
+      "time": "02:15 PM",
+      "title": "Celebrating 100 Years of Thich Nhat Hanh: Launching the Year of Mindfulness",
+      "url": "https://iicdelhi.in/programmes/celebrating-100-years-thich-nhat-hanh-launching-year-mindfulness",
+      "venue": "Seminar Rooms 1,2,3"
+    },
+    {
+      "category": "Book Talk",
+      "date": "2026-10-12",
+      "description": "",
+      "end_date": null,
+      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "score": 75,
+      "source": "iic",
+      "tags": [],
+      "time": "06:30 PM",
+      "title": "The Contemporary World Crisis: Where do we go from here?",
+      "url": "https://iicdelhi.in/programmes/contemporary-world-crisis-where-do-we-go-here",
+      "venue": "Conference Room I, IIC main"
+    },
+    {
+      "category": "Library Programmes",
+      "date": "2026-10-12",
+      "description": "",
+      "end_date": null,
+      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "score": 50,
+      "source": "iic",
+      "tags": [],
+      "time": "06:00 PM",
+      "title": "BOOK DISCUSSION GROUP-   Main Ek Gurezaan Lamha Hun: Kathak Guru Shovana Narayan",
+      "url": "https://iicdelhi.in/programmes/book-discussion-group-main-ek-gurezaan-lamha-hun-kathak-guru-shovana-narayan",
+      "venue": "Conference Room II, IIC main"
+    },
+    {
+      "category": "Seminars",
+      "date": "2026-10-12",
+      "description": "",
+      "end_date": null,
+      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "score": 50,
+      "source": "iic",
+      "tags": [],
+      "time": "10:30 AM",
+      "title": "Seminar on the Syncretic Traditions of the Subcontinent: Voices Past & Present",
+      "url": "https://iicdelhi.in/programmes/seminar-syncretic-traditions-subcontinent-voices-past-present",
+      "venue": "Seminar Rooms 1,2,3"
+    },
+    {
       "category": "Book Talk",
       "date": "2026-10-13",
       "description": "",
@@ -448,6 +630,20 @@
       "title": "Anand Kumaraswamy: Tatva, Kala aur Lok ki Antarbhut Ekta",
       "url": "https://indiahabitat.org/Events_details/1467",
       "venue": "Gulmohar"
+    },
+    {
+      "category": "Book Talk",
+      "date": "2026-10-13",
+      "description": "",
+      "end_date": null,
+      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "score": 75,
+      "source": "iic",
+      "tags": [],
+      "time": "10:30 AM",
+      "title": "Seminar on the Syncretic Traditions of the Subcontinent: Voices Past & Present",
+      "url": "https://iicdelhi.in/programmes/seminar-syncretic-traditions-subcontinent-voices-past-present-0",
+      "venue": "Seminar Rooms 1,2,3"
     },
     {
       "category": "Dance",
@@ -464,6 +660,34 @@
       "venue": "The Stein Auditorium"
     },
     {
+      "category": "Cultural",
+      "date": "2026-10-13",
+      "description": "",
+      "end_date": null,
+      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "score": 50,
+      "source": "iic",
+      "tags": [],
+      "time": "06:30 PM",
+      "title": "Hindustani Vocal Recital",
+      "url": "https://iicdelhi.in/programmes/hindustani-vocal-recital-217",
+      "venue": "C.D. Deshmukh Auditorium, IIC main"
+    },
+    {
+      "category": "Cultural",
+      "date": "2026-10-13",
+      "description": "",
+      "end_date": null,
+      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "score": 50,
+      "source": "iic",
+      "tags": [],
+      "time": "09:00 AM",
+      "title": "INTACH NATIONAL HERITAGE QUIZ 2026",
+      "url": "https://iicdelhi.in/programmes/intach-national-heritage-quiz-2026",
+      "venue": "Multipurpose Hall, Kamaladevi Complex, IIC"
+    },
+    {
       "category": "Dance",
       "date": "2026-10-14",
       "description": "",
@@ -476,6 +700,20 @@
       "title": "Jyotirlinga- The Light of Intrigue",
       "url": "https://indiahabitat.org/Events_details/1468",
       "venue": "The Stein Auditorium"
+    },
+    {
+      "category": "Library Programmes",
+      "date": "2026-10-14",
+      "description": "",
+      "end_date": null,
+      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "score": 50,
+      "source": "iic",
+      "tags": [],
+      "time": "06:00 PM",
+      "title": "BOOK DISCUSSION GROUP  -The Duel: Two Marksmen; One Battleground Kashmir",
+      "url": "https://iicdelhi.in/programmes/book-discussion-group-duel-two-marksmen-one-battleground-kashmir",
+      "venue": "Conference Room I, IIC main"
     },
     {
       "category": "Indian Classical",
@@ -520,6 +758,20 @@
       "venue": "The Stein Auditorium"
     },
     {
+      "category": "Cultural",
+      "date": "2026-10-15",
+      "description": "",
+      "end_date": null,
+      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "score": 50,
+      "source": "iic",
+      "tags": [],
+      "time": "06:30 PM",
+      "title": "FOLK DANCE AND MUSIC PERFORMANCE - Echoes of Mizo and Manipuri Tradition",
+      "url": "https://iicdelhi.in/programmes/folk-dance-and-music-performance-echoes-mizo-and-manipuri-tradition",
+      "venue": "C.D. Deshmukh Auditorium, IIC main"
+    },
+    {
       "category": "Indian Classical",
       "date": "2026-10-16",
       "description": "",
@@ -532,6 +784,20 @@
       "title": "Samarpan. Day 2",
       "url": "https://indiahabitat.org/Events_details/1472",
       "venue": "The Theatre"
+    },
+    {
+      "category": "Book Talk",
+      "date": "2026-10-16",
+      "description": "",
+      "end_date": null,
+      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "score": 75,
+      "source": "iic",
+      "tags": [],
+      "time": "06:30 PM",
+      "title": "INDIAN ARCHAEOLOGY  -  Megalithic Culture of South India with special reference to Recent Excavations at Adichanallur, Tamil Nadu",
+      "url": "https://iicdelhi.in/programmes/indian-archaeology-megalithic-culture-south-india-special-reference-recent-excavations",
+      "venue": "Conference Room II, IIC main"
     },
     {
       "category": "Dance",
@@ -560,6 +826,34 @@
       "title": "Dastan-e-Siya Ram",
       "url": "https://indiahabitat.org/Events_details/1474",
       "venue": "Amphitheatre"
+    },
+    {
+      "category": "Seminars",
+      "date": "2026-10-16",
+      "description": "",
+      "end_date": null,
+      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "score": 50,
+      "source": "iic",
+      "tags": [],
+      "time": "10:00 AM",
+      "title": "India’s Federal Republic: Regional Parties and the Future of Democracy (16th october)",
+      "url": "https://iicdelhi.in/programmes/indias-federal-republic-regional-parties-and-future-democracy-16th-october",
+      "venue": "Conference Room I, IIC main"
+    },
+    {
+      "category": "Museum",
+      "date": "2026-10-17",
+      "description": "Threshold An exhibition of recent works by Sangam Peshawaria, with her exploration of the human body through charcoal drawings and oil paintings on paper. Focusing on fragments—hands, feet, limbs and gestures—the works invite viewers to complete what remains unseen through memory",
+      "end_date": "2026-10-25",
+      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "score": 85,
+      "source": "iic",
+      "tags": [],
+      "time": "11:00 AM",
+      "title": "EXHIBITION- Threshold",
+      "url": "https://iicdelhi.in/programmes/exhibition-threshold",
+      "venue": "Art Gallery, IIC Annexe"
     },
     {
       "category": "Indian Classical",
@@ -618,6 +912,20 @@
       "venue": "Online"
     },
     {
+      "category": "Library Programmes",
+      "date": "2026-10-17",
+      "description": "",
+      "end_date": null,
+      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "score": 50,
+      "source": "iic",
+      "tags": [],
+      "time": "11:00 AM",
+      "title": "BOOK DISCUSSION GROUP-From Manuscript to Memory: India’s Contribution to UNESCO Memory of the World Programme",
+      "url": "https://iicdelhi.in/programmes/book-discussion-group-manuscript-memory-indias-contribution-unesco-memory-world",
+      "venue": "C.D. Deshmukh Auditorium, IIC main"
+    },
+    {
       "category": "Cultural",
       "date": "2026-10-17",
       "description": "",
@@ -630,6 +938,20 @@
       "title": "IHC Members Meet",
       "url": "https://indiahabitat.org/Events_details/1475",
       "venue": "The Habitat Lounge"
+    },
+    {
+      "category": "Seminars",
+      "date": "2026-10-17",
+      "description": "",
+      "end_date": null,
+      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "score": 50,
+      "source": "iic",
+      "tags": [],
+      "time": "10:00 AM",
+      "title": "India’s Federal Republic: Regional Parties and the Future of Democracy ( 17th october)",
+      "url": "https://iicdelhi.in/programmes/indias-federal-republic-regional-parties-and-future-democracy-17th-october",
+      "venue": "Conference Room I, IIC main"
     },
     {
       "category": "Dance",
@@ -674,6 +996,20 @@
       "venue": "The Stein Auditorium"
     },
     {
+      "category": "Film",
+      "date": "2026-10-19",
+      "description": "",
+      "end_date": null,
+      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "score": 55,
+      "source": "iic",
+      "tags": [],
+      "time": "06:30 PM",
+      "title": "FILM-  Leo from Chicago",
+      "url": "https://iicdelhi.in/programmes/film-leo-chicago",
+      "venue": "C.D. Deshmukh Auditorium, IIC main"
+    },
+    {
       "category": "Dance",
       "date": "2026-10-21",
       "description": "",
@@ -686,6 +1022,20 @@
       "title": "Vedanta Lahiri",
       "url": "https://indiahabitat.org/Events_details/1483",
       "venue": "The Stein Auditorium"
+    },
+    {
+      "category": "Cultural",
+      "date": "2026-10-21",
+      "description": "",
+      "end_date": null,
+      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "score": 50,
+      "source": "iic",
+      "tags": [],
+      "time": "06:30 PM",
+      "title": "Yamuna – Life Eternal",
+      "url": "https://iicdelhi.in/programmes/yamuna-life-eternal",
+      "venue": "C.D. Deshmukh Auditorium, IIC main"
     },
     {
       "category": "Indian Classical",
@@ -828,6 +1178,34 @@
       "venue": "Margosa Lawn"
     },
     {
+      "category": "Museum",
+      "date": "2026-10-29",
+      "description": "THE IIC EXPERIENCE: A FESTIVAL OF THE ARTS – 29TH OCTOBER TO 3RD NOVEMBER 2026 PRAKRITI: ECOLOGY AND EXISTENCE FESTIVAL CURTAIN RAISER",
+      "end_date": null,
+      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "score": 85,
+      "source": "iic",
+      "tags": [],
+      "time": "04:00 PM",
+      "title": "THE IIC EXPERIENCE: A FESTIVAL OF THE ARTS – 29TH OCTOBER TO 3RD NOVEMBER 2026-EXHIBITION -FESTIVAL CURTAIN RAISER",
+      "url": "https://iicdelhi.in/programmes/iic-experience-festival-arts-29th-october-3rd-november-2026-exhibition-festival-curtain",
+      "venue": "Art Gallery, IIC Annexe"
+    },
+    {
+      "category": "Book Talk",
+      "date": "2026-10-29",
+      "description": "",
+      "end_date": null,
+      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "score": 75,
+      "source": "iic",
+      "tags": [],
+      "time": "06:30 PM",
+      "title": "THE IIC EXPERIENCE: A FESTIVAL OF THE ARTS – 29TH OCTOBER TO 3RD NOVEMBER 2026 PRAKRITI: ECOLOGY AND EXISTENCE- TALK- Rukkha, Rakkha, Yakkha: Foundational Evidence for Tree Worship in Indian Art",
+      "url": "https://iicdelhi.in/programmes/iic-experience-festival-arts-29th-october-3rd-november-2026-prakriti-ecology-and",
+      "venue": "C.D. Deshmukh Auditorium, IIC main"
+    },
+    {
       "category": "Dance",
       "date": "2026-10-29",
       "description": "",
@@ -884,5 +1262,5 @@
       "venue": "The Stein Auditorium"
     }
   ],
-  "generated_at": "2026-09-29"
+  "generated_at": "2026-09-30"
 }
