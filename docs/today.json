@@ -1,5 +1,5 @@
 {
-  "count": 6,
+  "count": 5,
   "events": [
     {
       "category": "Museum",
@@ -17,21 +17,7 @@
     },
     {
       "category": "Museum",
-      "date": "2026-09-23",
-      "description": "An exhibition of artworks inspired by emotions, experiences and everyday life. The artist explores varied moods, ideas and perspectives, inviting viewers to engage with the distinctive expressions and narratives that shape her artistic practice. Sadaf Beg Khan, visual artist whos",
-      "end_date": "2026-09-30",
-      "image": "https://aws-static.iicdelhi.in/2026-09/23%20September%202026_Website%20Programme%20Image.jpg",
-      "score": 85,
-      "source": "iic",
-      "tags": [],
-      "time": "11:00 AM",
-      "title": "EXHIBITION - Journey of Colours A Solo Exhibition by Sadaf Beg Khan",
-      "url": "https://iicdelhi.in/programmes/exhibition-journey-colours-solo-exhibition-sadaf-beg-khan",
-      "venue": "Art Gallery, IIC Annexe"
-    },
-    {
-      "category": "Museum",
-      "date": "2026-09-27",
+      "date": "2026-10-01",
       "description": "",
       "end_date": "2026-10-06",
       "image": null,
@@ -39,52 +25,52 @@
       "source": "bikanerhouse",
       "tags": [],
       "time": null,
-      "title": "A Moment in the Monumental",
-      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/9",
+      "title": "Nar Nari 2.0",
+      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/10",
       "venue": "Bikaner House"
     },
     {
       "category": "Book Talk",
-      "date": "2026-09-30",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-09/30%20September%202026_Website%20Programme%20Image_0.jpg",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "TO MARK MARTYRS DAY",
-      "url": "https://iicdelhi.in/programmes/mark-martyrs-day-0",
-      "venue": "C.D. Deshmukh Auditorium, IIC main"
-    },
-    {
-      "category": "Dance",
-      "date": "2026-09-30",
+      "date": "2026-10-01",
       "description": "",
       "end_date": null,
       "image": null,
-      "score": 70,
+      "score": 75,
       "source": "ihc",
       "tags": [],
       "time": "7:00 PM",
-      "title": "Sarat Smriti 2026: Agni",
-      "url": "https://indiahabitat.org/Events_details/1432",
+      "title": "From Choices to Change: Mission Life & India’s Net Zero Pathway",
+      "url": "https://indiahabitat.org/Events_details/1449",
+      "venue": "Gulmohar"
+    },
+    {
+      "category": "Film",
+      "date": "2026-10-01",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 55,
+      "source": "ihc",
+      "tags": [],
+      "time": "7:00 PM",
+      "title": "Bhangaar / Obsolete",
+      "url": "https://indiahabitat.org/Events_details/1450",
       "venue": "The Stein Auditorium"
     },
     {
-      "category": "Library Programmes",
-      "date": "2026-09-30",
+      "category": "Festivals",
+      "date": "2026-10-01",
       "description": "",
       "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-09/30%20September%202026_Website%20Programme%20Image_1.jpg",
+      "image": "https://aws-static.iicdelhi.in/2026-09/1%20October%202026_Website%20Programme%20Image.png",
       "score": 50,
       "source": "iic",
       "tags": [],
-      "time": "06:00 PM",
-      "title": "Book Discussion Group- Languages of Freedom: The Idea of India in Political Theory, Bombay Cinema and Progressive Urdu Poetry.",
-      "url": "https://iicdelhi.in/programmes/book-discussion-group-languages-freedom-idea-india-political-theory-bombay-cinema-and",
-      "venue": "Conference Room I, IIC main"
+      "time": "02:00 PM",
+      "title": "BHOOMI FESTIVAL 2026 -Women Regenerating the Earth, Renewing Humanity",
+      "url": "https://iicdelhi.in/programmes/bhoomi-festival-2026-women-regenerating-earth-renewing-humanity",
+      "venue": "Gandhi-King Memorial Plaza, IIC main"
     }
   ],
-  "generated_at": "2026-09-30"
+  "generated_at": "2026-10-01"
 }
