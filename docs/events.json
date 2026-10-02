@@ -1,20 +1,6 @@
 {
-  "count": 101,
+  "count": 96,
   "events": [
-    {
-      "category": "Museum",
-      "date": "2026-09-16",
-      "description": "Phulkari, the vibrant embroidery tradition of Punjab, evokes nostalgic memories of color, music, dance and poetry. The exhibition traces the journey of reviving the thread-counted Phulkari embroidery and its iconic Pehchaan motif, celebrating Punjabi womanhood through a rich coll",
-      "end_date": "2026-10-01",
-      "image": "https://aws-static.iicdelhi.in/2026-09/16%20September%202026_Website%20Programme%20Image_3.jpg",
-      "score": 85,
-      "source": "iic",
-      "tags": [],
-      "time": "11:00 AM",
-      "title": "EXHIBITION- Phulkari: A Lingering Presence By Sunaina Suneja",
-      "url": "https://iicdelhi.in/programmes/exhibition-phulkari-lingering-presence-sunaina-suneja",
-      "venue": "Art Gallery, Kamaladevi Complex, IIC"
-    },
     {
       "category": "Museum",
       "date": "2026-10-01",
@@ -28,48 +14,6 @@
       "title": "Nar Nari 2.0",
       "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/10",
       "venue": "Bikaner House"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-10-01",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 75,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "From Choices to Change: Mission Life & India’s Net Zero Pathway",
-      "url": "https://indiahabitat.org/Events_details/1449",
-      "venue": "Gulmohar"
-    },
-    {
-      "category": "Film",
-      "date": "2026-10-01",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 55,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "Bhangaar / Obsolete",
-      "url": "https://indiahabitat.org/Events_details/1450",
-      "venue": "The Stein Auditorium"
-    },
-    {
-      "category": "Festivals",
-      "date": "2026-10-01",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-09/1%20October%202026_Website%20Programme%20Image.png",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "02:00 PM",
-      "title": "BHOOMI FESTIVAL 2026 -Women Regenerating the Earth, Renewing Humanity",
-      "url": "https://iicdelhi.in/programmes/bhoomi-festival-2026-women-regenerating-earth-renewing-humanity",
-      "venue": "Gandhi-King Memorial Plaza, IIC main"
     },
     {
       "category": "Book Talk",
@@ -116,13 +60,13 @@
     {
       "category": "Museum",
       "date": "2026-10-06",
-      "description": "The exhibition will be inaugurated by Chief Guest Dr S. Jaishankar, Hon. Minister of External Affairs, Govt. of India (tbc) at 16:30 hrs on 6th October, 2026",
+      "description": "An exhibition of reproductions of landmark works that trace the development of India’s healing sciences, the contributions of women healers and other practitioners, and the broader understanding of well-being in relation to diet and environment. Highlights are original Balinese p",
       "end_date": "2026-10-18",
-      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "image": "https://aws-static.iicdelhi.in/2026-10/6%20October%202026_Website%20Programme%20Image_1_0.jpg",
       "score": 85,
       "source": "iic",
       "tags": [],
-      "time": "11:00 AM",
+      "time": "04:30 PM",
       "title": "EXHIBITION-  Nirāmayatā: Healing and Wellbeing in South Asian Texts and Practices",
       "url": "https://iicdelhi.in/programmes/exhibition-niramayata-healing-and-wellbeing-south-asian-texts-and-practices",
       "venue": "Art Gallery, Kamaladevi Complex, IIC"
@@ -188,7 +132,7 @@
       "date": "2026-10-06",
       "description": "",
       "end_date": null,
-      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "image": "https://aws-static.iicdelhi.in/2026-10/6%20October%202026_Website%20Programme%20Image_2.jpg",
       "score": 50,
       "source": "iic",
       "tags": [],
@@ -594,7 +538,7 @@
       "date": "2026-10-13",
       "description": "",
       "end_date": null,
-      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "image": "https://aws-static.iicdelhi.in/2026-10/13%20October%202026_Website%20Programme%20Image_0.jpg",
       "score": 50,
       "source": "iic",
       "tags": [],
@@ -758,6 +702,20 @@
       "venue": "Amphitheatre"
     },
     {
+      "category": "Seminars",
+      "date": "2026-10-16",
+      "description": "",
+      "end_date": null,
+      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "score": 50,
+      "source": "iic",
+      "tags": [],
+      "time": "10:00 AM",
+      "title": "India’s Federal Republic: Regional Parties and the Future of Democracy (16th october)",
+      "url": "https://iicdelhi.in/programmes/indias-federal-republic-regional-parties-and-future-democracy-16th-october",
+      "venue": "Conference Room I, IIC main"
+    },
+    {
       "category": "Museum",
       "date": "2026-10-17",
       "description": "Threshold An exhibition of recent works by Sangam Peshawaria, with her exploration of the human body through charcoal drawings and oil paintings on paper. Focusing on fragments—hands, feet, limbs and gestures—the works invite viewers to complete what remains unseen through memory",
@@ -840,20 +798,6 @@
       "title": "IHC Members Meet",
       "url": "https://indiahabitat.org/Events_details/1475",
       "venue": "The Habitat Lounge"
-    },
-    {
-      "category": "Seminars",
-      "date": "2026-10-17",
-      "description": "",
-      "end_date": null,
-      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "10:00 AM",
-      "title": "India’s Federal Republic: Regional Parties and the Future of Democracy ( 17th october)",
-      "url": "https://iicdelhi.in/programmes/indias-federal-republic-regional-parties-and-future-democracy-17th-october",
-      "venue": "Conference Room I, IIC main"
     },
     {
       "category": "Film & Talk",
@@ -944,7 +888,7 @@
       "date": "2026-10-21",
       "description": "",
       "end_date": null,
-      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "image": "https://aws-static.iicdelhi.in/2026-10/21%20October%202026_Website%20Programme%20Image.jpg",
       "score": 50,
       "source": "iic",
       "tags": [],
@@ -1220,20 +1164,6 @@
       "venue": "Fountain Lawns, IIC main"
     },
     {
-      "category": "Museum",
-      "date": "2026-10-31",
-      "description": "A pioneering exhibition of late 18th and early 19th century Company Paintings devoted entirely to Indian birds",
-      "end_date": "2026-11-14",
-      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
-      "score": 85,
-      "source": "iic",
-      "tags": [],
-      "time": "11:30 AM",
-      "title": "THE IIC EXPERIENCE: A FESTIVAL OF THE ARTS – Exhibition- Birds of India: Company Paintings c.1800 and 1835",
-      "url": "https://iicdelhi.in/programmes/iic-experience-festival-arts-exhibition-birds-india-company-paintings-c1800-and-1835",
-      "venue": "Art Gallery, Kamaladevi Complex, IIC"
-    },
-    {
       "category": "Indian Classical",
       "date": "2026-10-31",
       "description": "",
@@ -1273,20 +1203,6 @@
       "time": "12:30 PM",
       "title": "THE IIC EXPERIENCE: A FESTIVAL OF THE ARTS- The World within the Word- Poetry Reading Session on Nature",
       "url": "https://iicdelhi.in/programmes/iic-experience-festival-arts-world-within-word-poetry-reading-session-nature",
-      "venue": "Seminar Rooms 1,2,3"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-10-31",
-      "description": "",
-      "end_date": null,
-      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
-      "time": "03:30 PM",
-      "title": "THE IIC EXPERIENCE: A FESTIVAL OF THE ARTS- The Written Word and Social Progress: How Kerala Achieved 100% Literacy",
-      "url": "https://iicdelhi.in/programmes/iic-experience-festival-arts-written-word-and-social-progress-how-kerala-achieved-100",
       "venue": "Seminar Rooms 1,2,3"
     },
     {
@@ -1396,6 +1312,20 @@
       "score": 75,
       "source": "iic",
       "tags": [],
+      "time": "04:00 PM",
+      "title": "THE IIC EXPERIENCE: A FESTIVAL OF THE ARTS- Talk-Ecology at the Crossroads of Climate Change",
+      "url": "https://iicdelhi.in/programmes/iic-experience-festival-arts-talk-ecology-crossroads-climate-change",
+      "venue": "Conference Room II, IIC main"
+    },
+    {
+      "category": "Book Talk",
+      "date": "2026-11-03",
+      "description": "",
+      "end_date": null,
+      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "score": 75,
+      "source": "iic",
+      "tags": [],
       "time": "11:30 AM",
       "title": "THE IIC EXPERIENCE: A FESTIVAL OF THE ARTS-Talk-Seeds of Resilience: Women, Family Farms, and the Future of Nutritious Food Systems",
       "url": "https://iicdelhi.in/programmes/iic-experience-festival-arts-talk-seeds-resilience-women-family-farms-and-future",
@@ -1416,5 +1346,5 @@
       "venue": "Fountain Lawns, IIC main"
     }
   ],
-  "generated_at": "2026-10-01"
+  "generated_at": "2026-10-02"
 }

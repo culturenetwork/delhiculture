@@ -1,5 +1,5 @@
 {
-  "count": 22,
+  "count": 25,
   "events": [
     {
       "category": "Book Talk",
@@ -46,13 +46,13 @@
     {
       "category": "Museum",
       "date": "2026-10-06",
-      "description": "The exhibition will be inaugurated by Chief Guest Dr S. Jaishankar, Hon. Minister of External Affairs, Govt. of India (tbc) at 16:30 hrs on 6th October, 2026",
+      "description": "An exhibition of reproductions of landmark works that trace the development of India’s healing sciences, the contributions of women healers and other practitioners, and the broader understanding of well-being in relation to diet and environment. Highlights are original Balinese p",
       "end_date": "2026-10-18",
-      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "image": "https://aws-static.iicdelhi.in/2026-10/6%20October%202026_Website%20Programme%20Image_1_0.jpg",
       "score": 85,
       "source": "iic",
       "tags": [],
-      "time": "11:00 AM",
+      "time": "04:30 PM",
       "title": "EXHIBITION-  Nirāmayatā: Healing and Wellbeing in South Asian Texts and Practices",
       "url": "https://iicdelhi.in/programmes/exhibition-niramayata-healing-and-wellbeing-south-asian-texts-and-practices",
       "venue": "Art Gallery, Kamaladevi Complex, IIC"
@@ -118,7 +118,7 @@
       "date": "2026-10-06",
       "description": "",
       "end_date": null,
-      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "image": "https://aws-static.iicdelhi.in/2026-10/6%20October%202026_Website%20Programme%20Image_2.jpg",
       "score": 50,
       "source": "iic",
       "tags": [],
@@ -308,7 +308,49 @@
       "title": "LalitArpan Festival 2026. Tradition, Transition, Transmission. Day 1. Living Legacies",
       "url": "https://indiahabitat.org/Events_details/1459",
       "venue": "The Stein Auditorium"
+    },
+    {
+      "category": "Dance",
+      "date": "2026-10-09",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 70,
+      "source": "ihc",
+      "tags": [],
+      "time": "7:00 PM",
+      "title": "LalitArpan Festival 2026. Tradition, Transition, Transmission. Day 2. Sumang: The Silent Pillars",
+      "url": "https://indiahabitat.org/Events_details/1461",
+      "venue": "The Stein Auditorium"
+    },
+    {
+      "category": "Film",
+      "date": "2026-10-09",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-09/09%20October%202026_Website%20Programme%20Image_1.jpg",
+      "score": 55,
+      "source": "iic",
+      "tags": [],
+      "time": "06:30 PM",
+      "title": "FILM -To Die a Frenchman",
+      "url": "https://iicdelhi.in/programmes/film-die-frenchman",
+      "venue": "Lecture Room I, IIC Annexe"
+    },
+    {
+      "category": "Cultural",
+      "date": "2026-10-09",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-09/09%20October%202026_Website%20Programme%20Image.jpg",
+      "score": 50,
+      "source": "iic",
+      "tags": [],
+      "time": "06:30 PM",
+      "title": "PLAY-  A Man Apart",
+      "url": "https://iicdelhi.in/programmes/play-man-apart",
+      "venue": "C.D. Deshmukh Auditorium, IIC main"
     }
   ],
-  "generated_at": "2026-10-01"
+  "generated_at": "2026-10-02"
 }

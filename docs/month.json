@@ -1,48 +1,6 @@
 {
-  "count": 66,
+  "count": 64,
   "events": [
-    {
-      "category": "Dance",
-      "date": "2026-10-09",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 70,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "LalitArpan Festival 2026. Tradition, Transition, Transmission. Day 2. Sumang: The Silent Pillars",
-      "url": "https://indiahabitat.org/Events_details/1461",
-      "venue": "The Stein Auditorium"
-    },
-    {
-      "category": "Film",
-      "date": "2026-10-09",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-09/09%20October%202026_Website%20Programme%20Image_1.jpg",
-      "score": 55,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "FILM -To Die a Frenchman",
-      "url": "https://iicdelhi.in/programmes/film-die-frenchman",
-      "venue": "Lecture Room I, IIC Annexe"
-    },
-    {
-      "category": "Cultural",
-      "date": "2026-10-09",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-09/09%20October%202026_Website%20Programme%20Image.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "PLAY-  A Man Apart",
-      "url": "https://iicdelhi.in/programmes/play-man-apart",
-      "venue": "C.D. Deshmukh Auditorium, IIC main"
-    },
     {
       "category": "Museum",
       "date": "2026-10-10",
@@ -216,7 +174,7 @@
       "date": "2026-10-13",
       "description": "",
       "end_date": null,
-      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "image": "https://aws-static.iicdelhi.in/2026-10/13%20October%202026_Website%20Programme%20Image_0.jpg",
       "score": 50,
       "source": "iic",
       "tags": [],
@@ -380,6 +338,20 @@
       "venue": "Amphitheatre"
     },
     {
+      "category": "Seminars",
+      "date": "2026-10-16",
+      "description": "",
+      "end_date": null,
+      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "score": 50,
+      "source": "iic",
+      "tags": [],
+      "time": "10:00 AM",
+      "title": "India’s Federal Republic: Regional Parties and the Future of Democracy (16th october)",
+      "url": "https://iicdelhi.in/programmes/indias-federal-republic-regional-parties-and-future-democracy-16th-october",
+      "venue": "Conference Room I, IIC main"
+    },
+    {
       "category": "Museum",
       "date": "2026-10-17",
       "description": "Threshold An exhibition of recent works by Sangam Peshawaria, with her exploration of the human body through charcoal drawings and oil paintings on paper. Focusing on fragments—hands, feet, limbs and gestures—the works invite viewers to complete what remains unseen through memory",
@@ -462,20 +434,6 @@
       "title": "IHC Members Meet",
       "url": "https://indiahabitat.org/Events_details/1475",
       "venue": "The Habitat Lounge"
-    },
-    {
-      "category": "Seminars",
-      "date": "2026-10-17",
-      "description": "",
-      "end_date": null,
-      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "10:00 AM",
-      "title": "India’s Federal Republic: Regional Parties and the Future of Democracy ( 17th october)",
-      "url": "https://iicdelhi.in/programmes/indias-federal-republic-regional-parties-and-future-democracy-17th-october",
-      "venue": "Conference Room I, IIC main"
     },
     {
       "category": "Film & Talk",
@@ -566,7 +524,7 @@
       "date": "2026-10-21",
       "description": "",
       "end_date": null,
-      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "image": "https://aws-static.iicdelhi.in/2026-10/21%20October%202026_Website%20Programme%20Image.jpg",
       "score": 50,
       "source": "iic",
       "tags": [],
@@ -842,20 +800,6 @@
       "venue": "Fountain Lawns, IIC main"
     },
     {
-      "category": "Museum",
-      "date": "2026-10-31",
-      "description": "A pioneering exhibition of late 18th and early 19th century Company Paintings devoted entirely to Indian birds",
-      "end_date": "2026-11-14",
-      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
-      "score": 85,
-      "source": "iic",
-      "tags": [],
-      "time": "11:30 AM",
-      "title": "THE IIC EXPERIENCE: A FESTIVAL OF THE ARTS – Exhibition- Birds of India: Company Paintings c.1800 and 1835",
-      "url": "https://iicdelhi.in/programmes/iic-experience-festival-arts-exhibition-birds-india-company-paintings-c1800-and-1835",
-      "venue": "Art Gallery, Kamaladevi Complex, IIC"
-    },
-    {
       "category": "Indian Classical",
       "date": "2026-10-31",
       "description": "",
@@ -898,20 +842,6 @@
       "venue": "Seminar Rooms 1,2,3"
     },
     {
-      "category": "Book Talk",
-      "date": "2026-10-31",
-      "description": "",
-      "end_date": null,
-      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
-      "time": "03:30 PM",
-      "title": "THE IIC EXPERIENCE: A FESTIVAL OF THE ARTS- The Written Word and Social Progress: How Kerala Achieved 100% Literacy",
-      "url": "https://iicdelhi.in/programmes/iic-experience-festival-arts-written-word-and-social-progress-how-kerala-achieved-100",
-      "venue": "Seminar Rooms 1,2,3"
-    },
-    {
       "category": "Cultural",
       "date": "2026-10-31",
       "description": "",
@@ -924,7 +854,49 @@
       "title": "THE IIC EXPERIENCE: A FESTIVAL OF THE ARTS –Performance- Nirvana Nataka",
       "url": "https://iicdelhi.in/programmes/iic-experience-festival-arts-performance-nirvana-nataka",
       "venue": "Fountain Lawns, IIC main"
+    },
+    {
+      "category": "Book Talk",
+      "date": "2026-11-01",
+      "description": "",
+      "end_date": null,
+      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "score": 75,
+      "source": "iic",
+      "tags": [],
+      "time": "04:00 PM",
+      "title": "THE IIC EXPERIENCE: A FESTIVAL OF THE ARTS -Discussion- Architecture, Urban Landscapes and the Future of Cities",
+      "url": "https://iicdelhi.in/programmes/iic-experience-festival-arts-discussion-architecture-urban-landscapes-and-future-cities",
+      "venue": "Conference Room II, IIC main"
+    },
+    {
+      "category": "Cultural",
+      "date": "2026-11-01",
+      "description": "",
+      "end_date": null,
+      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "score": 50,
+      "source": "iic",
+      "tags": [],
+      "time": "06:30 PM",
+      "title": "THE IIC EXPERIENCE: A FESTIVAL OF THE ARTS – Performance- Khon- Classical masked dance drama from Thailand",
+      "url": "https://iicdelhi.in/programmes/iic-experience-festival-arts-performance-khon-classical-masked-dance-drama-thailand",
+      "venue": "Fountain Lawns, IIC main"
+    },
+    {
+      "category": "Cultural",
+      "date": "2026-11-01",
+      "description": "",
+      "end_date": null,
+      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "score": 50,
+      "source": "iic",
+      "tags": [],
+      "time": "11:00 AM",
+      "title": "THE IIC EXPERIENCE: A FESTIVAL OF THE ARTS – Performance-Classical Vocal Recital",
+      "url": "https://iicdelhi.in/programmes/iic-experience-festival-arts-performance-classical-vocal-recital",
+      "venue": "C.D. Deshmukh Auditorium, IIC main"
     }
   ],
-  "generated_at": "2026-10-01"
+  "generated_at": "2026-10-02"
 }

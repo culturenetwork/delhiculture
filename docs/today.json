@@ -1,20 +1,6 @@
 {
-  "count": 5,
+  "count": 1,
   "events": [
-    {
-      "category": "Museum",
-      "date": "2026-09-16",
-      "description": "Phulkari, the vibrant embroidery tradition of Punjab, evokes nostalgic memories of color, music, dance and poetry. The exhibition traces the journey of reviving the thread-counted Phulkari embroidery and its iconic Pehchaan motif, celebrating Punjabi womanhood through a rich coll",
-      "end_date": "2026-10-01",
-      "image": "https://aws-static.iicdelhi.in/2026-09/16%20September%202026_Website%20Programme%20Image_3.jpg",
-      "score": 85,
-      "source": "iic",
-      "tags": [],
-      "time": "11:00 AM",
-      "title": "EXHIBITION- Phulkari: A Lingering Presence By Sunaina Suneja",
-      "url": "https://iicdelhi.in/programmes/exhibition-phulkari-lingering-presence-sunaina-suneja",
-      "venue": "Art Gallery, Kamaladevi Complex, IIC"
-    },
     {
       "category": "Museum",
       "date": "2026-10-01",
@@ -28,49 +14,7 @@
       "title": "Nar Nari 2.0",
       "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/10",
       "venue": "Bikaner House"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-10-01",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 75,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "From Choices to Change: Mission Life & India’s Net Zero Pathway",
-      "url": "https://indiahabitat.org/Events_details/1449",
-      "venue": "Gulmohar"
-    },
-    {
-      "category": "Film",
-      "date": "2026-10-01",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 55,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "Bhangaar / Obsolete",
-      "url": "https://indiahabitat.org/Events_details/1450",
-      "venue": "The Stein Auditorium"
-    },
-    {
-      "category": "Festivals",
-      "date": "2026-10-01",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-09/1%20October%202026_Website%20Programme%20Image.png",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "02:00 PM",
-      "title": "BHOOMI FESTIVAL 2026 -Women Regenerating the Earth, Renewing Humanity",
-      "url": "https://iicdelhi.in/programmes/bhoomi-festival-2026-women-regenerating-earth-renewing-humanity",
-      "venue": "Gandhi-King Memorial Plaza, IIC main"
     }
   ],
-  "generated_at": "2026-10-01"
+  "generated_at": "2026-10-02"
 }
