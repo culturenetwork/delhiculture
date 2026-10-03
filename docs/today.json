@@ -1,5 +1,5 @@
 {
-  "count": 1,
+  "count": 2,
   "events": [
     {
       "category": "Museum",
@@ -14,7 +14,21 @@
       "title": "Nar Nari 2.0",
       "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/10",
       "venue": "Bikaner House"
+    },
+    {
+      "category": "Book Talk",
+      "date": "2026-10-03",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 75,
+      "source": "ihc",
+      "tags": [],
+      "time": "7:00 PM",
+      "title": "Bhakti, Bhasha and the Making of India",
+      "url": "https://indiahabitat.org/Events_details/1451",
+      "venue": "Gulmohar"
     }
   ],
-  "generated_at": "2026-10-02"
+  "generated_at": "2026-10-03"
 }

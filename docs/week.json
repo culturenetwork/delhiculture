@@ -1,20 +1,6 @@
 {
-  "count": 25,
+  "count": 26,
   "events": [
-    {
-      "category": "Book Talk",
-      "date": "2026-10-03",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 75,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "Bhakti, Bhasha and the Making of India",
-      "url": "https://indiahabitat.org/Events_details/1451",
-      "venue": "Gulmohar"
-    },
     {
       "category": "Cultural",
       "date": "2026-10-04",
@@ -350,7 +336,35 @@
       "title": "PLAY-  A Man Apart",
       "url": "https://iicdelhi.in/programmes/play-man-apart",
       "venue": "C.D. Deshmukh Auditorium, IIC main"
+    },
+    {
+      "category": "Museum",
+      "date": "2026-10-10",
+      "description": "",
+      "end_date": "2026-10-17",
+      "image": null,
+      "score": 85,
+      "source": "bikanerhouse",
+      "tags": [],
+      "time": null,
+      "title": "Sacred Spaces",
+      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/10",
+      "venue": "Bikaner House"
+    },
+    {
+      "category": "Book Talk",
+      "date": "2026-10-10",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-09/10%20October%202026_Website%20Programme%20Image.jpg",
+      "score": 75,
+      "source": "iic",
+      "tags": [],
+      "time": "02:00 PM",
+      "title": "Baithak -  On the Occasion of World Mental Health Day 2026",
+      "url": "https://iicdelhi.in/programmes/baithak-occasion-world-mental-health-day-2026",
+      "venue": "Conference Room II, IIC main"
     }
   ],
-  "generated_at": "2026-10-02"
+  "generated_at": "2026-10-03"
 }

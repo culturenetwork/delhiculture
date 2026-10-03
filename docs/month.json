@@ -1,34 +1,6 @@
 {
-  "count": 64,
+  "count": 67,
   "events": [
-    {
-      "category": "Museum",
-      "date": "2026-10-10",
-      "description": "",
-      "end_date": "2026-10-17",
-      "image": null,
-      "score": 85,
-      "source": "bikanerhouse",
-      "tags": [],
-      "time": null,
-      "title": "Sacred Spaces",
-      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/10",
-      "venue": "Bikaner House"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-10-10",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-09/10%20October%202026_Website%20Programme%20Image.jpg",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
-      "time": "02:00 PM",
-      "title": "Baithak -  On the Occasion of World Mental Health Day 2026",
-      "url": "https://iicdelhi.in/programmes/baithak-occasion-world-mental-health-day-2026",
-      "venue": "Conference Room II, IIC main"
-    },
     {
       "category": "Indian Classical",
       "date": "2026-10-11",
@@ -408,20 +380,6 @@
       "venue": "The Stein Auditorium"
     },
     {
-      "category": "Library Programmes",
-      "date": "2026-10-17",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-09/17%20October%202026_Website%20Programme%20Image.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "11:00 AM",
-      "title": "BOOK DISCUSSION GROUP-From Manuscript to Memory: India’s Contribution to UNESCO Memory of the World Programme",
-      "url": "https://iicdelhi.in/programmes/book-discussion-group-manuscript-memory-indias-contribution-unesco-memory-world",
-      "venue": "C.D. Deshmukh Auditorium, IIC main"
-    },
-    {
       "category": "Cultural",
       "date": "2026-10-17",
       "description": "",
@@ -434,6 +392,20 @@
       "title": "IHC Members Meet",
       "url": "https://indiahabitat.org/Events_details/1475",
       "venue": "The Habitat Lounge"
+    },
+    {
+      "category": "Seminars",
+      "date": "2026-10-17",
+      "description": "",
+      "end_date": null,
+      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "score": 50,
+      "source": "iic",
+      "tags": [],
+      "time": "10:00 AM",
+      "title": "India’s Federal Republic: Regional Parties and the Future of Democracy ( 17th october)",
+      "url": "https://iicdelhi.in/programmes/indias-federal-republic-regional-parties-and-future-democracy-17th-october",
+      "venue": "Conference Room I, IIC main"
     },
     {
       "category": "Film & Talk",
@@ -800,6 +772,20 @@
       "venue": "Fountain Lawns, IIC main"
     },
     {
+      "category": "Museum",
+      "date": "2026-10-31",
+      "description": "A pioneering exhibition of late 18th and early 19th century Company Paintings devoted entirely to Indian birds",
+      "end_date": "2026-11-14",
+      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "score": 85,
+      "source": "iic",
+      "tags": [],
+      "time": "11:30 AM",
+      "title": "THE IIC EXPERIENCE: A FESTIVAL OF THE ARTS – Exhibition- Birds of India: Company Paintings c.1800 and 1835",
+      "url": "https://iicdelhi.in/programmes/iic-experience-festival-arts-exhibition-birds-india-company-paintings-c1800-and-1835",
+      "venue": "Art Gallery, Kamaladevi Complex, IIC"
+    },
+    {
       "category": "Indian Classical",
       "date": "2026-10-31",
       "description": "",
@@ -839,6 +825,20 @@
       "time": "12:30 PM",
       "title": "THE IIC EXPERIENCE: A FESTIVAL OF THE ARTS- The World within the Word- Poetry Reading Session on Nature",
       "url": "https://iicdelhi.in/programmes/iic-experience-festival-arts-world-within-word-poetry-reading-session-nature",
+      "venue": "Seminar Rooms 1,2,3"
+    },
+    {
+      "category": "Book Talk",
+      "date": "2026-10-31",
+      "description": "",
+      "end_date": null,
+      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "score": 75,
+      "source": "iic",
+      "tags": [],
+      "time": "03:30 PM",
+      "title": "THE IIC EXPERIENCE: A FESTIVAL OF THE ARTS- The Written Word and Social Progress: How Kerala Achieved 100% Literacy",
+      "url": "https://iicdelhi.in/programmes/iic-experience-festival-arts-written-word-and-social-progress-how-kerala-achieved-100",
       "venue": "Seminar Rooms 1,2,3"
     },
     {
@@ -896,7 +896,49 @@
       "title": "THE IIC EXPERIENCE: A FESTIVAL OF THE ARTS – Performance-Classical Vocal Recital",
       "url": "https://iicdelhi.in/programmes/iic-experience-festival-arts-performance-classical-vocal-recital",
       "venue": "C.D. Deshmukh Auditorium, IIC main"
+    },
+    {
+      "category": "Book Talk",
+      "date": "2026-11-02",
+      "description": "",
+      "end_date": null,
+      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "score": 75,
+      "source": "iic",
+      "tags": [],
+      "time": "04:00 PM",
+      "title": "THE IIC EXPERIENCE: A FESTIVAL OF THE ARTS - Discussion-Guardians of the Grasslands: Pastoralism, Mobility and Ecology",
+      "url": "https://iicdelhi.in/programmes/iic-experience-festival-arts-discussion-guardians-grasslands-pastoralism-mobility-and",
+      "venue": "Conference Room II, IIC main"
+    },
+    {
+      "category": "Cultural",
+      "date": "2026-11-02",
+      "description": "",
+      "end_date": null,
+      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "score": 50,
+      "source": "iic",
+      "tags": [],
+      "time": "06:30 PM",
+      "title": "THE IIC EXPERIENCE: A FESTIVAL OF THE Art- Performance-RAGA, A knot in the air",
+      "url": "https://iicdelhi.in/programmes/iic-experience-festival-art-performance-raga-knot-air",
+      "venue": "Fountain Lawns, IIC main"
+    },
+    {
+      "category": "Festivals",
+      "date": "2026-11-02",
+      "description": "",
+      "end_date": null,
+      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "score": 50,
+      "source": "iic",
+      "tags": [],
+      "time": "04:00 PM",
+      "title": "THE IIC EXPERIENCE: A FESTIVAL OF THE ARTS-Release of the IIC Quarterly: Autumn 2026",
+      "url": "https://iicdelhi.in/programmes/iic-experience-festival-arts-release-iic-quarterly-autumn-2026",
+      "venue": "Gandhi-King Memorial Plaza, IIC main"
     }
   ],
-  "generated_at": "2026-10-02"
+  "generated_at": "2026-10-03"
 }
