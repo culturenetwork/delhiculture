@@ -1,20 +1,6 @@
 {
-  "count": 26,
+  "count": 29,
   "events": [
-    {
-      "category": "Cultural",
-      "date": "2026-10-04",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 50,
-      "source": "ihc",
-      "tags": [],
-      "time": "11:00 AM",
-      "title": "The IHC Free Book X'Change",
-      "url": "https://indiahabitat.org/Events_details/1452",
-      "venue": "Near the IHC Information Centre"
-    },
     {
       "category": "Film",
       "date": "2026-10-05",
@@ -30,18 +16,18 @@
       "venue": "Gulmohar"
     },
     {
-      "category": "Museum",
-      "date": "2026-10-06",
-      "description": "An exhibition of reproductions of landmark works that trace the development of India’s healing sciences, the contributions of women healers and other practitioners, and the broader understanding of well-being in relation to diet and environment. Highlights are original Balinese p",
-      "end_date": "2026-10-18",
-      "image": "https://aws-static.iicdelhi.in/2026-10/6%20October%202026_Website%20Programme%20Image_1_0.jpg",
-      "score": 85,
+      "category": "Film Club",
+      "date": "2026-10-05",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-10/5%20October%202026_Website%20Programme%20Image.jpg",
+      "score": 50,
       "source": "iic",
       "tags": [],
-      "time": "04:30 PM",
-      "title": "EXHIBITION-  Nirāmayatā: Healing and Wellbeing in South Asian Texts and Practices",
-      "url": "https://iicdelhi.in/programmes/exhibition-niramayata-healing-and-wellbeing-south-asian-texts-and-practices",
-      "venue": "Art Gallery, Kamaladevi Complex, IIC"
+      "time": "06:30 PM",
+      "title": "IIC Film Club -  Ivan The Terrible — Part I",
+      "url": "https://iicdelhi.in/programmes/iic-film-club-ivan-terrible-part-i",
+      "venue": "C.D. Deshmukh Auditorium, IIC main"
     },
     {
       "category": "Indian Classical",
@@ -364,7 +350,63 @@
       "title": "Baithak -  On the Occasion of World Mental Health Day 2026",
       "url": "https://iicdelhi.in/programmes/baithak-occasion-world-mental-health-day-2026",
       "venue": "Conference Room II, IIC main"
+    },
+    {
+      "category": "Indian Classical",
+      "date": "2026-10-11",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 80,
+      "source": "ihc",
+      "tags": [],
+      "time": "7:00 PM",
+      "title": "Tabla solo recital",
+      "url": "https://indiahabitat.org/Events_details/1462",
+      "venue": "The Theatre"
+    },
+    {
+      "category": "Book Talk",
+      "date": "2026-10-11",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 75,
+      "source": "ihc",
+      "tags": [],
+      "time": "7:00 PM",
+      "title": "Panchayati Raj and the role of CSOs",
+      "url": "https://indiahabitat.org/Events_details/1463",
+      "venue": "Gulmohar"
+    },
+    {
+      "category": "Theatre",
+      "date": "2026-10-11",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 65,
+      "source": "ihc",
+      "tags": [],
+      "time": "7:30 PM",
+      "title": "The Sightless",
+      "url": "https://indiahabitat.org/Events_details/1464",
+      "venue": "The Stein Auditorium"
+    },
+    {
+      "category": "Seminars",
+      "date": "2026-10-11",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-09/11%20October%202026_Website%20Programme%20Image.jpg",
+      "score": 50,
+      "source": "iic",
+      "tags": [],
+      "time": "02:15 PM",
+      "title": "Celebrating 100 Years of Thich Nhat Hanh: Launching the Year of Mindfulness",
+      "url": "https://iicdelhi.in/programmes/celebrating-100-years-thich-nhat-hanh-launching-year-mindfulness",
+      "venue": "Seminar Rooms 1,2,3"
     }
   ],
-  "generated_at": "2026-10-03"
+  "generated_at": "2026-10-04"
 }

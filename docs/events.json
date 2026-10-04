@@ -1,5 +1,5 @@
 {
-  "count": 98,
+  "count": 100,
   "events": [
     {
       "category": "Museum",
@@ -14,20 +14,6 @@
       "title": "Nar Nari 2.0",
       "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/10",
       "venue": "Bikaner House"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-10-03",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 75,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "Bhakti, Bhasha and the Making of India",
-      "url": "https://indiahabitat.org/Events_details/1451",
-      "venue": "Gulmohar"
     },
     {
       "category": "Cultural",
@@ -58,18 +44,18 @@
       "venue": "Gulmohar"
     },
     {
-      "category": "Museum",
-      "date": "2026-10-06",
-      "description": "An exhibition of reproductions of landmark works that trace the development of India’s healing sciences, the contributions of women healers and other practitioners, and the broader understanding of well-being in relation to diet and environment. Highlights are original Balinese p",
-      "end_date": "2026-10-18",
-      "image": "https://aws-static.iicdelhi.in/2026-10/6%20October%202026_Website%20Programme%20Image_1_0.jpg",
-      "score": 85,
+      "category": "Film Club",
+      "date": "2026-10-05",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-10/5%20October%202026_Website%20Programme%20Image.jpg",
+      "score": 50,
       "source": "iic",
       "tags": [],
-      "time": "04:30 PM",
-      "title": "EXHIBITION-  Nirāmayatā: Healing and Wellbeing in South Asian Texts and Practices",
-      "url": "https://iicdelhi.in/programmes/exhibition-niramayata-healing-and-wellbeing-south-asian-texts-and-practices",
-      "venue": "Art Gallery, Kamaladevi Complex, IIC"
+      "time": "06:30 PM",
+      "title": "IIC Film Club -  Ivan The Terrible — Part I",
+      "url": "https://iicdelhi.in/programmes/iic-film-club-ivan-terrible-part-i",
+      "venue": "C.D. Deshmukh Auditorium, IIC main"
     },
     {
       "category": "Indian Classical",
@@ -450,6 +436,20 @@
       "venue": "Seminar Rooms 1,2,3"
     },
     {
+      "category": "Museum",
+      "date": "2026-10-12",
+      "description": "The exhibition will be inaugurated by Chief Guest Dr S. Jaishankar, Hon. Minister of External Affairs, Govt. of India  at 18:00 hrs on 12th October, 2026",
+      "end_date": "2026-10-18",
+      "image": "https://aws-static.iicdelhi.in/2026-10/6%20October%202026_Website%20Programme%20Image_1_0.jpg",
+      "score": 85,
+      "source": "iic",
+      "tags": [],
+      "time": "06:00 PM",
+      "title": "EXHIBITION-  Nirāmayatā: Healing and Wellbeing in South Asian Texts and Practices",
+      "url": "https://iicdelhi.in/programmes/exhibition-niramayata-healing-and-wellbeing-south-asian-texts-and-practices",
+      "venue": "Art Gallery, Kamaladevi Complex, IIC"
+    },
+    {
       "category": "Book Talk",
       "date": "2026-10-12",
       "description": "",
@@ -562,6 +562,20 @@
       "venue": "The Stein Auditorium"
     },
     {
+      "category": "Museum",
+      "date": "2026-10-14",
+      "description": "",
+      "end_date": "2026-10-18",
+      "image": null,
+      "score": 85,
+      "source": "bikanerhouse",
+      "tags": [],
+      "time": null,
+      "title": "Continiuum",
+      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/10",
+      "venue": "Bikaner House"
+    },
+    {
       "category": "Library Programmes",
       "date": "2026-10-14",
       "description": "",
@@ -574,6 +588,20 @@
       "title": "BOOK DISCUSSION GROUP  -The Duel: Two Marksmen; One Battleground Kashmir",
       "url": "https://iicdelhi.in/programmes/book-discussion-group-duel-two-marksmen-one-battleground-kashmir",
       "venue": "Conference Room I, IIC main"
+    },
+    {
+      "category": "Film Club",
+      "date": "2026-10-14",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-10/14%20October%202026_Website%20Programme%20Image_1.jpg",
+      "score": 50,
+      "source": "iic",
+      "tags": [],
+      "time": "06:30 PM",
+      "title": "IIC Film Club -  Ivan The Terrible — Part II: The Boyars’ Plot",
+      "url": "https://iicdelhi.in/programmes/iic-film-club-ivan-terrible-part-ii-boyars-plot",
+      "venue": "C.D. Deshmukh Auditorium, IIC main"
     },
     {
       "category": "Dance & Music",
@@ -720,7 +748,7 @@
       "date": "2026-10-17",
       "description": "Threshold An exhibition of recent works by Sangam Peshawaria, with her exploration of the human body through charcoal drawings and oil paintings on paper. Focusing on fragments—hands, feet, limbs and gestures—the works invite viewers to complete what remains unseen through memory",
       "end_date": "2026-10-25",
-      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "image": "https://aws-static.iicdelhi.in/2026-10/17%20October%202026_Website%20Programme%20Image_1.jpg",
       "score": 85,
       "source": "iic",
       "tags": [],
@@ -770,6 +798,20 @@
       "title": "Papa Ji",
       "url": "https://indiahabitat.org/Events_details/1479",
       "venue": "The Stein Auditorium"
+    },
+    {
+      "category": "Library Programmes",
+      "date": "2026-10-17",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-09/17%20October%202026_Website%20Programme%20Image.jpg",
+      "score": 50,
+      "source": "iic",
+      "tags": [],
+      "time": "11:00 AM",
+      "title": "BOOK DISCUSSION GROUP-From Manuscript to Memory: India’s Contribution to UNESCO Memory of the World Programme",
+      "url": "https://iicdelhi.in/programmes/book-discussion-group-manuscript-memory-indias-contribution-unesco-memory-world",
+      "venue": "C.D. Deshmukh Auditorium, IIC main"
     },
     {
       "category": "Cultural",
@@ -1340,20 +1382,6 @@
       "score": 75,
       "source": "iic",
       "tags": [],
-      "time": "04:00 PM",
-      "title": "THE IIC EXPERIENCE: A FESTIVAL OF THE ARTS- Talk-Ecology at the Crossroads of Climate Change",
-      "url": "https://iicdelhi.in/programmes/iic-experience-festival-arts-talk-ecology-crossroads-climate-change",
-      "venue": "Conference Room II, IIC main"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-11-03",
-      "description": "",
-      "end_date": null,
-      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
       "time": "11:30 AM",
       "title": "THE IIC EXPERIENCE: A FESTIVAL OF THE ARTS-Talk-Seeds of Resilience: Women, Family Farms, and the Future of Nutritious Food Systems",
       "url": "https://iicdelhi.in/programmes/iic-experience-festival-arts-talk-seeds-resilience-women-family-farms-and-future",
@@ -1374,5 +1402,5 @@
       "venue": "Fountain Lawns, IIC main"
     }
   ],
-  "generated_at": "2026-10-03"
+  "generated_at": "2026-10-04"
 }

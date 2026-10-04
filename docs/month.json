@@ -1,61 +1,19 @@
 {
-  "count": 67,
+  "count": 69,
   "events": [
     {
-      "category": "Indian Classical",
-      "date": "2026-10-11",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 80,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "Tabla solo recital",
-      "url": "https://indiahabitat.org/Events_details/1462",
-      "venue": "The Theatre"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-10-11",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 75,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "Panchayati Raj and the role of CSOs",
-      "url": "https://indiahabitat.org/Events_details/1463",
-      "venue": "Gulmohar"
-    },
-    {
-      "category": "Theatre",
-      "date": "2026-10-11",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 65,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:30 PM",
-      "title": "The Sightless",
-      "url": "https://indiahabitat.org/Events_details/1464",
-      "venue": "The Stein Auditorium"
-    },
-    {
-      "category": "Seminars",
-      "date": "2026-10-11",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-09/11%20October%202026_Website%20Programme%20Image.jpg",
-      "score": 50,
+      "category": "Museum",
+      "date": "2026-10-12",
+      "description": "The exhibition will be inaugurated by Chief Guest Dr S. Jaishankar, Hon. Minister of External Affairs, Govt. of India  at 18:00 hrs on 12th October, 2026",
+      "end_date": "2026-10-18",
+      "image": "https://aws-static.iicdelhi.in/2026-10/6%20October%202026_Website%20Programme%20Image_1_0.jpg",
+      "score": 85,
       "source": "iic",
       "tags": [],
-      "time": "02:15 PM",
-      "title": "Celebrating 100 Years of Thich Nhat Hanh: Launching the Year of Mindfulness",
-      "url": "https://iicdelhi.in/programmes/celebrating-100-years-thich-nhat-hanh-launching-year-mindfulness",
-      "venue": "Seminar Rooms 1,2,3"
+      "time": "06:00 PM",
+      "title": "EXHIBITION-  Nirāmayatā: Healing and Wellbeing in South Asian Texts and Practices",
+      "url": "https://iicdelhi.in/programmes/exhibition-niramayata-healing-and-wellbeing-south-asian-texts-and-practices",
+      "venue": "Art Gallery, Kamaladevi Complex, IIC"
     },
     {
       "category": "Book Talk",
@@ -170,6 +128,20 @@
       "venue": "The Stein Auditorium"
     },
     {
+      "category": "Museum",
+      "date": "2026-10-14",
+      "description": "",
+      "end_date": "2026-10-18",
+      "image": null,
+      "score": 85,
+      "source": "bikanerhouse",
+      "tags": [],
+      "time": null,
+      "title": "Continiuum",
+      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/10",
+      "venue": "Bikaner House"
+    },
+    {
       "category": "Library Programmes",
       "date": "2026-10-14",
       "description": "",
@@ -182,6 +154,20 @@
       "title": "BOOK DISCUSSION GROUP  -The Duel: Two Marksmen; One Battleground Kashmir",
       "url": "https://iicdelhi.in/programmes/book-discussion-group-duel-two-marksmen-one-battleground-kashmir",
       "venue": "Conference Room I, IIC main"
+    },
+    {
+      "category": "Film Club",
+      "date": "2026-10-14",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-10/14%20October%202026_Website%20Programme%20Image_1.jpg",
+      "score": 50,
+      "source": "iic",
+      "tags": [],
+      "time": "06:30 PM",
+      "title": "IIC Film Club -  Ivan The Terrible — Part II: The Boyars’ Plot",
+      "url": "https://iicdelhi.in/programmes/iic-film-club-ivan-terrible-part-ii-boyars-plot",
+      "venue": "C.D. Deshmukh Auditorium, IIC main"
     },
     {
       "category": "Dance & Music",
@@ -328,7 +314,7 @@
       "date": "2026-10-17",
       "description": "Threshold An exhibition of recent works by Sangam Peshawaria, with her exploration of the human body through charcoal drawings and oil paintings on paper. Focusing on fragments—hands, feet, limbs and gestures—the works invite viewers to complete what remains unseen through memory",
       "end_date": "2026-10-25",
-      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "image": "https://aws-static.iicdelhi.in/2026-10/17%20October%202026_Website%20Programme%20Image_1.jpg",
       "score": 85,
       "source": "iic",
       "tags": [],
@@ -378,6 +364,20 @@
       "title": "Papa Ji",
       "url": "https://indiahabitat.org/Events_details/1479",
       "venue": "The Stein Auditorium"
+    },
+    {
+      "category": "Library Programmes",
+      "date": "2026-10-17",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-09/17%20October%202026_Website%20Programme%20Image.jpg",
+      "score": 50,
+      "source": "iic",
+      "tags": [],
+      "time": "11:00 AM",
+      "title": "BOOK DISCUSSION GROUP-From Manuscript to Memory: India’s Contribution to UNESCO Memory of the World Programme",
+      "url": "https://iicdelhi.in/programmes/book-discussion-group-manuscript-memory-indias-contribution-unesco-memory-world",
+      "venue": "C.D. Deshmukh Auditorium, IIC main"
     },
     {
       "category": "Cultural",
@@ -938,7 +938,35 @@
       "title": "THE IIC EXPERIENCE: A FESTIVAL OF THE ARTS-Release of the IIC Quarterly: Autumn 2026",
       "url": "https://iicdelhi.in/programmes/iic-experience-festival-arts-release-iic-quarterly-autumn-2026",
       "venue": "Gandhi-King Memorial Plaza, IIC main"
+    },
+    {
+      "category": "Book Talk",
+      "date": "2026-11-03",
+      "description": "",
+      "end_date": null,
+      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "score": 75,
+      "source": "iic",
+      "tags": [],
+      "time": "11:30 AM",
+      "title": "THE IIC EXPERIENCE: A FESTIVAL OF THE ARTS-Talk-Seeds of Resilience: Women, Family Farms, and the Future of Nutritious Food Systems",
+      "url": "https://iicdelhi.in/programmes/iic-experience-festival-arts-talk-seeds-resilience-women-family-farms-and-future",
+      "venue": "Conference Room II, IIC main"
+    },
+    {
+      "category": "Cultural",
+      "date": "2026-11-03",
+      "description": "",
+      "end_date": null,
+      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "score": 50,
+      "source": "iic",
+      "tags": [],
+      "time": "06:30 PM",
+      "title": "THE IIC EXPERIENCE: A FESTIVAL OF THE ARTS – Performance-The Nature (Prakriti) With Its Five Sensory Attributes and the Emotional World of Raga",
+      "url": "https://iicdelhi.in/programmes/iic-experience-festival-arts-performance-nature-prakriti-its-five-sensory-attributes-and",
+      "venue": "Fountain Lawns, IIC main"
     }
   ],
-  "generated_at": "2026-10-03"
+  "generated_at": "2026-10-04"
 }
