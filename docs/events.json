@@ -1,5 +1,5 @@
 {
-  "count": 100,
+  "count": 99,
   "events": [
     {
       "category": "Museum",
@@ -14,20 +14,6 @@
       "title": "Nar Nari 2.0",
       "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/10",
       "venue": "Bikaner House"
-    },
-    {
-      "category": "Cultural",
-      "date": "2026-10-04",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 50,
-      "source": "ihc",
-      "tags": [],
-      "time": "11:00 AM",
-      "title": "The IHC Free Book X'Change",
-      "url": "https://indiahabitat.org/Events_details/1452",
-      "venue": "Near the IHC Information Centre"
     },
     {
       "category": "Film",
@@ -1402,5 +1388,5 @@
       "venue": "Fountain Lawns, IIC main"
     }
   ],
-  "generated_at": "2026-10-04"
+  "generated_at": "2026-10-05"
 }

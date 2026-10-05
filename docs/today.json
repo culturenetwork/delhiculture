@@ -1,5 +1,5 @@
 {
-  "count": 2,
+  "count": 3,
   "events": [
     {
       "category": "Museum",
@@ -16,19 +16,33 @@
       "venue": "Bikaner House"
     },
     {
-      "category": "Cultural",
-      "date": "2026-10-04",
+      "category": "Film",
+      "date": "2026-10-05",
       "description": "",
       "end_date": null,
       "image": null,
-      "score": 50,
+      "score": 55,
       "source": "ihc",
       "tags": [],
-      "time": "11:00 AM",
-      "title": "The IHC Free Book X'Change",
-      "url": "https://indiahabitat.org/Events_details/1452",
-      "venue": "Near the IHC Information Centre"
+      "time": "7:00 PM",
+      "title": "EcoReels 2026",
+      "url": "https://indiahabitat.org/Events_details/1454",
+      "venue": "Gulmohar"
+    },
+    {
+      "category": "Film Club",
+      "date": "2026-10-05",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-10/5%20October%202026_Website%20Programme%20Image.jpg",
+      "score": 50,
+      "source": "iic",
+      "tags": [],
+      "time": "06:30 PM",
+      "title": "IIC Film Club -  Ivan The Terrible — Part I",
+      "url": "https://iicdelhi.in/programmes/iic-film-club-ivan-terrible-part-i",
+      "venue": "C.D. Deshmukh Auditorium, IIC main"
     }
   ],
-  "generated_at": "2026-10-04"
+  "generated_at": "2026-10-05"
 }

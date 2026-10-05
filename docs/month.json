@@ -1,62 +1,6 @@
 {
-  "count": 69,
+  "count": 65,
   "events": [
-    {
-      "category": "Museum",
-      "date": "2026-10-12",
-      "description": "The exhibition will be inaugurated by Chief Guest Dr S. Jaishankar, Hon. Minister of External Affairs, Govt. of India  at 18:00 hrs on 12th October, 2026",
-      "end_date": "2026-10-18",
-      "image": "https://aws-static.iicdelhi.in/2026-10/6%20October%202026_Website%20Programme%20Image_1_0.jpg",
-      "score": 85,
-      "source": "iic",
-      "tags": [],
-      "time": "06:00 PM",
-      "title": "EXHIBITION-  Nirāmayatā: Healing and Wellbeing in South Asian Texts and Practices",
-      "url": "https://iicdelhi.in/programmes/exhibition-niramayata-healing-and-wellbeing-south-asian-texts-and-practices",
-      "venue": "Art Gallery, Kamaladevi Complex, IIC"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-10-12",
-      "description": "",
-      "end_date": null,
-      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "The Contemporary World Crisis: Where do we go from here?",
-      "url": "https://iicdelhi.in/programmes/contemporary-world-crisis-where-do-we-go-here",
-      "venue": "Conference Room I, IIC main"
-    },
-    {
-      "category": "Library Programmes",
-      "date": "2026-10-12",
-      "description": "",
-      "end_date": null,
-      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "06:00 PM",
-      "title": "BOOK DISCUSSION GROUP-   Main Ek Gurezaan Lamha Hun: Kathak Guru Shovana Narayan",
-      "url": "https://iicdelhi.in/programmes/book-discussion-group-main-ek-gurezaan-lamha-hun-kathak-guru-shovana-narayan",
-      "venue": "Conference Room II, IIC main"
-    },
-    {
-      "category": "Seminars",
-      "date": "2026-10-12",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-09/12%20October%202026_Website%20Programme%20Image.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "10:30 AM",
-      "title": "Seminar on the Syncretic Traditions of the Subcontinent: Voices Past & Present",
-      "url": "https://iicdelhi.in/programmes/seminar-syncretic-traditions-subcontinent-voices-past-present",
-      "venue": "Seminar Rooms 1,2,3"
-    },
     {
       "category": "Book Talk",
       "date": "2026-10-13",
@@ -968,5 +912,5 @@
       "venue": "Fountain Lawns, IIC main"
     }
   ],
-  "generated_at": "2026-10-04"
+  "generated_at": "2026-10-05"
 }
