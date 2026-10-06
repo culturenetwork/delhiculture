@@ -1,5 +1,5 @@
 {
-  "count": 3,
+  "count": 6,
   "events": [
     {
       "category": "Museum",
@@ -16,33 +16,75 @@
       "venue": "Bikaner House"
     },
     {
-      "category": "Film",
-      "date": "2026-10-05",
+      "category": "Indian Classical",
+      "date": "2026-10-06",
       "description": "",
       "end_date": null,
       "image": null,
-      "score": 55,
+      "score": 80,
       "source": "ihc",
       "tags": [],
       "time": "7:00 PM",
-      "title": "EcoReels 2026",
-      "url": "https://indiahabitat.org/Events_details/1454",
-      "venue": "Gulmohar"
+      "title": "Pt. Kashinath Khandekar Memorial Concert",
+      "url": "https://indiahabitat.org/Events_details/1455",
+      "venue": "The Theatre"
     },
     {
-      "category": "Film Club",
-      "date": "2026-10-05",
+      "category": "Book Talk",
+      "date": "2026-10-06",
+      "description": "The Kalanidhi Division, Indira Gandhi National Centre for the Arts (IGNCA) is organizing the following two programmes: 1. National Seminar on “The Management of Non-Print Materials in Galleries, Libraries, Archives and Museums”",
+      "end_date": "2026-10-07",
+      "image": null,
+      "score": 75,
+      "source": "ignca",
+      "tags": [],
+      "time": "10:00 am - 5:00 pm",
+      "title": "National Seminar on \"The Management of Non-Print Materials in Galleries, Libraries, Archives and Museums\"",
+      "url": "https://ignca.gov.in/events/national-seminar-on-the-management-of-non-print-materials-in-galleries-libraries-archives-and-museums/",
+      "venue": "Umang Conference Hall, IGNCA, Janpath, New Delhi"
+    },
+    {
+      "category": "Film",
+      "date": "2026-10-06",
       "description": "",
       "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-10/5%20October%202026_Website%20Programme%20Image.jpg",
-      "score": 50,
+      "image": "https://aws-static.iicdelhi.in/2026-09/6%20October%202026_Website%20Programme%20Image.jpg",
+      "score": 55,
       "source": "iic",
       "tags": [],
       "time": "06:30 PM",
-      "title": "IIC Film Club -  Ivan The Terrible — Part I",
-      "url": "https://iicdelhi.in/programmes/iic-film-club-ivan-terrible-part-i",
-      "venue": "C.D. Deshmukh Auditorium, IIC main"
+      "title": "FILM- Corbett's Trail",
+      "url": "https://iicdelhi.in/programmes/film-corbetts-trail",
+      "venue": "Lecture Room I, IIC Annexe"
+    },
+    {
+      "category": "Library Programmes",
+      "date": "2026-10-06",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-09/6%20October%202026_Website%20Programme%20Image_0.jpg",
+      "score": 50,
+      "source": "iic",
+      "tags": [],
+      "time": "06:00 PM",
+      "title": "BOOK DISCUSSION GROUP -  Tribal India: History, Struggles and Future",
+      "url": "https://iicdelhi.in/programmes/book-discussion-group-tribal-india-history-struggles-and-future",
+      "venue": "Conference Room I, IIC main"
+    },
+    {
+      "category": "Seminars",
+      "date": "2026-10-06",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-10/6%20October%202026_Website%20Programme%20Image_2.jpg",
+      "score": 50,
+      "source": "iic",
+      "tags": [],
+      "time": "09:30 AM",
+      "title": "Nirāmayatā: Healing and Wellbeing in South Asian Texts and Practices",
+      "url": "https://iicdelhi.in/programmes/niramayata-healing-and-wellbeing-south-asian-texts-and-practices",
+      "venue": "Seminar Rooms 1,2,3"
     }
   ],
-  "generated_at": "2026-10-05"
+  "generated_at": "2026-10-06"
 }

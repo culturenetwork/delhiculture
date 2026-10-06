@@ -1,5 +1,5 @@
 {
-  "count": 99,
+  "count": 98,
   "events": [
     {
       "category": "Museum",
@@ -14,34 +14,6 @@
       "title": "Nar Nari 2.0",
       "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/10",
       "venue": "Bikaner House"
-    },
-    {
-      "category": "Film",
-      "date": "2026-10-05",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 55,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "EcoReels 2026",
-      "url": "https://indiahabitat.org/Events_details/1454",
-      "venue": "Gulmohar"
-    },
-    {
-      "category": "Film Club",
-      "date": "2026-10-05",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-10/5%20October%202026_Website%20Programme%20Image.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "IIC Film Club -  Ivan The Terrible — Part I",
-      "url": "https://iicdelhi.in/programmes/iic-film-club-ivan-terrible-part-i",
-      "venue": "C.D. Deshmukh Auditorium, IIC main"
     },
     {
       "category": "Indian Classical",
@@ -473,8 +445,8 @@
       "source": "iic",
       "tags": [],
       "time": "10:30 AM",
-      "title": "Seminar on the Syncretic Traditions of the Subcontinent: Voices Past & Present",
-      "url": "https://iicdelhi.in/programmes/seminar-syncretic-traditions-subcontinent-voices-past-present",
+      "title": "Syncretic Traditions of the Subcontinent: Voices Past & Present (12th October)",
+      "url": "https://iicdelhi.in/programmes/syncretic-traditions-subcontinent-voices-past-present-12th-october",
       "venue": "Seminar Rooms 1,2,3"
     },
     {
@@ -490,20 +462,6 @@
       "title": "Anand Kumaraswamy: Tatva, Kala aur Lok ki Antarbhut Ekta",
       "url": "https://indiahabitat.org/Events_details/1467",
       "venue": "Gulmohar"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-10-13",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-09/12%20October%202026_Website%20Programme%20Image_0.jpg",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
-      "time": "10:30 AM",
-      "title": "Seminar on the Syncretic Traditions of the Subcontinent: Voices Past & Present",
-      "url": "https://iicdelhi.in/programmes/seminar-syncretic-traditions-subcontinent-voices-past-present-0",
-      "venue": "Seminar Rooms 1,2,3"
     },
     {
       "category": "Cultural",
@@ -546,6 +504,20 @@
       "title": "Shyam Priya National Dance and Music Festival 2026",
       "url": "https://indiahabitat.org/Events_details/1466",
       "venue": "The Stein Auditorium"
+    },
+    {
+      "category": "Seminars",
+      "date": "2026-10-13",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-09/12%20October%202026_Website%20Programme%20Image_0.jpg",
+      "score": 50,
+      "source": "iic",
+      "tags": [],
+      "time": "10:30 AM",
+      "title": "Syncretic Traditions of the Subcontinent: Voices Past & Present (13th October)",
+      "url": "https://iicdelhi.in/programmes/syncretic-traditions-subcontinent-voices-past-present-13th-october",
+      "venue": "Seminar Rooms 1,2,3"
     },
     {
       "category": "Museum",
@@ -1368,6 +1340,20 @@
       "score": 75,
       "source": "iic",
       "tags": [],
+      "time": "04:00 PM",
+      "title": "THE IIC EXPERIENCE: A FESTIVAL OF THE ARTS- Talk-Ecology at the Crossroads of Climate Change",
+      "url": "https://iicdelhi.in/programmes/iic-experience-festival-arts-talk-ecology-crossroads-climate-change",
+      "venue": "Conference Room II, IIC main"
+    },
+    {
+      "category": "Book Talk",
+      "date": "2026-11-03",
+      "description": "",
+      "end_date": null,
+      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "score": 75,
+      "source": "iic",
+      "tags": [],
       "time": "11:30 AM",
       "title": "THE IIC EXPERIENCE: A FESTIVAL OF THE ARTS-Talk-Seeds of Resilience: Women, Family Farms, and the Future of Nutritious Food Systems",
       "url": "https://iicdelhi.in/programmes/iic-experience-festival-arts-talk-seeds-resilience-women-family-farms-and-future",
@@ -1388,5 +1374,5 @@
       "venue": "Fountain Lawns, IIC main"
     }
   ],
-  "generated_at": "2026-10-05"
+  "generated_at": "2026-10-06"
 }
