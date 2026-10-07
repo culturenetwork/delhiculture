@@ -1,34 +1,6 @@
 {
-  "count": 98,
+  "count": 89,
   "events": [
-    {
-      "category": "Museum",
-      "date": "2026-10-01",
-      "description": "",
-      "end_date": "2026-10-06",
-      "image": null,
-      "score": 85,
-      "source": "bikanerhouse",
-      "tags": [],
-      "time": null,
-      "title": "Nar Nari 2.0",
-      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/10",
-      "venue": "Bikaner House"
-    },
-    {
-      "category": "Indian Classical",
-      "date": "2026-10-06",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 80,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "Pt. Kashinath Khandekar Memorial Concert",
-      "url": "https://indiahabitat.org/Events_details/1455",
-      "venue": "The Theatre"
-    },
     {
       "category": "Book Talk",
       "date": "2026-10-06",
@@ -42,48 +14,6 @@
       "title": "National Seminar on \"The Management of Non-Print Materials in Galleries, Libraries, Archives and Museums\"",
       "url": "https://ignca.gov.in/events/national-seminar-on-the-management-of-non-print-materials-in-galleries-libraries-archives-and-museums/",
       "venue": "Umang Conference Hall, IGNCA, Janpath, New Delhi"
-    },
-    {
-      "category": "Film",
-      "date": "2026-10-06",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-09/6%20October%202026_Website%20Programme%20Image.jpg",
-      "score": 55,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "FILM- Corbett's Trail",
-      "url": "https://iicdelhi.in/programmes/film-corbetts-trail",
-      "venue": "Lecture Room I, IIC Annexe"
-    },
-    {
-      "category": "Library Programmes",
-      "date": "2026-10-06",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-09/6%20October%202026_Website%20Programme%20Image_0.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "06:00 PM",
-      "title": "BOOK DISCUSSION GROUP -  Tribal India: History, Struggles and Future",
-      "url": "https://iicdelhi.in/programmes/book-discussion-group-tribal-india-history-struggles-and-future",
-      "venue": "Conference Room I, IIC main"
-    },
-    {
-      "category": "Seminars",
-      "date": "2026-10-06",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-10/6%20October%202026_Website%20Programme%20Image_2.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "09:30 AM",
-      "title": "Nirāmayatā: Healing and Wellbeing in South Asian Texts and Practices",
-      "url": "https://iicdelhi.in/programmes/niramayata-healing-and-wellbeing-south-asian-texts-and-practices",
-      "venue": "Seminar Rooms 1,2,3"
     },
     {
       "category": "Indian Classical",
@@ -426,7 +356,7 @@
       "date": "2026-10-12",
       "description": "",
       "end_date": null,
-      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "image": "https://aws-static.iicdelhi.in/2026-10/12%20October%202026_Website%20Programme%20Image_1.jpg",
       "score": 50,
       "source": "iic",
       "tags": [],
@@ -434,20 +364,6 @@
       "title": "BOOK DISCUSSION GROUP-   Main Ek Gurezaan Lamha Hun: Kathak Guru Shovana Narayan",
       "url": "https://iicdelhi.in/programmes/book-discussion-group-main-ek-gurezaan-lamha-hun-kathak-guru-shovana-narayan",
       "venue": "Conference Room II, IIC main"
-    },
-    {
-      "category": "Seminars",
-      "date": "2026-10-12",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-09/12%20October%202026_Website%20Programme%20Image.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "10:30 AM",
-      "title": "Syncretic Traditions of the Subcontinent: Voices Past & Present (12th October)",
-      "url": "https://iicdelhi.in/programmes/syncretic-traditions-subcontinent-voices-past-present-12th-october",
-      "venue": "Seminar Rooms 1,2,3"
     },
     {
       "category": "Book Talk",
@@ -468,7 +384,7 @@
       "date": "2026-10-13",
       "description": "",
       "end_date": null,
-      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "image": "https://aws-static.iicdelhi.in/2026-10/13%20October%202026_Website%20Programme%20Image_1.jpg",
       "score": 50,
       "source": "iic",
       "tags": [],
@@ -552,7 +468,7 @@
       "date": "2026-10-14",
       "description": "",
       "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-10/14%20October%202026_Website%20Programme%20Image_1.jpg",
+      "image": "https://aws-static.iicdelhi.in/2026-10/14%20October%202026_Website%20Programme%20Image_1_0.jpg",
       "score": 50,
       "source": "iic",
       "tags": [],
@@ -1207,48 +1123,6 @@
     },
     {
       "category": "Book Talk",
-      "date": "2026-10-31",
-      "description": "",
-      "end_date": null,
-      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
-      "time": "12:30 PM",
-      "title": "THE IIC EXPERIENCE: A FESTIVAL OF THE ARTS- The World within the Word- Poetry Reading Session on Nature",
-      "url": "https://iicdelhi.in/programmes/iic-experience-festival-arts-world-within-word-poetry-reading-session-nature",
-      "venue": "Seminar Rooms 1,2,3"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-10-31",
-      "description": "",
-      "end_date": null,
-      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
-      "time": "03:30 PM",
-      "title": "THE IIC EXPERIENCE: A FESTIVAL OF THE ARTS- The Written Word and Social Progress: How Kerala Achieved 100% Literacy",
-      "url": "https://iicdelhi.in/programmes/iic-experience-festival-arts-written-word-and-social-progress-how-kerala-achieved-100",
-      "venue": "Seminar Rooms 1,2,3"
-    },
-    {
-      "category": "Cultural",
-      "date": "2026-10-31",
-      "description": "",
-      "end_date": null,
-      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "THE IIC EXPERIENCE: A FESTIVAL OF THE ARTS –Performance- Nirvana Nataka",
-      "url": "https://iicdelhi.in/programmes/iic-experience-festival-arts-performance-nirvana-nataka",
-      "venue": "Fountain Lawns, IIC main"
-    },
-    {
-      "category": "Book Talk",
       "date": "2026-11-01",
       "description": "",
       "end_date": null,
@@ -1374,5 +1248,5 @@
       "venue": "Fountain Lawns, IIC main"
     }
   ],
-  "generated_at": "2026-10-06"
+  "generated_at": "2026-10-07"
 }

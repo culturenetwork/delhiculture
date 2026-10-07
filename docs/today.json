@@ -1,34 +1,6 @@
 {
-  "count": 6,
+  "count": 5,
   "events": [
-    {
-      "category": "Museum",
-      "date": "2026-10-01",
-      "description": "",
-      "end_date": "2026-10-06",
-      "image": null,
-      "score": 85,
-      "source": "bikanerhouse",
-      "tags": [],
-      "time": null,
-      "title": "Nar Nari 2.0",
-      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/10",
-      "venue": "Bikaner House"
-    },
-    {
-      "category": "Indian Classical",
-      "date": "2026-10-06",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 80,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "Pt. Kashinath Khandekar Memorial Concert",
-      "url": "https://indiahabitat.org/Events_details/1455",
-      "venue": "The Theatre"
-    },
     {
       "category": "Book Talk",
       "date": "2026-10-06",
@@ -44,47 +16,61 @@
       "venue": "Umang Conference Hall, IGNCA, Janpath, New Delhi"
     },
     {
-      "category": "Film",
-      "date": "2026-10-06",
+      "category": "Indian Classical",
+      "date": "2026-10-07",
       "description": "",
       "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-09/6%20October%202026_Website%20Programme%20Image.jpg",
-      "score": 55,
-      "source": "iic",
+      "image": null,
+      "score": 80,
+      "source": "ihc",
       "tags": [],
-      "time": "06:30 PM",
-      "title": "FILM- Corbett's Trail",
-      "url": "https://iicdelhi.in/programmes/film-corbetts-trail",
-      "venue": "Lecture Room I, IIC Annexe"
+      "time": "7:00 PM",
+      "title": "A Tribute to Begum Akhtar Sahiba",
+      "url": "https://indiahabitat.org/Events_details/1457",
+      "venue": "The Theatre"
     },
     {
-      "category": "Library Programmes",
-      "date": "2026-10-06",
+      "category": "Book Talk",
+      "date": "2026-10-07",
       "description": "",
       "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-09/6%20October%202026_Website%20Programme%20Image_0.jpg",
-      "score": 50,
+      "image": null,
+      "score": 75,
+      "source": "ihc",
+      "tags": [],
+      "time": "6:00 PM",
+      "title": "Invincible Somnath: A Saga of Millennia",
+      "url": "https://indiahabitat.org/Events_details/1456",
+      "venue": "Gulmohar"
+    },
+    {
+      "category": "Book Talk",
+      "date": "2026-10-07",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-09/7%20October%202026_%20Website%20Programme%20Image.jpg",
+      "score": 75,
       "source": "iic",
       "tags": [],
       "time": "06:00 PM",
-      "title": "BOOK DISCUSSION GROUP -  Tribal India: History, Struggles and Future",
-      "url": "https://iicdelhi.in/programmes/book-discussion-group-tribal-india-history-struggles-and-future",
+      "title": "Now the labour of a fully committed heart is finished – Yayoi Kusama",
+      "url": "https://iicdelhi.in/programmes/now-labour-fully-committed-heart-finished-yayoi-kusama",
       "venue": "Conference Room I, IIC main"
     },
     {
-      "category": "Seminars",
-      "date": "2026-10-06",
+      "category": "Dance",
+      "date": "2026-10-07",
       "description": "",
       "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-10/6%20October%202026_Website%20Programme%20Image_2.jpg",
-      "score": 50,
-      "source": "iic",
+      "image": null,
+      "score": 70,
+      "source": "ihc",
       "tags": [],
-      "time": "09:30 AM",
-      "title": "Nirāmayatā: Healing and Wellbeing in South Asian Texts and Practices",
-      "url": "https://iicdelhi.in/programmes/niramayata-healing-and-wellbeing-south-asian-texts-and-practices",
-      "venue": "Seminar Rooms 1,2,3"
+      "time": "7:00 PM",
+      "title": "Nrithyasamarpanam",
+      "url": "https://indiahabitat.org/Events_details/1458",
+      "venue": "The Stein Auditorium"
     }
   ],
-  "generated_at": "2026-10-06"
+  "generated_at": "2026-10-07"
 }

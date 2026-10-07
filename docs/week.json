@@ -1,62 +1,6 @@
 {
-  "count": 31,
+  "count": 30,
   "events": [
-    {
-      "category": "Indian Classical",
-      "date": "2026-10-07",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 80,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "A Tribute to Begum Akhtar Sahiba",
-      "url": "https://indiahabitat.org/Events_details/1457",
-      "venue": "The Theatre"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-10-07",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 75,
-      "source": "ihc",
-      "tags": [],
-      "time": "6:00 PM",
-      "title": "Invincible Somnath: A Saga of Millennia",
-      "url": "https://indiahabitat.org/Events_details/1456",
-      "venue": "Gulmohar"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-10-07",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-09/7%20October%202026_%20Website%20Programme%20Image.jpg",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
-      "time": "06:00 PM",
-      "title": "Now the labour of a fully committed heart is finished – Yayoi Kusama",
-      "url": "https://iicdelhi.in/programmes/now-labour-fully-committed-heart-finished-yayoi-kusama",
-      "venue": "Conference Room I, IIC main"
-    },
-    {
-      "category": "Dance",
-      "date": "2026-10-07",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 70,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "Nrithyasamarpanam",
-      "url": "https://indiahabitat.org/Events_details/1458",
-      "venue": "The Stein Auditorium"
-    },
     {
       "category": "Museum",
       "date": "2026-10-08",
@@ -342,7 +286,7 @@
       "date": "2026-10-12",
       "description": "",
       "end_date": null,
-      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "image": "https://aws-static.iicdelhi.in/2026-10/12%20October%202026_Website%20Programme%20Image_1.jpg",
       "score": 50,
       "source": "iic",
       "tags": [],
@@ -350,20 +294,6 @@
       "title": "BOOK DISCUSSION GROUP-   Main Ek Gurezaan Lamha Hun: Kathak Guru Shovana Narayan",
       "url": "https://iicdelhi.in/programmes/book-discussion-group-main-ek-gurezaan-lamha-hun-kathak-guru-shovana-narayan",
       "venue": "Conference Room II, IIC main"
-    },
-    {
-      "category": "Seminars",
-      "date": "2026-10-12",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-09/12%20October%202026_Website%20Programme%20Image.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "10:30 AM",
-      "title": "Syncretic Traditions of the Subcontinent: Voices Past & Present (12th October)",
-      "url": "https://iicdelhi.in/programmes/syncretic-traditions-subcontinent-voices-past-present-12th-october",
-      "venue": "Seminar Rooms 1,2,3"
     },
     {
       "category": "Book Talk",
@@ -384,7 +314,7 @@
       "date": "2026-10-13",
       "description": "",
       "end_date": null,
-      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "image": "https://aws-static.iicdelhi.in/2026-10/13%20October%202026_Website%20Programme%20Image_1.jpg",
       "score": 50,
       "source": "iic",
       "tags": [],
@@ -434,7 +364,63 @@
       "title": "Syncretic Traditions of the Subcontinent: Voices Past & Present (13th October)",
       "url": "https://iicdelhi.in/programmes/syncretic-traditions-subcontinent-voices-past-present-13th-october",
       "venue": "Seminar Rooms 1,2,3"
+    },
+    {
+      "category": "Museum",
+      "date": "2026-10-14",
+      "description": "",
+      "end_date": "2026-10-18",
+      "image": null,
+      "score": 85,
+      "source": "bikanerhouse",
+      "tags": [],
+      "time": null,
+      "title": "Continiuum",
+      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/10",
+      "venue": "Bikaner House"
+    },
+    {
+      "category": "Library Programmes",
+      "date": "2026-10-14",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-09/14%20October%202026_Website%20Programme%20Image.jpg",
+      "score": 50,
+      "source": "iic",
+      "tags": [],
+      "time": "06:00 PM",
+      "title": "BOOK DISCUSSION GROUP  -The Duel: Two Marksmen; One Battleground Kashmir",
+      "url": "https://iicdelhi.in/programmes/book-discussion-group-duel-two-marksmen-one-battleground-kashmir",
+      "venue": "Conference Room I, IIC main"
+    },
+    {
+      "category": "Film Club",
+      "date": "2026-10-14",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-10/14%20October%202026_Website%20Programme%20Image_1_0.jpg",
+      "score": 50,
+      "source": "iic",
+      "tags": [],
+      "time": "06:30 PM",
+      "title": "IIC Film Club -  Ivan The Terrible — Part II: The Boyars’ Plot",
+      "url": "https://iicdelhi.in/programmes/iic-film-club-ivan-terrible-part-ii-boyars-plot",
+      "venue": "C.D. Deshmukh Auditorium, IIC main"
+    },
+    {
+      "category": "Dance & Music",
+      "date": "2026-10-14",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 50,
+      "source": "ihc",
+      "tags": [],
+      "time": "7:00 PM",
+      "title": "Jyotirlinga- The Light of Intrigue",
+      "url": "https://indiahabitat.org/Events_details/1468",
+      "venue": "The Stein Auditorium"
     }
   ],
-  "generated_at": "2026-10-06"
+  "generated_at": "2026-10-07"
 }
