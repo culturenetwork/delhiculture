@@ -1,62 +1,6 @@
 {
-  "count": 54,
+  "count": 53,
   "events": [
-    {
-      "category": "Indian Classical",
-      "date": "2026-10-15",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 80,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "Samarpan. Day 1",
-      "url": "https://indiahabitat.org/Events_details/1469",
-      "venue": "The Theatre"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-10-15",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 75,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "Yoga of Self-Perfection: Sri Aurobindo's Integral Path",
-      "url": "https://indiahabitat.org/Events_details/1471",
-      "venue": "Gulmohar"
-    },
-    {
-      "category": "Dance",
-      "date": "2026-10-15",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 70,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "Rhythms of Living Heritage: A National Folk Dance Festival. Day 1",
-      "url": "https://indiahabitat.org/Events_details/1470",
-      "venue": "The Stein Auditorium"
-    },
-    {
-      "category": "Cultural",
-      "date": "2026-10-15",
-      "description": "",
-      "end_date": null,
-      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "FOLK DANCE AND MUSIC PERFORMANCE - Echoes of Mizo and Manipuri Tradition",
-      "url": "https://iicdelhi.in/programmes/folk-dance-and-music-performance-echoes-mizo-and-manipuri-tradition",
-      "venue": "C.D. Deshmukh Auditorium, IIC main"
-    },
     {
       "category": "Indian Classical",
       "date": "2026-10-16",
@@ -118,7 +62,7 @@
       "date": "2026-10-16",
       "description": "",
       "end_date": null,
-      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "image": "https://aws-static.iicdelhi.in/2026-10/16%20October%202026_Website%20Programme%20Image.jpg",
       "score": 50,
       "source": "iic",
       "tags": [],
@@ -216,7 +160,7 @@
       "date": "2026-10-17",
       "description": "",
       "end_date": null,
-      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "image": "https://aws-static.iicdelhi.in/2026-10/16%20October%202026_Website%20Programme%20Image_0.jpg",
       "score": 50,
       "source": "iic",
       "tags": [],
@@ -633,6 +577,48 @@
     },
     {
       "category": "Book Talk",
+      "date": "2026-10-31",
+      "description": "",
+      "end_date": null,
+      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "score": 75,
+      "source": "iic",
+      "tags": [],
+      "time": "12:30 PM",
+      "title": "THE IIC EXPERIENCE: A FESTIVAL OF THE ARTS- The World within the Word- Poetry Reading Session on Nature",
+      "url": "https://iicdelhi.in/programmes/iic-experience-festival-arts-world-within-word-poetry-reading-session-nature",
+      "venue": "Seminar Rooms 1,2,3"
+    },
+    {
+      "category": "Book Talk",
+      "date": "2026-10-31",
+      "description": "",
+      "end_date": null,
+      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "score": 75,
+      "source": "iic",
+      "tags": [],
+      "time": "03:30 PM",
+      "title": "THE IIC EXPERIENCE: A FESTIVAL OF THE ARTS- The Written Word and Social Progress: How Kerala Achieved 100% Literacy",
+      "url": "https://iicdelhi.in/programmes/iic-experience-festival-arts-written-word-and-social-progress-how-kerala-achieved-100",
+      "venue": "Seminar Rooms 1,2,3"
+    },
+    {
+      "category": "Cultural",
+      "date": "2026-10-31",
+      "description": "",
+      "end_date": null,
+      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "score": 50,
+      "source": "iic",
+      "tags": [],
+      "time": "06:30 PM",
+      "title": "THE IIC EXPERIENCE: A FESTIVAL OF THE ARTS –Performance- Nirvana Nataka",
+      "url": "https://iicdelhi.in/programmes/iic-experience-festival-arts-performance-nirvana-nataka",
+      "venue": "Fountain Lawns, IIC main"
+    },
+    {
+      "category": "Book Talk",
       "date": "2026-11-01",
       "description": "",
       "end_date": null,
@@ -758,5 +744,5 @@
       "venue": "Fountain Lawns, IIC main"
     }
   ],
-  "generated_at": "2026-10-07"
+  "generated_at": "2026-10-08"
 }
