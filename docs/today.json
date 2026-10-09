@@ -1,5 +1,5 @@
 {
-  "count": 9,
+  "count": 7,
   "events": [
     {
       "category": "Museum",
@@ -58,64 +58,8 @@
       "venue": "Bikaner House"
     },
     {
-      "category": "Book Talk",
-      "date": "2026-10-08",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-09/8%20October%202026_Website%20Programme%20Image_3.jpg",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "ART MATTERS CXII - An evening on Hindustani classical vocalist Shanno Khurana",
-      "url": "https://iicdelhi.in/programmes/art-matters-cxii-evening-hindustani-classical-vocalist-shanno-khurana",
-      "venue": "Seminar Rooms 1,2,3"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-10-08",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-09/8%20October%202026_Website%20Programme%20Image_2.jpg",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
-      "time": "06:00 PM",
-      "title": "BOOK DISCUSSION GROUP  -Arguments with Gandhi",
-      "url": "https://iicdelhi.in/programmes/book-discussion-group-arguments-gandhi",
-      "venue": "C.D. Deshmukh Auditorium, IIC main"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-10-08",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-09/15%20October%202026_Website%20Programme%20Image.jpg",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
-      "time": "10:00 AM",
-      "title": "DIALOGUES ON HEALTH & WELLNESS",
-      "url": "https://iicdelhi.in/programmes/dialogues-health-wellness",
-      "venue": "Seminar Rooms 1,2,3"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-10-08",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 75,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "Police Reforms - The Road Ahead",
-      "url": "https://indiahabitat.org/Events_details/1460",
-      "venue": "Gulmohar"
-    },
-    {
       "category": "Dance",
-      "date": "2026-10-08",
+      "date": "2026-10-09",
       "description": "",
       "end_date": null,
       "image": null,
@@ -123,10 +67,38 @@
       "source": "ihc",
       "tags": [],
       "time": "7:00 PM",
-      "title": "LalitArpan Festival 2026. Tradition, Transition, Transmission. Day 1",
-      "url": "https://indiahabitat.org/Events_details/1459",
+      "title": "LalitArpan Festival 2026. Tradition, Transition, Transmission. Day 2",
+      "url": "https://indiahabitat.org/Events_details/1461",
       "venue": "The Stein Auditorium"
+    },
+    {
+      "category": "Film",
+      "date": "2026-10-09",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-09/09%20October%202026_Website%20Programme%20Image_1.jpg",
+      "score": 55,
+      "source": "iic",
+      "tags": [],
+      "time": "06:30 PM",
+      "title": "FILM -To Die a Frenchman",
+      "url": "https://iicdelhi.in/programmes/film-die-frenchman",
+      "venue": "Lecture Room I, IIC Annexe"
+    },
+    {
+      "category": "Cultural",
+      "date": "2026-10-09",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-09/09%20October%202026_Website%20Programme%20Image.jpg",
+      "score": 50,
+      "source": "iic",
+      "tags": [],
+      "time": "06:30 PM",
+      "title": "PLAY-  A Man Apart",
+      "url": "https://iicdelhi.in/programmes/play-man-apart",
+      "venue": "C.D. Deshmukh Auditorium, IIC main"
     }
   ],
-  "generated_at": "2026-10-08"
+  "generated_at": "2026-10-09"
 }
