@@ -1,118 +1,6 @@
 {
-  "count": 48,
+  "count": 40,
   "events": [
-    {
-      "category": "Museum",
-      "date": "2026-10-17",
-      "description": "Threshold An exhibition of recent works by Sangam Peshawaria, with her exploration of the human body through charcoal drawings and oil paintings on paper. Focusing on fragments—hands, feet, limbs and gestures—the works invite viewers to complete what remains unseen through memory",
-      "end_date": "2026-10-25",
-      "image": "https://aws-static.iicdelhi.in/2026-10/17%20October%202026_Website%20Programme%20Image_1.jpg",
-      "score": 85,
-      "source": "iic",
-      "tags": [],
-      "time": "11:00 AM",
-      "title": "EXHIBITION- Threshold",
-      "url": "https://iicdelhi.in/programmes/exhibition-threshold",
-      "venue": "Art Gallery, IIC Annexe"
-    },
-    {
-      "category": "Indian Classical",
-      "date": "2026-10-17",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 80,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "Naadaswaram: Journey Through Resonance",
-      "url": "https://indiahabitat.org/Events_details/1477",
-      "venue": "The Theatre"
-    },
-    {
-      "category": "Theatre",
-      "date": "2026-10-17",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 65,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "Dastan-e-Dalla Ayyara & Dastan-e-Musavvir Jadu",
-      "url": "https://indiahabitat.org/Events_details/1478",
-      "venue": "Amphitheatre"
-    },
-    {
-      "category": "Theatre",
-      "date": "2026-10-17",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 65,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:30 PM",
-      "title": "Papa Ji",
-      "url": "https://indiahabitat.org/Events_details/1479",
-      "venue": "The Stein Auditorium"
-    },
-    {
-      "category": "Library Programmes",
-      "date": "2026-10-17",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-09/17%20October%202026_Website%20Programme%20Image.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "11:00 AM",
-      "title": "BOOK DISCUSSION GROUP-From Manuscript to Memory: India’s Contribution to UNESCO Memory of the World Programme",
-      "url": "https://iicdelhi.in/programmes/book-discussion-group-manuscript-memory-indias-contribution-unesco-memory-world",
-      "venue": "C.D. Deshmukh Auditorium, IIC main"
-    },
-    {
-      "category": "Cultural",
-      "date": "2026-10-17",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 50,
-      "source": "ihc",
-      "tags": [],
-      "time": "6:00 PM",
-      "title": "IHC Members Meet",
-      "url": "https://indiahabitat.org/Events_details/1475",
-      "venue": "The Habitat Lounge"
-    },
-    {
-      "category": "Seminars",
-      "date": "2026-10-17",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-10/16%20October%202026_Website%20Programme%20Image_0.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "10:00 AM",
-      "title": "India’s Federal Republic: Regional Parties and the Future of Democracy ( 17th october)",
-      "url": "https://iicdelhi.in/programmes/indias-federal-republic-regional-parties-and-future-democracy-17th-october",
-      "venue": "Conference Room I, IIC main"
-    },
-    {
-      "category": "Film & Talk",
-      "date": "2026-10-17",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 50,
-      "source": "ihc",
-      "tags": [],
-      "time": "6:00 PM",
-      "title": "Monasteries of Rinchen Zangpo",
-      "url": "https://indiahabitat.org/Events_details/1476",
-      "venue": "Online"
-    },
     {
       "category": "Dance",
       "date": "2026-10-18",
@@ -674,5 +562,5 @@
       "venue": "Fountain Lawns, IIC main"
     }
   ],
-  "generated_at": "2026-10-09"
+  "generated_at": "2026-10-10"
 }
