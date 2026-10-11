@@ -1,5 +1,5 @@
 {
-  "count": 6,
+  "count": 9,
   "events": [
     {
       "category": "Museum",
@@ -72,19 +72,61 @@
       "venue": "Bikaner House"
     },
     {
-      "category": "Book Talk",
-      "date": "2026-10-10",
+      "category": "Indian Classical",
+      "date": "2026-10-11",
       "description": "",
       "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-10/Poster_%2010%20Oct%202026%20cancelled.png",
+      "image": null,
+      "score": 80,
+      "source": "ihc",
+      "tags": [],
+      "time": "7:00 PM",
+      "title": "Tabla solo recital",
+      "url": "https://indiahabitat.org/Events_details/1462",
+      "venue": "The Theatre"
+    },
+    {
+      "category": "Book Talk",
+      "date": "2026-10-11",
+      "description": "",
+      "end_date": null,
+      "image": null,
       "score": 75,
+      "source": "ihc",
+      "tags": [],
+      "time": "7:00 PM",
+      "title": "Panchayati Raj and the role of CSOs",
+      "url": "https://indiahabitat.org/Events_details/1463",
+      "venue": "Gulmohar"
+    },
+    {
+      "category": "Theatre",
+      "date": "2026-10-11",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 65,
+      "source": "ihc",
+      "tags": [],
+      "time": "7:30 PM",
+      "title": "The Sightless",
+      "url": "https://indiahabitat.org/Events_details/1464",
+      "venue": "The Stein Auditorium"
+    },
+    {
+      "category": "Seminars",
+      "date": "2026-10-11",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-09/11%20October%202026_Website%20Programme%20Image.jpg",
+      "score": 50,
       "source": "iic",
       "tags": [],
-      "time": "02:00 PM",
-      "title": "Cancelled-Baithak -  On the Occasion of World Mental Health Day 2026",
-      "url": "https://iicdelhi.in/programmes/cancelled-baithak-occasion-world-mental-health-day-2026",
-      "venue": "Conference Room II, IIC main"
+      "time": "02:15 PM",
+      "title": "Celebrating 100 Years of Thich Nhat Hanh: Launching the Year of Mindfulness",
+      "url": "https://iicdelhi.in/programmes/celebrating-100-years-thich-nhat-hanh-launching-year-mindfulness",
+      "venue": "Seminar Rooms 1,2,3"
     }
   ],
-  "generated_at": "2026-10-10"
+  "generated_at": "2026-10-11"
 }

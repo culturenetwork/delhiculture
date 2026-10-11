@@ -1,62 +1,6 @@
 {
-  "count": 35,
+  "count": 34,
   "events": [
-    {
-      "category": "Indian Classical",
-      "date": "2026-10-11",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 80,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "Tabla solo recital",
-      "url": "https://indiahabitat.org/Events_details/1462",
-      "venue": "The Theatre"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-10-11",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 75,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "Panchayati Raj and the role of CSOs",
-      "url": "https://indiahabitat.org/Events_details/1463",
-      "venue": "Gulmohar"
-    },
-    {
-      "category": "Theatre",
-      "date": "2026-10-11",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 65,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:30 PM",
-      "title": "The Sightless",
-      "url": "https://indiahabitat.org/Events_details/1464",
-      "venue": "The Stein Auditorium"
-    },
-    {
-      "category": "Seminars",
-      "date": "2026-10-11",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-09/11%20October%202026_Website%20Programme%20Image.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "02:15 PM",
-      "title": "Celebrating 100 Years of Thich Nhat Hanh: Launching the Year of Mindfulness",
-      "url": "https://iicdelhi.in/programmes/celebrating-100-years-thich-nhat-hanh-launching-year-mindfulness",
-      "venue": "Seminar Rooms 1,2,3"
-    },
     {
       "category": "Museum",
       "date": "2026-10-12",
@@ -70,6 +14,20 @@
       "title": "EXHIBITION-  Nirāmayatā: Healing and Wellbeing in South Asian Texts and Practices",
       "url": "https://iicdelhi.in/programmes/exhibition-niramayata-healing-and-wellbeing-south-asian-texts-and-practices",
       "venue": "Art Gallery, Kamaladevi Complex, IIC"
+    },
+    {
+      "category": "Book Talk",
+      "date": "2026-10-12",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 75,
+      "source": "ihc",
+      "tags": [],
+      "time": "7:00 PM",
+      "title": "Connectivity Through Maritime Corridors: Resilience Amidst Global Uncertainties",
+      "url": "https://indiahabitat.org/Events_details/1501",
+      "venue": "Gulmohar"
     },
     {
       "category": "Book Talk",
@@ -490,7 +448,35 @@
       "title": "Monasteries of Rinchen Zangpo",
       "url": "https://indiahabitat.org/Events_details/1476",
       "venue": "Online"
+    },
+    {
+      "category": "Dance",
+      "date": "2026-10-18",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 70,
+      "source": "ihc",
+      "tags": [],
+      "time": "7:00 PM",
+      "title": "Adi Shakti",
+      "url": "https://indiahabitat.org/Events_details/1500",
+      "venue": "The Stein Auditorium"
+    },
+    {
+      "category": "Theatre",
+      "date": "2026-10-18",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 65,
+      "source": "ihc",
+      "tags": [],
+      "time": "7:00 PM",
+      "title": "Dastan-e-Rahi Masoom Raza",
+      "url": "https://indiahabitat.org/Events_details/1480",
+      "venue": "Amphitheatre"
     }
   ],
-  "generated_at": "2026-10-10"
+  "generated_at": "2026-10-11"
 }
