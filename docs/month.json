@@ -2,34 +2,6 @@
   "count": 36,
   "events": [
     {
-      "category": "Theatre",
-      "date": "2026-10-19",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 65,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:30 PM",
-      "title": "Lapoojhanna",
-      "url": "https://indiahabitat.org/Events_details/1481",
-      "venue": "The Stein Auditorium"
-    },
-    {
-      "category": "Film",
-      "date": "2026-10-19",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-09/19%20October%202026_Website%20Programme%20Image.jpg",
-      "score": 55,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "FILM-  Leo from Chicago",
-      "url": "https://iicdelhi.in/programmes/film-leo-chicago",
-      "venue": "C.D. Deshmukh Auditorium, IIC main"
-    },
-    {
       "category": "Dance",
       "date": "2026-10-21",
       "description": "",
@@ -254,6 +226,20 @@
       "venue": "Gandhi-King Memorial Plaza, IIC main"
     },
     {
+      "category": "Museum",
+      "date": "2026-10-30",
+      "description": "Palms and Parchment: Keralam’s Heritage of Reading and Relics An Exhibition of Literacy, Legacy and the Cultural Treasures of Keralam",
+      "end_date": "2026-11-03",
+      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "score": 85,
+      "source": "iic",
+      "tags": [],
+      "time": "04:00 PM",
+      "title": "THE IIC EXPERIENCE: A FESTIVAL OF THE ARTS- EXHIBITIONS Palms and Parchment: Keralam’s Heritage of Reading and Relics",
+      "url": "https://iicdelhi.in/programmes/iic-experience-festival-arts-exhibitions-palms-and-parchment-keralams-heritage-reading",
+      "venue": "Conference Room I, IIC main"
+    },
+    {
       "category": "Book Talk",
       "date": "2026-10-30",
       "description": "",
@@ -280,6 +266,20 @@
       "title": "Yarn: A Festival of Storytelling through Dance. Day 2",
       "url": "https://indiahabitat.org/Events_details/1496",
       "venue": "The Stein Auditorium"
+    },
+    {
+      "category": "Film",
+      "date": "2026-10-30",
+      "description": "",
+      "end_date": null,
+      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "score": 55,
+      "source": "iic",
+      "tags": [],
+      "time": "08:00 PM",
+      "title": "THE IIC EXPERIENCE: A FESTIVAL OF THE ARTS – 29TH OCTOBER TO 3RD NOVEMBER 2026-FILM FESTIVAL - Stories on Screen",
+      "url": "https://iicdelhi.in/programmes/iic-experience-festival-arts-29th-october-3rd-november-2026-film-festival-stories-screen",
+      "venue": "C.D. Deshmukh Auditorium, IIC main"
     },
     {
       "category": "Cultural",
@@ -506,5 +506,5 @@
       "venue": "Fountain Lawns, IIC main"
     }
   ],
-  "generated_at": "2026-10-11"
+  "generated_at": "2026-10-12"
 }

@@ -1,5 +1,5 @@
 {
-  "count": 79,
+  "count": 75,
   "events": [
     {
       "category": "Museum",
@@ -31,34 +31,6 @@
     },
     {
       "category": "Museum",
-      "date": "2026-10-08",
-      "description": "",
-      "end_date": "2026-10-11",
-      "image": null,
-      "score": 85,
-      "source": "bikanerhouse",
-      "tags": [],
-      "time": null,
-      "title": "WHAT WAS HERE?",
-      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/10",
-      "venue": "Bikaner House"
-    },
-    {
-      "category": "Museum",
-      "date": "2026-10-08",
-      "description": "",
-      "end_date": "2026-10-11",
-      "image": null,
-      "score": 85,
-      "source": "bikanerhouse",
-      "tags": [],
-      "time": null,
-      "title": "Whispers of kashi by Ranadip Mukherjee",
-      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/10",
-      "venue": "Bikaner House"
-    },
-    {
-      "category": "Museum",
       "date": "2026-10-10",
       "description": "",
       "end_date": "2026-10-17",
@@ -70,62 +42,6 @@
       "title": "Sacred Spaces",
       "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/10",
       "venue": "Bikaner House"
-    },
-    {
-      "category": "Indian Classical",
-      "date": "2026-10-11",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 80,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "Tabla solo recital",
-      "url": "https://indiahabitat.org/Events_details/1462",
-      "venue": "The Theatre"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-10-11",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 75,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "Panchayati Raj and the role of CSOs",
-      "url": "https://indiahabitat.org/Events_details/1463",
-      "venue": "Gulmohar"
-    },
-    {
-      "category": "Theatre",
-      "date": "2026-10-11",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 65,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:30 PM",
-      "title": "The Sightless",
-      "url": "https://indiahabitat.org/Events_details/1464",
-      "venue": "The Stein Auditorium"
-    },
-    {
-      "category": "Seminars",
-      "date": "2026-10-11",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-09/11%20October%202026_Website%20Programme%20Image.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "02:15 PM",
-      "title": "Celebrating 100 Years of Thich Nhat Hanh: Launching the Year of Mindfulness",
-      "url": "https://iicdelhi.in/programmes/celebrating-100-years-thich-nhat-hanh-launching-year-mindfulness",
-      "venue": "Seminar Rooms 1,2,3"
     },
     {
       "category": "Museum",
@@ -278,6 +194,20 @@
       "tags": [],
       "time": null,
       "title": "Continiuum",
+      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/10",
+      "venue": "Bikaner House"
+    },
+    {
+      "category": "Museum",
+      "date": "2026-10-14",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 85,
+      "source": "bikanerhouse",
+      "tags": [],
+      "time": null,
+      "title": "Dhol Baje Garba Saje",
       "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/10",
       "venue": "Bikaner House"
     },
@@ -448,20 +378,6 @@
       "title": "Dastan-e-Siya Ram",
       "url": "https://indiahabitat.org/Events_details/1474",
       "venue": "Amphitheatre"
-    },
-    {
-      "category": "Seminars",
-      "date": "2026-10-16",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-10/16%20October%202026_Website%20Programme%20Image.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "10:00 AM",
-      "title": "India’s Federal Republic: Regional Parties and the Future of Democracy (16th october)",
-      "url": "https://iicdelhi.in/programmes/indias-federal-republic-regional-parties-and-future-democracy-16th-october",
-      "venue": "Conference Room I, IIC main"
     },
     {
       "category": "Museum",
@@ -856,6 +772,20 @@
       "venue": "Gandhi-King Memorial Plaza, IIC main"
     },
     {
+      "category": "Museum",
+      "date": "2026-10-30",
+      "description": "Palms and Parchment: Keralam’s Heritage of Reading and Relics An Exhibition of Literacy, Legacy and the Cultural Treasures of Keralam",
+      "end_date": "2026-11-03",
+      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "score": 85,
+      "source": "iic",
+      "tags": [],
+      "time": "04:00 PM",
+      "title": "THE IIC EXPERIENCE: A FESTIVAL OF THE ARTS- EXHIBITIONS Palms and Parchment: Keralam’s Heritage of Reading and Relics",
+      "url": "https://iicdelhi.in/programmes/iic-experience-festival-arts-exhibitions-palms-and-parchment-keralams-heritage-reading",
+      "venue": "Conference Room I, IIC main"
+    },
+    {
       "category": "Book Talk",
       "date": "2026-10-30",
       "description": "",
@@ -882,6 +812,20 @@
       "title": "Yarn: A Festival of Storytelling through Dance. Day 2",
       "url": "https://indiahabitat.org/Events_details/1496",
       "venue": "The Stein Auditorium"
+    },
+    {
+      "category": "Film",
+      "date": "2026-10-30",
+      "description": "",
+      "end_date": null,
+      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "score": 55,
+      "source": "iic",
+      "tags": [],
+      "time": "08:00 PM",
+      "title": "THE IIC EXPERIENCE: A FESTIVAL OF THE ARTS – 29TH OCTOBER TO 3RD NOVEMBER 2026-FILM FESTIVAL - Stories on Screen",
+      "url": "https://iicdelhi.in/programmes/iic-experience-festival-arts-29th-october-3rd-november-2026-film-festival-stories-screen",
+      "venue": "C.D. Deshmukh Auditorium, IIC main"
     },
     {
       "category": "Cultural",
@@ -1108,5 +1052,5 @@
       "venue": "Fountain Lawns, IIC main"
     }
   ],
-  "generated_at": "2026-10-11"
+  "generated_at": "2026-10-12"
 }

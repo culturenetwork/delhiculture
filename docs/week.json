@@ -1,76 +1,6 @@
 {
-  "count": 34,
+  "count": 31,
   "events": [
-    {
-      "category": "Museum",
-      "date": "2026-10-12",
-      "description": "The exhibition will be inaugurated by Chief Guest Dr S. Jaishankar, Hon. Minister of External Affairs, Govt. of India  at 18:00 hrs on 12th October, 2026",
-      "end_date": "2026-10-18",
-      "image": "https://aws-static.iicdelhi.in/2026-10/6%20October%202026_Website%20Programme%20Image_1_0.jpg",
-      "score": 85,
-      "source": "iic",
-      "tags": [],
-      "time": "06:00 PM",
-      "title": "EXHIBITION-  Nirāmayatā: Healing and Wellbeing in South Asian Texts and Practices",
-      "url": "https://iicdelhi.in/programmes/exhibition-niramayata-healing-and-wellbeing-south-asian-texts-and-practices",
-      "venue": "Art Gallery, Kamaladevi Complex, IIC"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-10-12",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 75,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "Connectivity Through Maritime Corridors: Resilience Amidst Global Uncertainties",
-      "url": "https://indiahabitat.org/Events_details/1501",
-      "venue": "Gulmohar"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-10-12",
-      "description": "",
-      "end_date": null,
-      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "The Contemporary World Crisis: Where do we go from here?",
-      "url": "https://iicdelhi.in/programmes/contemporary-world-crisis-where-do-we-go-here",
-      "venue": "Conference Room I, IIC main"
-    },
-    {
-      "category": "Library Programmes",
-      "date": "2026-10-12",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-10/12%20October%202026_Website%20Programme%20Image_1.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "06:00 PM",
-      "title": "BOOK DISCUSSION GROUP-   Main Ek Gurezaan Lamha Hun: Kathak Guru Shovana Narayan",
-      "url": "https://iicdelhi.in/programmes/book-discussion-group-main-ek-gurezaan-lamha-hun-kathak-guru-shovana-narayan",
-      "venue": "Conference Room II, IIC main"
-    },
-    {
-      "category": "Seminars",
-      "date": "2026-10-12",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-09/12%20October%202026_Website%20Programme%20Image.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "10:30 AM",
-      "title": "Syncretic Traditions of the Subcontinent: Voices Past & Present (12th October)",
-      "url": "https://iicdelhi.in/programmes/syncretic-traditions-subcontinent-voices-past-present-12th-october",
-      "venue": "Seminar Rooms 1,2,3"
-    },
     {
       "category": "Book Talk",
       "date": "2026-10-13",
@@ -152,6 +82,20 @@
       "tags": [],
       "time": null,
       "title": "Continiuum",
+      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/10",
+      "venue": "Bikaner House"
+    },
+    {
+      "category": "Museum",
+      "date": "2026-10-14",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 85,
+      "source": "bikanerhouse",
+      "tags": [],
+      "time": null,
+      "title": "Dhol Baje Garba Saje",
       "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/10",
       "venue": "Bikaner House"
     },
@@ -324,20 +268,6 @@
       "venue": "Amphitheatre"
     },
     {
-      "category": "Seminars",
-      "date": "2026-10-16",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-10/16%20October%202026_Website%20Programme%20Image.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "10:00 AM",
-      "title": "India’s Federal Republic: Regional Parties and the Future of Democracy (16th october)",
-      "url": "https://iicdelhi.in/programmes/indias-federal-republic-regional-parties-and-future-democracy-16th-october",
-      "venue": "Conference Room I, IIC main"
-    },
-    {
       "category": "Museum",
       "date": "2026-10-17",
       "description": "Threshold An exhibition of recent works by Sangam Peshawaria, with her exploration of the human body through charcoal drawings and oil paintings on paper. Focusing on fragments—hands, feet, limbs and gestures—the works invite viewers to complete what remains unseen through memory",
@@ -476,7 +406,35 @@
       "title": "Dastan-e-Rahi Masoom Raza",
       "url": "https://indiahabitat.org/Events_details/1480",
       "venue": "Amphitheatre"
+    },
+    {
+      "category": "Theatre",
+      "date": "2026-10-19",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 65,
+      "source": "ihc",
+      "tags": [],
+      "time": "7:30 PM",
+      "title": "Lapoojhanna",
+      "url": "https://indiahabitat.org/Events_details/1481",
+      "venue": "The Stein Auditorium"
+    },
+    {
+      "category": "Film",
+      "date": "2026-10-19",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-09/19%20October%202026_Website%20Programme%20Image.jpg",
+      "score": 55,
+      "source": "iic",
+      "tags": [],
+      "time": "06:30 PM",
+      "title": "FILM-  Leo from Chicago",
+      "url": "https://iicdelhi.in/programmes/film-leo-chicago",
+      "venue": "C.D. Deshmukh Auditorium, IIC main"
     }
   ],
-  "generated_at": "2026-10-11"
+  "generated_at": "2026-10-12"
 }

@@ -1,5 +1,5 @@
 {
-  "count": 9,
+  "count": 8,
   "events": [
     {
       "category": "Museum",
@@ -31,34 +31,6 @@
     },
     {
       "category": "Museum",
-      "date": "2026-10-08",
-      "description": "",
-      "end_date": "2026-10-11",
-      "image": null,
-      "score": 85,
-      "source": "bikanerhouse",
-      "tags": [],
-      "time": null,
-      "title": "WHAT WAS HERE?",
-      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/10",
-      "venue": "Bikaner House"
-    },
-    {
-      "category": "Museum",
-      "date": "2026-10-08",
-      "description": "",
-      "end_date": "2026-10-11",
-      "image": null,
-      "score": 85,
-      "source": "bikanerhouse",
-      "tags": [],
-      "time": null,
-      "title": "Whispers of kashi by Ranadip Mukherjee",
-      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/10",
-      "venue": "Bikaner House"
-    },
-    {
-      "category": "Museum",
       "date": "2026-10-10",
       "description": "",
       "end_date": "2026-10-17",
@@ -72,22 +44,22 @@
       "venue": "Bikaner House"
     },
     {
-      "category": "Indian Classical",
-      "date": "2026-10-11",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 80,
-      "source": "ihc",
+      "category": "Museum",
+      "date": "2026-10-12",
+      "description": "The exhibition will be inaugurated by Chief Guest Dr S. Jaishankar, Hon. Minister of External Affairs, Govt. of India  at 18:00 hrs on 12th October, 2026",
+      "end_date": "2026-10-18",
+      "image": "https://aws-static.iicdelhi.in/2026-10/6%20October%202026_Website%20Programme%20Image_1_0.jpg",
+      "score": 85,
+      "source": "iic",
       "tags": [],
-      "time": "7:00 PM",
-      "title": "Tabla solo recital",
-      "url": "https://indiahabitat.org/Events_details/1462",
-      "venue": "The Theatre"
+      "time": "06:00 PM",
+      "title": "EXHIBITION-  Nirāmayatā: Healing and Wellbeing in South Asian Texts and Practices",
+      "url": "https://iicdelhi.in/programmes/exhibition-niramayata-healing-and-wellbeing-south-asian-texts-and-practices",
+      "venue": "Art Gallery, Kamaladevi Complex, IIC"
     },
     {
       "category": "Book Talk",
-      "date": "2026-10-11",
+      "date": "2026-10-12",
       "description": "",
       "end_date": null,
       "image": null,
@@ -95,38 +67,52 @@
       "source": "ihc",
       "tags": [],
       "time": "7:00 PM",
-      "title": "Panchayati Raj and the role of CSOs",
-      "url": "https://indiahabitat.org/Events_details/1463",
+      "title": "Connectivity Through Maritime Corridors: Resilience Amidst Global Uncertainties",
+      "url": "https://indiahabitat.org/Events_details/1501",
       "venue": "Gulmohar"
     },
     {
-      "category": "Theatre",
-      "date": "2026-10-11",
+      "category": "Book Talk",
+      "date": "2026-10-12",
       "description": "",
       "end_date": null,
-      "image": null,
-      "score": 65,
-      "source": "ihc",
+      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "score": 75,
+      "source": "iic",
       "tags": [],
-      "time": "7:30 PM",
-      "title": "The Sightless",
-      "url": "https://indiahabitat.org/Events_details/1464",
-      "venue": "The Stein Auditorium"
+      "time": "06:30 PM",
+      "title": "The Contemporary World Crisis: Where do we go from here?",
+      "url": "https://iicdelhi.in/programmes/contemporary-world-crisis-where-do-we-go-here",
+      "venue": "Conference Room I, IIC main"
     },
     {
-      "category": "Seminars",
-      "date": "2026-10-11",
+      "category": "Library Programmes",
+      "date": "2026-10-12",
       "description": "",
       "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-09/11%20October%202026_Website%20Programme%20Image.jpg",
+      "image": "https://aws-static.iicdelhi.in/2026-10/12%20October%202026_Website%20Programme%20Image_1.jpg",
       "score": 50,
       "source": "iic",
       "tags": [],
-      "time": "02:15 PM",
-      "title": "Celebrating 100 Years of Thich Nhat Hanh: Launching the Year of Mindfulness",
-      "url": "https://iicdelhi.in/programmes/celebrating-100-years-thich-nhat-hanh-launching-year-mindfulness",
+      "time": "06:00 PM",
+      "title": "BOOK DISCUSSION GROUP-   Main Ek Gurezaan Lamha Hun: Kathak Guru Shovana Narayan",
+      "url": "https://iicdelhi.in/programmes/book-discussion-group-main-ek-gurezaan-lamha-hun-kathak-guru-shovana-narayan",
+      "venue": "Conference Room II, IIC main"
+    },
+    {
+      "category": "Seminars",
+      "date": "2026-10-12",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-09/12%20October%202026_Website%20Programme%20Image.jpg",
+      "score": 50,
+      "source": "iic",
+      "tags": [],
+      "time": "10:30 AM",
+      "title": "Syncretic Traditions of the Subcontinent: Voices Past & Present (12th October)",
+      "url": "https://iicdelhi.in/programmes/syncretic-traditions-subcontinent-voices-past-present-12th-october",
       "venue": "Seminar Rooms 1,2,3"
     }
   ],
-  "generated_at": "2026-10-11"
+  "generated_at": "2026-10-12"
 }
