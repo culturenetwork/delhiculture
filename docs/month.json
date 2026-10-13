@@ -1,5 +1,5 @@
 {
-  "count": 36,
+  "count": 37,
   "events": [
     {
       "category": "Dance",
@@ -28,6 +28,20 @@
       "title": "Yamuna – Life Eternal",
       "url": "https://iicdelhi.in/programmes/yamuna-life-eternal",
       "venue": "C.D. Deshmukh Auditorium, IIC main"
+    },
+    {
+      "category": "Museum",
+      "date": "2026-10-22",
+      "description": "",
+      "end_date": "2026-10-25",
+      "image": null,
+      "score": 85,
+      "source": "bikanerhouse",
+      "tags": [],
+      "time": null,
+      "title": "No Idea Is Final",
+      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/10",
+      "venue": "Bikaner House"
     },
     {
       "category": "Indian Classical",
@@ -506,5 +520,5 @@
       "venue": "Fountain Lawns, IIC main"
     }
   ],
-  "generated_at": "2026-10-12"
+  "generated_at": "2026-10-13"
 }

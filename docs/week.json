@@ -1,76 +1,6 @@
 {
-  "count": 31,
+  "count": 26,
   "events": [
-    {
-      "category": "Book Talk",
-      "date": "2026-10-13",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 75,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "Anand Kumaraswamy: Tatva, Kala aur Lok ki Antarbhut Ekta",
-      "url": "https://indiahabitat.org/Events_details/1467",
-      "venue": "Gulmohar"
-    },
-    {
-      "category": "Cultural",
-      "date": "2026-10-13",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-10/13%20October%202026_Website%20Programme%20Image_1.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "Hindustani Vocal Recital",
-      "url": "https://iicdelhi.in/programmes/hindustani-vocal-recital-217",
-      "venue": "C.D. Deshmukh Auditorium, IIC main"
-    },
-    {
-      "category": "Cultural",
-      "date": "2026-10-13",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-10/13%20October%202026_Website%20Programme%20Image_0.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "09:00 AM",
-      "title": "INTACH NATIONAL HERITAGE QUIZ 2026",
-      "url": "https://iicdelhi.in/programmes/intach-national-heritage-quiz-2026",
-      "venue": "Multipurpose Hall, Kamaladevi Complex, IIC"
-    },
-    {
-      "category": "Dance & Music",
-      "date": "2026-10-13",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 50,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "Shyam Priya National Dance and Music Festival 2026",
-      "url": "https://indiahabitat.org/Events_details/1466",
-      "venue": "The Stein Auditorium"
-    },
-    {
-      "category": "Seminars",
-      "date": "2026-10-13",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-09/12%20October%202026_Website%20Programme%20Image_0.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "10:30 AM",
-      "title": "Syncretic Traditions of the Subcontinent: Voices Past & Present (13th October)",
-      "url": "https://iicdelhi.in/programmes/syncretic-traditions-subcontinent-voices-past-present-13th-october",
-      "venue": "Seminar Rooms 1,2,3"
-    },
     {
       "category": "Museum",
       "date": "2026-10-14",
@@ -82,20 +12,6 @@
       "tags": [],
       "time": null,
       "title": "Continiuum",
-      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/10",
-      "venue": "Bikaner House"
-    },
-    {
-      "category": "Museum",
-      "date": "2026-10-14",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 85,
-      "source": "bikanerhouse",
-      "tags": [],
-      "time": null,
-      "title": "Dhol Baje Garba Saje",
       "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/10",
       "venue": "Bikaner House"
     },
@@ -268,6 +184,20 @@
       "venue": "Amphitheatre"
     },
     {
+      "category": "Seminars",
+      "date": "2026-10-16",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-10/16%20October%202026_Website%20Programme%20Image.jpg",
+      "score": 50,
+      "source": "iic",
+      "tags": [],
+      "time": "10:00 AM",
+      "title": "India’s Federal Republic: Regional Parties and the Future of Democracy (16th october)",
+      "url": "https://iicdelhi.in/programmes/indias-federal-republic-regional-parties-and-future-democracy-16th-october",
+      "venue": "Conference Room I, IIC main"
+    },
+    {
       "category": "Museum",
       "date": "2026-10-17",
       "description": "Threshold An exhibition of recent works by Sangam Peshawaria, with her exploration of the human body through charcoal drawings and oil paintings on paper. Focusing on fragments—hands, feet, limbs and gestures—the works invite viewers to complete what remains unseen through memory",
@@ -436,5 +366,5 @@
       "venue": "C.D. Deshmukh Auditorium, IIC main"
     }
   ],
-  "generated_at": "2026-10-12"
+  "generated_at": "2026-10-13"
 }
