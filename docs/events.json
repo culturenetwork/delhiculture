@@ -1,5 +1,5 @@
 {
-  "count": 71,
+  "count": 72,
   "events": [
     {
       "category": "Museum",
@@ -42,76 +42,6 @@
       "title": "EXHIBITION-  Nirāmayatā: Healing and Wellbeing in South Asian Texts and Practices",
       "url": "https://iicdelhi.in/programmes/exhibition-niramayata-healing-and-wellbeing-south-asian-texts-and-practices",
       "venue": "Art Gallery, Kamaladevi Complex, IIC"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-10-13",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 75,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "Anand Kumaraswamy: Tatva, Kala aur Lok ki Antarbhut Ekta",
-      "url": "https://indiahabitat.org/Events_details/1467",
-      "venue": "Gulmohar"
-    },
-    {
-      "category": "Cultural",
-      "date": "2026-10-13",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-10/13%20October%202026_Website%20Programme%20Image_1.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "Hindustani Vocal Recital",
-      "url": "https://iicdelhi.in/programmes/hindustani-vocal-recital-217",
-      "venue": "C.D. Deshmukh Auditorium, IIC main"
-    },
-    {
-      "category": "Cultural",
-      "date": "2026-10-13",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-10/13%20October%202026_Website%20Programme%20Image_0.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "09:00 AM",
-      "title": "INTACH NATIONAL HERITAGE QUIZ 2026",
-      "url": "https://iicdelhi.in/programmes/intach-national-heritage-quiz-2026",
-      "venue": "Multipurpose Hall, Kamaladevi Complex, IIC"
-    },
-    {
-      "category": "Dance & Music",
-      "date": "2026-10-13",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 50,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "Shyam Priya National Dance and Music Festival 2026",
-      "url": "https://indiahabitat.org/Events_details/1466",
-      "venue": "The Stein Auditorium"
-    },
-    {
-      "category": "Seminars",
-      "date": "2026-10-13",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-09/12%20October%202026_Website%20Programme%20Image_0.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "10:30 AM",
-      "title": "Syncretic Traditions of the Subcontinent: Voices Past & Present (13th October)",
-      "url": "https://iicdelhi.in/programmes/syncretic-traditions-subcontinent-voices-past-present-13th-october",
-      "venue": "Seminar Rooms 1,2,3"
     },
     {
       "category": "Museum",
@@ -168,6 +98,20 @@
       "title": "Jyotirlinga- The Light of Intrigue",
       "url": "https://indiahabitat.org/Events_details/1468",
       "venue": "The Stein Auditorium"
+    },
+    {
+      "category": "Museum",
+      "date": "2026-10-15",
+      "description": "",
+      "end_date": "2026-10-19",
+      "image": null,
+      "score": 85,
+      "source": "bikanerhouse",
+      "tags": [],
+      "time": null,
+      "title": "Grammar of Colour",
+      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/10",
+      "venue": "Bikaner House"
     },
     {
       "category": "Museum",
@@ -450,6 +394,20 @@
       "venue": "Amphitheatre"
     },
     {
+      "category": "Book Talk",
+      "date": "2026-10-19",
+      "description": "",
+      "end_date": null,
+      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "score": 75,
+      "source": "iic",
+      "tags": [],
+      "time": "02:00 PM",
+      "title": "Rescheduled --Baithak -  On the Occasion of World Mental Health Day 2026",
+      "url": "https://iicdelhi.in/programmes/rescheduled-baithak-occasion-world-mental-health-day-2026",
+      "venue": "Conference Room II, IIC main"
+    },
+    {
       "category": "Theatre",
       "date": "2026-10-19",
       "description": "",
@@ -501,8 +459,8 @@
       "source": "iic",
       "tags": [],
       "time": "06:30 PM",
-      "title": "Yamuna – Life Eternal",
-      "url": "https://iicdelhi.in/programmes/yamuna-life-eternal",
+      "title": "Postponed- Yamuna – Life Eternal",
+      "url": "https://iicdelhi.in/programmes/postponed-yamuna-life-eternal",
       "venue": "C.D. Deshmukh Auditorium, IIC main"
     },
     {
@@ -516,6 +474,20 @@
       "tags": [],
       "time": null,
       "title": "No Idea Is Final",
+      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/10",
+      "venue": "Bikaner House"
+    },
+    {
+      "category": "Museum",
+      "date": "2026-10-22",
+      "description": "",
+      "end_date": "2026-10-25",
+      "image": null,
+      "score": 85,
+      "source": "bikanerhouse",
+      "tags": [],
+      "time": null,
+      "title": "Satyam Shivam Sundaram",
       "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/10",
       "venue": "Bikaner House"
     },
@@ -562,6 +534,20 @@
       "venue": "The Stein Auditorium"
     },
     {
+      "category": "Museum",
+      "date": "2026-10-24",
+      "description": "",
+      "end_date": "2026-10-25",
+      "image": null,
+      "score": 85,
+      "source": "bikanerhouse",
+      "tags": [],
+      "time": null,
+      "title": "ELSA Diwali Utsav 2026",
+      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/10",
+      "venue": "Bikaner House"
+    },
+    {
       "category": "Indian Classical",
       "date": "2026-10-25",
       "description": "",
@@ -602,6 +588,34 @@
       "title": "The Divine Within: A Kathak Odyssey",
       "url": "https://indiahabitat.org/Events_details/1489",
       "venue": "The Stein Auditorium"
+    },
+    {
+      "category": "Museum",
+      "date": "2026-10-27",
+      "description": "",
+      "end_date": "2026-11-01",
+      "image": null,
+      "score": 85,
+      "source": "bikanerhouse",
+      "tags": [],
+      "time": null,
+      "title": "Capturing The Multiverse",
+      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/10",
+      "venue": "Bikaner House"
+    },
+    {
+      "category": "Museum",
+      "date": "2026-10-27",
+      "description": "",
+      "end_date": "2026-11-01",
+      "image": null,
+      "score": 85,
+      "source": "bikanerhouse",
+      "tags": [],
+      "time": null,
+      "title": "Indigo: The Blue Gold II",
+      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/10",
+      "venue": "Bikaner House"
     },
     {
       "category": "Film",
@@ -996,5 +1010,5 @@
       "venue": "Fountain Lawns, IIC main"
     }
   ],
-  "generated_at": "2026-10-13"
+  "generated_at": "2026-10-14"
 }

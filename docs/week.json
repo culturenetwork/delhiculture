@@ -3,59 +3,17 @@
   "events": [
     {
       "category": "Museum",
-      "date": "2026-10-14",
+      "date": "2026-10-15",
       "description": "",
-      "end_date": "2026-10-18",
+      "end_date": "2026-10-19",
       "image": null,
       "score": 85,
       "source": "bikanerhouse",
       "tags": [],
       "time": null,
-      "title": "Continiuum",
+      "title": "Grammar of Colour",
       "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/10",
       "venue": "Bikaner House"
-    },
-    {
-      "category": "Library Programmes",
-      "date": "2026-10-14",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-09/14%20October%202026_Website%20Programme%20Image.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "06:00 PM",
-      "title": "BOOK DISCUSSION GROUP  -The Duel: Two Marksmen; One Battleground Kashmir",
-      "url": "https://iicdelhi.in/programmes/book-discussion-group-duel-two-marksmen-one-battleground-kashmir",
-      "venue": "Conference Room I, IIC main"
-    },
-    {
-      "category": "Film Club",
-      "date": "2026-10-14",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-10/14%20October%202026_Website%20Programme%20Image_1_0.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "IIC Film Club -  Ivan The Terrible — Part II: The Boyars’ Plot",
-      "url": "https://iicdelhi.in/programmes/iic-film-club-ivan-terrible-part-ii-boyars-plot",
-      "venue": "C.D. Deshmukh Auditorium, IIC main"
-    },
-    {
-      "category": "Dance & Music",
-      "date": "2026-10-14",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 50,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "Jyotirlinga- The Light of Intrigue",
-      "url": "https://indiahabitat.org/Events_details/1468",
-      "venue": "The Stein Auditorium"
     },
     {
       "category": "Museum",
@@ -338,6 +296,20 @@
       "venue": "Amphitheatre"
     },
     {
+      "category": "Book Talk",
+      "date": "2026-10-19",
+      "description": "",
+      "end_date": null,
+      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "score": 75,
+      "source": "iic",
+      "tags": [],
+      "time": "02:00 PM",
+      "title": "Rescheduled --Baithak -  On the Occasion of World Mental Health Day 2026",
+      "url": "https://iicdelhi.in/programmes/rescheduled-baithak-occasion-world-mental-health-day-2026",
+      "venue": "Conference Room II, IIC main"
+    },
+    {
       "category": "Theatre",
       "date": "2026-10-19",
       "description": "",
@@ -364,7 +336,35 @@
       "title": "FILM-  Leo from Chicago",
       "url": "https://iicdelhi.in/programmes/film-leo-chicago",
       "venue": "C.D. Deshmukh Auditorium, IIC main"
+    },
+    {
+      "category": "Dance",
+      "date": "2026-10-21",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 70,
+      "source": "ihc",
+      "tags": [],
+      "time": "7:00 PM",
+      "title": "Vedanta Lahiri",
+      "url": "https://indiahabitat.org/Events_details/1483",
+      "venue": "The Stein Auditorium"
+    },
+    {
+      "category": "Cultural",
+      "date": "2026-10-21",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-10/21%20October%202026_Website%20Programme%20Image.jpg",
+      "score": 50,
+      "source": "iic",
+      "tags": [],
+      "time": "06:30 PM",
+      "title": "Postponed- Yamuna – Life Eternal",
+      "url": "https://iicdelhi.in/programmes/postponed-yamuna-life-eternal",
+      "venue": "C.D. Deshmukh Auditorium, IIC main"
     }
   ],
-  "generated_at": "2026-10-13"
+  "generated_at": "2026-10-14"
 }

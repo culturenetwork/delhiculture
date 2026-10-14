@@ -1,5 +1,5 @@
 {
-  "count": 8,
+  "count": 7,
   "events": [
     {
       "category": "Museum",
@@ -44,50 +44,50 @@
       "venue": "Art Gallery, Kamaladevi Complex, IIC"
     },
     {
-      "category": "Book Talk",
-      "date": "2026-10-13",
+      "category": "Museum",
+      "date": "2026-10-14",
       "description": "",
-      "end_date": null,
+      "end_date": "2026-10-18",
       "image": null,
-      "score": 75,
-      "source": "ihc",
+      "score": 85,
+      "source": "bikanerhouse",
       "tags": [],
-      "time": "7:00 PM",
-      "title": "Anand Kumaraswamy: Tatva, Kala aur Lok ki Antarbhut Ekta",
-      "url": "https://indiahabitat.org/Events_details/1467",
-      "venue": "Gulmohar"
+      "time": null,
+      "title": "Continiuum",
+      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/10",
+      "venue": "Bikaner House"
     },
     {
-      "category": "Cultural",
-      "date": "2026-10-13",
+      "category": "Library Programmes",
+      "date": "2026-10-14",
       "description": "",
       "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-10/13%20October%202026_Website%20Programme%20Image_1.jpg",
+      "image": "https://aws-static.iicdelhi.in/2026-09/14%20October%202026_Website%20Programme%20Image.jpg",
+      "score": 50,
+      "source": "iic",
+      "tags": [],
+      "time": "06:00 PM",
+      "title": "BOOK DISCUSSION GROUP  -The Duel: Two Marksmen; One Battleground Kashmir",
+      "url": "https://iicdelhi.in/programmes/book-discussion-group-duel-two-marksmen-one-battleground-kashmir",
+      "venue": "Conference Room I, IIC main"
+    },
+    {
+      "category": "Film Club",
+      "date": "2026-10-14",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-10/14%20October%202026_Website%20Programme%20Image_1_0.jpg",
       "score": 50,
       "source": "iic",
       "tags": [],
       "time": "06:30 PM",
-      "title": "Hindustani Vocal Recital",
-      "url": "https://iicdelhi.in/programmes/hindustani-vocal-recital-217",
+      "title": "IIC Film Club -  Ivan The Terrible — Part II: The Boyars’ Plot",
+      "url": "https://iicdelhi.in/programmes/iic-film-club-ivan-terrible-part-ii-boyars-plot",
       "venue": "C.D. Deshmukh Auditorium, IIC main"
     },
     {
-      "category": "Cultural",
-      "date": "2026-10-13",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-10/13%20October%202026_Website%20Programme%20Image_0.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "09:00 AM",
-      "title": "INTACH NATIONAL HERITAGE QUIZ 2026",
-      "url": "https://iicdelhi.in/programmes/intach-national-heritage-quiz-2026",
-      "venue": "Multipurpose Hall, Kamaladevi Complex, IIC"
-    },
-    {
       "category": "Dance & Music",
-      "date": "2026-10-13",
+      "date": "2026-10-14",
       "description": "",
       "end_date": null,
       "image": null,
@@ -95,24 +95,10 @@
       "source": "ihc",
       "tags": [],
       "time": "7:00 PM",
-      "title": "Shyam Priya National Dance and Music Festival 2026",
-      "url": "https://indiahabitat.org/Events_details/1466",
+      "title": "Jyotirlinga- The Light of Intrigue",
+      "url": "https://indiahabitat.org/Events_details/1468",
       "venue": "The Stein Auditorium"
-    },
-    {
-      "category": "Seminars",
-      "date": "2026-10-13",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-09/12%20October%202026_Website%20Programme%20Image_0.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "10:30 AM",
-      "title": "Syncretic Traditions of the Subcontinent: Voices Past & Present (13th October)",
-      "url": "https://iicdelhi.in/programmes/syncretic-traditions-subcontinent-voices-past-present-13th-october",
-      "venue": "Seminar Rooms 1,2,3"
     }
   ],
-  "generated_at": "2026-10-13"
+  "generated_at": "2026-10-14"
 }
