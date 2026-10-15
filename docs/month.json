@@ -1,48 +1,6 @@
 {
-  "count": 39,
+  "count": 36,
   "events": [
-    {
-      "category": "Museum",
-      "date": "2026-10-22",
-      "description": "",
-      "end_date": "2026-10-25",
-      "image": null,
-      "score": 85,
-      "source": "bikanerhouse",
-      "tags": [],
-      "time": null,
-      "title": "No Idea Is Final",
-      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/10",
-      "venue": "Bikaner House"
-    },
-    {
-      "category": "Museum",
-      "date": "2026-10-22",
-      "description": "",
-      "end_date": "2026-10-25",
-      "image": null,
-      "score": 85,
-      "source": "bikanerhouse",
-      "tags": [],
-      "time": null,
-      "title": "Satyam Shivam Sundaram",
-      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/10",
-      "venue": "Bikaner House"
-    },
-    {
-      "category": "Indian Classical",
-      "date": "2026-10-22",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 80,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "Aarambh",
-      "url": "https://indiahabitat.org/Events_details/1484",
-      "venue": "The Theatre"
-    },
     {
       "category": "Book Talk",
       "date": "2026-10-23",
@@ -548,5 +506,5 @@
       "venue": "Fountain Lawns, IIC main"
     }
   ],
-  "generated_at": "2026-10-14"
+  "generated_at": "2026-10-15"
 }

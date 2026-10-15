@@ -1,90 +1,6 @@
 {
-  "count": 26,
+  "count": 25,
   "events": [
-    {
-      "category": "Museum",
-      "date": "2026-10-15",
-      "description": "",
-      "end_date": "2026-10-19",
-      "image": null,
-      "score": 85,
-      "source": "bikanerhouse",
-      "tags": [],
-      "time": null,
-      "title": "Grammar of Colour",
-      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/10",
-      "venue": "Bikaner House"
-    },
-    {
-      "category": "Museum",
-      "date": "2026-10-15",
-      "description": "",
-      "end_date": "2026-10-19",
-      "image": null,
-      "score": 85,
-      "source": "bikanerhouse",
-      "tags": [],
-      "time": null,
-      "title": "Maximalist- Riot of Objects",
-      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/10",
-      "venue": "Bikaner House"
-    },
-    {
-      "category": "Indian Classical",
-      "date": "2026-10-15",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 80,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "Samarpan. Day 1",
-      "url": "https://indiahabitat.org/Events_details/1469",
-      "venue": "The Theatre"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-10-15",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 75,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "Yoga of Self-Perfection: Sri Aurobindo's Integral Path",
-      "url": "https://indiahabitat.org/Events_details/1471",
-      "venue": "Gulmohar"
-    },
-    {
-      "category": "Dance",
-      "date": "2026-10-15",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 70,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "Rhythms of Living Heritage: A National Folk Dance Festival. Day 1",
-      "url": "https://indiahabitat.org/Events_details/1470",
-      "venue": "The Stein Auditorium"
-    },
-    {
-      "category": "Cultural",
-      "date": "2026-10-15",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-10/POSTER_15%20October%202026%20revised.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "FOLK DANCE AND MUSIC PERFORMANCE - Echoes of Mizoram and Manipuri Tradition",
-      "url": "https://iicdelhi.in/programmes/folk-dance-and-music-performance-echoes-mizoram-and-manipuri-tradition",
-      "venue": "C.D. Deshmukh Auditorium, IIC main"
-    },
     {
       "category": "Indian Classical",
       "date": "2026-10-16",
@@ -338,6 +254,20 @@
       "venue": "C.D. Deshmukh Auditorium, IIC main"
     },
     {
+      "category": "Library Programmes",
+      "date": "2026-10-19",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-10/19%20OCT%20BDG.jpg",
+      "score": 50,
+      "source": "iic",
+      "tags": [],
+      "time": "06:00 PM",
+      "title": "Book Discussion - I Dared to Dial Differently: An Insider's Account of the IAS",
+      "url": "https://iicdelhi.in/programmes/book-discussion-i-dared-dial-differently-insiders-account-ias",
+      "venue": "Multipurpose Hall, Kamaladevi Complex, IIC"
+    },
+    {
       "category": "Dance",
       "date": "2026-10-21",
       "description": "",
@@ -364,7 +294,63 @@
       "title": "Postponed- Yamuna – Life Eternal",
       "url": "https://iicdelhi.in/programmes/postponed-yamuna-life-eternal",
       "venue": "C.D. Deshmukh Auditorium, IIC main"
+    },
+    {
+      "category": "Museum",
+      "date": "2026-10-22",
+      "description": "",
+      "end_date": "2026-10-25",
+      "image": null,
+      "score": 85,
+      "source": "bikanerhouse",
+      "tags": [],
+      "time": null,
+      "title": "Legacy and Beyond- II",
+      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/10",
+      "venue": "Bikaner House"
+    },
+    {
+      "category": "Museum",
+      "date": "2026-10-22",
+      "description": "",
+      "end_date": "2026-10-25",
+      "image": null,
+      "score": 85,
+      "source": "bikanerhouse",
+      "tags": [],
+      "time": null,
+      "title": "No Idea Is Final",
+      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/10",
+      "venue": "Bikaner House"
+    },
+    {
+      "category": "Museum",
+      "date": "2026-10-22",
+      "description": "",
+      "end_date": "2026-10-25",
+      "image": null,
+      "score": 85,
+      "source": "bikanerhouse",
+      "tags": [],
+      "time": null,
+      "title": "Satyam Shivam Sundaram",
+      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/10",
+      "venue": "Bikaner House"
+    },
+    {
+      "category": "Indian Classical",
+      "date": "2026-10-22",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 80,
+      "source": "ihc",
+      "tags": [],
+      "time": "7:00 PM",
+      "title": "Aarambh",
+      "url": "https://indiahabitat.org/Events_details/1484",
+      "venue": "The Theatre"
     }
   ],
-  "generated_at": "2026-10-14"
+  "generated_at": "2026-10-15"
 }

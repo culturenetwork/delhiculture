@@ -1,20 +1,6 @@
 {
-  "count": 72,
+  "count": 70,
   "events": [
-    {
-      "category": "Museum",
-      "date": "2026-10-08",
-      "description": "The Shape of Memory Artworks by Prasoon Poddar, contemporary artist whose practice explores memory, human relationships and the cultural significance of everyday objects and rituals.",
-      "end_date": "2026-10-14",
-      "image": "https://aws-static.iicdelhi.in/2026-09/08%20October%202026_Website%20Programme%20Image_1_0.jpg",
-      "score": 85,
-      "source": "iic",
-      "tags": [],
-      "time": "11:00 AM",
-      "title": "EXHIBITION - The Shape of Memory",
-      "url": "https://iicdelhi.in/programmes/exhibition-shape-memory",
-      "venue": "Art Gallery, IIC Annexe"
-    },
     {
       "category": "Museum",
       "date": "2026-10-10",
@@ -56,48 +42,6 @@
       "title": "Continiuum",
       "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/10",
       "venue": "Bikaner House"
-    },
-    {
-      "category": "Library Programmes",
-      "date": "2026-10-14",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-09/14%20October%202026_Website%20Programme%20Image.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "06:00 PM",
-      "title": "BOOK DISCUSSION GROUP  -The Duel: Two Marksmen; One Battleground Kashmir",
-      "url": "https://iicdelhi.in/programmes/book-discussion-group-duel-two-marksmen-one-battleground-kashmir",
-      "venue": "Conference Room I, IIC main"
-    },
-    {
-      "category": "Film Club",
-      "date": "2026-10-14",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-10/14%20October%202026_Website%20Programme%20Image_1_0.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "IIC Film Club -  Ivan The Terrible — Part II: The Boyars’ Plot",
-      "url": "https://iicdelhi.in/programmes/iic-film-club-ivan-terrible-part-ii-boyars-plot",
-      "venue": "C.D. Deshmukh Auditorium, IIC main"
-    },
-    {
-      "category": "Dance & Music",
-      "date": "2026-10-14",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 50,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "Jyotirlinga- The Light of Intrigue",
-      "url": "https://indiahabitat.org/Events_details/1468",
-      "venue": "The Stein Auditorium"
     },
     {
       "category": "Museum",
@@ -436,6 +380,20 @@
       "venue": "C.D. Deshmukh Auditorium, IIC main"
     },
     {
+      "category": "Library Programmes",
+      "date": "2026-10-19",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-10/19%20OCT%20BDG.jpg",
+      "score": 50,
+      "source": "iic",
+      "tags": [],
+      "time": "06:00 PM",
+      "title": "Book Discussion - I Dared to Dial Differently: An Insider's Account of the IAS",
+      "url": "https://iicdelhi.in/programmes/book-discussion-i-dared-dial-differently-insiders-account-ias",
+      "venue": "Multipurpose Hall, Kamaladevi Complex, IIC"
+    },
+    {
       "category": "Dance",
       "date": "2026-10-21",
       "description": "",
@@ -462,6 +420,20 @@
       "title": "Postponed- Yamuna – Life Eternal",
       "url": "https://iicdelhi.in/programmes/postponed-yamuna-life-eternal",
       "venue": "C.D. Deshmukh Auditorium, IIC main"
+    },
+    {
+      "category": "Museum",
+      "date": "2026-10-22",
+      "description": "",
+      "end_date": "2026-10-25",
+      "image": null,
+      "score": 85,
+      "source": "bikanerhouse",
+      "tags": [],
+      "time": null,
+      "title": "Legacy and Beyond- II",
+      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/10",
+      "venue": "Bikaner House"
     },
     {
       "category": "Museum",
@@ -1010,5 +982,5 @@
       "venue": "Fountain Lawns, IIC main"
     }
   ],
-  "generated_at": "2026-10-14"
+  "generated_at": "2026-10-15"
 }
