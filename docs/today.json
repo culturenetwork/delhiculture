@@ -1,5 +1,5 @@
 {
-  "count": 9,
+  "count": 10,
   "events": [
     {
       "category": "Museum",
@@ -59,7 +59,7 @@
     },
     {
       "category": "Museum",
-      "date": "2026-10-15",
+      "date": "2026-10-16",
       "description": "",
       "end_date": "2026-10-19",
       "image": null,
@@ -67,13 +67,13 @@
       "source": "bikanerhouse",
       "tags": [],
       "time": null,
-      "title": "Maximalist- Riot of Objects",
+      "title": "Riot of Objects",
       "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/10",
       "venue": "Bikaner House"
     },
     {
       "category": "Indian Classical",
-      "date": "2026-10-15",
+      "date": "2026-10-16",
       "description": "",
       "end_date": null,
       "image": null,
@@ -81,27 +81,27 @@
       "source": "ihc",
       "tags": [],
       "time": "7:00 PM",
-      "title": "Samarpan. Day 1",
-      "url": "https://indiahabitat.org/Events_details/1469",
+      "title": "Samarpan. Day 2",
+      "url": "https://indiahabitat.org/Events_details/1472",
       "venue": "The Theatre"
     },
     {
       "category": "Book Talk",
-      "date": "2026-10-15",
+      "date": "2026-10-16",
       "description": "",
       "end_date": null,
-      "image": null,
+      "image": "https://aws-static.iicdelhi.in/2026-10/16%20October%202026_Website%20Programme%20Image_1.jpg",
       "score": 75,
-      "source": "ihc",
+      "source": "iic",
       "tags": [],
-      "time": "7:00 PM",
-      "title": "Yoga of Self-Perfection: Sri Aurobindo's Integral Path",
-      "url": "https://indiahabitat.org/Events_details/1471",
-      "venue": "Gulmohar"
+      "time": "06:30 PM",
+      "title": "INDIAN ARCHAEOLOGY  -  Megalithic Culture of South India with special reference to Recent Excavations at Adichanallur, Tamil Nadu",
+      "url": "https://iicdelhi.in/programmes/indian-archaeology-megalithic-culture-south-india-special-reference-recent-excavations",
+      "venue": "Conference Room II, IIC main"
     },
     {
       "category": "Dance",
-      "date": "2026-10-15",
+      "date": "2026-10-16",
       "description": "",
       "end_date": null,
       "image": null,
@@ -109,24 +109,38 @@
       "source": "ihc",
       "tags": [],
       "time": "7:00 PM",
-      "title": "Rhythms of Living Heritage: A National Folk Dance Festival. Day 1",
-      "url": "https://indiahabitat.org/Events_details/1470",
+      "title": "Event Cancelled | Rhythms of Living Heritage: A National Folk Dance Festival. Day 2",
+      "url": "https://indiahabitat.org/Events_details/1473",
       "venue": "The Stein Auditorium"
     },
     {
-      "category": "Cultural",
-      "date": "2026-10-15",
+      "category": "Theatre",
+      "date": "2026-10-16",
       "description": "",
       "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-10/POSTER_15%20October%202026%20revised.jpg",
+      "image": null,
+      "score": 65,
+      "source": "ihc",
+      "tags": [],
+      "time": "7:00 PM",
+      "title": "Dastan-e-Siya Ram",
+      "url": "https://indiahabitat.org/Events_details/1474",
+      "venue": "Amphitheatre"
+    },
+    {
+      "category": "Seminars",
+      "date": "2026-10-16",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-10/16%20October%202026_Website%20Programme%20Image.jpg",
       "score": 50,
       "source": "iic",
       "tags": [],
-      "time": "06:30 PM",
-      "title": "FOLK DANCE AND MUSIC PERFORMANCE - Echoes of Mizoram and Manipuri Tradition",
-      "url": "https://iicdelhi.in/programmes/folk-dance-and-music-performance-echoes-mizoram-and-manipuri-tradition",
-      "venue": "C.D. Deshmukh Auditorium, IIC main"
+      "time": "10:00 AM",
+      "title": "India’s Federal Republic: Regional Parties and the Future of Democracy (16th october)",
+      "url": "https://iicdelhi.in/programmes/indias-federal-republic-regional-parties-and-future-democracy-16th-october",
+      "venue": "Conference Room I, IIC main"
     }
   ],
-  "generated_at": "2026-10-15"
+  "generated_at": "2026-10-16"
 }

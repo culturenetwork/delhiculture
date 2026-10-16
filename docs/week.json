@@ -1,76 +1,6 @@
 {
-  "count": 25,
+  "count": 22,
   "events": [
-    {
-      "category": "Indian Classical",
-      "date": "2026-10-16",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 80,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "Samarpan. Day 2",
-      "url": "https://indiahabitat.org/Events_details/1472",
-      "venue": "The Theatre"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-10-16",
-      "description": "",
-      "end_date": null,
-      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "INDIAN ARCHAEOLOGY  -  Megalithic Culture of South India with special reference to Recent Excavations at Adichanallur, Tamil Nadu",
-      "url": "https://iicdelhi.in/programmes/indian-archaeology-megalithic-culture-south-india-special-reference-recent-excavations",
-      "venue": "Conference Room II, IIC main"
-    },
-    {
-      "category": "Dance",
-      "date": "2026-10-16",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 70,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "Rhythms of Living Heritage: A National Folk Dance Festival. Day 2",
-      "url": "https://indiahabitat.org/Events_details/1473",
-      "venue": "The Stein Auditorium"
-    },
-    {
-      "category": "Theatre",
-      "date": "2026-10-16",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 65,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "Dastan-e-Siya Ram",
-      "url": "https://indiahabitat.org/Events_details/1474",
-      "venue": "Amphitheatre"
-    },
-    {
-      "category": "Seminars",
-      "date": "2026-10-16",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-10/16%20October%202026_Website%20Programme%20Image.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "10:00 AM",
-      "title": "India’s Federal Republic: Regional Parties and the Future of Democracy (16th october)",
-      "url": "https://iicdelhi.in/programmes/indias-federal-republic-regional-parties-and-future-democracy-16th-october",
-      "venue": "Conference Room I, IIC main"
-    },
     {
       "category": "Museum",
       "date": "2026-10-17",
@@ -216,7 +146,7 @@
       "date": "2026-10-19",
       "description": "",
       "end_date": null,
-      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "image": "https://aws-static.iicdelhi.in/2026-10/10%20October%202026_Website%20Programme%20Image.jpg",
       "score": 75,
       "source": "iic",
       "tags": [],
@@ -258,7 +188,7 @@
       "date": "2026-10-19",
       "description": "",
       "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-10/19%20OCT%20BDG.jpg",
+      "image": "https://aws-static.iicdelhi.in/2026-10/19%20October%202026_Website%20Programme%20Image_1.jpg",
       "score": 50,
       "source": "iic",
       "tags": [],
@@ -350,7 +280,35 @@
       "title": "Aarambh",
       "url": "https://indiahabitat.org/Events_details/1484",
       "venue": "The Theatre"
+    },
+    {
+      "category": "Book Talk",
+      "date": "2026-10-23",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 75,
+      "source": "ihc",
+      "tags": [],
+      "time": "7:00 PM",
+      "title": "Designing Schools for Athletes: Rethinking Education For The Modern Student-Athlete",
+      "url": "https://indiahabitat.org/Events_details/1485",
+      "venue": "Gulmohar"
+    },
+    {
+      "category": "Film & Theatre",
+      "date": "2026-10-23",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 50,
+      "source": "ihc",
+      "tags": [],
+      "time": "7:00 PM",
+      "title": "NT Live Broadcast. The Misanthrope",
+      "url": "https://indiahabitat.org/Events_details/1486",
+      "venue": "The Stein Auditorium"
     }
   ],
-  "generated_at": "2026-10-15"
+  "generated_at": "2026-10-16"
 }
