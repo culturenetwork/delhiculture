@@ -1,20 +1,6 @@
 {
-  "count": 34,
+  "count": 32,
   "events": [
-    {
-      "category": "Museum",
-      "date": "2026-10-24",
-      "description": "",
-      "end_date": "2026-10-25",
-      "image": null,
-      "score": 85,
-      "source": "bikanerhouse",
-      "tags": [],
-      "time": null,
-      "title": "ELSA Diwali Utsav 2026",
-      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/10",
-      "venue": "Bikaner House"
-    },
     {
       "category": "Indian Classical",
       "date": "2026-10-25",
@@ -238,20 +224,6 @@
       "title": "Yarn: A Festival of Storytelling through Dance. Day 2",
       "url": "https://indiahabitat.org/Events_details/1496",
       "venue": "The Stein Auditorium"
-    },
-    {
-      "category": "Film",
-      "date": "2026-10-30",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-10/Films.jpg",
-      "score": 55,
-      "source": "iic",
-      "tags": [],
-      "time": "08:30 PM",
-      "title": "THE IIC EXPERIENCE: A FESTIVAL OF THE ARTS- Film Festival",
-      "url": "https://iicdelhi.in/programmes/iic-experience-festival-arts-film-festival",
-      "venue": "C.D. Deshmukh Auditorium, IIC main"
     },
     {
       "category": "Cultural",
@@ -478,5 +450,5 @@
       "venue": "Fountain Lawns, IIC main"
     }
   ],
-  "generated_at": "2026-10-16"
+  "generated_at": "2026-10-17"
 }
