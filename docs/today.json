@@ -1,20 +1,6 @@
 {
-  "count": 13,
+  "count": 7,
   "events": [
-    {
-      "category": "Museum",
-      "date": "2026-10-10",
-      "description": "",
-      "end_date": "2026-10-17",
-      "image": null,
-      "score": 85,
-      "source": "bikanerhouse",
-      "tags": [],
-      "time": null,
-      "title": "Sacred Spaces",
-      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/10",
-      "venue": "Bikaner House"
-    },
     {
       "category": "Museum",
       "date": "2026-10-13",
@@ -86,103 +72,33 @@
       "venue": "Art Gallery, IIC Annexe"
     },
     {
-      "category": "Indian Classical",
-      "date": "2026-10-17",
+      "category": "Dance",
+      "date": "2026-10-18",
       "description": "",
       "end_date": null,
       "image": null,
-      "score": 80,
+      "score": 70,
       "source": "ihc",
       "tags": [],
       "time": "7:00 PM",
-      "title": "Naadaswaram: Journey Through Resonance",
-      "url": "https://indiahabitat.org/Events_details/1477",
-      "venue": "The Theatre"
-    },
-    {
-      "category": "Theatre",
-      "date": "2026-10-17",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 65,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "Dastan-e-Dalla Ayyara & Dastan-e-Musavvir Jadu",
-      "url": "https://indiahabitat.org/Events_details/1478",
-      "venue": "Amphitheatre"
-    },
-    {
-      "category": "Theatre",
-      "date": "2026-10-17",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 65,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:30 PM",
-      "title": "Papa Ji",
-      "url": "https://indiahabitat.org/Events_details/1479",
+      "title": "Adi Shakti",
+      "url": "https://indiahabitat.org/Events_details/1500",
       "venue": "The Stein Auditorium"
     },
     {
-      "category": "Library Programmes",
-      "date": "2026-10-17",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-09/17%20October%202026_Website%20Programme%20Image.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "11:00 AM",
-      "title": "BOOK DISCUSSION GROUP-From Manuscript to Memory: India’s Contribution to UNESCO Memory of the World Programme",
-      "url": "https://iicdelhi.in/programmes/book-discussion-group-manuscript-memory-indias-contribution-unesco-memory-world",
-      "venue": "C.D. Deshmukh Auditorium, IIC main"
-    },
-    {
-      "category": "Cultural",
-      "date": "2026-10-17",
+      "category": "Theatre",
+      "date": "2026-10-18",
       "description": "",
       "end_date": null,
       "image": null,
-      "score": 50,
+      "score": 65,
       "source": "ihc",
       "tags": [],
-      "time": "6:00 PM",
-      "title": "IHC Members Meet",
-      "url": "https://indiahabitat.org/Events_details/1475",
-      "venue": "The Habitat Lounge"
-    },
-    {
-      "category": "Seminars",
-      "date": "2026-10-17",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-10/16%20October%202026_Website%20Programme%20Image_0.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "10:00 AM",
-      "title": "India’s Federal Republic: Regional Parties and the Future of Democracy ( 17th october)",
-      "url": "https://iicdelhi.in/programmes/indias-federal-republic-regional-parties-and-future-democracy-17th-october",
-      "venue": "Conference Room I, IIC main"
-    },
-    {
-      "category": "Film & Talk",
-      "date": "2026-10-17",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 50,
-      "source": "ihc",
-      "tags": [],
-      "time": "6:00 PM",
-      "title": "Monasteries of Rinchen Zangpo",
-      "url": "https://indiahabitat.org/Events_details/1476",
-      "venue": "Online"
+      "time": "7:00 PM",
+      "title": "Dastan-e-Rahi Masoom Raza",
+      "url": "https://indiahabitat.org/Events_details/1480",
+      "venue": "Amphitheatre"
     }
   ],
-  "generated_at": "2026-10-17"
+  "generated_at": "2026-10-18"
 }

@@ -1,20 +1,6 @@
 {
-  "count": 32,
+  "count": 31,
   "events": [
-    {
-      "category": "Indian Classical",
-      "date": "2026-10-25",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 80,
-      "source": "ihc",
-      "tags": [],
-      "time": "10:30 AM",
-      "title": "IHC Morning Ragas",
-      "url": "https://indiahabitat.org/Events_details/1487",
-      "venue": "Amphitheatre"
-    },
     {
       "category": "Book Talk",
       "date": "2026-10-26",
@@ -226,6 +212,20 @@
       "venue": "The Stein Auditorium"
     },
     {
+      "category": "Film",
+      "date": "2026-10-30",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-10/Films.jpg",
+      "score": 55,
+      "source": "iic",
+      "tags": [],
+      "time": "08:30 PM",
+      "title": "THE IIC EXPERIENCE: A FESTIVAL OF THE ARTS- Film Festival",
+      "url": "https://iicdelhi.in/programmes/iic-experience-festival-arts-film-festival",
+      "venue": "C.D. Deshmukh Auditorium, IIC main"
+    },
+    {
       "category": "Cultural",
       "date": "2026-10-30",
       "description": "",
@@ -434,21 +434,7 @@
       "title": "THE IIC EXPERIENCE: A FESTIVAL OF THE ARTS-Talk-Seeds of Resilience: Women, Family Farms, and the Future of Nutritious Food Systems",
       "url": "https://iicdelhi.in/programmes/iic-experience-festival-arts-talk-seeds-resilience-women-family-farms-and-future",
       "venue": "Conference Room II, IIC main"
-    },
-    {
-      "category": "Cultural",
-      "date": "2026-11-03",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-10/Cultural_6.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "THE IIC EXPERIENCE: A FESTIVAL OF THE ARTS – Performance-The Nature (Prakriti) With Its Five Sensory Attributes and the Emotional World of Raga",
-      "url": "https://iicdelhi.in/programmes/iic-experience-festival-arts-performance-nature-prakriti-its-five-sensory-attributes-and",
-      "venue": "Fountain Lawns, IIC main"
     }
   ],
-  "generated_at": "2026-10-17"
+  "generated_at": "2026-10-18"
 }
