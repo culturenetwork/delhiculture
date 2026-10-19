@@ -1,34 +1,6 @@
 {
-  "count": 31,
+  "count": 29,
   "events": [
-    {
-      "category": "Book Talk",
-      "date": "2026-10-26",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 75,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "Bites of Bliss or Bites of Risk on My Plate",
-      "url": "https://indiahabitat.org/Events_details/1488",
-      "venue": "Gulmohar"
-    },
-    {
-      "category": "Dance",
-      "date": "2026-10-26",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 70,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "The Divine Within: A Kathak Odyssey",
-      "url": "https://indiahabitat.org/Events_details/1489",
-      "venue": "The Stein Auditorium"
-    },
     {
       "category": "Museum",
       "date": "2026-10-27",
@@ -436,5 +408,5 @@
       "venue": "Conference Room II, IIC main"
     }
   ],
-  "generated_at": "2026-10-18"
+  "generated_at": "2026-10-19"
 }

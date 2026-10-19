@@ -1,5 +1,5 @@
 {
-  "count": 52,
+  "count": 49,
   "events": [
     {
       "category": "Museum",
@@ -14,20 +14,6 @@
       "title": "EXHIBITION-  Nirāmayatā: Healing and Wellbeing in South Asian Texts and Practices",
       "url": "https://iicdelhi.in/programmes/exhibition-niramayata-healing-and-wellbeing-south-asian-texts-and-practices",
       "venue": "Art Gallery, Kamaladevi Complex, IIC"
-    },
-    {
-      "category": "Museum",
-      "date": "2026-10-14",
-      "description": "",
-      "end_date": "2026-10-18",
-      "image": null,
-      "score": 85,
-      "source": "bikanerhouse",
-      "tags": [],
-      "time": null,
-      "title": "Continiuum",
-      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/10",
-      "venue": "Bikaner House"
     },
     {
       "category": "Museum",
@@ -70,34 +56,6 @@
       "title": "EXHIBITION- Threshold",
       "url": "https://iicdelhi.in/programmes/exhibition-threshold",
       "venue": "Art Gallery, IIC Annexe"
-    },
-    {
-      "category": "Dance",
-      "date": "2026-10-18",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 70,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "Adi Shakti",
-      "url": "https://indiahabitat.org/Events_details/1500",
-      "venue": "The Stein Auditorium"
-    },
-    {
-      "category": "Theatre",
-      "date": "2026-10-18",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 65,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "Dastan-e-Rahi Masoom Raza",
-      "url": "https://indiahabitat.org/Events_details/1480",
-      "venue": "Amphitheatre"
     },
     {
       "category": "Book Talk",
@@ -730,5 +688,5 @@
       "venue": "Conference Room II, IIC main"
     }
   ],
-  "generated_at": "2026-10-18"
+  "generated_at": "2026-10-19"
 }

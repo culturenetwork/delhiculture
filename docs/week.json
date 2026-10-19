@@ -1,62 +1,6 @@
 {
-  "count": 14,
+  "count": 12,
   "events": [
-    {
-      "category": "Book Talk",
-      "date": "2026-10-19",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-10/10%20October%202026_Website%20Programme%20Image.jpg",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
-      "time": "03:00 PM",
-      "title": "Rescheduled --Baithak -  On the Occasion of World Mental Health Day 2026",
-      "url": "https://iicdelhi.in/programmes/rescheduled-baithak-occasion-world-mental-health-day-2026",
-      "venue": "Conference Room II, IIC main"
-    },
-    {
-      "category": "Theatre",
-      "date": "2026-10-19",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 65,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:30 PM",
-      "title": "Lapoojhanna",
-      "url": "https://indiahabitat.org/Events_details/1481",
-      "venue": "The Stein Auditorium"
-    },
-    {
-      "category": "Film",
-      "date": "2026-10-19",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-09/19%20October%202026_Website%20Programme%20Image.jpg",
-      "score": 55,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "FILM-  Leo from Chicago",
-      "url": "https://iicdelhi.in/programmes/film-leo-chicago",
-      "venue": "C.D. Deshmukh Auditorium, IIC main"
-    },
-    {
-      "category": "Library Programmes",
-      "date": "2026-10-19",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-10/19%20October%202026_Website%20Programme%20Image_1.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "06:00 PM",
-      "title": "Book Discussion - I Dared to Dial Differently: An Insider's Account of the IAS",
-      "url": "https://iicdelhi.in/programmes/book-discussion-i-dared-dial-differently-insiders-account-ias",
-      "venue": "Multipurpose Hall, Kamaladevi Complex, IIC"
-    },
     {
       "category": "Dance",
       "date": "2026-10-21",
@@ -196,7 +140,35 @@
       "title": "IHC Morning Ragas",
       "url": "https://indiahabitat.org/Events_details/1487",
       "venue": "Amphitheatre"
+    },
+    {
+      "category": "Book Talk",
+      "date": "2026-10-26",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 75,
+      "source": "ihc",
+      "tags": [],
+      "time": "7:00 PM",
+      "title": "Bites of Bliss or Bites of Risk on My Plate",
+      "url": "https://indiahabitat.org/Events_details/1488",
+      "venue": "Gulmohar"
+    },
+    {
+      "category": "Dance",
+      "date": "2026-10-26",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 70,
+      "source": "ihc",
+      "tags": [],
+      "time": "7:00 PM",
+      "title": "The Divine Within: A Kathak Odyssey",
+      "url": "https://indiahabitat.org/Events_details/1489",
+      "venue": "The Stein Auditorium"
     }
   ],
-  "generated_at": "2026-10-18"
+  "generated_at": "2026-10-19"
 }
