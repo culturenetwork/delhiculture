@@ -1,5 +1,5 @@
 {
-  "count": 12,
+  "count": 16,
   "events": [
     {
       "category": "Dance",
@@ -168,7 +168,63 @@
       "title": "The Divine Within: A Kathak Odyssey",
       "url": "https://indiahabitat.org/Events_details/1489",
       "venue": "The Stein Auditorium"
+    },
+    {
+      "category": "Museum",
+      "date": "2026-10-27",
+      "description": "",
+      "end_date": "2026-11-01",
+      "image": null,
+      "score": 85,
+      "source": "bikanerhouse",
+      "tags": [],
+      "time": null,
+      "title": "Capturing The Multiverse",
+      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/10",
+      "venue": "Bikaner House"
+    },
+    {
+      "category": "Museum",
+      "date": "2026-10-27",
+      "description": "",
+      "end_date": "2026-11-01",
+      "image": null,
+      "score": 85,
+      "source": "bikanerhouse",
+      "tags": [],
+      "time": null,
+      "title": "Indigo: The Blue Gold II",
+      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/10",
+      "venue": "Bikaner House"
+    },
+    {
+      "category": "Film",
+      "date": "2026-10-27",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 55,
+      "source": "ihc",
+      "tags": [],
+      "time": "7:00 PM",
+      "title": "Wildlife Conservation and Communities in Transition",
+      "url": "https://indiahabitat.org/Events_details/1491",
+      "venue": "Gulmohar"
+    },
+    {
+      "category": "Film",
+      "date": "2026-10-27",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 55,
+      "source": "ihc",
+      "tags": [],
+      "time": "7:00 PM",
+      "title": "Yaadon Ki Baaraat",
+      "url": "https://indiahabitat.org/Events_details/1490",
+      "venue": "The Stein Auditorium"
     }
   ],
-  "generated_at": "2026-10-19"
+  "generated_at": "2026-10-20"
 }
