@@ -1,34 +1,6 @@
 {
-  "count": 26,
+  "count": 24,
   "events": [
-    {
-      "category": "Book Talk",
-      "date": "2026-10-28",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 75,
-      "source": "ihc",
-      "tags": [],
-      "time": "6:00 PM",
-      "title": "Role of BRICS in the Emerging World Order",
-      "url": "https://indiahabitat.org/Events_details/1492",
-      "venue": "Gulmohar"
-    },
-    {
-      "category": "Cultural",
-      "date": "2026-10-28",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 50,
-      "source": "ihc",
-      "tags": [],
-      "time": "6:30 PM",
-      "title": "IHC Diwali Celebrations. Ramleela",
-      "url": "https://indiahabitat.org/Events_details/1493",
-      "venue": "Margosa Lawn"
-    },
     {
       "category": "Museum",
       "date": "2026-10-29",
@@ -366,5 +338,5 @@
       "venue": "Fountain Lawns, IIC main"
     }
   ],
-  "generated_at": "2026-10-20"
+  "generated_at": "2026-10-21"
 }
