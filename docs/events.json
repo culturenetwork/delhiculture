@@ -1,5 +1,5 @@
 {
-  "count": 43,
+  "count": 41,
   "events": [
     {
       "category": "Museum",
@@ -14,34 +14,6 @@
       "title": "EXHIBITION- Threshold",
       "url": "https://iicdelhi.in/programmes/exhibition-threshold",
       "venue": "Art Gallery, IIC Annexe"
-    },
-    {
-      "category": "Dance",
-      "date": "2026-10-21",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 70,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "Vedanta Lahiri",
-      "url": "https://indiahabitat.org/Events_details/1483",
-      "venue": "The Stein Auditorium"
-    },
-    {
-      "category": "Cultural",
-      "date": "2026-10-21",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-10/21%20October%202026_Website%20Programme%20Image.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "Postponed- Yamuna – Life Eternal",
-      "url": "https://iicdelhi.in/programmes/postponed-yamuna-life-eternal",
-      "venue": "C.D. Deshmukh Auditorium, IIC main"
     },
     {
       "category": "Museum",
@@ -604,5 +576,5 @@
       "venue": "Fountain Lawns, IIC main"
     }
   ],
-  "generated_at": "2026-10-21"
+  "generated_at": "2026-10-22"
 }

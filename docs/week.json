@@ -1,62 +1,6 @@
 {
-  "count": 16,
+  "count": 15,
   "events": [
-    {
-      "category": "Museum",
-      "date": "2026-10-22",
-      "description": "",
-      "end_date": "2026-10-25",
-      "image": null,
-      "score": 85,
-      "source": "bikanerhouse",
-      "tags": [],
-      "time": null,
-      "title": "Legacy and Beyond- II",
-      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/10",
-      "venue": "Bikaner House"
-    },
-    {
-      "category": "Museum",
-      "date": "2026-10-22",
-      "description": "",
-      "end_date": "2026-10-25",
-      "image": null,
-      "score": 85,
-      "source": "bikanerhouse",
-      "tags": [],
-      "time": null,
-      "title": "No Idea Is Final",
-      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/10",
-      "venue": "Bikaner House"
-    },
-    {
-      "category": "Museum",
-      "date": "2026-10-22",
-      "description": "",
-      "end_date": "2026-10-25",
-      "image": null,
-      "score": 85,
-      "source": "bikanerhouse",
-      "tags": [],
-      "time": null,
-      "title": "Satyam Shivam Sundaram",
-      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/10",
-      "venue": "Bikaner House"
-    },
-    {
-      "category": "Indian Classical",
-      "date": "2026-10-22",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 80,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "Aarambh",
-      "url": "https://indiahabitat.org/Events_details/1484",
-      "venue": "The Theatre"
-    },
     {
       "category": "Book Talk",
       "date": "2026-10-23",
@@ -224,7 +168,49 @@
       "title": "IHC Diwali Celebrations. Ramleela",
       "url": "https://indiahabitat.org/Events_details/1493",
       "venue": "Margosa Lawn"
+    },
+    {
+      "category": "Museum",
+      "date": "2026-10-29",
+      "description": "THE IIC EXPERIENCE: A FESTIVAL OF THE ARTS – 29TH OCTOBER TO 3RD NOVEMBER 2026 PRAKRITI: ECOLOGY AND EXISTENCE FESTIVAL CURTAIN RAISER",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-10/Exhibition_1_0.jpg",
+      "score": 85,
+      "source": "iic",
+      "tags": [],
+      "time": "04:00 PM",
+      "title": "THE IIC EXPERIENCE: A FESTIVAL OF THE ARTS – 29TH OCTOBER TO 3RD NOVEMBER 2026-EXHIBITION -FESTIVAL CURTAIN RAISER",
+      "url": "https://iicdelhi.in/programmes/iic-experience-festival-arts-29th-october-3rd-november-2026-exhibition-festival-curtain",
+      "venue": "Art Gallery, IIC Annexe"
+    },
+    {
+      "category": "Book Talk",
+      "date": "2026-10-29",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-10/Discussion_1.jpg",
+      "score": 75,
+      "source": "iic",
+      "tags": [],
+      "time": "06:30 PM",
+      "title": "THE IIC EXPERIENCE: A FESTIVAL OF THE ARTS – 29TH OCTOBER TO 3RD NOVEMBER 2026 PRAKRITI: ECOLOGY AND EXISTENCE- TALK- Rukkha, Rakkha, Yakkha: Foundational Evidence for Tree Worship in Indian Art",
+      "url": "https://iicdelhi.in/programmes/iic-experience-festival-arts-29th-october-3rd-november-2026-prakriti-ecology-and",
+      "venue": "C.D. Deshmukh Auditorium, IIC main"
+    },
+    {
+      "category": "Dance",
+      "date": "2026-10-29",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 70,
+      "source": "ihc",
+      "tags": [],
+      "time": "7:00 PM",
+      "title": "Yarn: A Festival of Storytelling through Dance. Day 1",
+      "url": "https://indiahabitat.org/Events_details/1495",
+      "venue": "The Stein Auditorium"
     }
   ],
-  "generated_at": "2026-10-21"
+  "generated_at": "2026-10-22"
 }

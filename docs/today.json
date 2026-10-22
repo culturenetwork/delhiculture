@@ -1,5 +1,5 @@
 {
-  "count": 3,
+  "count": 5,
   "events": [
     {
       "category": "Museum",
@@ -16,33 +16,61 @@
       "venue": "Art Gallery, IIC Annexe"
     },
     {
-      "category": "Dance",
-      "date": "2026-10-21",
+      "category": "Museum",
+      "date": "2026-10-22",
+      "description": "",
+      "end_date": "2026-10-25",
+      "image": null,
+      "score": 85,
+      "source": "bikanerhouse",
+      "tags": [],
+      "time": null,
+      "title": "Legacy and Beyond- II",
+      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/10",
+      "venue": "Bikaner House"
+    },
+    {
+      "category": "Museum",
+      "date": "2026-10-22",
+      "description": "",
+      "end_date": "2026-10-25",
+      "image": null,
+      "score": 85,
+      "source": "bikanerhouse",
+      "tags": [],
+      "time": null,
+      "title": "No Idea Is Final",
+      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/10",
+      "venue": "Bikaner House"
+    },
+    {
+      "category": "Museum",
+      "date": "2026-10-22",
+      "description": "",
+      "end_date": "2026-10-25",
+      "image": null,
+      "score": 85,
+      "source": "bikanerhouse",
+      "tags": [],
+      "time": null,
+      "title": "Satyam Shivam Sundaram",
+      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/10",
+      "venue": "Bikaner House"
+    },
+    {
+      "category": "Indian Classical",
+      "date": "2026-10-22",
       "description": "",
       "end_date": null,
       "image": null,
-      "score": 70,
+      "score": 80,
       "source": "ihc",
       "tags": [],
       "time": "7:00 PM",
-      "title": "Vedanta Lahiri",
-      "url": "https://indiahabitat.org/Events_details/1483",
-      "venue": "The Stein Auditorium"
-    },
-    {
-      "category": "Cultural",
-      "date": "2026-10-21",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-10/21%20October%202026_Website%20Programme%20Image.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "Postponed- Yamuna – Life Eternal",
-      "url": "https://iicdelhi.in/programmes/postponed-yamuna-life-eternal",
-      "venue": "C.D. Deshmukh Auditorium, IIC main"
+      "title": "Aarambh",
+      "url": "https://indiahabitat.org/Events_details/1484",
+      "venue": "The Theatre"
     }
   ],
-  "generated_at": "2026-10-21"
+  "generated_at": "2026-10-22"
 }

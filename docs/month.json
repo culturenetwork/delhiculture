@@ -1,48 +1,6 @@
 {
-  "count": 24,
+  "count": 21,
   "events": [
-    {
-      "category": "Museum",
-      "date": "2026-10-29",
-      "description": "THE IIC EXPERIENCE: A FESTIVAL OF THE ARTS – 29TH OCTOBER TO 3RD NOVEMBER 2026 PRAKRITI: ECOLOGY AND EXISTENCE FESTIVAL CURTAIN RAISER",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-10/Exhibition_1_0.jpg",
-      "score": 85,
-      "source": "iic",
-      "tags": [],
-      "time": "04:00 PM",
-      "title": "THE IIC EXPERIENCE: A FESTIVAL OF THE ARTS – 29TH OCTOBER TO 3RD NOVEMBER 2026-EXHIBITION -FESTIVAL CURTAIN RAISER",
-      "url": "https://iicdelhi.in/programmes/iic-experience-festival-arts-29th-october-3rd-november-2026-exhibition-festival-curtain",
-      "venue": "Art Gallery, IIC Annexe"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-10-29",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-10/Discussion_1.jpg",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "THE IIC EXPERIENCE: A FESTIVAL OF THE ARTS – 29TH OCTOBER TO 3RD NOVEMBER 2026 PRAKRITI: ECOLOGY AND EXISTENCE- TALK- Rukkha, Rakkha, Yakkha: Foundational Evidence for Tree Worship in Indian Art",
-      "url": "https://iicdelhi.in/programmes/iic-experience-festival-arts-29th-october-3rd-november-2026-prakriti-ecology-and",
-      "venue": "C.D. Deshmukh Auditorium, IIC main"
-    },
-    {
-      "category": "Dance",
-      "date": "2026-10-29",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 70,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "Yarn: A Festival of Storytelling through Dance. Day 1",
-      "url": "https://indiahabitat.org/Events_details/1495",
-      "venue": "The Stein Auditorium"
-    },
     {
       "category": "Museum",
       "date": "2026-10-30",
@@ -338,5 +296,5 @@
       "venue": "Fountain Lawns, IIC main"
     }
   ],
-  "generated_at": "2026-10-21"
+  "generated_at": "2026-10-22"
 }
