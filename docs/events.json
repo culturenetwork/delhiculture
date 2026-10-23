@@ -1,5 +1,5 @@
 {
-  "count": 41,
+  "count": 40,
   "events": [
     {
       "category": "Museum",
@@ -56,20 +56,6 @@
       "title": "Satyam Shivam Sundaram",
       "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/10",
       "venue": "Bikaner House"
-    },
-    {
-      "category": "Indian Classical",
-      "date": "2026-10-22",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 80,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "Aarambh",
-      "url": "https://indiahabitat.org/Events_details/1484",
-      "venue": "The Theatre"
     },
     {
       "category": "Book Talk",
@@ -242,15 +228,15 @@
     {
       "category": "Museum",
       "date": "2026-10-29",
-      "description": "THE IIC EXPERIENCE: A FESTIVAL OF THE ARTS – 29TH OCTOBER TO 3RD NOVEMBER 2026 PRAKRITI: ECOLOGY AND EXISTENCE FESTIVAL CURTAIN RAISER",
+      "description": "Prakriti: Harmonizing Inner and Outer Worlds in South Asian Texts and Traditions The exhibition explores Prakriti as the essential nature of existence and the vital force of creation through the lenses of Indian philosophy, Ayurveda and other disciplines. Reproductions of South A",
       "end_date": null,
       "image": "https://aws-static.iicdelhi.in/2026-10/Exhibition_1_0.jpg",
       "score": 85,
       "source": "iic",
       "tags": [],
       "time": "04:00 PM",
-      "title": "THE IIC EXPERIENCE: A FESTIVAL OF THE ARTS – 29TH OCTOBER TO 3RD NOVEMBER 2026-EXHIBITION -FESTIVAL CURTAIN RAISER",
-      "url": "https://iicdelhi.in/programmes/iic-experience-festival-arts-29th-october-3rd-november-2026-exhibition-festival-curtain",
+      "title": "THE IIC EXPERIENCE: A FESTIVAL OF THE ARTS -EXHIBITION -FESTIVAL CURTAIN RAISER",
+      "url": "https://iicdelhi.in/programmes/iic-experience-festival-arts-exhibition-festival-curtain-raiser",
       "venue": "Art Gallery, IIC Annexe"
     },
     {
@@ -263,8 +249,8 @@
       "source": "iic",
       "tags": [],
       "time": "06:30 PM",
-      "title": "THE IIC EXPERIENCE: A FESTIVAL OF THE ARTS – 29TH OCTOBER TO 3RD NOVEMBER 2026 PRAKRITI: ECOLOGY AND EXISTENCE- TALK- Rukkha, Rakkha, Yakkha: Foundational Evidence for Tree Worship in Indian Art",
-      "url": "https://iicdelhi.in/programmes/iic-experience-festival-arts-29th-october-3rd-november-2026-prakriti-ecology-and",
+      "title": "THE IIC EXPERIENCE: A FESTIVAL OF THE ARTS: Rukkha, Rakkha, Yakkha: Foundational Evidence for Tree Worship in Indian Art",
+      "url": "https://iicdelhi.in/programmes/iic-experience-festival-arts-rukkha-rakkha-yakkha-foundational-evidence-tree-worship",
       "venue": "C.D. Deshmukh Auditorium, IIC main"
     },
     {
@@ -291,8 +277,8 @@
       "source": "iic",
       "tags": [],
       "time": "05:30 PM",
-      "title": "THE IIC EXPERIENCE: A FESTIVAL OF THE ARTS – 29TH OCTOBER TO 3RD NOVEMBER 2026 -Exhibition -Living Lightly: Journey with the Pastoralists",
-      "url": "https://iicdelhi.in/programmes/iic-experience-festival-arts-29th-october-3rd-november-2026-exhibition-living-lightly",
+      "title": "THE IIC EXPERIENCE: A FESTIVAL OF THE ARTS  -Exhibition -Living Lightly: Journey with the Pastoralists",
+      "url": "https://iicdelhi.in/programmes/iic-experience-festival-arts-exhibition-living-lightly-journey-pastoralists",
       "venue": "Gandhi-King Memorial Plaza, IIC main"
     },
     {
@@ -305,8 +291,8 @@
       "source": "iic",
       "tags": [],
       "time": "04:00 PM",
-      "title": "THE IIC EXPERIENCE: A FESTIVAL OF THE ARTS- EXHIBITIONS Palms and Parchment: Keralam’s Heritage of Reading and Relics",
-      "url": "https://iicdelhi.in/programmes/iic-experience-festival-arts-exhibitions-palms-and-parchment-keralams-heritage-reading",
+      "title": "THE IIC EXPERIENCE:A FESTIVAL OF THE ARTS- EXHIBITIONS -Palms and Parchment: Keralam’s Heritage of Reading and Relics",
+      "url": "https://iicdelhi.in/programmes/iic-experiencea-festival-arts-exhibitions-palms-and-parchment-keralams-heritage-reading",
       "venue": "Conference Room I, IIC main"
     },
     {
@@ -361,8 +347,8 @@
       "source": "iic",
       "tags": [],
       "time": "06:30 PM",
-      "title": "THE IIC EXPERIENCE: A FESTIVAL OF THE ARTS – Performance- Scent of the Earth",
-      "url": "https://iicdelhi.in/programmes/iic-experience-festival-arts-performance-scent-earth",
+      "title": "THE IIC EXPERIENCE: A FESTIVAL OF THE ARTS – Scent of the Earth",
+      "url": "https://iicdelhi.in/programmes/iic-experience-festival-arts-scent-earth",
       "venue": "Fountain Lawns, IIC main"
     },
     {
@@ -398,20 +384,6 @@
       "date": "2026-10-31",
       "description": "",
       "end_date": null,
-      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
-      "time": "10:30 AM",
-      "title": "THE IIC EXPERIENCE: A FESTIVAL OF THE ARTS- TALKS, DISCUSSIONS, POETRY READINGS",
-      "url": "https://iicdelhi.in/programmes/iic-experience-festival-arts-talks-discussions-poetry-readings",
-      "venue": "C.D. Deshmukh Auditorium, IIC main"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-10-31",
-      "description": "",
-      "end_date": null,
       "image": "https://aws-static.iicdelhi.in/2026-10/Poetry.jpg",
       "score": 75,
       "source": "iic",
@@ -436,6 +408,20 @@
       "venue": "Seminar Rooms 1,2,3"
     },
     {
+      "category": "Book Talk",
+      "date": "2026-10-31",
+      "description": "",
+      "end_date": null,
+      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "score": 75,
+      "source": "iic",
+      "tags": [],
+      "time": "10:30 AM",
+      "title": "THE IIC EXPERIENCE: A FESTIVAL OF THE ARTS- Wildlife Conservation in Contemporary India",
+      "url": "https://iicdelhi.in/programmes/iic-experience-festival-arts-wildlife-conservation-contemporary-india",
+      "venue": "C.D. Deshmukh Auditorium, IIC main"
+    },
+    {
       "category": "Cultural",
       "date": "2026-10-31",
       "description": "",
@@ -445,8 +431,8 @@
       "source": "iic",
       "tags": [],
       "time": "06:30 PM",
-      "title": "THE IIC EXPERIENCE: A FESTIVAL OF THE ARTS –Performance- Nirvana Nataka",
-      "url": "https://iicdelhi.in/programmes/iic-experience-festival-arts-performance-nirvana-nataka",
+      "title": "THE IIC EXPERIENCE: A FESTIVAL OF THE ARTS –Nirvana Nataka",
+      "url": "https://iicdelhi.in/programmes/iic-experience-festival-arts-nirvana-nataka",
       "venue": "Fountain Lawns, IIC main"
     },
     {
@@ -459,23 +445,9 @@
       "source": "iic",
       "tags": [],
       "time": "04:00 PM",
-      "title": "THE IIC EXPERIENCE: A FESTIVAL OF THE ARTS -Discussion- Architecture, Urban Landscapes and the Future of Cities",
-      "url": "https://iicdelhi.in/programmes/iic-experience-festival-arts-discussion-architecture-urban-landscapes-and-future-cities",
+      "title": "THE IIC EXPERIENCE: A FESTIVAL OF THE ARTS -Architecture, Urban Landscapes and the Future of Cities",
+      "url": "https://iicdelhi.in/programmes/iic-experience-festival-arts-architecture-urban-landscapes-and-future-cities",
       "venue": "Conference Room II, IIC main"
-    },
-    {
-      "category": "Cultural",
-      "date": "2026-11-01",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-10/Cultural_4.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "THE IIC EXPERIENCE: A FESTIVAL OF THE ARTS – Performance- Khon- Classical masked dance drama from Thailand",
-      "url": "https://iicdelhi.in/programmes/iic-experience-festival-arts-performance-khon-classical-masked-dance-drama-thailand",
-      "venue": "Fountain Lawns, IIC main"
     },
     {
       "category": "Cultural",
@@ -487,9 +459,23 @@
       "source": "iic",
       "tags": [],
       "time": "11:00 AM",
-      "title": "THE IIC EXPERIENCE: A FESTIVAL OF THE ARTS – Performance-Classical Vocal Recital",
-      "url": "https://iicdelhi.in/programmes/iic-experience-festival-arts-performance-classical-vocal-recital",
+      "title": "THE IIC EXPERIENCE: A FESTIVAL OF THE ARTS – Classical Vocal Recital",
+      "url": "https://iicdelhi.in/programmes/iic-experience-festival-arts-classical-vocal-recital",
       "venue": "C.D. Deshmukh Auditorium, IIC main"
+    },
+    {
+      "category": "Cultural",
+      "date": "2026-11-01",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-10/Cultural_4.jpg",
+      "score": 50,
+      "source": "iic",
+      "tags": [],
+      "time": "06:30 PM",
+      "title": "THE IIC EXPERIENCE: A FESTIVAL OF THE ARTS – Khon- Classical masked dance drama from Thailand",
+      "url": "https://iicdelhi.in/programmes/iic-experience-festival-arts-khon-classical-masked-dance-drama-thailand",
+      "venue": "Fountain Lawns, IIC main"
     },
     {
       "category": "Book Talk",
@@ -501,8 +487,8 @@
       "source": "iic",
       "tags": [],
       "time": "04:00 PM",
-      "title": "THE IIC EXPERIENCE: A FESTIVAL OF THE ARTS - Discussion-Guardians of the Grasslands: Pastoralism, Mobility and Ecology",
-      "url": "https://iicdelhi.in/programmes/iic-experience-festival-arts-discussion-guardians-grasslands-pastoralism-mobility-and",
+      "title": "THE IIC EXPERIENCE: A FESTIVAL OF THE ARTS - Guardians of the Grasslands: Pastoralism, Mobility and Ecology",
+      "url": "https://iicdelhi.in/programmes/iic-experience-festival-arts-guardians-grasslands-pastoralism-mobility-and-ecology",
       "venue": "Conference Room II, IIC main"
     },
     {
@@ -515,8 +501,8 @@
       "source": "iic",
       "tags": [],
       "time": "06:30 PM",
-      "title": "THE IIC EXPERIENCE: A FESTIVAL OF THE Art- Performance-RAGA, A knot in the air",
-      "url": "https://iicdelhi.in/programmes/iic-experience-festival-art-performance-raga-knot-air",
+      "title": "THE IIC EXPERIENCE: A FESTIVAL OF THE Art- RAGA, A knot in the air",
+      "url": "https://iicdelhi.in/programmes/iic-experience-festival-art-raga-knot-air",
       "venue": "Fountain Lawns, IIC main"
     },
     {
@@ -543,8 +529,8 @@
       "source": "iic",
       "tags": [],
       "time": "04:00 PM",
-      "title": "THE IIC EXPERIENCE: A FESTIVAL OF THE ARTS- Talk-Ecology at the Crossroads of Climate Change",
-      "url": "https://iicdelhi.in/programmes/iic-experience-festival-arts-talk-ecology-crossroads-climate-change",
+      "title": "THE IIC EXPERIENCE: A FESTIVAL OF THE ARTS- Ecology at the Crossroads of Climate Change",
+      "url": "https://iicdelhi.in/programmes/iic-experience-festival-arts-ecology-crossroads-climate-change",
       "venue": "Conference Room II, IIC main"
     },
     {
@@ -557,8 +543,8 @@
       "source": "iic",
       "tags": [],
       "time": "11:30 AM",
-      "title": "THE IIC EXPERIENCE: A FESTIVAL OF THE ARTS-Talk-Seeds of Resilience: Women, Family Farms, and the Future of Nutritious Food Systems",
-      "url": "https://iicdelhi.in/programmes/iic-experience-festival-arts-talk-seeds-resilience-women-family-farms-and-future",
+      "title": "THE IIC EXPERIENCE: A FESTIVAL OF THE ARTS-Seeds of Resilience: Women, Family Farms, and the Future of Nutritious Food Systems",
+      "url": "https://iicdelhi.in/programmes/iic-experience-festival-arts-seeds-resilience-women-family-farms-and-future-nutritious",
       "venue": "Conference Room II, IIC main"
     },
     {
@@ -571,10 +557,10 @@
       "source": "iic",
       "tags": [],
       "time": "06:30 PM",
-      "title": "THE IIC EXPERIENCE: A FESTIVAL OF THE ARTS – Performance-The Nature (Prakriti) With Its Five Sensory Attributes and the Emotional World of Raga",
-      "url": "https://iicdelhi.in/programmes/iic-experience-festival-arts-performance-nature-prakriti-its-five-sensory-attributes-and",
+      "title": "THE IIC EXPERIENCE: A FESTIVAL OF THE ARTS –The Emotional World of Raga",
+      "url": "https://iicdelhi.in/programmes/iic-experience-festival-arts-emotional-world-raga",
       "venue": "Fountain Lawns, IIC main"
     }
   ],
-  "generated_at": "2026-10-22"
+  "generated_at": "2026-10-23"
 }
