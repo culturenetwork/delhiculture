@@ -1,5 +1,5 @@
 {
-  "count": 40,
+  "count": 38,
   "events": [
     {
       "category": "Museum",
@@ -56,34 +56,6 @@
       "title": "Satyam Shivam Sundaram",
       "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/10",
       "venue": "Bikaner House"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-10-23",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 75,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "Designing Schools for Athletes: Rethinking Education For The Modern Student-Athlete",
-      "url": "https://indiahabitat.org/Events_details/1485",
-      "venue": "Gulmohar"
-    },
-    {
-      "category": "Film & Theatre",
-      "date": "2026-10-23",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 50,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "NT Live Broadcast. The Misanthrope",
-      "url": "https://indiahabitat.org/Events_details/1486",
-      "venue": "The Stein Auditorium"
     },
     {
       "category": "Museum",
@@ -398,7 +370,7 @@
       "date": "2026-10-31",
       "description": "",
       "end_date": null,
-      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "image": "https://aws-static.iicdelhi.in/2026-10/Discussion_3.jpg",
       "score": 75,
       "source": "iic",
       "tags": [],
@@ -412,7 +384,7 @@
       "date": "2026-10-31",
       "description": "",
       "end_date": null,
-      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "image": "https://aws-static.iicdelhi.in/2026-10/Discussion_2.jpg",
       "score": 75,
       "source": "iic",
       "tags": [],
@@ -440,7 +412,7 @@
       "date": "2026-11-01",
       "description": "",
       "end_date": null,
-      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "image": "https://aws-static.iicdelhi.in/2026-10/Discussion_4.jpg",
       "score": 75,
       "source": "iic",
       "tags": [],
@@ -482,7 +454,7 @@
       "date": "2026-11-02",
       "description": "",
       "end_date": null,
-      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "image": "https://aws-static.iicdelhi.in/2026-10/Discussion_5.jpg",
       "score": 75,
       "source": "iic",
       "tags": [],
@@ -524,7 +496,7 @@
       "date": "2026-11-03",
       "description": "",
       "end_date": null,
-      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "image": "https://aws-static.iicdelhi.in/2026-10/Discussion_7.jpg",
       "score": 75,
       "source": "iic",
       "tags": [],
@@ -538,7 +510,7 @@
       "date": "2026-11-03",
       "description": "",
       "end_date": null,
-      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "image": "https://aws-static.iicdelhi.in/2026-10/Discussion_6.jpg",
       "score": 75,
       "source": "iic",
       "tags": [],
@@ -562,5 +534,5 @@
       "venue": "Fountain Lawns, IIC main"
     }
   ],
-  "generated_at": "2026-10-23"
+  "generated_at": "2026-10-24"
 }

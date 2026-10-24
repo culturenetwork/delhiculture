@@ -1,5 +1,5 @@
 {
-  "count": 6,
+  "count": 5,
   "events": [
     {
       "category": "Museum",
@@ -58,33 +58,19 @@
       "venue": "Bikaner House"
     },
     {
-      "category": "Book Talk",
-      "date": "2026-10-23",
+      "category": "Museum",
+      "date": "2026-10-24",
       "description": "",
-      "end_date": null,
+      "end_date": "2026-10-25",
       "image": null,
-      "score": 75,
-      "source": "ihc",
+      "score": 85,
+      "source": "bikanerhouse",
       "tags": [],
-      "time": "7:00 PM",
-      "title": "Designing Schools for Athletes: Rethinking Education For The Modern Student-Athlete",
-      "url": "https://indiahabitat.org/Events_details/1485",
-      "venue": "Gulmohar"
-    },
-    {
-      "category": "Film & Theatre",
-      "date": "2026-10-23",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 50,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "NT Live Broadcast. The Misanthrope",
-      "url": "https://indiahabitat.org/Events_details/1486",
-      "venue": "The Stein Auditorium"
+      "time": null,
+      "title": "ELSA Diwali Utsav 2026",
+      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/10",
+      "venue": "Bikaner House"
     }
   ],
-  "generated_at": "2026-10-23"
+  "generated_at": "2026-10-24"
 }
