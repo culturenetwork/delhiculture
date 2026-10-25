@@ -1,48 +1,6 @@
 {
-  "count": 9,
+  "count": 6,
   "events": [
-    {
-      "category": "Book Talk",
-      "date": "2026-11-01",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-10/Discussion_4.jpg",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
-      "time": "04:00 PM",
-      "title": "THE IIC EXPERIENCE: A FESTIVAL OF THE ARTS -Architecture, Urban Landscapes and the Future of Cities",
-      "url": "https://iicdelhi.in/programmes/iic-experience-festival-arts-architecture-urban-landscapes-and-future-cities",
-      "venue": "Conference Room II, IIC main"
-    },
-    {
-      "category": "Cultural",
-      "date": "2026-11-01",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-10/Cultural_3.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "11:00 AM",
-      "title": "THE IIC EXPERIENCE: A FESTIVAL OF THE ARTS – Classical Vocal Recital",
-      "url": "https://iicdelhi.in/programmes/iic-experience-festival-arts-classical-vocal-recital",
-      "venue": "C.D. Deshmukh Auditorium, IIC main"
-    },
-    {
-      "category": "Cultural",
-      "date": "2026-11-01",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-10/Cultural_4.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "THE IIC EXPERIENCE: A FESTIVAL OF THE ARTS – Khon- Classical masked dance drama from Thailand",
-      "url": "https://iicdelhi.in/programmes/iic-experience-festival-arts-khon-classical-masked-dance-drama-thailand",
-      "venue": "Fountain Lawns, IIC main"
-    },
     {
       "category": "Book Talk",
       "date": "2026-11-02",
@@ -128,5 +86,5 @@
       "venue": "Fountain Lawns, IIC main"
     }
   ],
-  "generated_at": "2026-10-24"
+  "generated_at": "2026-10-25"
 }
