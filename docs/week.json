@@ -1,34 +1,6 @@
 {
-  "count": 26,
+  "count": 27,
   "events": [
-    {
-      "category": "Book Talk",
-      "date": "2026-10-26",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 75,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "Bites of Bliss or Bites of Risk on My Plate",
-      "url": "https://indiahabitat.org/Events_details/1488",
-      "venue": "Gulmohar"
-    },
-    {
-      "category": "Dance",
-      "date": "2026-10-26",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 70,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "The Divine Within: A Kathak Odyssey",
-      "url": "https://indiahabitat.org/Events_details/1489",
-      "venue": "The Stein Auditorium"
-    },
     {
       "category": "Museum",
       "date": "2026-10-27",
@@ -364,7 +336,49 @@
       "title": "THE IIC EXPERIENCE: A FESTIVAL OF THE ARTS – Khon- Classical masked dance drama from Thailand",
       "url": "https://iicdelhi.in/programmes/iic-experience-festival-arts-khon-classical-masked-dance-drama-thailand",
       "venue": "Fountain Lawns, IIC main"
+    },
+    {
+      "category": "Book Talk",
+      "date": "2026-11-02",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-10/Discussion_5.jpg",
+      "score": 75,
+      "source": "iic",
+      "tags": [],
+      "time": "04:00 PM",
+      "title": "THE IIC EXPERIENCE: A FESTIVAL OF THE ARTS - Guardians of the Grasslands: Pastoralism, Mobility and Ecology",
+      "url": "https://iicdelhi.in/programmes/iic-experience-festival-arts-guardians-grasslands-pastoralism-mobility-and-ecology",
+      "venue": "Conference Room II, IIC main"
+    },
+    {
+      "category": "Cultural",
+      "date": "2026-11-02",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-10/Cultural_5.jpg",
+      "score": 50,
+      "source": "iic",
+      "tags": [],
+      "time": "06:30 PM",
+      "title": "THE IIC EXPERIENCE: A FESTIVAL OF THE Art- RAGA, A knot in the air",
+      "url": "https://iicdelhi.in/programmes/iic-experience-festival-art-raga-knot-air",
+      "venue": "Fountain Lawns, IIC main"
+    },
+    {
+      "category": "Festivals",
+      "date": "2026-11-02",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-10/IIC%20Quarterly.jpg",
+      "score": 50,
+      "source": "iic",
+      "tags": [],
+      "time": "04:00 PM",
+      "title": "THE IIC EXPERIENCE: A FESTIVAL OF THE ARTS-Release of the IIC Quarterly: Autumn 2026",
+      "url": "https://iicdelhi.in/programmes/iic-experience-festival-arts-release-iic-quarterly-autumn-2026",
+      "venue": "Gandhi-King Memorial Plaza, IIC main"
     }
   ],
-  "generated_at": "2026-10-25"
+  "generated_at": "2026-10-26"
 }

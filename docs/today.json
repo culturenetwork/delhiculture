@@ -1,90 +1,34 @@
 {
-  "count": 6,
+  "count": 2,
   "events": [
     {
-      "category": "Museum",
-      "date": "2026-10-17",
-      "description": "Threshold An exhibition of recent works by Sangam Peshawaria, with her exploration of the human body through charcoal drawings and oil paintings on paper. Focusing on fragments—hands, feet, limbs and gestures—the works invite viewers to complete what remains unseen through memory",
-      "end_date": "2026-10-25",
-      "image": "https://aws-static.iicdelhi.in/2026-10/17%20October%202026_Website%20Programme%20Image_1.jpg",
-      "score": 85,
-      "source": "iic",
-      "tags": [],
-      "time": "11:00 AM",
-      "title": "EXHIBITION- Threshold",
-      "url": "https://iicdelhi.in/programmes/exhibition-threshold",
-      "venue": "Art Gallery, IIC Annexe"
-    },
-    {
-      "category": "Museum",
-      "date": "2026-10-22",
-      "description": "",
-      "end_date": "2026-10-25",
-      "image": null,
-      "score": 85,
-      "source": "bikanerhouse",
-      "tags": [],
-      "time": null,
-      "title": "Legacy and Beyond- II",
-      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/10",
-      "venue": "Bikaner House"
-    },
-    {
-      "category": "Museum",
-      "date": "2026-10-22",
-      "description": "",
-      "end_date": "2026-10-25",
-      "image": null,
-      "score": 85,
-      "source": "bikanerhouse",
-      "tags": [],
-      "time": null,
-      "title": "No Idea Is Final",
-      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/10",
-      "venue": "Bikaner House"
-    },
-    {
-      "category": "Museum",
-      "date": "2026-10-22",
-      "description": "",
-      "end_date": "2026-10-25",
-      "image": null,
-      "score": 85,
-      "source": "bikanerhouse",
-      "tags": [],
-      "time": null,
-      "title": "Satyam Shivam Sundaram",
-      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/10",
-      "venue": "Bikaner House"
-    },
-    {
-      "category": "Museum",
-      "date": "2026-10-24",
-      "description": "",
-      "end_date": "2026-10-25",
-      "image": null,
-      "score": 85,
-      "source": "bikanerhouse",
-      "tags": [],
-      "time": null,
-      "title": "ELSA Diwali Utsav 2026",
-      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/10",
-      "venue": "Bikaner House"
-    },
-    {
-      "category": "Indian Classical",
-      "date": "2026-10-25",
+      "category": "Book Talk",
+      "date": "2026-10-26",
       "description": "",
       "end_date": null,
       "image": null,
-      "score": 80,
+      "score": 75,
       "source": "ihc",
       "tags": [],
-      "time": "10:30 AM",
-      "title": "IHC Morning Ragas",
-      "url": "https://indiahabitat.org/Events_details/1487",
-      "venue": "Amphitheatre"
+      "time": "7:00 PM",
+      "title": "Bites of Bliss or Bites of Risk on My Plate",
+      "url": "https://indiahabitat.org/Events_details/1488",
+      "venue": "Gulmohar"
+    },
+    {
+      "category": "Dance",
+      "date": "2026-10-26",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 70,
+      "source": "ihc",
+      "tags": [],
+      "time": "7:00 PM",
+      "title": "The Divine Within: A Kathak Odyssey",
+      "url": "https://indiahabitat.org/Events_details/1489",
+      "venue": "The Stein Auditorium"
     }
   ],
-  "generated_at": "2026-10-25"
+  "generated_at": "2026-10-26"
 }
