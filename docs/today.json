@@ -1,34 +1,62 @@
 {
-  "count": 2,
+  "count": 4,
   "events": [
     {
-      "category": "Book Talk",
-      "date": "2026-10-26",
+      "category": "Museum",
+      "date": "2026-10-27",
+      "description": "",
+      "end_date": "2026-11-01",
+      "image": null,
+      "score": 85,
+      "source": "bikanerhouse",
+      "tags": [],
+      "time": null,
+      "title": "Capturing The Multiverse",
+      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/10",
+      "venue": "Bikaner House"
+    },
+    {
+      "category": "Museum",
+      "date": "2026-10-27",
+      "description": "",
+      "end_date": "2026-11-01",
+      "image": null,
+      "score": 85,
+      "source": "bikanerhouse",
+      "tags": [],
+      "time": null,
+      "title": "Indigo: The Blue Gold II",
+      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/10",
+      "venue": "Bikaner House"
+    },
+    {
+      "category": "Film",
+      "date": "2026-10-27",
       "description": "",
       "end_date": null,
       "image": null,
-      "score": 75,
+      "score": 55,
       "source": "ihc",
       "tags": [],
       "time": "7:00 PM",
-      "title": "Bites of Bliss or Bites of Risk on My Plate",
-      "url": "https://indiahabitat.org/Events_details/1488",
+      "title": "Wildlife Conservation and Communities in Transition",
+      "url": "https://indiahabitat.org/Events_details/1491",
       "venue": "Gulmohar"
     },
     {
-      "category": "Dance",
-      "date": "2026-10-26",
+      "category": "Film",
+      "date": "2026-10-27",
       "description": "",
       "end_date": null,
       "image": null,
-      "score": 70,
+      "score": 55,
       "source": "ihc",
       "tags": [],
       "time": "7:00 PM",
-      "title": "The Divine Within: A Kathak Odyssey",
-      "url": "https://indiahabitat.org/Events_details/1489",
+      "title": "Yaadon Ki Baaraat",
+      "url": "https://indiahabitat.org/Events_details/1490",
       "venue": "The Stein Auditorium"
     }
   ],
-  "generated_at": "2026-10-26"
+  "generated_at": "2026-10-27"
 }
