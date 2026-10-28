@@ -30,33 +30,33 @@
       "venue": "Bikaner House"
     },
     {
-      "category": "Film",
-      "date": "2026-10-27",
+      "category": "Book Talk",
+      "date": "2026-10-28",
       "description": "",
       "end_date": null,
       "image": null,
-      "score": 55,
+      "score": 75,
       "source": "ihc",
       "tags": [],
-      "time": "7:00 PM",
-      "title": "Wildlife Conservation and Communities in Transition",
-      "url": "https://indiahabitat.org/Events_details/1491",
+      "time": "6:00 PM",
+      "title": "Role of BRICS in the Emerging World Order",
+      "url": "https://indiahabitat.org/Events_details/1492",
       "venue": "Gulmohar"
     },
     {
-      "category": "Film",
-      "date": "2026-10-27",
+      "category": "Cultural",
+      "date": "2026-10-28",
       "description": "",
       "end_date": null,
       "image": null,
-      "score": 55,
+      "score": 50,
       "source": "ihc",
       "tags": [],
-      "time": "7:00 PM",
-      "title": "Yaadon Ki Baaraat",
-      "url": "https://indiahabitat.org/Events_details/1490",
-      "venue": "The Stein Auditorium"
+      "time": "6:30 PM",
+      "title": "IHC Diwali Celebrations. Ramleela",
+      "url": "https://indiahabitat.org/Events_details/1493",
+      "venue": "Margosa Lawn"
     }
   ],
-  "generated_at": "2026-10-27"
+  "generated_at": "2026-10-28"
 }
