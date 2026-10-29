@@ -30,34 +30,6 @@
       "venue": "Bikaner House"
     },
     {
-      "category": "Book Talk",
-      "date": "2026-10-28",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 75,
-      "source": "ihc",
-      "tags": [],
-      "time": "6:00 PM",
-      "title": "Role of BRICS in the Emerging World Order",
-      "url": "https://indiahabitat.org/Events_details/1492",
-      "venue": "Gulmohar"
-    },
-    {
-      "category": "Cultural",
-      "date": "2026-10-28",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 50,
-      "source": "ihc",
-      "tags": [],
-      "time": "6:30 PM",
-      "title": "IHC Diwali Celebrations. Ramleela",
-      "url": "https://indiahabitat.org/Events_details/1493",
-      "venue": "Margosa Lawn"
-    },
-    {
       "category": "Museum",
       "date": "2026-10-29",
       "description": "Prakriti: Harmonizing Inner and Outer Worlds in South Asian Texts and Traditions The exhibition explores Prakriti as the essential nature of existence and the vital force of creation through the lenses of Indian philosophy, Ayurveda and other disciplines. Reproductions of South A",
@@ -198,6 +170,20 @@
       "venue": "Art Gallery, Kamaladevi Complex, IIC"
     },
     {
+      "category": "Museum",
+      "date": "2026-10-31",
+      "description": "",
+      "end_date": "2026-11-03",
+      "image": null,
+      "score": 85,
+      "source": "bikanerhouse",
+      "tags": [],
+      "time": null,
+      "title": "Whispers of The Himalayas",
+      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/10",
+      "venue": "Bikaner House"
+    },
+    {
       "category": "Indian Classical",
       "date": "2026-10-31",
       "description": "",
@@ -280,6 +266,20 @@
       "title": "THE IIC EXPERIENCE: A FESTIVAL OF THE ARTS -Architecture, Urban Landscapes and the Future of Cities",
       "url": "https://iicdelhi.in/programmes/iic-experience-festival-arts-architecture-urban-landscapes-and-future-cities",
       "venue": "Conference Room II, IIC main"
+    },
+    {
+      "category": "Cultural",
+      "date": "2026-11-01",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-10/Cultural_3.jpg",
+      "score": 50,
+      "source": "iic",
+      "tags": [],
+      "time": "11:00 AM",
+      "title": "THE IIC EXPERIENCE: A FESTIVAL OF THE ARTS – Classical Vocal Recital",
+      "url": "https://iicdelhi.in/programmes/iic-experience-festival-arts-classical-vocal-recital",
+      "venue": "C.D. Deshmukh Auditorium, IIC main"
     },
     {
       "category": "Cultural",
@@ -380,5 +380,5 @@
       "venue": "Fountain Lawns, IIC main"
     }
   ],
-  "generated_at": "2026-10-28"
+  "generated_at": "2026-10-29"
 }

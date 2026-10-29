@@ -1,5 +1,5 @@
 {
-  "count": 4,
+  "count": 5,
   "events": [
     {
       "category": "Museum",
@@ -30,33 +30,47 @@
       "venue": "Bikaner House"
     },
     {
-      "category": "Book Talk",
-      "date": "2026-10-28",
-      "description": "",
+      "category": "Museum",
+      "date": "2026-10-29",
+      "description": "Prakriti: Harmonizing Inner and Outer Worlds in South Asian Texts and Traditions The exhibition explores Prakriti as the essential nature of existence and the vital force of creation through the lenses of Indian philosophy, Ayurveda and other disciplines. Reproductions of South A",
       "end_date": null,
-      "image": null,
-      "score": 75,
-      "source": "ihc",
+      "image": "https://aws-static.iicdelhi.in/2026-10/Exhibition_1_0.jpg",
+      "score": 85,
+      "source": "iic",
       "tags": [],
-      "time": "6:00 PM",
-      "title": "Role of BRICS in the Emerging World Order",
-      "url": "https://indiahabitat.org/Events_details/1492",
-      "venue": "Gulmohar"
+      "time": "04:00 PM",
+      "title": "THE IIC EXPERIENCE: A FESTIVAL OF THE ARTS -EXHIBITION -FESTIVAL CURTAIN RAISER",
+      "url": "https://iicdelhi.in/programmes/iic-experience-festival-arts-exhibition-festival-curtain-raiser",
+      "venue": "Art Gallery, IIC Annexe"
     },
     {
-      "category": "Cultural",
-      "date": "2026-10-28",
+      "category": "Book Talk",
+      "date": "2026-10-29",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-10/Discussion_1.jpg",
+      "score": 75,
+      "source": "iic",
+      "tags": [],
+      "time": "06:30 PM",
+      "title": "THE IIC EXPERIENCE: A FESTIVAL OF THE ARTS: Rukkha, Rakkha, Yakkha: Foundational Evidence for Tree Worship in Indian Art",
+      "url": "https://iicdelhi.in/programmes/iic-experience-festival-arts-rukkha-rakkha-yakkha-foundational-evidence-tree-worship",
+      "venue": "C.D. Deshmukh Auditorium, IIC main"
+    },
+    {
+      "category": "Dance",
+      "date": "2026-10-29",
       "description": "",
       "end_date": null,
       "image": null,
-      "score": 50,
+      "score": 70,
       "source": "ihc",
       "tags": [],
-      "time": "6:30 PM",
-      "title": "IHC Diwali Celebrations. Ramleela",
-      "url": "https://indiahabitat.org/Events_details/1493",
-      "venue": "Margosa Lawn"
+      "time": "7:00 PM",
+      "title": "Yarn: A Festival of Storytelling through Dance. Day 1",
+      "url": "https://indiahabitat.org/Events_details/1495",
+      "venue": "The Stein Auditorium"
     }
   ],
-  "generated_at": "2026-10-28"
+  "generated_at": "2026-10-29"
 }
