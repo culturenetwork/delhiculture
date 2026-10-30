@@ -1,5 +1,5 @@
 {
-  "count": 5,
+  "count": 8,
   "events": [
     {
       "category": "Museum",
@@ -31,35 +31,49 @@
     },
     {
       "category": "Museum",
-      "date": "2026-10-29",
-      "description": "Prakriti: Harmonizing Inner and Outer Worlds in South Asian Texts and Traditions The exhibition explores Prakriti as the essential nature of existence and the vital force of creation through the lenses of Indian philosophy, Ayurveda and other disciplines. Reproductions of South A",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-10/Exhibition_1_0.jpg",
+      "date": "2026-10-30",
+      "description": "Living Lightly: Journey with the Pastoralists Living Lightly, India’s first exhibition on pastoral life, explores pastoral mobility, landscapes, knowledge and challenges. Through installations, stories and demonstrations, it reflects on the lives of pastoral communities and their",
+      "end_date": "2026-11-03",
+      "image": "https://aws-static.iicdelhi.in/2026-10/Exhibition_3.jpg",
+      "score": 85,
+      "source": "iic",
+      "tags": [],
+      "time": "05:30 PM",
+      "title": "THE IIC EXPERIENCE: A FESTIVAL OF THE ARTS  -Exhibition -Living Lightly: Journey with the Pastoralists",
+      "url": "https://iicdelhi.in/programmes/iic-experience-festival-arts-exhibition-living-lightly-journey-pastoralists",
+      "venue": "Gandhi-King Memorial Plaza, IIC main"
+    },
+    {
+      "category": "Museum",
+      "date": "2026-10-30",
+      "description": "Palms and Parchment: Keralam’s Heritage of Reading and Relics An Exhibition of Literacy, Legacy and the Cultural Treasures of Keralam",
+      "end_date": "2026-11-03",
+      "image": "https://aws-static.iicdelhi.in/2026-10/Exhibition_2.jpg",
       "score": 85,
       "source": "iic",
       "tags": [],
       "time": "04:00 PM",
-      "title": "THE IIC EXPERIENCE: A FESTIVAL OF THE ARTS -EXHIBITION -FESTIVAL CURTAIN RAISER",
-      "url": "https://iicdelhi.in/programmes/iic-experience-festival-arts-exhibition-festival-curtain-raiser",
-      "venue": "Art Gallery, IIC Annexe"
+      "title": "THE IIC EXPERIENCE:A FESTIVAL OF THE ARTS- EXHIBITIONS -Palms and Parchment: Keralam’s Heritage of Reading and Relics",
+      "url": "https://iicdelhi.in/programmes/iic-experiencea-festival-arts-exhibitions-palms-and-parchment-keralams-heritage-reading",
+      "venue": "Conference Room I, IIC main"
     },
     {
       "category": "Book Talk",
-      "date": "2026-10-29",
+      "date": "2026-10-30",
       "description": "",
       "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-10/Discussion_1.jpg",
+      "image": null,
       "score": 75,
-      "source": "iic",
+      "source": "ihc",
       "tags": [],
-      "time": "06:30 PM",
-      "title": "THE IIC EXPERIENCE: A FESTIVAL OF THE ARTS: Rukkha, Rakkha, Yakkha: Foundational Evidence for Tree Worship in Indian Art",
-      "url": "https://iicdelhi.in/programmes/iic-experience-festival-arts-rukkha-rakkha-yakkha-foundational-evidence-tree-worship",
-      "venue": "C.D. Deshmukh Auditorium, IIC main"
+      "time": "7:00 PM",
+      "title": "Base Change, Double Deflation and GDP Measurement: Implications for Public Policy",
+      "url": "https://indiahabitat.org/Events_details/1497",
+      "venue": "Gulmohar"
     },
     {
       "category": "Dance",
-      "date": "2026-10-29",
+      "date": "2026-10-30",
       "description": "",
       "end_date": null,
       "image": null,
@@ -67,10 +81,38 @@
       "source": "ihc",
       "tags": [],
       "time": "7:00 PM",
-      "title": "Yarn: A Festival of Storytelling through Dance. Day 1",
-      "url": "https://indiahabitat.org/Events_details/1495",
+      "title": "Yarn: A Festival of Storytelling through Dance. Day 2",
+      "url": "https://indiahabitat.org/Events_details/1496",
       "venue": "The Stein Auditorium"
+    },
+    {
+      "category": "Film",
+      "date": "2026-10-30",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-10/Films.jpg",
+      "score": 55,
+      "source": "iic",
+      "tags": [],
+      "time": "08:30 PM",
+      "title": "THE IIC EXPERIENCE: A FESTIVAL OF THE ARTS- Film Festival",
+      "url": "https://iicdelhi.in/programmes/iic-experience-festival-arts-film-festival",
+      "venue": "C.D. Deshmukh Auditorium, IIC main"
+    },
+    {
+      "category": "Cultural",
+      "date": "2026-10-30",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-10/Cultural_1.jpg",
+      "score": 50,
+      "source": "iic",
+      "tags": [],
+      "time": "06:30 PM",
+      "title": "THE IIC EXPERIENCE: A FESTIVAL OF THE ARTS – Scent of the Earth",
+      "url": "https://iicdelhi.in/programmes/iic-experience-festival-arts-scent-earth",
+      "venue": "Fountain Lawns, IIC main"
     }
   ],
-  "generated_at": "2026-10-29"
+  "generated_at": "2026-10-30"
 }

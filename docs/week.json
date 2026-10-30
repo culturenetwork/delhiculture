@@ -3,90 +3,6 @@
   "events": [
     {
       "category": "Museum",
-      "date": "2026-10-30",
-      "description": "Living Lightly: Journey with the Pastoralists Living Lightly, India’s first exhibition on pastoral life, explores pastoral mobility, landscapes, knowledge and challenges. Through installations, stories and demonstrations, it reflects on the lives of pastoral communities and their",
-      "end_date": "2026-11-03",
-      "image": "https://aws-static.iicdelhi.in/2026-10/Exhibition_3.jpg",
-      "score": 85,
-      "source": "iic",
-      "tags": [],
-      "time": "05:30 PM",
-      "title": "THE IIC EXPERIENCE: A FESTIVAL OF THE ARTS  -Exhibition -Living Lightly: Journey with the Pastoralists",
-      "url": "https://iicdelhi.in/programmes/iic-experience-festival-arts-exhibition-living-lightly-journey-pastoralists",
-      "venue": "Gandhi-King Memorial Plaza, IIC main"
-    },
-    {
-      "category": "Museum",
-      "date": "2026-10-30",
-      "description": "Palms and Parchment: Keralam’s Heritage of Reading and Relics An Exhibition of Literacy, Legacy and the Cultural Treasures of Keralam",
-      "end_date": "2026-11-03",
-      "image": "https://aws-static.iicdelhi.in/2026-10/Exhibition_2.jpg",
-      "score": 85,
-      "source": "iic",
-      "tags": [],
-      "time": "04:00 PM",
-      "title": "THE IIC EXPERIENCE:A FESTIVAL OF THE ARTS- EXHIBITIONS -Palms and Parchment: Keralam’s Heritage of Reading and Relics",
-      "url": "https://iicdelhi.in/programmes/iic-experiencea-festival-arts-exhibitions-palms-and-parchment-keralams-heritage-reading",
-      "venue": "Conference Room I, IIC main"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-10-30",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 75,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "Base Change, Double Deflation and GDP Measurement: Implications for Public Policy",
-      "url": "https://indiahabitat.org/Events_details/1497",
-      "venue": "Gulmohar"
-    },
-    {
-      "category": "Dance",
-      "date": "2026-10-30",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 70,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "Yarn: A Festival of Storytelling through Dance. Day 2",
-      "url": "https://indiahabitat.org/Events_details/1496",
-      "venue": "The Stein Auditorium"
-    },
-    {
-      "category": "Film",
-      "date": "2026-10-30",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-10/Films.jpg",
-      "score": 55,
-      "source": "iic",
-      "tags": [],
-      "time": "08:30 PM",
-      "title": "THE IIC EXPERIENCE: A FESTIVAL OF THE ARTS- Film Festival",
-      "url": "https://iicdelhi.in/programmes/iic-experience-festival-arts-film-festival",
-      "venue": "C.D. Deshmukh Auditorium, IIC main"
-    },
-    {
-      "category": "Cultural",
-      "date": "2026-10-30",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-10/Cultural_1.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "THE IIC EXPERIENCE: A FESTIVAL OF THE ARTS – Scent of the Earth",
-      "url": "https://iicdelhi.in/programmes/iic-experience-festival-arts-scent-earth",
-      "venue": "Fountain Lawns, IIC main"
-    },
-    {
-      "category": "Museum",
       "date": "2026-10-31",
       "description": "A pioneering exhibition of late 18th and early 19th century Company Paintings devoted entirely to Indian birds",
       "end_date": "2026-11-14",
@@ -184,6 +100,20 @@
       "venue": "Fountain Lawns, IIC main"
     },
     {
+      "category": "Indian Classical",
+      "date": "2026-11-01",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 80,
+      "source": "ihc",
+      "tags": [],
+      "time": "7:00 PM",
+      "title": "3rd edition of Sadhana: Celebrating Emerging Talent",
+      "url": "https://indiahabitat.org/Events_details/1503",
+      "venue": "The Theatre"
+    },
+    {
       "category": "Book Talk",
       "date": "2026-11-01",
       "description": "",
@@ -196,6 +126,34 @@
       "title": "THE IIC EXPERIENCE: A FESTIVAL OF THE ARTS -Architecture, Urban Landscapes and the Future of Cities",
       "url": "https://iicdelhi.in/programmes/iic-experience-festival-arts-architecture-urban-landscapes-and-future-cities",
       "venue": "Conference Room II, IIC main"
+    },
+    {
+      "category": "Film",
+      "date": "2026-11-01",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 55,
+      "source": "ihc",
+      "tags": [],
+      "time": "7:00 PM",
+      "title": "Piplantri: A Tale of Eco Feminism",
+      "url": "https://indiahabitat.org/Events_details/1504",
+      "venue": "The Stein Auditorium"
+    },
+    {
+      "category": "Cultural",
+      "date": "2026-11-01",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 50,
+      "source": "ihc",
+      "tags": [],
+      "time": "11:00 AM",
+      "title": "The IHC Free Book X'Change",
+      "url": "https://indiahabitat.org/Events_details/1502",
+      "venue": "Near the IHC Information Centre"
     },
     {
       "category": "Cultural",
@@ -226,6 +184,20 @@
       "venue": "Fountain Lawns, IIC main"
     },
     {
+      "category": "Indian Classical",
+      "date": "2026-11-02",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 80,
+      "source": "ihc",
+      "tags": [],
+      "time": "7:00 PM",
+      "title": "An Evening of Russian Choral Music",
+      "url": "https://indiahabitat.org/Events_details/1505",
+      "venue": "The Stein Auditorium"
+    },
+    {
       "category": "Book Talk",
       "date": "2026-11-02",
       "description": "",
@@ -234,7 +206,7 @@
       "score": 75,
       "source": "iic",
       "tags": [],
-      "time": "04:00 PM",
+      "time": "03:00 PM",
       "title": "THE IIC EXPERIENCE: A FESTIVAL OF THE ARTS - Guardians of the Grasslands: Pastoralism, Mobility and Ecology",
       "url": "https://iicdelhi.in/programmes/iic-experience-festival-arts-guardians-grasslands-pastoralism-mobility-and-ecology",
       "venue": "Conference Room II, IIC main"
@@ -262,7 +234,7 @@
       "score": 50,
       "source": "iic",
       "tags": [],
-      "time": "04:00 PM",
+      "time": "05:00 PM",
       "title": "THE IIC EXPERIENCE: A FESTIVAL OF THE ARTS-Release of the IIC Quarterly: Autumn 2026",
       "url": "https://iicdelhi.in/programmes/iic-experience-festival-arts-release-iic-quarterly-autumn-2026",
       "venue": "Gandhi-King Memorial Plaza, IIC main"
@@ -296,6 +268,20 @@
       "venue": "Conference Room II, IIC main"
     },
     {
+      "category": "Film",
+      "date": "2026-11-03",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 55,
+      "source": "ihc",
+      "tags": [],
+      "time": "7:00 PM",
+      "title": "Toh, Ti Ani Fuji",
+      "url": "https://indiahabitat.org/Events_details/1506",
+      "venue": "The Stein Auditorium"
+    },
+    {
       "category": "Cultural",
       "date": "2026-11-03",
       "description": "",
@@ -308,7 +294,21 @@
       "title": "THE IIC EXPERIENCE: A FESTIVAL OF THE ARTS –The Emotional World of Raga",
       "url": "https://iicdelhi.in/programmes/iic-experience-festival-arts-emotional-world-raga",
       "venue": "Fountain Lawns, IIC main"
+    },
+    {
+      "category": "Book Talk",
+      "date": "2026-11-04",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 75,
+      "source": "ihc",
+      "tags": [],
+      "time": "7:00 PM",
+      "title": "Pre-Confluence Event for Young Thinkers’ Confluence 2026 - Indian Knowledge System and Youth: Learning it the Bharatiya Way",
+      "url": "https://indiahabitat.org/Events_details/1507",
+      "venue": "Gulmohar"
     }
   ],
-  "generated_at": "2026-10-29"
+  "generated_at": "2026-10-30"
 }
