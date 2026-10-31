@@ -1,5 +1,5 @@
 {
-  "count": 69,
+  "count": 65,
   "events": [
     {
       "category": "Museum",
@@ -32,20 +32,6 @@
     {
       "category": "Museum",
       "date": "2026-10-30",
-      "description": "Living Lightly: Journey with the Pastoralists Living Lightly, India’s first exhibition on pastoral life, explores pastoral mobility, landscapes, knowledge and challenges. Through installations, stories and demonstrations, it reflects on the lives of pastoral communities and their",
-      "end_date": "2026-11-03",
-      "image": "https://aws-static.iicdelhi.in/2026-10/Exhibition_3.jpg",
-      "score": 85,
-      "source": "iic",
-      "tags": [],
-      "time": "05:30 PM",
-      "title": "THE IIC EXPERIENCE: A FESTIVAL OF THE ARTS  -Exhibition -Living Lightly: Journey with the Pastoralists",
-      "url": "https://iicdelhi.in/programmes/iic-experience-festival-arts-exhibition-living-lightly-journey-pastoralists",
-      "venue": "Gandhi-King Memorial Plaza, IIC main"
-    },
-    {
-      "category": "Museum",
-      "date": "2026-10-30",
       "description": "Palms and Parchment: Keralam’s Heritage of Reading and Relics An Exhibition of Literacy, Legacy and the Cultural Treasures of Keralam",
       "end_date": "2026-11-03",
       "image": "https://aws-static.iicdelhi.in/2026-10/Exhibition_2.jpg",
@@ -58,60 +44,18 @@
       "venue": "Conference Room I, IIC main"
     },
     {
-      "category": "Book Talk",
-      "date": "2026-10-30",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 75,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "Base Change, Double Deflation and GDP Measurement: Implications for Public Policy",
-      "url": "https://indiahabitat.org/Events_details/1497",
-      "venue": "Gulmohar"
-    },
-    {
-      "category": "Dance",
-      "date": "2026-10-30",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 70,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "Yarn: A Festival of Storytelling through Dance. Day 2",
-      "url": "https://indiahabitat.org/Events_details/1496",
-      "venue": "The Stein Auditorium"
-    },
-    {
-      "category": "Film",
-      "date": "2026-10-30",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-10/Films.jpg",
-      "score": 55,
+      "category": "Museum",
+      "date": "2026-10-31",
+      "description": "Living Lightly: Journey with the Pastoralists Living Lightly, India’s first exhibition on pastoral life, explores pastoral mobility, landscapes, knowledge and challenges. Through installations, stories and demonstrations, it reflects on the lives of pastoral communities and their",
+      "end_date": "2026-11-03",
+      "image": "https://aws-static.iicdelhi.in/2026-10/Exhibition_3.jpg",
+      "score": 85,
       "source": "iic",
       "tags": [],
-      "time": "08:30 PM",
-      "title": "THE IIC EXPERIENCE: A FESTIVAL OF THE ARTS- Film Festival",
-      "url": "https://iicdelhi.in/programmes/iic-experience-festival-arts-film-festival",
-      "venue": "C.D. Deshmukh Auditorium, IIC main"
-    },
-    {
-      "category": "Cultural",
-      "date": "2026-10-30",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-10/Cultural_1.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "THE IIC EXPERIENCE: A FESTIVAL OF THE ARTS – Scent of the Earth",
-      "url": "https://iicdelhi.in/programmes/iic-experience-festival-arts-scent-earth",
-      "venue": "Fountain Lawns, IIC main"
+      "time": "05:00 PM",
+      "title": "THE IIC EXPERIENCE: A FESTIVAL OF THE ARTS  -Exhibition -Living Lightly: Journey with the Pastoralists",
+      "url": "https://iicdelhi.in/programmes/iic-experience-festival-arts-exhibition-living-lightly-journey-pastoralists",
+      "venue": "Gandhi-King Memorial Plaza, IIC main"
     },
     {
       "category": "Museum",
@@ -968,5 +912,5 @@
       "venue": "The Stein Auditorium"
     }
   ],
-  "generated_at": "2026-10-30"
+  "generated_at": "2026-10-31"
 }

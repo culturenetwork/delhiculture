@@ -1,5 +1,5 @@
 {
-  "count": 37,
+  "count": 39,
   "events": [
     {
       "category": "Book Talk",
@@ -518,7 +518,35 @@
       "title": "Dodo",
       "url": "https://indiahabitat.org/Events_details/1546",
       "venue": "Gulmohar"
+    },
+    {
+      "category": "Book Talk",
+      "date": "2026-11-30",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 75,
+      "source": "ihc",
+      "tags": [],
+      "time": "7:00 PM",
+      "title": "Deregulating Policy for Compounding Growth in Tourism and Hospitality Sector in India",
+      "url": "https://indiahabitat.org/Events_details/1548",
+      "venue": "Gulmohar"
+    },
+    {
+      "category": "Dance",
+      "date": "2026-11-30",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 70,
+      "source": "ihc",
+      "tags": [],
+      "time": "7:00 PM",
+      "title": "KATHA - Silent Echoes of Kuru Queens",
+      "url": "https://indiahabitat.org/Events_details/1547",
+      "venue": "The Stein Auditorium"
     }
   ],
-  "generated_at": "2026-10-30"
+  "generated_at": "2026-10-31"
 }
