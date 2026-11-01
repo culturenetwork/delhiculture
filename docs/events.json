@@ -1,34 +1,6 @@
 {
-  "count": 65,
+  "count": 57,
   "events": [
-    {
-      "category": "Museum",
-      "date": "2026-10-27",
-      "description": "",
-      "end_date": "2026-11-01",
-      "image": null,
-      "score": 85,
-      "source": "bikanerhouse",
-      "tags": [],
-      "time": null,
-      "title": "Capturing The Multiverse",
-      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/10",
-      "venue": "Bikaner House"
-    },
-    {
-      "category": "Museum",
-      "date": "2026-10-27",
-      "description": "",
-      "end_date": "2026-11-01",
-      "image": null,
-      "score": 85,
-      "source": "bikanerhouse",
-      "tags": [],
-      "time": null,
-      "title": "Indigo: The Blue Gold II",
-      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/10",
-      "venue": "Bikaner House"
-    },
     {
       "category": "Museum",
       "date": "2026-10-30",
@@ -70,90 +42,6 @@
       "title": "THE IIC EXPERIENCE: A FESTIVAL OF THE ARTS – Exhibition- Birds of India: Company Paintings c.1800 and 1835",
       "url": "https://iicdelhi.in/programmes/iic-experience-festival-arts-exhibition-birds-india-company-paintings-c1800-and-1835",
       "venue": "Art Gallery, Kamaladevi Complex, IIC"
-    },
-    {
-      "category": "Museum",
-      "date": "2026-10-31",
-      "description": "",
-      "end_date": "2026-11-03",
-      "image": null,
-      "score": 85,
-      "source": "bikanerhouse",
-      "tags": [],
-      "time": null,
-      "title": "Whispers of The Himalayas",
-      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/10",
-      "venue": "Bikaner House"
-    },
-    {
-      "category": "Indian Classical",
-      "date": "2026-10-31",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 80,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:30 PM",
-      "title": "Timeless Ghalib",
-      "url": "https://indiahabitat.org/Events_details/1499",
-      "venue": "The Stein Auditorium"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-10-31",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-10/Poetry.jpg",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
-      "time": "12:30 PM",
-      "title": "THE IIC EXPERIENCE: A FESTIVAL OF THE ARTS- The World within the Word- Poetry Reading Session on Nature",
-      "url": "https://iicdelhi.in/programmes/iic-experience-festival-arts-world-within-word-poetry-reading-session-nature",
-      "venue": "Seminar Rooms 1,2,3"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-10-31",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-10/Discussion_3.jpg",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
-      "time": "03:30 PM",
-      "title": "THE IIC EXPERIENCE: A FESTIVAL OF THE ARTS- The Written Word and Social Progress: How Kerala Achieved 100% Literacy",
-      "url": "https://iicdelhi.in/programmes/iic-experience-festival-arts-written-word-and-social-progress-how-kerala-achieved-100",
-      "venue": "Seminar Rooms 1,2,3"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-10-31",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-10/Discussion_2.jpg",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
-      "time": "10:30 AM",
-      "title": "THE IIC EXPERIENCE: A FESTIVAL OF THE ARTS- Wildlife Conservation in Contemporary India",
-      "url": "https://iicdelhi.in/programmes/iic-experience-festival-arts-wildlife-conservation-contemporary-india",
-      "venue": "C.D. Deshmukh Auditorium, IIC main"
-    },
-    {
-      "category": "Cultural",
-      "date": "2026-10-31",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-10/Cultural_2.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "THE IIC EXPERIENCE: A FESTIVAL OF THE ARTS –Nirvana Nataka",
-      "url": "https://iicdelhi.in/programmes/iic-experience-festival-arts-nirvana-nataka",
-      "venue": "Fountain Lawns, IIC main"
     },
     {
       "category": "Indian Classical",
@@ -464,12 +352,12 @@
       "venue": "The Stein Auditorium"
     },
     {
-      "category": "Theatre",
+      "category": "Theatre & Film",
       "date": "2026-11-14",
       "description": "",
       "end_date": null,
       "image": null,
-      "score": 65,
+      "score": 50,
       "source": "ihc",
       "tags": [],
       "time": "7:00 PM",
@@ -492,12 +380,12 @@
       "venue": "Amphitheatre"
     },
     {
-      "category": "Theatre",
+      "category": "Theatre & Music",
       "date": "2026-11-15",
       "description": "",
       "end_date": null,
       "image": null,
-      "score": 65,
+      "score": 50,
       "source": "ihc",
       "tags": [],
       "time": "7:30 PM",
@@ -604,16 +492,16 @@
       "venue": "The Stein Auditorium"
     },
     {
-      "category": "Book Talk",
+      "category": "Talk & Music",
       "date": "2026-11-20",
       "description": "",
       "end_date": null,
       "image": null,
-      "score": 75,
+      "score": 50,
       "source": "ihc",
       "tags": [],
       "time": "7:00 PM",
-      "title": "Jain Tales of Moksha",
+      "title": "Launch of Three New Titles from the Murty Classical Library of India",
       "url": "https://indiahabitat.org/Events_details/1526",
       "venue": "The Stein Auditorium"
     },
@@ -660,20 +548,6 @@
       "venue": "The Stein Auditorium"
     },
     {
-      "category": "Film",
-      "date": "2026-11-21",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 55,
-      "source": "ihc",
-      "tags": [],
-      "time": "6:00 PM",
-      "title": "Kangra Miniature Paintings",
-      "url": "https://indiahabitat.org/Events_details/1528",
-      "venue": "Online"
-    },
-    {
       "category": "Cultural",
       "date": "2026-11-21",
       "description": "",
@@ -686,6 +560,20 @@
       "title": "IHC Members Meet",
       "url": "https://indiahabitat.org/Events_details/1549",
       "venue": "The Habitat Lounge"
+    },
+    {
+      "category": "Film & Talk",
+      "date": "2026-11-21",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 50,
+      "source": "ihc",
+      "tags": [],
+      "time": "6:00 PM",
+      "title": "Kangra Miniature Paintings",
+      "url": "https://indiahabitat.org/Events_details/1528",
+      "venue": "Online"
     },
     {
       "category": "Book Talk",
@@ -730,20 +618,6 @@
       "venue": "The Stein Auditorium"
     },
     {
-      "category": "Indian Classical",
-      "date": "2026-11-23",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 80,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "75th Anniversary of the Hungarian State Folk Ensemble",
-      "url": "https://indiahabitat.org/Events_details/1534",
-      "venue": "The Stein Auditorium"
-    },
-    {
       "category": "Book Talk",
       "date": "2026-11-23",
       "description": "",
@@ -756,6 +630,20 @@
       "title": "At the Feet of the Guru",
       "url": "https://indiahabitat.org/Events_details/1535",
       "venue": "Gulmohar"
+    },
+    {
+      "category": "Music & Dance",
+      "date": "2026-11-23",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 50,
+      "source": "ihc",
+      "tags": [],
+      "time": "7:00 PM",
+      "title": "75th Anniversary of the Hungarian State Folk Ensemble",
+      "url": "https://indiahabitat.org/Events_details/1534",
+      "venue": "The Stein Auditorium"
     },
     {
       "category": "Dance",
@@ -800,12 +688,12 @@
       "venue": "The Stein Auditorium"
     },
     {
-      "category": "Dance",
+      "category": "Dance & Music",
       "date": "2026-11-26",
       "description": "",
       "end_date": null,
       "image": null,
-      "score": 70,
+      "score": 50,
       "source": "ihc",
       "tags": [],
       "time": "7:30 PM",
@@ -842,20 +730,6 @@
       "venue": "Gulmohar"
     },
     {
-      "category": "Book Talk",
-      "date": "2026-11-28",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 75,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "Yeh Kaisi Hawa Chali!",
-      "url": "https://indiahabitat.org/Events_details/1545",
-      "venue": "The Theatre"
-    },
-    {
       "category": "Film",
       "date": "2026-11-28",
       "description": "",
@@ -868,6 +742,20 @@
       "title": "Jippie No More",
       "url": "https://indiahabitat.org/Events_details/1544",
       "venue": "Gulmohar"
+    },
+    {
+      "category": "Talk & Theatre",
+      "date": "2026-11-28",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 50,
+      "source": "ihc",
+      "tags": [],
+      "time": "7:00 PM",
+      "title": "Yeh Kaisi Hawa Chali!",
+      "url": "https://indiahabitat.org/Events_details/1545",
+      "venue": "The Theatre"
     },
     {
       "category": "Film",
@@ -898,12 +786,12 @@
       "venue": "Gulmohar"
     },
     {
-      "category": "Dance",
+      "category": "Dance & Music",
       "date": "2026-11-30",
       "description": "",
       "end_date": null,
       "image": null,
-      "score": 70,
+      "score": 50,
       "source": "ihc",
       "tags": [],
       "time": "7:00 PM",
@@ -912,5 +800,5 @@
       "venue": "The Stein Auditorium"
     }
   ],
-  "generated_at": "2026-10-31"
+  "generated_at": "2026-11-01"
 }
