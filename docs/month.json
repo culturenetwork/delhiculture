@@ -1,76 +1,6 @@
 {
-  "count": 50,
+  "count": 63,
   "events": [
-    {
-      "category": "Book Talk",
-      "date": "2026-11-10",
-      "description": "",
-      "end_date": null,
-      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
-      "time": "10:00 AM",
-      "title": "DIALOGUES IN HEALTH & WELLNESS",
-      "url": "https://iicdelhi.in/programmes/dialogues-health-wellness-0",
-      "venue": "Seminar Rooms 1,2,3"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-11-10",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 75,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "India’s Journey to Net Zero",
-      "url": "https://indiahabitat.org/Events_details/1509",
-      "venue": "Gulmohar"
-    },
-    {
-      "category": "Film",
-      "date": "2026-11-10",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 55,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "Sangtye Aika",
-      "url": "https://indiahabitat.org/Events_details/1508",
-      "venue": "The Stein Auditorium"
-    },
-    {
-      "category": "Cultural",
-      "date": "2026-11-10",
-      "description": "",
-      "end_date": null,
-      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "04:30 PM",
-      "title": "Celebration of 155th Birth Anniversary of Dr. Sachchidanand Sinha, Interim President of Constituent Assembly",
-      "url": "https://iicdelhi.in/programmes/celebration-155th-birth-anniversary-dr-sachchidanand-sinha-interim-president-constituent",
-      "venue": "C.D. Deshmukh Auditorium, IIC main"
-    },
-    {
-      "category": "Seminars",
-      "date": "2026-11-10",
-      "description": "",
-      "end_date": null,
-      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "07:00 PM",
-      "title": "Persia in the Mirror of Mughal India",
-      "url": "https://iicdelhi.in/programmes/persia-mirror-mughal-india",
-      "venue": "Multipurpose Hall, Kamaladevi Complex, IIC"
-    },
     {
       "category": "Book Talk",
       "date": "2026-11-11",
@@ -174,7 +104,7 @@
       "date": "2026-11-12",
       "description": "",
       "end_date": null,
-      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "image": "https://aws-static.iicdelhi.in/2026-11/12%20November%202026_Website%20Programme%20Image.jpg",
       "score": 55,
       "source": "iic",
       "tags": [],
@@ -230,7 +160,7 @@
       "date": "2026-11-13",
       "description": "",
       "end_date": null,
-      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "image": "https://aws-static.iicdelhi.in/2026-11/13%20November%202026_Website%20Programme%20Image.jpg",
       "score": 50,
       "source": "iic",
       "tags": [],
@@ -268,6 +198,20 @@
       "venue": "The Stein Auditorium"
     },
     {
+      "category": "Museum",
+      "date": "2026-11-15",
+      "description": "The IMAGINARIUM of Rudranil Mitra Curated by Uma Nair An exhibition showcasing the imaginative and sculptural creations of 13-year-old Rudranil Mitra, an artist with autism, ADHD and language impairment. His first solo exhibition celebrates unconventional creativity and the impor",
+      "end_date": "2026-11-22",
+      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "score": 85,
+      "source": "iic",
+      "tags": [],
+      "time": "11:00 AM",
+      "title": "The IMAGINARIUM of Rudranil Mitra",
+      "url": "https://iicdelhi.in/programmes/imaginarium-rudranil-mitra",
+      "venue": "Art Gallery, IIC Annexe"
+    },
+    {
       "category": "Indian Classical",
       "date": "2026-11-15",
       "description": "",
@@ -282,6 +226,34 @@
       "venue": "Amphitheatre"
     },
     {
+      "category": "Cultural",
+      "date": "2026-11-15",
+      "description": "",
+      "end_date": null,
+      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "score": 50,
+      "source": "iic",
+      "tags": [],
+      "time": "06:30 PM",
+      "title": "Bijoya Sammelan- Kirtan Madhurya",
+      "url": "https://iicdelhi.in/programmes/bijoya-sammelan-kirtan-madhurya",
+      "venue": "Multipurpose Hall, Kamaladevi Complex, IIC"
+    },
+    {
+      "category": "Cultural",
+      "date": "2026-11-15",
+      "description": "",
+      "end_date": null,
+      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "score": 50,
+      "source": "iic",
+      "tags": [],
+      "time": "10:00 AM",
+      "title": "Carnatic Vocal and Violin Recital",
+      "url": "https://iicdelhi.in/programmes/carnatic-vocal-and-violin-recital",
+      "venue": "C.D. Deshmukh Auditorium, IIC main"
+    },
+    {
       "category": "Theatre & Music",
       "date": "2026-11-15",
       "description": "",
@@ -294,6 +266,20 @@
       "title": "Prothoma Ppandav Bodhu",
       "url": "https://indiahabitat.org/Events_details/1518",
       "venue": "The Stein Auditorium"
+    },
+    {
+      "category": "Book Talk",
+      "date": "2026-11-16",
+      "description": "",
+      "end_date": null,
+      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "score": 75,
+      "source": "iic",
+      "tags": [],
+      "time": "06:00 PM",
+      "title": "18TH GIRI DESHINGKAR MEMORIAL LECTURE",
+      "url": "https://iicdelhi.in/programmes/18th-giri-deshingkar-memorial-lecture",
+      "venue": "Seminar Rooms 1,2,3"
     },
     {
       "category": "Book Talk",
@@ -324,6 +310,20 @@
       "venue": "The Stein Auditorium"
     },
     {
+      "category": "Library Programmes",
+      "date": "2026-11-16",
+      "description": "",
+      "end_date": null,
+      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "score": 50,
+      "source": "iic",
+      "tags": [],
+      "time": "06:00 PM",
+      "title": "BOOK DISCUSSION GROUP-   Militant Nationalism in The Punjab, 1919–1935: Interweaving Region and Nation",
+      "url": "https://iicdelhi.in/programmes/book-discussion-group-militant-nationalism-punjab-1919-1935-interweaving-region-and",
+      "venue": "Conference Room I, IIC main"
+    },
+    {
       "category": "Book Talk",
       "date": "2026-11-17",
       "description": "",
@@ -338,6 +338,34 @@
       "venue": "Gulmohar"
     },
     {
+      "category": "Book Talk",
+      "date": "2026-11-17",
+      "description": "",
+      "end_date": null,
+      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "score": 75,
+      "source": "iic",
+      "tags": [],
+      "time": "06:00 PM",
+      "title": "Sardar Patel Lecture on Governance",
+      "url": "https://iicdelhi.in/programmes/sardar-patel-lecture-governance-0",
+      "venue": "C.D. Deshmukh Auditorium, IIC main"
+    },
+    {
+      "category": "Library Programmes",
+      "date": "2026-11-17",
+      "description": "",
+      "end_date": null,
+      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "score": 50,
+      "source": "iic",
+      "tags": [],
+      "time": "06:00 PM",
+      "title": "BOOK DISCUSSION GROUP - When Branding Met the Movies.",
+      "url": "https://iicdelhi.in/programmes/book-discussion-group-when-branding-met-movies",
+      "venue": "Conference Room II, IIC main"
+    },
+    {
       "category": "Indian Classical",
       "date": "2026-11-18",
       "description": "",
@@ -350,6 +378,20 @@
       "title": "Aarambh",
       "url": "https://indiahabitat.org/Events_details/1523",
       "venue": "The Theatre"
+    },
+    {
+      "category": "Book Talk",
+      "date": "2026-11-18",
+      "description": "",
+      "end_date": null,
+      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "score": 75,
+      "source": "iic",
+      "tags": [],
+      "time": "06:00 PM",
+      "title": "The Border, the War and Our Collective Ignorance",
+      "url": "https://iicdelhi.in/programmes/border-war-and-our-collective-ignorance",
+      "venue": "Conference Room I, IIC main"
     },
     {
       "category": "Book Talk",
@@ -380,6 +422,62 @@
       "venue": "The Stein Auditorium"
     },
     {
+      "category": "Library Programmes",
+      "date": "2026-11-18",
+      "description": "",
+      "end_date": null,
+      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "score": 50,
+      "source": "iic",
+      "tags": [],
+      "time": "06:00 PM",
+      "title": "BOOK DISCUSSION GROUP  An Alchemy of Words and Silences: Contemporary Hindi Women Poets",
+      "url": "https://iicdelhi.in/programmes/book-discussion-group-alchemy-words-and-silences-contemporary-hindi-women-poets",
+      "venue": "Conference Room II, IIC main"
+    },
+    {
+      "category": "Museum",
+      "date": "2026-11-19",
+      "description": "Concerning the Spiritual An Exhibition of Photographs by Briana Blasko Curated by Bhooma Padmanabhan An exhibition exploring the relationship between art, faith and spirituality through photographs by Briana Blasko. The exhibition reflects on moments of stillness, contemplation a",
+      "end_date": "2026-11-30",
+      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "score": 85,
+      "source": "iic",
+      "tags": [],
+      "time": "11:00 AM",
+      "title": "EXHIBITION- Concerning the Spiritual",
+      "url": "https://iicdelhi.in/programmes/exhibition-concerning-spiritual",
+      "venue": "Art Gallery, Kamaladevi Complex, IIC"
+    },
+    {
+      "category": "Book Talk",
+      "date": "2026-11-19",
+      "description": "",
+      "end_date": null,
+      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "score": 75,
+      "source": "iic",
+      "tags": [],
+      "time": "06:00 PM",
+      "title": "Echoes from the Himalayas",
+      "url": "https://iicdelhi.in/programmes/echoes-himalayas",
+      "venue": "Conference Room I, IIC main"
+    },
+    {
+      "category": "Book Talk",
+      "date": "2026-11-19",
+      "description": "",
+      "end_date": null,
+      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "score": 75,
+      "source": "iic",
+      "tags": [],
+      "time": "06:00 PM",
+      "title": "INDIAN ARCHAEOLOGY",
+      "url": "https://iicdelhi.in/programmes/indian-archaeology-152",
+      "venue": "Conference Room II, IIC main"
+    },
+    {
       "category": "Dance",
       "date": "2026-11-19",
       "description": "",
@@ -392,6 +490,76 @@
       "title": "Rasabilasa 2026",
       "url": "https://indiahabitat.org/Events_details/1524",
       "venue": "The Stein Auditorium"
+    },
+    {
+      "category": "Cultural",
+      "date": "2026-11-19",
+      "description": "",
+      "end_date": null,
+      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "score": 50,
+      "source": "iic",
+      "tags": [],
+      "time": "06:00 PM",
+      "title": "IIC DOUBLE BILL: DANCE RECITALS",
+      "url": "https://iicdelhi.in/programmes/iic-double-bill-dance-recitals-21",
+      "venue": "C.D. Deshmukh Auditorium, IIC main"
+    },
+    {
+      "category": "Book Talk",
+      "date": "2026-11-20",
+      "description": "",
+      "end_date": null,
+      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "score": 75,
+      "source": "iic",
+      "tags": [],
+      "time": "06:30 PM",
+      "title": "IIC/MEDIA DIALOGUES - The Role of Cartoons in the Media",
+      "url": "https://iicdelhi.in/programmes/iicmedia-dialogues-role-cartoons-media",
+      "venue": "Conference Room II, IIC main"
+    },
+    {
+      "category": "Film",
+      "date": "2026-11-20",
+      "description": "",
+      "end_date": null,
+      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "score": 55,
+      "source": "iic",
+      "tags": [],
+      "time": "06:00 PM",
+      "title": "FILM-Paswaar (Caress Me)",
+      "url": "https://iicdelhi.in/programmes/film-paswaar-caress-me",
+      "venue": "Lecture Room I, IIC Annexe"
+    },
+    {
+      "category": "Library Programmes",
+      "date": "2026-11-20",
+      "description": "",
+      "end_date": null,
+      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "score": 50,
+      "source": "iic",
+      "tags": [],
+      "time": "06:00 PM",
+      "title": "BOOK DISCUSSION GROUP  Not so Randomly yours",
+      "url": "https://iicdelhi.in/programmes/book-discussion-group-not-so-randomly-yours",
+      "venue": "Conference Room I, IIC main"
+    },
+    {
+      "category": "Cultural",
+      "date": "2026-11-20",
+      "description": "",
+      "end_date": null,
+      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "score": 50,
+      "source": "iic",
+      "tags": [],
+      "time": "06:30 PM",
+      "title": "Ek Noor Te Sab Jag Upjaya kaun bhale kaun mande",
+      "url": "https://iicdelhi.in/programmes/ek-noor-te-sab-jag-upjaya-kaun-bhale-kaun-mande",
+      "venue": "C.D. Deshmukh Auditorium, IIC main"
     },
     {
       "category": "Talk & Music",
@@ -462,6 +630,20 @@
       "title": "IHC Members Meet",
       "url": "https://indiahabitat.org/Events_details/1549",
       "venue": "The Habitat Lounge"
+    },
+    {
+      "category": "Cultural",
+      "date": "2026-11-21",
+      "description": "",
+      "end_date": null,
+      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "score": 50,
+      "source": "iic",
+      "tags": [],
+      "time": "03:30 PM",
+      "title": "KAMALADEVI PURUSKAR 2025",
+      "url": "https://iicdelhi.in/programmes/kamaladevi-puruskar-2025-0",
+      "venue": "Gandhi-King Memorial Plaza, IIC main"
     },
     {
       "category": "Film & Talk",
@@ -702,5 +884,5 @@
       "venue": "The Stein Auditorium"
     }
   ],
-  "generated_at": "2026-11-02"
+  "generated_at": "2026-11-03"
 }
