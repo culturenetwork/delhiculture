@@ -1,34 +1,6 @@
 {
-  "count": 77,
+  "count": 89,
   "events": [
-    {
-      "category": "Museum",
-      "date": "2026-10-30",
-      "description": "Palms and Parchment: Keralam’s Heritage of Reading and Relics An Exhibition of Literacy, Legacy and the Cultural Treasures of Keralam",
-      "end_date": "2026-11-03",
-      "image": "https://aws-static.iicdelhi.in/2026-10/Exhibition_2.jpg",
-      "score": 85,
-      "source": "iic",
-      "tags": [],
-      "time": "04:00 PM",
-      "title": "THE IIC EXPERIENCE:A FESTIVAL OF THE ARTS- EXHIBITIONS -Palms and Parchment: Keralam’s Heritage of Reading and Relics",
-      "url": "https://iicdelhi.in/programmes/iic-experiencea-festival-arts-exhibitions-palms-and-parchment-keralams-heritage-reading",
-      "venue": "Conference Room I, IIC main"
-    },
-    {
-      "category": "Museum",
-      "date": "2026-10-31",
-      "description": "Living Lightly: Journey with the Pastoralists Living Lightly, India’s first exhibition on pastoral life, explores pastoral mobility, landscapes, knowledge and challenges. Through installations, stories and demonstrations, it reflects on the lives of pastoral communities and their",
-      "end_date": "2026-11-03",
-      "image": "https://aws-static.iicdelhi.in/2026-10/Exhibition_3.jpg",
-      "score": 85,
-      "source": "iic",
-      "tags": [],
-      "time": "05:00 PM",
-      "title": "THE IIC EXPERIENCE: A FESTIVAL OF THE ARTS  -Exhibition -Living Lightly: Journey with the Pastoralists",
-      "url": "https://iicdelhi.in/programmes/iic-experience-festival-arts-exhibition-living-lightly-journey-pastoralists",
-      "venue": "Gandhi-King Memorial Plaza, IIC main"
-    },
     {
       "category": "Museum",
       "date": "2026-10-31",
@@ -42,62 +14,6 @@
       "title": "THE IIC EXPERIENCE: A FESTIVAL OF THE ARTS – Exhibition- Birds of India: Company Paintings c.1800 and 1835",
       "url": "https://iicdelhi.in/programmes/iic-experience-festival-arts-exhibition-birds-india-company-paintings-c1800-and-1835",
       "venue": "Art Gallery, Kamaladevi Complex, IIC"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-11-03",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-10/Discussion_7.jpg",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
-      "time": "04:00 PM",
-      "title": "THE IIC EXPERIENCE: A FESTIVAL OF THE ARTS- Ecology at the Crossroads of Climate Change",
-      "url": "https://iicdelhi.in/programmes/iic-experience-festival-arts-ecology-crossroads-climate-change",
-      "venue": "Conference Room II, IIC main"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-11-03",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-10/Discussion_6.jpg",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
-      "time": "11:30 AM",
-      "title": "THE IIC EXPERIENCE: A FESTIVAL OF THE ARTS-Seeds of Resilience: Women, Family Farms, and the Future of Nutritious Food Systems",
-      "url": "https://iicdelhi.in/programmes/iic-experience-festival-arts-seeds-resilience-women-family-farms-and-future-nutritious",
-      "venue": "Conference Room II, IIC main"
-    },
-    {
-      "category": "Film",
-      "date": "2026-11-03",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 55,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "Toh, Ti Ani Fuji",
-      "url": "https://indiahabitat.org/Events_details/1506",
-      "venue": "The Stein Auditorium"
-    },
-    {
-      "category": "Cultural",
-      "date": "2026-11-03",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-10/Cultural_6.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "THE IIC EXPERIENCE: A FESTIVAL OF THE ARTS –The Emotional World of Raga",
-      "url": "https://iicdelhi.in/programmes/iic-experience-festival-arts-emotional-world-raga",
-      "venue": "Fountain Lawns, IIC main"
     },
     {
       "category": "Book Talk",
@@ -655,20 +571,6 @@
       "source": "iic",
       "tags": [],
       "time": "06:00 PM",
-      "title": "Echoes from the Himalayas",
-      "url": "https://iicdelhi.in/programmes/echoes-himalayas",
-      "venue": "Conference Room I, IIC main"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-11-19",
-      "description": "",
-      "end_date": null,
-      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
-      "time": "06:00 PM",
       "title": "INDIAN ARCHAEOLOGY",
       "url": "https://iicdelhi.in/programmes/indian-archaeology-152",
       "venue": "Conference Room II, IIC main"
@@ -898,6 +800,20 @@
       "venue": "The Stein Auditorium"
     },
     {
+      "category": "Cultural",
+      "date": "2026-11-22",
+      "description": "",
+      "end_date": null,
+      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "score": 50,
+      "source": "iic",
+      "tags": [],
+      "time": "04:00 PM",
+      "title": "34th Annual Pt. Radhakrishna–Pt. Kartaram Mallick National Dhrupad Samaroh",
+      "url": "https://iicdelhi.in/programmes/34th-annual-pt-radhakrishna-pt-kartaram-mallick-national-dhrupad-samaroh",
+      "venue": "C.D. Deshmukh Auditorium, IIC main"
+    },
+    {
       "category": "Book Talk",
       "date": "2026-11-23",
       "description": "",
@@ -912,6 +828,20 @@
       "venue": "Gulmohar"
     },
     {
+      "category": "Film",
+      "date": "2026-11-23",
+      "description": "",
+      "end_date": null,
+      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "score": 55,
+      "source": "iic",
+      "tags": [],
+      "time": "06:00 PM",
+      "title": "FILM  -K G Subramanyan: A Language of My Own",
+      "url": "https://iicdelhi.in/programmes/film-k-g-subramanyan-language-my-own",
+      "venue": "C.D. Deshmukh Auditorium, IIC main"
+    },
+    {
       "category": "Music & Dance",
       "date": "2026-11-23",
       "description": "",
@@ -924,6 +854,20 @@
       "title": "75th Anniversary of the Hungarian State Folk Ensemble",
       "url": "https://indiahabitat.org/Events_details/1534",
       "venue": "The Stein Auditorium"
+    },
+    {
+      "category": "Library Programmes",
+      "date": "2026-11-23",
+      "description": "",
+      "end_date": null,
+      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "score": 50,
+      "source": "iic",
+      "tags": [],
+      "time": "06:00 PM",
+      "title": "BOOK DISCUSSION GROUP  Stories the Fire Could Not Burn: A Personal Account of the Manipur Crisis 2023-25",
+      "url": "https://iicdelhi.in/programmes/book-discussion-group-stories-fire-could-not-burn-personal-account-manipur-crisis-2023",
+      "venue": "Conference Room II, IIC main"
     },
     {
       "category": "Dance",
@@ -968,6 +912,62 @@
       "venue": "The Stein Auditorium"
     },
     {
+      "category": "Festivals",
+      "date": "2026-11-25",
+      "description": "",
+      "end_date": null,
+      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "score": 50,
+      "source": "iic",
+      "tags": [],
+      "time": "10:00 AM",
+      "title": "PEOPLE’S FESTIVAL OF INNOVATION 2026 Innovating for Inclusive Impact: Bridging Science and Society",
+      "url": "https://iicdelhi.in/programmes/peoples-festival-innovation-2026-innovating-inclusive-impact-bridging-science-and",
+      "venue": "C.D. Deshmukh Auditorium, IIC main"
+    },
+    {
+      "category": "Book Talk",
+      "date": "2026-11-26",
+      "description": "",
+      "end_date": null,
+      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "score": 75,
+      "source": "iic",
+      "tags": [],
+      "time": "06:00 PM",
+      "title": "AAJ KAVITA",
+      "url": "https://iicdelhi.in/programmes/aaj-kavita-50",
+      "venue": "Lecture Room II, IIC Annexe"
+    },
+    {
+      "category": "Book Talk",
+      "date": "2026-11-26",
+      "description": "",
+      "end_date": null,
+      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "score": 75,
+      "source": "iic",
+      "tags": [],
+      "time": "10:00 AM",
+      "title": "COMMEMORATION OF CONSTITUTION DAY - 2026",
+      "url": "https://iicdelhi.in/programmes/commemoration-constitution-day-2026",
+      "venue": "C.D. Deshmukh Auditorium, IIC main"
+    },
+    {
+      "category": "Cultural",
+      "date": "2026-11-26",
+      "description": "",
+      "end_date": null,
+      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "score": 50,
+      "source": "iic",
+      "tags": [],
+      "time": "06:00 PM",
+      "title": "IIC DOUBLE BILL: MUSIC & DANCE RECITALS",
+      "url": "https://iicdelhi.in/programmes/iic-double-bill-music-dance-recitals-6",
+      "venue": "C.D. Deshmukh Auditorium, IIC main"
+    },
+    {
       "category": "Dance & Music",
       "date": "2026-11-26",
       "description": "",
@@ -980,6 +980,48 @@
       "title": "Tanmaya – The Odissi Experience",
       "url": "https://indiahabitat.org/Events_details/1541",
       "venue": "The Stein Auditorium"
+    },
+    {
+      "category": "Book Talk",
+      "date": "2026-11-27",
+      "description": "",
+      "end_date": null,
+      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "score": 75,
+      "source": "iic",
+      "tags": [],
+      "time": "06:00 PM",
+      "title": "Fourth Estate Rewired: The Changing Structure of Indian Media",
+      "url": "https://iicdelhi.in/programmes/fourth-estate-rewired-changing-structure-indian-media",
+      "venue": "Conference Room II, IIC main"
+    },
+    {
+      "category": "Book Talk",
+      "date": "2026-11-27",
+      "description": "",
+      "end_date": null,
+      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "score": 75,
+      "source": "iic",
+      "tags": [],
+      "time": "02:00 PM",
+      "title": "Legacy for a Just World: Education, Science, and Culture in the Service of Humanity",
+      "url": "https://iicdelhi.in/programmes/legacy-just-world-education-science-and-culture-service-humanity",
+      "venue": "Conference Room I, IIC main"
+    },
+    {
+      "category": "Book Talk",
+      "date": "2026-11-27",
+      "description": "",
+      "end_date": null,
+      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "score": 75,
+      "source": "iic",
+      "tags": [],
+      "time": "06:00 PM",
+      "title": "MUSIC APPRECIATION PROMOTION",
+      "url": "https://iicdelhi.in/programmes/music-appreciation-promotion-356",
+      "venue": "Lecture Room I, IIC Annexe"
     },
     {
       "category": "Dance",
@@ -1010,6 +1052,48 @@
       "venue": "Gulmohar"
     },
     {
+      "category": "Library Programmes",
+      "date": "2026-11-27",
+      "description": "",
+      "end_date": null,
+      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "score": 50,
+      "source": "iic",
+      "tags": [],
+      "time": "06:00 PM",
+      "title": "BOOK DISCUSSION GROUP-  Democracy in Education",
+      "url": "https://iicdelhi.in/programmes/book-discussion-group-democracy-education",
+      "venue": "Conference Room I, IIC main"
+    },
+    {
+      "category": "Museum",
+      "date": "2026-11-28",
+      "description": "Seeds of Hope An Exhibition of Portraits by Meena Laishram Curated by Georgina Maddox",
+      "end_date": "2026-12-05",
+      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "score": 85,
+      "source": "iic",
+      "tags": [],
+      "time": "11:00 AM",
+      "title": "EXHIBITION   - Seeds of Hope",
+      "url": "https://iicdelhi.in/programmes/exhibition-seeds-hope",
+      "venue": "Art Gallery, IIC Annexe"
+    },
+    {
+      "category": "Book Talk",
+      "date": "2026-11-28",
+      "description": "",
+      "end_date": null,
+      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "score": 75,
+      "source": "iic",
+      "tags": [],
+      "time": "06:00 PM",
+      "title": "Gandhi Speaks Today",
+      "url": "https://iicdelhi.in/programmes/gandhi-speaks-today",
+      "venue": "Conference Room II, IIC main"
+    },
+    {
       "category": "Film",
       "date": "2026-11-28",
       "description": "",
@@ -1022,6 +1106,20 @@
       "title": "Jippie No More",
       "url": "https://indiahabitat.org/Events_details/1544",
       "venue": "Gulmohar"
+    },
+    {
+      "category": "Seminars",
+      "date": "2026-11-28",
+      "description": "",
+      "end_date": null,
+      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "score": 50,
+      "source": "iic",
+      "tags": [],
+      "time": "09:30 AM",
+      "title": "One-Day National Seminar on \"The 5th Plenum of the 20th CPC Central Committee: Party, Army, and Governance\"",
+      "url": "https://iicdelhi.in/programmes/one-day-national-seminar-5th-plenum-20th-cpc-central-committee-party-army-and-governance",
+      "venue": "Conference Room II, IIC main"
     },
     {
       "category": "Talk & Theatre",
@@ -1056,6 +1154,20 @@
       "date": "2026-11-30",
       "description": "",
       "end_date": null,
+      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "score": 75,
+      "source": "iic",
+      "tags": [],
+      "time": "06:00 PM",
+      "title": "BOOK DISCUSSION GROUP-The Jihad - Tech Complex",
+      "url": "https://iicdelhi.in/programmes/book-discussion-group-jihad-tech-complex",
+      "venue": "Conference Room I, IIC main"
+    },
+    {
+      "category": "Book Talk",
+      "date": "2026-11-30",
+      "description": "",
+      "end_date": null,
       "image": null,
       "score": 75,
       "source": "ihc",
@@ -1064,6 +1176,34 @@
       "title": "Deregulating Policy for Compounding Growth in Tourism and Hospitality Sector in India",
       "url": "https://indiahabitat.org/Events_details/1548",
       "venue": "Gulmohar"
+    },
+    {
+      "category": "Book Talk",
+      "date": "2026-11-30",
+      "description": "",
+      "end_date": null,
+      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "score": 75,
+      "source": "iic",
+      "tags": [],
+      "time": "06:00 PM",
+      "title": "HIMALAYAN DIALOGUES",
+      "url": "https://iicdelhi.in/programmes/himalayan-dialogues-5",
+      "venue": "Lecture Room II, IIC Annexe"
+    },
+    {
+      "category": "Film",
+      "date": "2026-11-30",
+      "description": "",
+      "end_date": null,
+      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "score": 55,
+      "source": "iic",
+      "tags": [],
+      "time": "02:00 PM",
+      "title": "European Union Film Festival -India (EUFF)",
+      "url": "https://iicdelhi.in/programmes/european-union-film-festival-india-euff",
+      "venue": "C.D. Deshmukh Auditorium, IIC main"
     },
     {
       "category": "Dance & Music",
@@ -1078,7 +1218,35 @@
       "title": "KATHA - Silent Echoes of Kuru Queens",
       "url": "https://indiahabitat.org/Events_details/1547",
       "venue": "The Stein Auditorium"
+    },
+    {
+      "category": "Book Talk",
+      "date": "2026-12-01",
+      "description": "",
+      "end_date": null,
+      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "score": 75,
+      "source": "iic",
+      "tags": [],
+      "time": "06:00 PM",
+      "title": "Reading Latin America: Weaving words into poems\", celebrating the work of Aida Cartagena",
+      "url": "https://iicdelhi.in/programmes/reading-latin-america-weaving-words-poems-celebrating-work-aida-cartagena",
+      "venue": "Lecture Room II, IIC Annexe"
+    },
+    {
+      "category": "Cultural",
+      "date": "2026-12-01",
+      "description": "",
+      "end_date": null,
+      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "score": 50,
+      "source": "iic",
+      "tags": [],
+      "time": "06:00 PM",
+      "title": "The Quiet Storm",
+      "url": "https://iicdelhi.in/programmes/quiet-storm",
+      "venue": "C.D. Deshmukh Auditorium, IIC main"
     }
   ],
-  "generated_at": "2026-11-03"
+  "generated_at": "2026-11-04"
 }

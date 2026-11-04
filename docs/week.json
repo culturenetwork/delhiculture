@@ -1,20 +1,6 @@
 {
-  "count": 7,
+  "count": 8,
   "events": [
-    {
-      "category": "Book Talk",
-      "date": "2026-11-04",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 75,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "Pre-Confluence Event for Young Thinkers’ Confluence 2026 - Indian Knowledge System and Youth: Learning it the Bharatiya Way",
-      "url": "https://indiahabitat.org/Events_details/1507",
-      "venue": "Gulmohar"
-    },
     {
       "category": "Museum",
       "date": "2026-11-10",
@@ -98,7 +84,35 @@
       "title": "Persia in the Mirror of Mughal India",
       "url": "https://iicdelhi.in/programmes/persia-mirror-mughal-india",
       "venue": "Multipurpose Hall, Kamaladevi Complex, IIC"
+    },
+    {
+      "category": "Book Talk",
+      "date": "2026-11-11",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 75,
+      "source": "ihc",
+      "tags": [],
+      "time": "7:00 PM",
+      "title": "Theory of Museum Practices",
+      "url": "https://indiahabitat.org/Events_details/1510",
+      "venue": "Gulmohar"
+    },
+    {
+      "category": "Seminars",
+      "date": "2026-11-11",
+      "description": "",
+      "end_date": null,
+      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "score": 50,
+      "source": "iic",
+      "tags": [],
+      "time": "09:30 AM",
+      "title": "Persia in the Mirror of Mughal India (11th & 12th November)",
+      "url": "https://iicdelhi.in/programmes/persia-mirror-mughal-india-11th-12th-november",
+      "venue": "Seminar Rooms 1,2,3"
     }
   ],
-  "generated_at": "2026-11-03"
+  "generated_at": "2026-11-04"
 }
