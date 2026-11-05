@@ -1,5 +1,5 @@
 {
-  "count": 2,
+  "count": 1,
   "events": [
     {
       "category": "Museum",
@@ -14,21 +14,7 @@
       "title": "THE IIC EXPERIENCE: A FESTIVAL OF THE ARTS – Exhibition- Birds of India: Company Paintings c.1800 and 1835",
       "url": "https://iicdelhi.in/programmes/iic-experience-festival-arts-exhibition-birds-india-company-paintings-c1800-and-1835",
       "venue": "Art Gallery, Kamaladevi Complex, IIC"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-11-04",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 75,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "Pre-Confluence Event for Young Thinkers’ Confluence 2026 - Indian Knowledge System and Youth: Learning it the Bharatiya Way",
-      "url": "https://indiahabitat.org/Events_details/1507",
-      "venue": "Gulmohar"
     }
   ],
-  "generated_at": "2026-11-04"
+  "generated_at": "2026-11-05"
 }

@@ -1,90 +1,6 @@
 {
-  "count": 79,
+  "count": 74,
   "events": [
-    {
-      "category": "Indian Classical",
-      "date": "2026-11-12",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 80,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:30 PM",
-      "title": "Aapki Inayat",
-      "url": "https://indiahabitat.org/Events_details/1512",
-      "venue": "The Stein Auditorium"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-11-12",
-      "description": "",
-      "end_date": null,
-      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
-      "time": "06:00 PM",
-      "title": "Fish for Food and Nutrition: Evolving Policy for Fisheries and Aquaculture",
-      "url": "https://iicdelhi.in/programmes/fish-food-and-nutrition-evolving-policy-fisheries-and-aquaculture",
-      "venue": "Conference Room II, IIC main"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-11-12",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 75,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "India’s Role in Global Maritime Transition",
-      "url": "https://indiahabitat.org/Events_details/1511",
-      "venue": "Gulmohar"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-11-12",
-      "description": "",
-      "end_date": null,
-      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
-      "time": "10:30 AM",
-      "title": "Public Service Broadcasting Day - 2026 (Jan Prasaran Divas)",
-      "url": "https://iicdelhi.in/programmes/public-service-broadcasting-day-2026-jan-prasaran-divas",
-      "venue": "Gandhi-King Memorial Plaza, IIC main"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-11-12",
-      "description": "",
-      "end_date": null,
-      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
-      "time": "06:00 PM",
-      "title": "State of Parliamentary Democracy in India",
-      "url": "https://iicdelhi.in/programmes/state-parliamentary-democracy-india-1",
-      "venue": "Lecture Room II, IIC Annexe"
-    },
-    {
-      "category": "Film",
-      "date": "2026-11-12",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-11/12%20November%202026_Website%20Programme%20Image.jpg",
-      "score": 55,
-      "source": "iic",
-      "tags": [],
-      "time": "06:00 PM",
-      "title": "Film-Death of Death",
-      "url": "https://iicdelhi.in/programmes/film-death-death",
-      "venue": "Lecture Room I, IIC Annexe"
-    },
     {
       "category": "Book Talk",
       "date": "2026-11-13",
@@ -420,6 +336,20 @@
       "title": "EXHIBITION- Concerning the Spiritual",
       "url": "https://iicdelhi.in/programmes/exhibition-concerning-spiritual",
       "venue": "Art Gallery, Kamaladevi Complex, IIC"
+    },
+    {
+      "category": "Book Talk",
+      "date": "2026-11-19",
+      "description": "",
+      "end_date": null,
+      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "score": 75,
+      "source": "iic",
+      "tags": [],
+      "time": "06:00 PM",
+      "title": "Echoes from the Himalayas",
+      "url": "https://iicdelhi.in/programmes/echoes-himalayas",
+      "venue": "Conference Room I, IIC main"
     },
     {
       "category": "Book Talk",
@@ -1108,5 +1038,5 @@
       "venue": "C.D. Deshmukh Auditorium, IIC main"
     }
   ],
-  "generated_at": "2026-11-04"
+  "generated_at": "2026-11-05"
 }

@@ -16,20 +16,6 @@
       "venue": "Art Gallery, Kamaladevi Complex, IIC"
     },
     {
-      "category": "Book Talk",
-      "date": "2026-11-04",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 75,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "Pre-Confluence Event for Young Thinkers’ Confluence 2026 - Indian Knowledge System and Youth: Learning it the Bharatiya Way",
-      "url": "https://indiahabitat.org/Events_details/1507",
-      "venue": "Gulmohar"
-    },
-    {
       "category": "Museum",
       "date": "2026-11-10",
       "description": "Celebration of 155th Birth Anniversary of Dr. Sachchidanand Sinha, Interim President of Constituent Assembly",
@@ -560,6 +546,20 @@
       "title": "EXHIBITION- Concerning the Spiritual",
       "url": "https://iicdelhi.in/programmes/exhibition-concerning-spiritual",
       "venue": "Art Gallery, Kamaladevi Complex, IIC"
+    },
+    {
+      "category": "Book Talk",
+      "date": "2026-11-19",
+      "description": "",
+      "end_date": null,
+      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "score": 75,
+      "source": "iic",
+      "tags": [],
+      "time": "06:00 PM",
+      "title": "Echoes from the Himalayas",
+      "url": "https://iicdelhi.in/programmes/echoes-himalayas",
+      "venue": "Conference Room I, IIC main"
     },
     {
       "category": "Book Talk",
@@ -1248,5 +1248,5 @@
       "venue": "C.D. Deshmukh Auditorium, IIC main"
     }
   ],
-  "generated_at": "2026-11-04"
+  "generated_at": "2026-11-05"
 }
