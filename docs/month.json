@@ -1,20 +1,6 @@
 {
-  "count": 68,
+  "count": 66,
   "events": [
-    {
-      "category": "Theatre & Film",
-      "date": "2026-11-14",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 50,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "Golden Boy",
-      "url": "https://indiahabitat.org/Events_details/1516",
-      "venue": "The Stein Auditorium"
-    },
     {
       "category": "Museum",
       "date": "2026-11-15",
@@ -254,18 +240,18 @@
       "venue": "Conference Room II, IIC main"
     },
     {
-      "category": "Museum",
+      "category": "Book Talk",
       "date": "2026-11-19",
-      "description": "Concerning the Spiritual An Exhibition of Photographs by Briana Blasko Curated by Bhooma Padmanabhan An exhibition exploring the relationship between art, faith and spirituality through photographs by Briana Blasko. The exhibition reflects on moments of stillness, contemplation a",
-      "end_date": "2026-11-30",
-      "image": "https://aws-static.iicdelhi.in/2026-11/19%20November%202026_Website%20Programme%20Image.jpg",
-      "score": 85,
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-11/19%20November%202026_Website%20Programme%20Image_1.jpg",
+      "score": 75,
       "source": "iic",
       "tags": [],
-      "time": "11:00 AM",
-      "title": "EXHIBITION- Concerning the Spiritual",
-      "url": "https://iicdelhi.in/programmes/exhibition-concerning-spiritual",
-      "venue": "Art Gallery, Kamaladevi Complex, IIC"
+      "time": "06:00 PM",
+      "title": "Echoes from the Himalayas",
+      "url": "https://iicdelhi.in/programmes/echoes-himalayas",
+      "venue": "Conference Room I, IIC main"
     },
     {
       "category": "Book Talk",
@@ -294,20 +280,6 @@
       "title": "Rasabilasa 2026",
       "url": "https://indiahabitat.org/Events_details/1524",
       "venue": "The Stein Auditorium"
-    },
-    {
-      "category": "Cultural",
-      "date": "2026-11-19",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-11/19%20November%202026_Website%20Programme%20Image_2.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "06:00 PM",
-      "title": "IIC DOUBLE BILL: DANCE RECITALS",
-      "url": "https://iicdelhi.in/programmes/iic-double-bill-dance-recitals-21",
-      "venue": "C.D. Deshmukh Auditorium, IIC main"
     },
     {
       "category": "Book Talk",
@@ -954,5 +926,5 @@
       "venue": "C.D. Deshmukh Auditorium, IIC main"
     }
   ],
-  "generated_at": "2026-11-06"
+  "generated_at": "2026-11-07"
 }
