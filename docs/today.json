@@ -1,5 +1,5 @@
 {
-  "count": 2,
+  "count": 1,
   "events": [
     {
       "category": "Museum",
@@ -14,21 +14,7 @@
       "title": "THE IIC EXPERIENCE: A FESTIVAL OF THE ARTS – Exhibition- Birds of India: Company Paintings c.1800 and 1835",
       "url": "https://iicdelhi.in/programmes/iic-experience-festival-arts-exhibition-birds-india-company-paintings-c1800-and-1835",
       "venue": "Art Gallery, Kamaladevi Complex, IIC"
-    },
-    {
-      "category": "Museum",
-      "date": "2026-11-06",
-      "description": "",
-      "end_date": "2026-11-07",
-      "image": null,
-      "score": 85,
-      "source": "bikanerhouse",
-      "tags": [],
-      "time": null,
-      "title": "Twenty Four Weddings",
-      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/11",
-      "venue": "Bikaner House"
     }
   ],
-  "generated_at": "2026-11-07"
+  "generated_at": "2026-11-08"
 }

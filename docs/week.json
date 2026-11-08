@@ -1,12 +1,12 @@
 {
-  "count": 19,
+  "count": 25,
   "events": [
     {
       "category": "Museum",
       "date": "2026-11-10",
       "description": "Celebration of 155th Birth Anniversary of Dr. Sachchidanand Sinha, Interim President of Constituent Assembly",
       "end_date": "2026-11-14",
-      "image": "https://aws-static.iicdelhi.in/2026-11/10%20November%202026_Website%20Programme%20Image_3_0.jpg",
+      "image": "https://aws-static.iicdelhi.in/2026-11/10%20November%202026_Website%20Programme%20Image_4.jpg",
       "score": 85,
       "source": "iic",
       "tags": [],
@@ -202,6 +202,20 @@
       "date": "2026-11-13",
       "description": "",
       "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-11/13%20November%202026_Website%20Programme%20Image_2.jpg",
+      "score": 75,
+      "source": "iic",
+      "tags": [],
+      "time": "10:00 AM",
+      "title": "Awareness and Capacity Building Workshop on Mission LiFE, Gender, AI and Climate Change",
+      "url": "https://iicdelhi.in/programmes/awareness-and-capacity-building-workshop-mission-life-gender-ai-and-climate-change",
+      "venue": "Lecture Room I, IIC Annexe"
+    },
+    {
+      "category": "Book Talk",
+      "date": "2026-11-13",
+      "description": "",
+      "end_date": null,
       "image": null,
       "score": 75,
       "source": "ihc",
@@ -266,7 +280,77 @@
       "title": "Golden Boy",
       "url": "https://indiahabitat.org/Events_details/1516",
       "venue": "The Stein Auditorium"
+    },
+    {
+      "category": "Museum",
+      "date": "2026-11-15",
+      "description": "The IMAGINARIUM of Rudranil Mitra Curated by Uma Nair An exhibition showcasing the imaginative and sculptural creations of 13-year-old Rudranil Mitra, an artist with autism, ADHD and language impairment. His first solo exhibition celebrates unconventional creativity and the impor",
+      "end_date": "2026-11-22",
+      "image": "https://aws-static.iicdelhi.in/2026-11/15%20November%202026_Website%20Programme%20Image_1.jpg",
+      "score": 85,
+      "source": "iic",
+      "tags": [],
+      "time": "11:00 AM",
+      "title": "The IMAGINARIUM of Rudranil Mitra",
+      "url": "https://iicdelhi.in/programmes/imaginarium-rudranil-mitra",
+      "venue": "Art Gallery, IIC Annexe"
+    },
+    {
+      "category": "Indian Classical",
+      "date": "2026-11-15",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 80,
+      "source": "ihc",
+      "tags": [],
+      "time": "10:30 AM",
+      "title": "IHC Morning Ragas",
+      "url": "https://indiahabitat.org/Events_details/1517",
+      "venue": "Amphitheatre"
+    },
+    {
+      "category": "Cultural",
+      "date": "2026-11-15",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-11/15%20November%202026_Website%20Programme%20Image.jpg",
+      "score": 50,
+      "source": "iic",
+      "tags": [],
+      "time": "06:30 PM",
+      "title": "Bijoya Sammelan- Kirtan Madhurya",
+      "url": "https://iicdelhi.in/programmes/bijoya-sammelan-kirtan-madhurya",
+      "venue": "Multipurpose Hall, Kamaladevi Complex, IIC"
+    },
+    {
+      "category": "Cultural",
+      "date": "2026-11-15",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-11/15%20November%202026_Website%20Programme%20Image_2.jpg",
+      "score": 50,
+      "source": "iic",
+      "tags": [],
+      "time": "10:00 AM",
+      "title": "Carnatic Vocal and Violin Recital",
+      "url": "https://iicdelhi.in/programmes/carnatic-vocal-and-violin-recital",
+      "venue": "C.D. Deshmukh Auditorium, IIC main"
+    },
+    {
+      "category": "Theatre & Music",
+      "date": "2026-11-15",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 50,
+      "source": "ihc",
+      "tags": [],
+      "time": "7:30 PM",
+      "title": "Prothoma Ppandav Bodhu",
+      "url": "https://indiahabitat.org/Events_details/1518",
+      "venue": "The Stein Auditorium"
     }
   ],
-  "generated_at": "2026-11-07"
+  "generated_at": "2026-11-08"
 }

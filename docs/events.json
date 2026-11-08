@@ -1,5 +1,5 @@
 {
-  "count": 87,
+  "count": 89,
   "events": [
     {
       "category": "Museum",
@@ -17,24 +17,10 @@
     },
     {
       "category": "Museum",
-      "date": "2026-11-06",
-      "description": "",
-      "end_date": "2026-11-07",
-      "image": null,
-      "score": 85,
-      "source": "bikanerhouse",
-      "tags": [],
-      "time": null,
-      "title": "Twenty Four Weddings",
-      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/11",
-      "venue": "Bikaner House"
-    },
-    {
-      "category": "Museum",
       "date": "2026-11-10",
       "description": "Celebration of 155th Birth Anniversary of Dr. Sachchidanand Sinha, Interim President of Constituent Assembly",
       "end_date": "2026-11-14",
-      "image": "https://aws-static.iicdelhi.in/2026-11/10%20November%202026_Website%20Programme%20Image_3_0.jpg",
+      "image": "https://aws-static.iicdelhi.in/2026-11/10%20November%202026_Website%20Programme%20Image_4.jpg",
       "score": 85,
       "source": "iic",
       "tags": [],
@@ -223,6 +209,20 @@
       "time": "06:00 PM",
       "title": "Film-Death of Death",
       "url": "https://iicdelhi.in/programmes/film-death-death",
+      "venue": "Lecture Room I, IIC Annexe"
+    },
+    {
+      "category": "Book Talk",
+      "date": "2026-11-13",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-11/13%20November%202026_Website%20Programme%20Image_2.jpg",
+      "score": 75,
+      "source": "iic",
+      "tags": [],
+      "time": "10:00 AM",
+      "title": "Awareness and Capacity Building Workshop on Mission LiFE, Gender, AI and Climate Change",
+      "url": "https://iicdelhi.in/programmes/awareness-and-capacity-building-workshop-mission-life-gender-ai-and-climate-change",
       "venue": "Lecture Room I, IIC Annexe"
     },
     {
@@ -534,6 +534,20 @@
       "venue": "Conference Room II, IIC main"
     },
     {
+      "category": "Museum",
+      "date": "2026-11-19",
+      "description": "Concerning the Spiritual An Exhibition of Photographs by Briana Blasko Curated by Bhooma Padmanabhan An exhibition exploring the relationship between art, faith and spirituality through photographs by Briana Blasko. The exhibition reflects on moments of stillness, contemplation a",
+      "end_date": "2026-11-30",
+      "image": "https://aws-static.iicdelhi.in/2026-11/19%20November%202026_Website%20Programme%20Image.jpg",
+      "score": 85,
+      "source": "iic",
+      "tags": [],
+      "time": "11:00 AM",
+      "title": "EXHIBITION- Concerning the Spiritual",
+      "url": "https://iicdelhi.in/programmes/exhibition-concerning-spiritual",
+      "venue": "Art Gallery, Kamaladevi Complex, IIC"
+    },
+    {
       "category": "Book Talk",
       "date": "2026-11-19",
       "description": "",
@@ -574,6 +588,20 @@
       "title": "Rasabilasa 2026",
       "url": "https://indiahabitat.org/Events_details/1524",
       "venue": "The Stein Auditorium"
+    },
+    {
+      "category": "Cultural",
+      "date": "2026-11-19",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-11/19%20November%202026_Website%20Programme%20Image_2.jpg",
+      "score": 50,
+      "source": "iic",
+      "tags": [],
+      "time": "06:00 PM",
+      "title": "IIC DOUBLE BILL: DANCE RECITALS",
+      "url": "https://iicdelhi.in/programmes/iic-double-bill-dance-recitals-21",
+      "venue": "C.D. Deshmukh Auditorium, IIC main"
     },
     {
       "category": "Book Talk",
@@ -1220,5 +1248,5 @@
       "venue": "C.D. Deshmukh Auditorium, IIC main"
     }
   ],
-  "generated_at": "2026-11-07"
+  "generated_at": "2026-11-08"
 }
