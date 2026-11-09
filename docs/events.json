@@ -1,5 +1,5 @@
 {
-  "count": 89,
+  "count": 88,
   "events": [
     {
       "category": "Museum",
@@ -588,20 +588,6 @@
       "title": "Rasabilasa 2026",
       "url": "https://indiahabitat.org/Events_details/1524",
       "venue": "The Stein Auditorium"
-    },
-    {
-      "category": "Cultural",
-      "date": "2026-11-19",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-11/19%20November%202026_Website%20Programme%20Image_2.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "06:00 PM",
-      "title": "IIC DOUBLE BILL: DANCE RECITALS",
-      "url": "https://iicdelhi.in/programmes/iic-double-bill-dance-recitals-21",
-      "venue": "C.D. Deshmukh Auditorium, IIC main"
     },
     {
       "category": "Book Talk",
@@ -1248,5 +1234,5 @@
       "venue": "C.D. Deshmukh Auditorium, IIC main"
     }
   ],
-  "generated_at": "2026-11-08"
+  "generated_at": "2026-11-09"
 }

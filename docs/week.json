@@ -1,5 +1,5 @@
 {
-  "count": 25,
+  "count": 29,
   "events": [
     {
       "category": "Museum",
@@ -350,7 +350,63 @@
       "title": "Prothoma Ppandav Bodhu",
       "url": "https://indiahabitat.org/Events_details/1518",
       "venue": "The Stein Auditorium"
+    },
+    {
+      "category": "Book Talk",
+      "date": "2026-11-16",
+      "description": "",
+      "end_date": null,
+      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "score": 75,
+      "source": "iic",
+      "tags": [],
+      "time": "06:00 PM",
+      "title": "18TH GIRI DESHINGKAR MEMORIAL LECTURE",
+      "url": "https://iicdelhi.in/programmes/18th-giri-deshingkar-memorial-lecture",
+      "venue": "Seminar Rooms 1,2,3"
+    },
+    {
+      "category": "Book Talk",
+      "date": "2026-11-16",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 75,
+      "source": "ihc",
+      "tags": [],
+      "time": "6:00 PM",
+      "title": "US Midterms 2026: Domestic Political Shifts and Global Geopolitical Implications",
+      "url": "https://indiahabitat.org/Events_details/1515",
+      "venue": "Gulmohar"
+    },
+    {
+      "category": "Film",
+      "date": "2026-11-16",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 55,
+      "source": "ihc",
+      "tags": [],
+      "time": "7:00 PM",
+      "title": "Izhakalkkappuram / The Unseen Thread",
+      "url": "https://indiahabitat.org/Events_details/1519",
+      "venue": "The Stein Auditorium"
+    },
+    {
+      "category": "Library Programmes",
+      "date": "2026-11-16",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-11/16%20November%202026_Website%20Programme%20Image.jpg",
+      "score": 50,
+      "source": "iic",
+      "tags": [],
+      "time": "06:00 PM",
+      "title": "BOOK DISCUSSION GROUP-   Militant Nationalism in The Punjab, 1919–1935: Interweaving Region and Nation",
+      "url": "https://iicdelhi.in/programmes/book-discussion-group-militant-nationalism-punjab-1919-1935-interweaving-region-and",
+      "venue": "Conference Room I, IIC main"
     }
   ],
-  "generated_at": "2026-11-08"
+  "generated_at": "2026-11-09"
 }
