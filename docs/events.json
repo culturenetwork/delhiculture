@@ -1,5 +1,5 @@
 {
-  "count": 87,
+  "count": 82,
   "events": [
     {
       "category": "Museum",
@@ -28,76 +28,6 @@
       "title": "EXHIBITION-Celebration of 155th Birth Anniversary of Dr. Sachchidanand Sinha, Interim President of Constituent Assembly",
       "url": "https://iicdelhi.in/programmes/exhibition-celebration-155th-birth-anniversary-dr-sachchidanand-sinha-interim-president",
       "venue": "Quadrangle garden, IIC main"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-11-10",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-11/10%20November%202026_Website%20Programme%20Image_1.jpg",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
-      "time": "10:00 AM",
-      "title": "DIALOGUES IN HEALTH & WELLNESS",
-      "url": "https://iicdelhi.in/programmes/dialogues-health-wellness-0",
-      "venue": "Seminar Rooms 1,2,3"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-11-10",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 75,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "India’s Journey to Net Zero",
-      "url": "https://indiahabitat.org/Events_details/1509",
-      "venue": "Gulmohar"
-    },
-    {
-      "category": "Film",
-      "date": "2026-11-10",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 55,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "Sangtye Aika",
-      "url": "https://indiahabitat.org/Events_details/1508",
-      "venue": "The Stein Auditorium"
-    },
-    {
-      "category": "Cultural",
-      "date": "2026-11-10",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-11/10%20November%202026_Website%20Programme%20Image_3.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "04:30 PM",
-      "title": "Celebration of 155th Birth Anniversary of Dr. Sachchidanand Sinha, Interim President of Constituent Assembly",
-      "url": "https://iicdelhi.in/programmes/celebration-155th-birth-anniversary-dr-sachchidanand-sinha-interim-president-constituent",
-      "venue": "C.D. Deshmukh Auditorium, IIC main"
-    },
-    {
-      "category": "Seminars",
-      "date": "2026-11-10",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-11/10%20November%202026_Website%20Programme%20Image_2.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "07:00 PM",
-      "title": "Persia in the Mirror of Mughal India",
-      "url": "https://iicdelhi.in/programmes/persia-mirror-mughal-india",
-      "venue": "Multipurpose Hall, Kamaladevi Complex, IIC"
     },
     {
       "category": "Book Talk",
@@ -146,6 +76,20 @@
       "date": "2026-11-12",
       "description": "",
       "end_date": null,
+      "image": null,
+      "score": 75,
+      "source": "ihc",
+      "tags": [],
+      "time": "7:00 PM",
+      "title": "Event Cancelled | India’s Role in Global Maritime Transition",
+      "url": "https://indiahabitat.org/Events_details/1511",
+      "venue": "Gulmohar"
+    },
+    {
+      "category": "Book Talk",
+      "date": "2026-11-12",
+      "description": "",
+      "end_date": null,
       "image": "https://aws-static.iicdelhi.in/2026-11/12%20November%202026_Website%20Programme%20Image_2.jpg",
       "score": 75,
       "source": "iic",
@@ -154,20 +98,6 @@
       "title": "Fish for Food and Nutrition: Evolving Policy for Fisheries and Aquaculture",
       "url": "https://iicdelhi.in/programmes/fish-food-and-nutrition-evolving-policy-fisheries-and-aquaculture",
       "venue": "Conference Room II, IIC main"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-11-12",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 75,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "India’s Role in Global Maritime Transition",
-      "url": "https://indiahabitat.org/Events_details/1511",
-      "venue": "Gulmohar"
     },
     {
       "category": "Book Talk",
@@ -328,20 +258,6 @@
       "date": "2026-11-15",
       "description": "",
       "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-11/15%20November%202026_Website%20Programme%20Image.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "Bijoya Sammelan- Kirtan Madhurya",
-      "url": "https://iicdelhi.in/programmes/bijoya-sammelan-kirtan-madhurya",
-      "venue": "Multipurpose Hall, Kamaladevi Complex, IIC"
-    },
-    {
-      "category": "Cultural",
-      "date": "2026-11-15",
-      "description": "",
-      "end_date": null,
       "image": "https://aws-static.iicdelhi.in/2026-11/15%20November%202026_Website%20Programme%20Image_2.jpg",
       "score": 50,
       "source": "iic",
@@ -370,7 +286,7 @@
       "date": "2026-11-16",
       "description": "",
       "end_date": null,
-      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "image": "https://aws-static.iicdelhi.in/2026-11/16%20November%202026_Website%20Programme%20Image_1.png",
       "score": 75,
       "source": "iic",
       "tags": [],
@@ -482,7 +398,7 @@
       "date": "2026-11-18",
       "description": "",
       "end_date": null,
-      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "image": "https://aws-static.iicdelhi.in/2026-11/18%20November%202026_Website%20Programme%20Image_1_0.jpg",
       "score": 75,
       "source": "iic",
       "tags": [],
@@ -552,7 +468,21 @@
       "date": "2026-11-19",
       "description": "",
       "end_date": null,
-      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "image": "https://aws-static.iicdelhi.in/2026-11/19%20November%202026_Website%20Programme%20Image_1.jpg",
+      "score": 75,
+      "source": "iic",
+      "tags": [],
+      "time": "06:00 PM",
+      "title": "Echoes from the Himalayas",
+      "url": "https://iicdelhi.in/programmes/echoes-himalayas",
+      "venue": "Conference Room I, IIC main"
+    },
+    {
+      "category": "Book Talk",
+      "date": "2026-11-19",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-11/19%20November%202026_Website%20Programme%20Image_3.jpg",
       "score": 75,
       "source": "iic",
       "tags": [],
@@ -594,7 +524,7 @@
       "date": "2026-11-20",
       "description": "",
       "end_date": null,
-      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "image": "https://aws-static.iicdelhi.in/2026-11/20%20November%202026_Website%20Spotlight_3.jpg",
       "score": 75,
       "source": "iic",
       "tags": [],
@@ -630,20 +560,6 @@
       "title": "BOOK DISCUSSION GROUP  Not so Randomly yours",
       "url": "https://iicdelhi.in/programmes/book-discussion-group-not-so-randomly-yours",
       "venue": "Conference Room I, IIC main"
-    },
-    {
-      "category": "Cultural",
-      "date": "2026-11-20",
-      "description": "",
-      "end_date": null,
-      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "Ek Noor Te Sab Jag Upjaya kaun bhale kaun mande",
-      "url": "https://iicdelhi.in/programmes/ek-noor-te-sab-jag-upjaya-kaun-bhale-kaun-mande",
-      "venue": "C.D. Deshmukh Auditorium, IIC main"
     },
     {
       "category": "Talk & Music",
@@ -924,6 +840,20 @@
       "title": "AAJ KAVITA",
       "url": "https://iicdelhi.in/programmes/aaj-kavita-50",
       "venue": "Lecture Room II, IIC Annexe"
+    },
+    {
+      "category": "Book Talk",
+      "date": "2026-11-26",
+      "description": "",
+      "end_date": null,
+      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "score": 75,
+      "source": "iic",
+      "tags": [],
+      "time": "10:00 AM",
+      "title": "COMMEMORATION OF CONSTITUTION DAY - 2026",
+      "url": "https://iicdelhi.in/programmes/commemoration-constitution-day-2026",
+      "venue": "C.D. Deshmukh Auditorium, IIC main"
     },
     {
       "category": "Cultural",
@@ -1220,5 +1150,5 @@
       "venue": "C.D. Deshmukh Auditorium, IIC main"
     }
   ],
-  "generated_at": "2026-11-10"
+  "generated_at": "2026-11-11"
 }

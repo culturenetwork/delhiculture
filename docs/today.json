@@ -1,5 +1,5 @@
 {
-  "count": 7,
+  "count": 4,
   "events": [
     {
       "category": "Museum",
@@ -31,21 +31,7 @@
     },
     {
       "category": "Book Talk",
-      "date": "2026-11-10",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-11/10%20November%202026_Website%20Programme%20Image_1.jpg",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
-      "time": "10:00 AM",
-      "title": "DIALOGUES IN HEALTH & WELLNESS",
-      "url": "https://iicdelhi.in/programmes/dialogues-health-wellness-0",
-      "venue": "Seminar Rooms 1,2,3"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-11-10",
+      "date": "2026-11-11",
       "description": "",
       "end_date": null,
       "image": null,
@@ -53,52 +39,24 @@
       "source": "ihc",
       "tags": [],
       "time": "7:00 PM",
-      "title": "India’s Journey to Net Zero",
-      "url": "https://indiahabitat.org/Events_details/1509",
+      "title": "Theory of Museum Practices",
+      "url": "https://indiahabitat.org/Events_details/1510",
       "venue": "Gulmohar"
     },
     {
-      "category": "Film",
-      "date": "2026-11-10",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 55,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "Sangtye Aika",
-      "url": "https://indiahabitat.org/Events_details/1508",
-      "venue": "The Stein Auditorium"
-    },
-    {
-      "category": "Cultural",
-      "date": "2026-11-10",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-11/10%20November%202026_Website%20Programme%20Image_3.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "04:30 PM",
-      "title": "Celebration of 155th Birth Anniversary of Dr. Sachchidanand Sinha, Interim President of Constituent Assembly",
-      "url": "https://iicdelhi.in/programmes/celebration-155th-birth-anniversary-dr-sachchidanand-sinha-interim-president-constituent",
-      "venue": "C.D. Deshmukh Auditorium, IIC main"
-    },
-    {
       "category": "Seminars",
-      "date": "2026-11-10",
+      "date": "2026-11-11",
       "description": "",
       "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-11/10%20November%202026_Website%20Programme%20Image_2.jpg",
+      "image": "https://aws-static.iicdelhi.in/2026-11/10%20November%202026_Website%20Programme%20Image_2_0.jpg",
       "score": 50,
       "source": "iic",
       "tags": [],
-      "time": "07:00 PM",
-      "title": "Persia in the Mirror of Mughal India",
-      "url": "https://iicdelhi.in/programmes/persia-mirror-mughal-india",
-      "venue": "Multipurpose Hall, Kamaladevi Complex, IIC"
+      "time": "09:30 AM",
+      "title": "Persia in the Mirror of Mughal India (11th & 12th November)",
+      "url": "https://iicdelhi.in/programmes/persia-mirror-mughal-india-11th-12th-november",
+      "venue": "Seminar Rooms 1,2,3"
     }
   ],
-  "generated_at": "2026-11-10"
+  "generated_at": "2026-11-11"
 }
