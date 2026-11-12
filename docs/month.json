@@ -1,90 +1,6 @@
 {
-  "count": 50,
+  "count": 44,
   "events": [
-    {
-      "category": "Museum",
-      "date": "2026-11-19",
-      "description": "Concerning the Spiritual An Exhibition of Photographs by Briana Blasko Curated by Bhooma Padmanabhan An exhibition exploring the relationship between art, faith and spirituality through photographs by Briana Blasko. The exhibition reflects on moments of stillness, contemplation a",
-      "end_date": "2026-11-30",
-      "image": "https://aws-static.iicdelhi.in/2026-11/19%20November%202026_Website%20Programme%20Image.jpg",
-      "score": 85,
-      "source": "iic",
-      "tags": [],
-      "time": "11:00 AM",
-      "title": "EXHIBITION- Concerning the Spiritual",
-      "url": "https://iicdelhi.in/programmes/exhibition-concerning-spiritual",
-      "venue": "Art Gallery, Kamaladevi Complex, IIC"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-11-19",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-11/19%20November%202026_Website%20Programme%20Image_1.jpg",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
-      "time": "06:00 PM",
-      "title": "Echoes from the Himalayas",
-      "url": "https://iicdelhi.in/programmes/echoes-himalayas",
-      "venue": "Conference Room I, IIC main"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-11-19",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-11/19%20November%202026_Website%20Programme%20Image_3.jpg",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
-      "time": "06:00 PM",
-      "title": "INDIAN ARCHAEOLOGY",
-      "url": "https://iicdelhi.in/programmes/indian-archaeology-152",
-      "venue": "Conference Room II, IIC main"
-    },
-    {
-      "category": "Dance",
-      "date": "2026-11-19",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 70,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "Rasabilasa 2026",
-      "url": "https://indiahabitat.org/Events_details/1524",
-      "venue": "The Stein Auditorium"
-    },
-    {
-      "category": "Cultural",
-      "date": "2026-11-19",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-11/19%20November%202026_Website%20Programme%20Image_2.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "06:00 PM",
-      "title": "IIC DOUBLE BILL: DANCE RECITALS",
-      "url": "https://iicdelhi.in/programmes/iic-double-bill-dance-recitals-21",
-      "venue": "C.D. Deshmukh Auditorium, IIC main"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-11-20",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-11/20%20November%202026_Website%20Spotlight_3.jpg",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "IIC/MEDIA DIALOGUES - The Role of Cartoons in the Media",
-      "url": "https://iicdelhi.in/programmes/iicmedia-dialogues-role-cartoons-media",
-      "venue": "Conference Room II, IIC main"
-    },
     {
       "category": "Film",
       "date": "2026-11-20",
@@ -112,6 +28,20 @@
       "title": "BOOK DISCUSSION GROUP  Not so Randomly yours",
       "url": "https://iicdelhi.in/programmes/book-discussion-group-not-so-randomly-yours",
       "venue": "Conference Room I, IIC main"
+    },
+    {
+      "category": "Cultural",
+      "date": "2026-11-20",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-11/20%20November%202026_Website%20Spotlight_2.jpg",
+      "score": 50,
+      "source": "iic",
+      "tags": [],
+      "time": "06:30 PM",
+      "title": "Ek Noor Te Sab Jag Upjaya kaun bhale kaun mande",
+      "url": "https://iicdelhi.in/programmes/ek-noor-te-sab-jag-upjaya-kaun-bhale-kaun-mande",
+      "venue": "C.D. Deshmukh Auditorium, IIC main"
     },
     {
       "category": "Talk & Music",
@@ -458,20 +388,6 @@
       "score": 75,
       "source": "iic",
       "tags": [],
-      "time": "02:00 PM",
-      "title": "Legacy for a Just World: Education, Science, and Culture in the Service of Humanity",
-      "url": "https://iicdelhi.in/programmes/legacy-just-world-education-science-and-culture-service-humanity",
-      "venue": "Conference Room I, IIC main"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-11-27",
-      "description": "",
-      "end_date": null,
-      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
       "time": "06:00 PM",
       "title": "MUSIC APPRECIATION PROMOTION",
       "url": "https://iicdelhi.in/programmes/music-appreciation-promotion-356",
@@ -702,5 +618,5 @@
       "venue": "C.D. Deshmukh Auditorium, IIC main"
     }
   ],
-  "generated_at": "2026-11-11"
+  "generated_at": "2026-11-12"
 }

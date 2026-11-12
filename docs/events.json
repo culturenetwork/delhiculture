@@ -1,5 +1,5 @@
 {
-  "count": 82,
+  "count": 79,
   "events": [
     {
       "category": "Museum",
@@ -28,34 +28,6 @@
       "title": "EXHIBITION-Celebration of 155th Birth Anniversary of Dr. Sachchidanand Sinha, Interim President of Constituent Assembly",
       "url": "https://iicdelhi.in/programmes/exhibition-celebration-155th-birth-anniversary-dr-sachchidanand-sinha-interim-president",
       "venue": "Quadrangle garden, IIC main"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-11-11",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 75,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "Theory of Museum Practices",
-      "url": "https://indiahabitat.org/Events_details/1510",
-      "venue": "Gulmohar"
-    },
-    {
-      "category": "Seminars",
-      "date": "2026-11-11",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-11/10%20November%202026_Website%20Programme%20Image_2_0.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "09:30 AM",
-      "title": "Persia in the Mirror of Mughal India (11th & 12th November)",
-      "url": "https://iicdelhi.in/programmes/persia-mirror-mughal-india-11th-12th-november",
-      "venue": "Seminar Rooms 1,2,3"
     },
     {
       "category": "Indian Classical",
@@ -520,20 +492,6 @@
       "venue": "C.D. Deshmukh Auditorium, IIC main"
     },
     {
-      "category": "Book Talk",
-      "date": "2026-11-20",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-11/20%20November%202026_Website%20Spotlight_3.jpg",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "IIC/MEDIA DIALOGUES - The Role of Cartoons in the Media",
-      "url": "https://iicdelhi.in/programmes/iicmedia-dialogues-role-cartoons-media",
-      "venue": "Conference Room II, IIC main"
-    },
-    {
       "category": "Film",
       "date": "2026-11-20",
       "description": "",
@@ -560,6 +518,20 @@
       "title": "BOOK DISCUSSION GROUP  Not so Randomly yours",
       "url": "https://iicdelhi.in/programmes/book-discussion-group-not-so-randomly-yours",
       "venue": "Conference Room I, IIC main"
+    },
+    {
+      "category": "Cultural",
+      "date": "2026-11-20",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-11/20%20November%202026_Website%20Spotlight_2.jpg",
+      "score": 50,
+      "source": "iic",
+      "tags": [],
+      "time": "06:30 PM",
+      "title": "Ek Noor Te Sab Jag Upjaya kaun bhale kaun mande",
+      "url": "https://iicdelhi.in/programmes/ek-noor-te-sab-jag-upjaya-kaun-bhale-kaun-mande",
+      "venue": "C.D. Deshmukh Auditorium, IIC main"
     },
     {
       "category": "Talk & Music",
@@ -906,20 +878,6 @@
       "score": 75,
       "source": "iic",
       "tags": [],
-      "time": "02:00 PM",
-      "title": "Legacy for a Just World: Education, Science, and Culture in the Service of Humanity",
-      "url": "https://iicdelhi.in/programmes/legacy-just-world-education-science-and-culture-service-humanity",
-      "venue": "Conference Room I, IIC main"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-11-27",
-      "description": "",
-      "end_date": null,
-      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
       "time": "06:00 PM",
       "title": "MUSIC APPRECIATION PROMOTION",
       "url": "https://iicdelhi.in/programmes/music-appreciation-promotion-356",
@@ -1150,5 +1108,5 @@
       "venue": "C.D. Deshmukh Auditorium, IIC main"
     }
   ],
-  "generated_at": "2026-11-11"
+  "generated_at": "2026-11-12"
 }
