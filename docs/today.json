@@ -1,5 +1,5 @@
 {
-  "count": 8,
+  "count": 7,
   "events": [
     {
       "category": "Museum",
@@ -30,22 +30,22 @@
       "venue": "Quadrangle garden, IIC main"
     },
     {
-      "category": "Indian Classical",
-      "date": "2026-11-12",
+      "category": "Book Talk",
+      "date": "2026-11-13",
       "description": "",
       "end_date": null,
-      "image": null,
-      "score": 80,
-      "source": "ihc",
+      "image": "https://aws-static.iicdelhi.in/2026-11/13%20November%202026_Website%20Programme%20Image_2.jpg",
+      "score": 75,
+      "source": "iic",
       "tags": [],
-      "time": "7:30 PM",
-      "title": "Aapki Inayat",
-      "url": "https://indiahabitat.org/Events_details/1512",
-      "venue": "The Stein Auditorium"
+      "time": "10:00 AM",
+      "title": "Awareness and Capacity Building Workshop on Mission LiFE, Gender, AI and Climate Change",
+      "url": "https://iicdelhi.in/programmes/awareness-and-capacity-building-workshop-mission-life-gender-ai-and-climate-change",
+      "venue": "Lecture Room I, IIC Annexe"
     },
     {
       "category": "Book Talk",
-      "date": "2026-11-12",
+      "date": "2026-11-13",
       "description": "",
       "end_date": null,
       "image": null,
@@ -53,66 +53,52 @@
       "source": "ihc",
       "tags": [],
       "time": "7:00 PM",
-      "title": "Event Cancelled | India’s Role in Global Maritime Transition",
-      "url": "https://indiahabitat.org/Events_details/1511",
+      "title": "Samlapa: The Discourse",
+      "url": "https://indiahabitat.org/Events_details/1514",
       "venue": "Gulmohar"
     },
     {
-      "category": "Book Talk",
-      "date": "2026-11-12",
+      "category": "Dance",
+      "date": "2026-11-13",
       "description": "",
       "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-11/12%20November%202026_Website%20Programme%20Image_2.jpg",
-      "score": 75,
+      "image": null,
+      "score": 70,
+      "source": "ihc",
+      "tags": [],
+      "time": "7:00 PM",
+      "title": "Notes From My World",
+      "url": "https://indiahabitat.org/Events_details/1513",
+      "venue": "The Stein Auditorium"
+    },
+    {
+      "category": "Library Programmes",
+      "date": "2026-11-13",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-11/13%20November%202026_Website%20Programme%20Image.jpg",
+      "score": 50,
       "source": "iic",
       "tags": [],
       "time": "06:00 PM",
-      "title": "Fish for Food and Nutrition: Evolving Policy for Fisheries and Aquaculture",
-      "url": "https://iicdelhi.in/programmes/fish-food-and-nutrition-evolving-policy-fisheries-and-aquaculture",
+      "title": "BOOK DISCUSSION GROUP - India at War: Empires, Battles and the making of a Nation",
+      "url": "https://iicdelhi.in/programmes/book-discussion-group-india-war-empires-battles-and-making-nation",
       "venue": "Conference Room II, IIC main"
     },
     {
-      "category": "Book Talk",
-      "date": "2026-11-12",
+      "category": "Cultural",
+      "date": "2026-11-13",
       "description": "",
       "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-11/12%20November%202026_Website%20Programme%20Image_3.jpg",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
-      "time": "10:30 AM",
-      "title": "Public Service Broadcasting Day - 2026 (Jan Prasaran Divas)",
-      "url": "https://iicdelhi.in/programmes/public-service-broadcasting-day-2026-jan-prasaran-divas",
-      "venue": "Gandhi-King Memorial Plaza, IIC main"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-11-12",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-11/12%20November%202026_Website%20Programme%20Image_1.jpg",
-      "score": 75,
+      "image": "https://aws-static.iicdelhi.in/2026-11/13%20November%202026_Website%20Programme%20Image_1.jpg",
+      "score": 50,
       "source": "iic",
       "tags": [],
       "time": "06:00 PM",
-      "title": "State of Parliamentary Democracy in India",
-      "url": "https://iicdelhi.in/programmes/state-parliamentary-democracy-india-1",
-      "venue": "Lecture Room II, IIC Annexe"
-    },
-    {
-      "category": "Film",
-      "date": "2026-11-12",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-11/12%20November%202026_Website%20Programme%20Image.jpg",
-      "score": 55,
-      "source": "iic",
-      "tags": [],
-      "time": "06:00 PM",
-      "title": "Film-Death of Death",
-      "url": "https://iicdelhi.in/programmes/film-death-death",
-      "venue": "Lecture Room I, IIC Annexe"
+      "title": "IIC DOUBLE BILL: MUSIC RECITALS",
+      "url": "https://iicdelhi.in/programmes/iic-double-bill-music-recitals-23",
+      "venue": "C.D. Deshmukh Auditorium, IIC main"
     }
   ],
-  "generated_at": "2026-11-12"
+  "generated_at": "2026-11-13"
 }

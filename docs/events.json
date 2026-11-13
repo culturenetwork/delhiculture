@@ -1,5 +1,5 @@
 {
-  "count": 79,
+  "count": 76,
   "events": [
     {
       "category": "Museum",
@@ -28,90 +28,6 @@
       "title": "EXHIBITION-Celebration of 155th Birth Anniversary of Dr. Sachchidanand Sinha, Interim President of Constituent Assembly",
       "url": "https://iicdelhi.in/programmes/exhibition-celebration-155th-birth-anniversary-dr-sachchidanand-sinha-interim-president",
       "venue": "Quadrangle garden, IIC main"
-    },
-    {
-      "category": "Indian Classical",
-      "date": "2026-11-12",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 80,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:30 PM",
-      "title": "Aapki Inayat",
-      "url": "https://indiahabitat.org/Events_details/1512",
-      "venue": "The Stein Auditorium"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-11-12",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 75,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "Event Cancelled | India’s Role in Global Maritime Transition",
-      "url": "https://indiahabitat.org/Events_details/1511",
-      "venue": "Gulmohar"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-11-12",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-11/12%20November%202026_Website%20Programme%20Image_2.jpg",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
-      "time": "06:00 PM",
-      "title": "Fish for Food and Nutrition: Evolving Policy for Fisheries and Aquaculture",
-      "url": "https://iicdelhi.in/programmes/fish-food-and-nutrition-evolving-policy-fisheries-and-aquaculture",
-      "venue": "Conference Room II, IIC main"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-11-12",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-11/12%20November%202026_Website%20Programme%20Image_3.jpg",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
-      "time": "10:30 AM",
-      "title": "Public Service Broadcasting Day - 2026 (Jan Prasaran Divas)",
-      "url": "https://iicdelhi.in/programmes/public-service-broadcasting-day-2026-jan-prasaran-divas",
-      "venue": "Gandhi-King Memorial Plaza, IIC main"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-11-12",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-11/12%20November%202026_Website%20Programme%20Image_1.jpg",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
-      "time": "06:00 PM",
-      "title": "State of Parliamentary Democracy in India",
-      "url": "https://iicdelhi.in/programmes/state-parliamentary-democracy-india-1",
-      "venue": "Lecture Room II, IIC Annexe"
-    },
-    {
-      "category": "Film",
-      "date": "2026-11-12",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-11/12%20November%202026_Website%20Programme%20Image.jpg",
-      "score": 55,
-      "source": "iic",
-      "tags": [],
-      "time": "06:00 PM",
-      "title": "Film-Death of Death",
-      "url": "https://iicdelhi.in/programmes/film-death-death",
-      "venue": "Lecture Room I, IIC Annexe"
     },
     {
       "category": "Book Talk",
@@ -230,7 +146,21 @@
       "date": "2026-11-15",
       "description": "",
       "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-11/15%20November%202026_Website%20Programme%20Image_2.jpg",
+      "image": "https://aws-static.iicdelhi.in/2026-11/15%20November%202026_Website%20Programme%20Image.jpg",
+      "score": 50,
+      "source": "iic",
+      "tags": [],
+      "time": "06:30 PM",
+      "title": "Bijoya Sammelan- Kirtan Madhurya",
+      "url": "https://iicdelhi.in/programmes/bijoya-sammelan-kirtan-madhurya",
+      "venue": "Multipurpose Hall, Kamaladevi Complex, IIC"
+    },
+    {
+      "category": "Cultural",
+      "date": "2026-11-15",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-11/15%20November%202026_Website%20Programme%20Image_2_0.jpg",
       "score": 50,
       "source": "iic",
       "tags": [],
@@ -305,8 +235,8 @@
       "source": "iic",
       "tags": [],
       "time": "06:00 PM",
-      "title": "BOOK DISCUSSION GROUP-   Militant Nationalism in The Punjab, 1919–1935: Interweaving Region and Nation",
-      "url": "https://iicdelhi.in/programmes/book-discussion-group-militant-nationalism-punjab-1919-1935-interweaving-region-and",
+      "title": "POSTPONED  -BOOK DISCUSSION GROUP-   Militant Nationalism in The Punjab, 1919–1935: Interweaving Region and Nation",
+      "url": "https://iicdelhi.in/programmes/postponed-book-discussion-group-militant-nationalism-punjab-1919-1935-interweaving",
       "venue": "Conference Room I, IIC main"
     },
     {
@@ -328,7 +258,7 @@
       "date": "2026-11-17",
       "description": "",
       "end_date": null,
-      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "image": "https://aws-static.iicdelhi.in/2026-11/17%20November%202026_Website%20Programme%20Image_1.jpg",
       "score": 75,
       "source": "iic",
       "tags": [],
@@ -492,6 +422,20 @@
       "venue": "C.D. Deshmukh Auditorium, IIC main"
     },
     {
+      "category": "Book Talk",
+      "date": "2026-11-20",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-11/20%20November%202026_Website%20Spotlight_3.jpg",
+      "score": 75,
+      "source": "iic",
+      "tags": [],
+      "time": "06:30 PM",
+      "title": "IIC/MEDIA DIALOGUES - The Role of Cartoons in the Media",
+      "url": "https://iicdelhi.in/programmes/iicmedia-dialogues-role-cartoons-media",
+      "venue": "Conference Room II, IIC main"
+    },
+    {
       "category": "Film",
       "date": "2026-11-20",
       "description": "",
@@ -608,7 +552,7 @@
       "date": "2026-11-21",
       "description": "",
       "end_date": null,
-      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "image": "https://aws-static.iicdelhi.in/2026-11/21%20November%202026_Website%20Programme%20Image.jpg",
       "score": 50,
       "source": "iic",
       "tags": [],
@@ -706,11 +650,11 @@
       "date": "2026-11-23",
       "description": "",
       "end_date": null,
-      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "image": "https://aws-static.iicdelhi.in/2026-11/23%20November%202026_Website%20Spotlight_1.jpg",
       "score": 55,
       "source": "iic",
       "tags": [],
-      "time": "06:00 PM",
+      "time": "06:30 PM",
       "title": "FILM  -K G Subramanyan: A Language of My Own",
       "url": "https://iicdelhi.in/programmes/film-k-g-subramanyan-language-my-own",
       "venue": "C.D. Deshmukh Auditorium, IIC main"
@@ -804,11 +748,11 @@
       "date": "2026-11-26",
       "description": "",
       "end_date": null,
-      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "image": "https://aws-static.iicdelhi.in/2026-11/26%20November%202026_Website%20Programme%20Image_1.jpg",
       "score": 75,
       "source": "iic",
       "tags": [],
-      "time": "06:00 PM",
+      "time": "06:30 PM",
       "title": "AAJ KAVITA",
       "url": "https://iicdelhi.in/programmes/aaj-kavita-50",
       "venue": "Lecture Room II, IIC Annexe"
@@ -860,7 +804,7 @@
       "date": "2026-11-27",
       "description": "",
       "end_date": null,
-      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "image": "https://aws-static.iicdelhi.in/2026-11/Website%20Programme%20Image_27%20November%202026_1.jpg",
       "score": 75,
       "source": "iic",
       "tags": [],
@@ -878,10 +822,24 @@
       "score": 75,
       "source": "iic",
       "tags": [],
+      "time": "02:00 PM",
+      "title": "Legacy for a Just World: Education, Science, and Culture in the Service of Humanity",
+      "url": "https://iicdelhi.in/programmes/legacy-just-world-education-science-and-culture-service-humanity",
+      "venue": "Conference Room I, IIC main"
+    },
+    {
+      "category": "Book Talk",
+      "date": "2026-11-27",
+      "description": "",
+      "end_date": null,
+      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "score": 75,
+      "source": "iic",
+      "tags": [],
       "time": "06:00 PM",
       "title": "MUSIC APPRECIATION PROMOTION",
       "url": "https://iicdelhi.in/programmes/music-appreciation-promotion-356",
-      "venue": "Lecture Room I, IIC Annexe"
+      "venue": "Lecture Room II, IIC Annexe"
     },
     {
       "category": "Dance",
@@ -1108,5 +1066,5 @@
       "venue": "C.D. Deshmukh Auditorium, IIC main"
     }
   ],
-  "generated_at": "2026-11-12"
+  "generated_at": "2026-11-13"
 }

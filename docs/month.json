@@ -1,62 +1,6 @@
 {
-  "count": 44,
+  "count": 41,
   "events": [
-    {
-      "category": "Film",
-      "date": "2026-11-20",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-11/20%20November%202026_Website%20Programme%20Image.jpg",
-      "score": 55,
-      "source": "iic",
-      "tags": [],
-      "time": "06:00 PM",
-      "title": "FILM-Paswaar (Caress Me)",
-      "url": "https://iicdelhi.in/programmes/film-paswaar-caress-me",
-      "venue": "Lecture Room I, IIC Annexe"
-    },
-    {
-      "category": "Library Programmes",
-      "date": "2026-11-20",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-11/20%20November%202026_Website%20Spotlight_1.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "06:00 PM",
-      "title": "BOOK DISCUSSION GROUP  Not so Randomly yours",
-      "url": "https://iicdelhi.in/programmes/book-discussion-group-not-so-randomly-yours",
-      "venue": "Conference Room I, IIC main"
-    },
-    {
-      "category": "Cultural",
-      "date": "2026-11-20",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-11/20%20November%202026_Website%20Spotlight_2.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "Ek Noor Te Sab Jag Upjaya kaun bhale kaun mande",
-      "url": "https://iicdelhi.in/programmes/ek-noor-te-sab-jag-upjaya-kaun-bhale-kaun-mande",
-      "venue": "C.D. Deshmukh Auditorium, IIC main"
-    },
-    {
-      "category": "Talk & Music",
-      "date": "2026-11-20",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 50,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "Launch of Three New Titles from the Murty Classical Library of India",
-      "url": "https://indiahabitat.org/Events_details/1526",
-      "venue": "The Stein Auditorium"
-    },
     {
       "category": "Indian Classical",
       "date": "2026-11-21",
@@ -118,7 +62,7 @@
       "date": "2026-11-21",
       "description": "",
       "end_date": null,
-      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "image": "https://aws-static.iicdelhi.in/2026-11/21%20November%202026_Website%20Programme%20Image.jpg",
       "score": 50,
       "source": "iic",
       "tags": [],
@@ -216,11 +160,11 @@
       "date": "2026-11-23",
       "description": "",
       "end_date": null,
-      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "image": "https://aws-static.iicdelhi.in/2026-11/23%20November%202026_Website%20Spotlight_1.jpg",
       "score": 55,
       "source": "iic",
       "tags": [],
-      "time": "06:00 PM",
+      "time": "06:30 PM",
       "title": "FILM  -K G Subramanyan: A Language of My Own",
       "url": "https://iicdelhi.in/programmes/film-k-g-subramanyan-language-my-own",
       "venue": "C.D. Deshmukh Auditorium, IIC main"
@@ -314,11 +258,11 @@
       "date": "2026-11-26",
       "description": "",
       "end_date": null,
-      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "image": "https://aws-static.iicdelhi.in/2026-11/26%20November%202026_Website%20Programme%20Image_1.jpg",
       "score": 75,
       "source": "iic",
       "tags": [],
-      "time": "06:00 PM",
+      "time": "06:30 PM",
       "title": "AAJ KAVITA",
       "url": "https://iicdelhi.in/programmes/aaj-kavita-50",
       "venue": "Lecture Room II, IIC Annexe"
@@ -370,7 +314,7 @@
       "date": "2026-11-27",
       "description": "",
       "end_date": null,
-      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "image": "https://aws-static.iicdelhi.in/2026-11/Website%20Programme%20Image_27%20November%202026_1.jpg",
       "score": 75,
       "source": "iic",
       "tags": [],
@@ -388,10 +332,24 @@
       "score": 75,
       "source": "iic",
       "tags": [],
+      "time": "02:00 PM",
+      "title": "Legacy for a Just World: Education, Science, and Culture in the Service of Humanity",
+      "url": "https://iicdelhi.in/programmes/legacy-just-world-education-science-and-culture-service-humanity",
+      "venue": "Conference Room I, IIC main"
+    },
+    {
+      "category": "Book Talk",
+      "date": "2026-11-27",
+      "description": "",
+      "end_date": null,
+      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "score": 75,
+      "source": "iic",
+      "tags": [],
       "time": "06:00 PM",
       "title": "MUSIC APPRECIATION PROMOTION",
       "url": "https://iicdelhi.in/programmes/music-appreciation-promotion-356",
-      "venue": "Lecture Room I, IIC Annexe"
+      "venue": "Lecture Room II, IIC Annexe"
     },
     {
       "category": "Dance",
@@ -618,5 +576,5 @@
       "venue": "C.D. Deshmukh Auditorium, IIC main"
     }
   ],
-  "generated_at": "2026-11-12"
+  "generated_at": "2026-11-13"
 }
