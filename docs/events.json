@@ -1,5 +1,5 @@
 {
-  "count": 76,
+  "count": 79,
   "events": [
     {
       "category": "Museum",
@@ -30,74 +30,18 @@
       "venue": "Quadrangle garden, IIC main"
     },
     {
-      "category": "Book Talk",
+      "category": "Museum",
       "date": "2026-11-13",
       "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-11/13%20November%202026_Website%20Programme%20Image_2.jpg",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
-      "time": "10:00 AM",
-      "title": "Awareness and Capacity Building Workshop on Mission LiFE, Gender, AI and Climate Change",
-      "url": "https://iicdelhi.in/programmes/awareness-and-capacity-building-workshop-mission-life-gender-ai-and-climate-change",
-      "venue": "Lecture Room I, IIC Annexe"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-11-13",
-      "description": "",
-      "end_date": null,
+      "end_date": "2026-11-16",
       "image": null,
-      "score": 75,
-      "source": "ihc",
+      "score": 85,
+      "source": "bikanerhouse",
       "tags": [],
-      "time": "7:00 PM",
-      "title": "Samlapa: The Discourse",
-      "url": "https://indiahabitat.org/Events_details/1514",
-      "venue": "Gulmohar"
-    },
-    {
-      "category": "Dance",
-      "date": "2026-11-13",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 70,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "Notes From My World",
-      "url": "https://indiahabitat.org/Events_details/1513",
-      "venue": "The Stein Auditorium"
-    },
-    {
-      "category": "Library Programmes",
-      "date": "2026-11-13",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-11/13%20November%202026_Website%20Programme%20Image.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "06:00 PM",
-      "title": "BOOK DISCUSSION GROUP - India at War: Empires, Battles and the making of a Nation",
-      "url": "https://iicdelhi.in/programmes/book-discussion-group-india-war-empires-battles-and-making-nation",
-      "venue": "Conference Room II, IIC main"
-    },
-    {
-      "category": "Cultural",
-      "date": "2026-11-13",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-11/13%20November%202026_Website%20Programme%20Image_1.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "06:00 PM",
-      "title": "IIC DOUBLE BILL: MUSIC RECITALS",
-      "url": "https://iicdelhi.in/programmes/iic-double-bill-music-recitals-23",
-      "venue": "C.D. Deshmukh Auditorium, IIC main"
+      "time": null,
+      "title": "Aadi Annadi",
+      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/11",
+      "venue": "Bikaner House"
     },
     {
       "category": "Theatre & Film",
@@ -126,6 +70,20 @@
       "title": "The IMAGINARIUM of Rudranil Mitra",
       "url": "https://iicdelhi.in/programmes/imaginarium-rudranil-mitra",
       "venue": "Art Gallery, IIC Annexe"
+    },
+    {
+      "category": "Museum",
+      "date": "2026-11-15",
+      "description": "",
+      "end_date": "2026-11-18",
+      "image": null,
+      "score": 85,
+      "source": "bikanerhouse",
+      "tags": [],
+      "time": null,
+      "title": "अनन्त अभिव्यक्ति – Beyond Boundaries, Beyond Time",
+      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/11",
+      "venue": "Bikaner House"
     },
     {
       "category": "Indian Classical",
@@ -244,6 +202,20 @@
       "date": "2026-11-17",
       "description": "",
       "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-11/17%20November%202026_Website%20Programme%20Image_2.jpg",
+      "score": 75,
+      "source": "iic",
+      "tags": [],
+      "time": "06:00 PM",
+      "title": "Annual Spiritual Ecology Lecture",
+      "url": "https://iicdelhi.in/programmes/annual-spiritual-ecology-lecture",
+      "venue": "Lecture Room I, IIC Annexe"
+    },
+    {
+      "category": "Book Talk",
+      "date": "2026-11-17",
+      "description": "",
+      "end_date": null,
       "image": null,
       "score": 75,
       "source": "ihc",
@@ -354,6 +326,20 @@
     {
       "category": "Museum",
       "date": "2026-11-19",
+      "description": "",
+      "end_date": "2026-11-22",
+      "image": null,
+      "score": 85,
+      "source": "bikanerhouse",
+      "tags": [],
+      "time": null,
+      "title": "Chronicles in Colour",
+      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/11",
+      "venue": "Bikaner House"
+    },
+    {
+      "category": "Museum",
+      "date": "2026-11-19",
       "description": "Concerning the Spiritual An Exhibition of Photographs by Briana Blasko Curated by Bhooma Padmanabhan An exhibition exploring the relationship between art, faith and spirituality through photographs by Briana Blasko. The exhibition reflects on moments of stillness, contemplation a",
       "end_date": "2026-11-30",
       "image": "https://aws-static.iicdelhi.in/2026-11/19%20November%202026_Website%20Programme%20Image.jpg",
@@ -422,6 +408,34 @@
       "venue": "C.D. Deshmukh Auditorium, IIC main"
     },
     {
+      "category": "Museum",
+      "date": "2026-11-20",
+      "description": "",
+      "end_date": "2026-11-24",
+      "image": null,
+      "score": 85,
+      "source": "bikanerhouse",
+      "tags": [],
+      "time": null,
+      "title": "Ephemeral Echoes of the Earth",
+      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/11",
+      "venue": "Bikaner House"
+    },
+    {
+      "category": "Museum",
+      "date": "2026-11-20",
+      "description": "",
+      "end_date": "2026-11-24",
+      "image": null,
+      "score": 85,
+      "source": "bikanerhouse",
+      "tags": [],
+      "time": null,
+      "title": "Unheard....Unspoken...",
+      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/11",
+      "venue": "Bikaner House"
+    },
+    {
       "category": "Book Talk",
       "date": "2026-11-20",
       "description": "",
@@ -434,6 +448,20 @@
       "title": "IIC/MEDIA DIALOGUES - The Role of Cartoons in the Media",
       "url": "https://iicdelhi.in/programmes/iicmedia-dialogues-role-cartoons-media",
       "venue": "Conference Room II, IIC main"
+    },
+    {
+      "category": "Book Talk",
+      "date": "2026-11-20",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 75,
+      "source": "ihc",
+      "tags": [],
+      "time": "7:00 PM",
+      "title": "The Critical Role of BioWaste in India's Energy Transition to Net Zero",
+      "url": "https://indiahabitat.org/Events_details/1551",
+      "venue": "Gulmohar"
     },
     {
       "category": "Film",
@@ -622,7 +650,7 @@
       "date": "2026-11-22",
       "description": "",
       "end_date": null,
-      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "image": "https://aws-static.iicdelhi.in/2026-11/22%20November%202026_Website%20Spotlight.jpg",
       "score": 50,
       "source": "iic",
       "tags": [],
@@ -762,7 +790,7 @@
       "date": "2026-11-26",
       "description": "",
       "end_date": null,
-      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "image": "https://aws-static.iicdelhi.in/2026-11/26%20November%202026_Website%20Programme%20Image_2.jpg",
       "score": 75,
       "source": "iic",
       "tags": [],
@@ -832,7 +860,7 @@
       "date": "2026-11-27",
       "description": "",
       "end_date": null,
-      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "image": "https://aws-static.iicdelhi.in/2026-11/Website%20Programme%20Image_27%20November%202026_2.jpg",
       "score": 75,
       "source": "iic",
       "tags": [],
@@ -902,7 +930,7 @@
       "date": "2026-11-28",
       "description": "",
       "end_date": null,
-      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "image": "https://aws-static.iicdelhi.in/2026-11/28%20November%202026_Website%20Programme%20Image_1.jpg",
       "score": 75,
       "source": "iic",
       "tags": [],
@@ -910,6 +938,20 @@
       "title": "Gandhi Speaks Today",
       "url": "https://iicdelhi.in/programmes/gandhi-speaks-today",
       "venue": "Conference Room II, IIC main"
+    },
+    {
+      "category": "Book Talk",
+      "date": "2026-11-28",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-11/28%20November%202026_Website%20Programme%20Image_2_0.jpg",
+      "score": 75,
+      "source": "iic",
+      "tags": [],
+      "time": "06:00 PM",
+      "title": "The U.S. Midterms: Implications and Complications",
+      "url": "https://iicdelhi.in/programmes/us-midterms-implications-and-complications",
+      "venue": "Conference Room I, IIC main"
     },
     {
       "category": "Film",
@@ -930,7 +972,7 @@
       "date": "2026-11-28",
       "description": "",
       "end_date": null,
-      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "image": "https://aws-static.iicdelhi.in/2026-11/28%20November%202026_Website%20Programme%20Image_3.jpg",
       "score": 50,
       "source": "iic",
       "tags": [],
@@ -1000,7 +1042,7 @@
       "date": "2026-11-30",
       "description": "",
       "end_date": null,
-      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "image": "https://aws-static.iicdelhi.in/2026-11/Website%20Programme%20Image_30%20November%202026_1.jpg",
       "score": 75,
       "source": "iic",
       "tags": [],
@@ -1056,7 +1098,7 @@
       "date": "2026-12-01",
       "description": "",
       "end_date": null,
-      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "image": "https://aws-static.iicdelhi.in/2026-11/1%20December%202026_Website%20Programme%20Image.jpg",
       "score": 50,
       "source": "iic",
       "tags": [],
@@ -1066,5 +1108,5 @@
       "venue": "C.D. Deshmukh Auditorium, IIC main"
     }
   ],
-  "generated_at": "2026-11-13"
+  "generated_at": "2026-11-14"
 }
