@@ -1,90 +1,6 @@
 {
-  "count": 39,
+  "count": 35,
   "events": [
-    {
-      "category": "Museum",
-      "date": "2026-11-15",
-      "description": "The IMAGINARIUM of Rudranil Mitra Curated by Uma Nair An exhibition showcasing the imaginative and sculptural creations of 13-year-old Rudranil Mitra, an artist with autism, ADHD and language impairment. His first solo exhibition celebrates unconventional creativity and the impor",
-      "end_date": "2026-11-22",
-      "image": "https://aws-static.iicdelhi.in/2026-11/15%20November%202026_Website%20Programme%20Image_1.jpg",
-      "score": 85,
-      "source": "iic",
-      "tags": [],
-      "time": "11:00 AM",
-      "title": "The IMAGINARIUM of Rudranil Mitra",
-      "url": "https://iicdelhi.in/programmes/imaginarium-rudranil-mitra",
-      "venue": "Art Gallery, IIC Annexe"
-    },
-    {
-      "category": "Museum",
-      "date": "2026-11-15",
-      "description": "",
-      "end_date": "2026-11-18",
-      "image": null,
-      "score": 85,
-      "source": "bikanerhouse",
-      "tags": [],
-      "time": null,
-      "title": "अनन्त अभिव्यक्ति – Beyond Boundaries, Beyond Time",
-      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/11",
-      "venue": "Bikaner House"
-    },
-    {
-      "category": "Indian Classical",
-      "date": "2026-11-15",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 80,
-      "source": "ihc",
-      "tags": [],
-      "time": "10:30 AM",
-      "title": "IHC Morning Ragas",
-      "url": "https://indiahabitat.org/Events_details/1517",
-      "venue": "Amphitheatre"
-    },
-    {
-      "category": "Cultural",
-      "date": "2026-11-15",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-11/15%20November%202026_Website%20Programme%20Image.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "Bijoya Sammelan- Kirtan Madhurya",
-      "url": "https://iicdelhi.in/programmes/bijoya-sammelan-kirtan-madhurya",
-      "venue": "Multipurpose Hall, Kamaladevi Complex, IIC"
-    },
-    {
-      "category": "Cultural",
-      "date": "2026-11-15",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-11/15%20November%202026_Website%20Programme%20Image_2_0.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "10:00 AM",
-      "title": "Carnatic Vocal and Violin Recital",
-      "url": "https://iicdelhi.in/programmes/carnatic-vocal-and-violin-recital",
-      "venue": "C.D. Deshmukh Auditorium, IIC main"
-    },
-    {
-      "category": "Theatre & Music",
-      "date": "2026-11-15",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 50,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:30 PM",
-      "title": "Prothoma Ppandav Bodhu",
-      "url": "https://indiahabitat.org/Events_details/1518",
-      "venue": "The Stein Auditorium"
-    },
     {
       "category": "Book Talk",
       "date": "2026-11-16",
@@ -282,20 +198,6 @@
       "venue": "Bikaner House"
     },
     {
-      "category": "Museum",
-      "date": "2026-11-19",
-      "description": "Concerning the Spiritual An Exhibition of Photographs by Briana Blasko Curated by Bhooma Padmanabhan An exhibition exploring the relationship between art, faith and spirituality through photographs by Briana Blasko. The exhibition reflects on moments of stillness, contemplation a",
-      "end_date": "2026-11-30",
-      "image": "https://aws-static.iicdelhi.in/2026-11/19%20November%202026_Website%20Programme%20Image.jpg",
-      "score": 85,
-      "source": "iic",
-      "tags": [],
-      "time": "11:00 AM",
-      "title": "EXHIBITION- Concerning the Spiritual",
-      "url": "https://iicdelhi.in/programmes/exhibition-concerning-spiritual",
-      "venue": "Art Gallery, Kamaladevi Complex, IIC"
-    },
-    {
       "category": "Book Talk",
       "date": "2026-11-19",
       "description": "",
@@ -336,20 +238,6 @@
       "title": "Rasabilasa 2026",
       "url": "https://indiahabitat.org/Events_details/1524",
       "venue": "The Stein Auditorium"
-    },
-    {
-      "category": "Cultural",
-      "date": "2026-11-19",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-11/19%20November%202026_Website%20Programme%20Image_2.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "06:00 PM",
-      "title": "IIC DOUBLE BILL: DANCE RECITALS",
-      "url": "https://iicdelhi.in/programmes/iic-double-bill-dance-recitals-21",
-      "venue": "C.D. Deshmukh Auditorium, IIC main"
     },
     {
       "category": "Museum",
@@ -546,7 +434,63 @@
       "title": "Kangra Miniature Paintings",
       "url": "https://indiahabitat.org/Events_details/1528",
       "venue": "Online"
+    },
+    {
+      "category": "Book Talk",
+      "date": "2026-11-22",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 75,
+      "source": "ihc",
+      "tags": [],
+      "time": "7:00 PM",
+      "title": "Dara Shukoh: The Faqir and the Throne of Thorns",
+      "url": "https://indiahabitat.org/Events_details/1533",
+      "venue": "Gulmohar"
+    },
+    {
+      "category": "Theatre",
+      "date": "2026-11-22",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 65,
+      "source": "ihc",
+      "tags": [],
+      "time": "3:00 PM",
+      "title": "Papa Man",
+      "url": "https://indiahabitat.org/Events_details/1532",
+      "venue": "The Stein Auditorium"
+    },
+    {
+      "category": "Theatre",
+      "date": "2026-11-22",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 65,
+      "source": "ihc",
+      "tags": [],
+      "time": "6:30 PM",
+      "title": "Papa Man",
+      "url": "https://indiahabitat.org/Events_details/1550",
+      "venue": "The Stein Auditorium"
+    },
+    {
+      "category": "Cultural",
+      "date": "2026-11-22",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-11/22%20November%202026_Website%20Spotlight.jpg",
+      "score": 50,
+      "source": "iic",
+      "tags": [],
+      "time": "04:00 PM",
+      "title": "34th Annual Pt. Radhakrishna–Pt. Kartaram Mallick National Dhrupad Samaroh",
+      "url": "https://iicdelhi.in/programmes/34th-annual-pt-radhakrishna-pt-kartaram-mallick-national-dhrupad-samaroh",
+      "venue": "C.D. Deshmukh Auditorium, IIC main"
     }
   ],
-  "generated_at": "2026-11-14"
+  "generated_at": "2026-11-15"
 }
