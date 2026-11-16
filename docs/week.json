@@ -1,62 +1,6 @@
 {
-  "count": 35,
+  "count": 37,
   "events": [
-    {
-      "category": "Book Talk",
-      "date": "2026-11-16",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-11/16%20November%202026_Website%20Programme%20Image_1.png",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
-      "time": "06:00 PM",
-      "title": "18TH GIRI DESHINGKAR MEMORIAL LECTURE",
-      "url": "https://iicdelhi.in/programmes/18th-giri-deshingkar-memorial-lecture",
-      "venue": "Seminar Rooms 1,2,3"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-11-16",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 75,
-      "source": "ihc",
-      "tags": [],
-      "time": "6:00 PM",
-      "title": "US Midterms 2026: Domestic Political Shifts and Global Geopolitical Implications",
-      "url": "https://indiahabitat.org/Events_details/1515",
-      "venue": "Gulmohar"
-    },
-    {
-      "category": "Film",
-      "date": "2026-11-16",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 55,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "Izhakalkkappuram / The Unseen Thread",
-      "url": "https://indiahabitat.org/Events_details/1519",
-      "venue": "The Stein Auditorium"
-    },
-    {
-      "category": "Library Programmes",
-      "date": "2026-11-16",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-11/16%20November%202026_Website%20Programme%20Image.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "06:00 PM",
-      "title": "POSTPONED  -BOOK DISCUSSION GROUP-   Militant Nationalism in The Punjab, 1919–1935: Interweaving Region and Nation",
-      "url": "https://iicdelhi.in/programmes/postponed-book-discussion-group-militant-nationalism-punjab-1919-1935-interweaving",
-      "venue": "Conference Room I, IIC main"
-    },
     {
       "category": "Book Talk",
       "date": "2026-11-17",
@@ -198,6 +142,20 @@
       "venue": "Bikaner House"
     },
     {
+      "category": "Museum",
+      "date": "2026-11-19",
+      "description": "Concerning the Spiritual An Exhibition of Photographs by Briana Blasko Curated by Bhooma Padmanabhan An exhibition exploring the relationship between art, faith and spirituality through photographs by Briana Blasko. The exhibition reflects on moments of stillness, contemplation a",
+      "end_date": "2026-11-30",
+      "image": "https://aws-static.iicdelhi.in/2026-11/19%20November%202026_Website%20Programme%20Image.jpg",
+      "score": 85,
+      "source": "iic",
+      "tags": [],
+      "time": "11:00 AM",
+      "title": "EXHIBITION- Concerning the Spiritual",
+      "url": "https://iicdelhi.in/programmes/exhibition-concerning-spiritual",
+      "venue": "Art Gallery, Kamaladevi Complex, IIC"
+    },
+    {
       "category": "Book Talk",
       "date": "2026-11-19",
       "description": "",
@@ -238,6 +196,20 @@
       "title": "Rasabilasa 2026",
       "url": "https://indiahabitat.org/Events_details/1524",
       "venue": "The Stein Auditorium"
+    },
+    {
+      "category": "Cultural",
+      "date": "2026-11-19",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-11/19%20November%202026_Website%20Programme%20Image_2.jpg",
+      "score": 50,
+      "source": "iic",
+      "tags": [],
+      "time": "06:00 PM",
+      "title": "IIC DOUBLE BILL: DANCE RECITALS",
+      "url": "https://iicdelhi.in/programmes/iic-double-bill-dance-recitals-21",
+      "venue": "C.D. Deshmukh Auditorium, IIC main"
     },
     {
       "category": "Museum",
@@ -490,7 +462,63 @@
       "title": "34th Annual Pt. Radhakrishna–Pt. Kartaram Mallick National Dhrupad Samaroh",
       "url": "https://iicdelhi.in/programmes/34th-annual-pt-radhakrishna-pt-kartaram-mallick-national-dhrupad-samaroh",
       "venue": "C.D. Deshmukh Auditorium, IIC main"
+    },
+    {
+      "category": "Book Talk",
+      "date": "2026-11-23",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 75,
+      "source": "ihc",
+      "tags": [],
+      "time": "7:00 PM",
+      "title": "At the Feet of the Guru",
+      "url": "https://indiahabitat.org/Events_details/1535",
+      "venue": "Gulmohar"
+    },
+    {
+      "category": "Film",
+      "date": "2026-11-23",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-11/23%20November%202026_Website%20Spotlight_1.jpg",
+      "score": 55,
+      "source": "iic",
+      "tags": [],
+      "time": "06:30 PM",
+      "title": "FILM  -K G Subramanyan: A Language of My Own",
+      "url": "https://iicdelhi.in/programmes/film-k-g-subramanyan-language-my-own",
+      "venue": "C.D. Deshmukh Auditorium, IIC main"
+    },
+    {
+      "category": "Music & Dance",
+      "date": "2026-11-23",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 50,
+      "source": "ihc",
+      "tags": [],
+      "time": "7:00 PM",
+      "title": "75th Anniversary of the Hungarian State Folk Ensemble",
+      "url": "https://indiahabitat.org/Events_details/1534",
+      "venue": "The Stein Auditorium"
+    },
+    {
+      "category": "Library Programmes",
+      "date": "2026-11-23",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-11/23%20November%202026_Website%20Spotlight.jpg",
+      "score": 50,
+      "source": "iic",
+      "tags": [],
+      "time": "06:00 PM",
+      "title": "BOOK DISCUSSION GROUP  Stories the Fire Could Not Burn: A Personal Account of the Manipur Crisis 2023-25",
+      "url": "https://iicdelhi.in/programmes/book-discussion-group-stories-fire-could-not-burn-personal-account-manipur-crisis-2023",
+      "venue": "Conference Room II, IIC main"
     }
   ],
-  "generated_at": "2026-11-15"
+  "generated_at": "2026-11-16"
 }

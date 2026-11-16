@@ -1,62 +1,6 @@
 {
-  "count": 32,
+  "count": 28,
   "events": [
-    {
-      "category": "Book Talk",
-      "date": "2026-11-23",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 75,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "At the Feet of the Guru",
-      "url": "https://indiahabitat.org/Events_details/1535",
-      "venue": "Gulmohar"
-    },
-    {
-      "category": "Film",
-      "date": "2026-11-23",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-11/23%20November%202026_Website%20Spotlight_1.jpg",
-      "score": 55,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "FILM  -K G Subramanyan: A Language of My Own",
-      "url": "https://iicdelhi.in/programmes/film-k-g-subramanyan-language-my-own",
-      "venue": "C.D. Deshmukh Auditorium, IIC main"
-    },
-    {
-      "category": "Music & Dance",
-      "date": "2026-11-23",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 50,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "75th Anniversary of the Hungarian State Folk Ensemble",
-      "url": "https://indiahabitat.org/Events_details/1534",
-      "venue": "The Stein Auditorium"
-    },
-    {
-      "category": "Library Programmes",
-      "date": "2026-11-23",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-11/23%20November%202026_Website%20Spotlight.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "06:00 PM",
-      "title": "BOOK DISCUSSION GROUP  Stories the Fire Could Not Burn: A Personal Account of the Manipur Crisis 2023-25",
-      "url": "https://iicdelhi.in/programmes/book-discussion-group-stories-fire-could-not-burn-personal-account-manipur-crisis-2023",
-      "venue": "Conference Room II, IIC main"
-    },
     {
       "category": "Dance",
       "date": "2026-11-24",
@@ -450,5 +394,5 @@
       "venue": "C.D. Deshmukh Auditorium, IIC main"
     }
   ],
-  "generated_at": "2026-11-15"
+  "generated_at": "2026-11-16"
 }
