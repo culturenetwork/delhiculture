@@ -1,20 +1,6 @@
 {
-  "count": 72,
+  "count": 67,
   "events": [
-    {
-      "category": "Museum",
-      "date": "2026-11-13",
-      "description": "",
-      "end_date": "2026-11-16",
-      "image": null,
-      "score": 85,
-      "source": "bikanerhouse",
-      "tags": [],
-      "time": null,
-      "title": "Aadi Annadi",
-      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/11",
-      "venue": "Bikaner House"
-    },
     {
       "category": "Museum",
       "date": "2026-11-15",
@@ -42,62 +28,6 @@
       "title": "अनन्त अभिव्यक्ति – Beyond Boundaries, Beyond Time",
       "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/11",
       "venue": "Bikaner House"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-11-16",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-11/16%20November%202026_Website%20Programme%20Image_1.png",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
-      "time": "06:00 PM",
-      "title": "18TH GIRI DESHINGKAR MEMORIAL LECTURE",
-      "url": "https://iicdelhi.in/programmes/18th-giri-deshingkar-memorial-lecture",
-      "venue": "Seminar Rooms 1,2,3"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-11-16",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 75,
-      "source": "ihc",
-      "tags": [],
-      "time": "6:00 PM",
-      "title": "US Midterms 2026: Domestic Political Shifts and Global Geopolitical Implications",
-      "url": "https://indiahabitat.org/Events_details/1515",
-      "venue": "Gulmohar"
-    },
-    {
-      "category": "Film",
-      "date": "2026-11-16",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 55,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "Izhakalkkappuram / The Unseen Thread",
-      "url": "https://indiahabitat.org/Events_details/1519",
-      "venue": "The Stein Auditorium"
-    },
-    {
-      "category": "Library Programmes",
-      "date": "2026-11-16",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-11/16%20November%202026_Website%20Programme%20Image.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "06:00 PM",
-      "title": "POSTPONED  -BOOK DISCUSSION GROUP-   Militant Nationalism in The Punjab, 1919–1935: Interweaving Region and Nation",
-      "url": "https://iicdelhi.in/programmes/postponed-book-discussion-group-militant-nationalism-punjab-1919-1935-interweaving",
-      "venue": "Conference Room I, IIC main"
     },
     {
       "category": "Book Talk",
@@ -1010,5 +940,5 @@
       "venue": "C.D. Deshmukh Auditorium, IIC main"
     }
   ],
-  "generated_at": "2026-11-16"
+  "generated_at": "2026-11-17"
 }

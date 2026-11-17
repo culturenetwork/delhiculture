@@ -1,20 +1,6 @@
 {
-  "count": 28,
+  "count": 27,
   "events": [
-    {
-      "category": "Dance",
-      "date": "2026-11-24",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 70,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "The Game of Dice",
-      "url": "https://indiahabitat.org/Events_details/1536",
-      "venue": "The Stein Auditorium"
-    },
     {
       "category": "Book Talk",
       "date": "2026-11-25",
@@ -394,5 +380,5 @@
       "venue": "C.D. Deshmukh Auditorium, IIC main"
     }
   ],
-  "generated_at": "2026-11-16"
+  "generated_at": "2026-11-17"
 }

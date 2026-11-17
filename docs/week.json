@@ -1,62 +1,6 @@
 {
-  "count": 37,
+  "count": 34,
   "events": [
-    {
-      "category": "Book Talk",
-      "date": "2026-11-17",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-11/17%20November%202026_Website%20Programme%20Image_2.jpg",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
-      "time": "06:00 PM",
-      "title": "Annual Spiritual Ecology Lecture",
-      "url": "https://iicdelhi.in/programmes/annual-spiritual-ecology-lecture",
-      "venue": "Lecture Room I, IIC Annexe"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-11-17",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 75,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "How Soon Should We Stop Seizures?",
-      "url": "https://indiahabitat.org/Events_details/1520",
-      "venue": "Gulmohar"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-11-17",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-11/17%20November%202026_Website%20Programme%20Image_1.jpg",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
-      "time": "06:00 PM",
-      "title": "Sardar Patel Lecture on Governance",
-      "url": "https://iicdelhi.in/programmes/sardar-patel-lecture-governance-0",
-      "venue": "C.D. Deshmukh Auditorium, IIC main"
-    },
-    {
-      "category": "Library Programmes",
-      "date": "2026-11-17",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-11/17%20November%202026_Website%20Programme%20Image.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "06:00 PM",
-      "title": "BOOK DISCUSSION GROUP - When Branding Met the Movies.",
-      "url": "https://iicdelhi.in/programmes/book-discussion-group-when-branding-met-movies",
-      "venue": "Conference Room II, IIC main"
-    },
     {
       "category": "Indian Classical",
       "date": "2026-11-18",
@@ -518,7 +462,21 @@
       "title": "BOOK DISCUSSION GROUP  Stories the Fire Could Not Burn: A Personal Account of the Manipur Crisis 2023-25",
       "url": "https://iicdelhi.in/programmes/book-discussion-group-stories-fire-could-not-burn-personal-account-manipur-crisis-2023",
       "venue": "Conference Room II, IIC main"
+    },
+    {
+      "category": "Dance",
+      "date": "2026-11-24",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 70,
+      "source": "ihc",
+      "tags": [],
+      "time": "7:00 PM",
+      "title": "The Game of Dice",
+      "url": "https://indiahabitat.org/Events_details/1536",
+      "venue": "The Stein Auditorium"
     }
   ],
-  "generated_at": "2026-11-16"
+  "generated_at": "2026-11-17"
 }
