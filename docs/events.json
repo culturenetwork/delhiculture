@@ -1,5 +1,5 @@
 {
-  "count": 68,
+  "count": 61,
   "events": [
     {
       "category": "Museum",
@@ -14,90 +14,6 @@
       "title": "The IMAGINARIUM of Rudranil Mitra",
       "url": "https://iicdelhi.in/programmes/imaginarium-rudranil-mitra",
       "venue": "Art Gallery, IIC Annexe"
-    },
-    {
-      "category": "Museum",
-      "date": "2026-11-15",
-      "description": "",
-      "end_date": "2026-11-18",
-      "image": null,
-      "score": 85,
-      "source": "bikanerhouse",
-      "tags": [],
-      "time": null,
-      "title": "अनन्त अभिव्यक्ति – Beyond Boundaries, Beyond Time",
-      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/11",
-      "venue": "Bikaner House"
-    },
-    {
-      "category": "Indian Classical",
-      "date": "2026-11-18",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 80,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "Aarambh",
-      "url": "https://indiahabitat.org/Events_details/1523",
-      "venue": "The Theatre"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-11-18",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-11/18%20November%202026_Website%20Programme%20Image_1_0.jpg",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
-      "time": "06:00 PM",
-      "title": "The Border, the War and Our Collective Ignorance",
-      "url": "https://iicdelhi.in/programmes/border-war-and-our-collective-ignorance",
-      "venue": "Conference Room I, IIC main"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-11-18",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 75,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "The Making of a Champion - From Promising Juniors to Elite Athletes",
-      "url": "https://indiahabitat.org/Events_details/1522",
-      "venue": "Gulmohar"
-    },
-    {
-      "category": "Dance",
-      "date": "2026-11-18",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 70,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "Abhinandan Samaroh",
-      "url": "https://indiahabitat.org/Events_details/1521",
-      "venue": "The Stein Auditorium"
-    },
-    {
-      "category": "Library Programmes",
-      "date": "2026-11-18",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-11/18%20November%202026_Website%20Programme%20Image.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "06:00 PM",
-      "title": "BOOK DISCUSSION GROUP  An Alchemy of Words and Silences: Contemporary Hindi Women Poets",
-      "url": "https://iicdelhi.in/programmes/book-discussion-group-alchemy-words-and-silences-contemporary-hindi-women-poets",
-      "venue": "Conference Room II, IIC main"
     },
     {
       "category": "Museum",
@@ -748,20 +664,6 @@
       "date": "2026-11-28",
       "description": "",
       "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-11/28%20November%202026_Website%20Programme%20Image_1.jpg",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
-      "time": "06:00 PM",
-      "title": "Gandhi Speaks Today",
-      "url": "https://iicdelhi.in/programmes/gandhi-speaks-today",
-      "venue": "Conference Room II, IIC main"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-11-28",
-      "description": "",
-      "end_date": null,
       "image": "https://aws-static.iicdelhi.in/2026-11/28%20November%202026_Website%20Programme%20Image_2_0.jpg",
       "score": 75,
       "source": "iic",
@@ -954,5 +856,5 @@
       "venue": "Lecture Room I, IIC Annexe"
     }
   ],
-  "generated_at": "2026-11-18"
+  "generated_at": "2026-11-19"
 }
