@@ -1,5 +1,5 @@
 {
-  "count": 51,
+  "count": 45,
   "events": [
     {
       "category": "Museum",
@@ -70,90 +70,6 @@
       "title": "Unheard....Unspoken...",
       "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/11",
       "venue": "Bikaner House"
-    },
-    {
-      "category": "Indian Classical",
-      "date": "2026-11-21",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 80,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "K. K. Mandal Memorial Concert",
-      "url": "https://indiahabitat.org/Events_details/1529",
-      "venue": "The Theatre"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-11-21",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 75,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "Jobs and Manufacturing",
-      "url": "https://indiahabitat.org/Events_details/1531",
-      "venue": "Gulmohar"
-    },
-    {
-      "category": "Theatre",
-      "date": "2026-11-21",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 65,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "Enchantment: A Journey with Pandit Ravi Shankar",
-      "url": "https://indiahabitat.org/Events_details/1530",
-      "venue": "The Stein Auditorium"
-    },
-    {
-      "category": "Cultural",
-      "date": "2026-11-21",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 50,
-      "source": "ihc",
-      "tags": [],
-      "time": "6:00 PM",
-      "title": "IHC Members Meet",
-      "url": "https://indiahabitat.org/Events_details/1549",
-      "venue": "The Habitat Lounge"
-    },
-    {
-      "category": "Cultural",
-      "date": "2026-11-21",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-11/21%20November%202026_Website%20Programme%20Image.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "03:30 PM",
-      "title": "KAMALADEVI PURUSKAR 2026",
-      "url": "https://iicdelhi.in/programmes/kamaladevi-puruskar-2026",
-      "venue": "Gandhi-King Memorial Plaza, IIC main"
-    },
-    {
-      "category": "Film & Talk",
-      "date": "2026-11-21",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 50,
-      "source": "ihc",
-      "tags": [],
-      "time": "6:00 PM",
-      "title": "Kangra Miniature Paintings",
-      "url": "https://indiahabitat.org/Events_details/1528",
-      "venue": "Online"
     },
     {
       "category": "Book Talk",
@@ -412,14 +328,14 @@
       "date": "2026-11-27",
       "description": "",
       "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-11/Website%20Programme%20Image_27%20November%202026_2.jpg",
+      "image": "https://aws-static.iicdelhi.in/2026-11/Website%20Programme%20Image_27%20November%202026_4.jpg",
       "score": 75,
       "source": "iic",
       "tags": [],
-      "time": "06:00 PM",
-      "title": "MUSIC APPRECIATION PROMOTION",
-      "url": "https://iicdelhi.in/programmes/music-appreciation-promotion-356",
-      "venue": "Lecture Room II, IIC Annexe"
+      "time": "02:00 PM",
+      "title": "Legacy for a Just World: Education, Science, and Culture in the Service of Humanity",
+      "url": "https://iicdelhi.in/programmes/legacy-just-world-education-science-and-culture-service-humanity",
+      "venue": "Conference Room I, IIC main"
     },
     {
       "category": "Dance",
@@ -716,5 +632,5 @@
       "venue": "Lecture Room I, IIC Annexe"
     }
   ],
-  "generated_at": "2026-11-21"
+  "generated_at": "2026-11-22"
 }

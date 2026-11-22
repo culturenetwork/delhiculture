@@ -1,20 +1,6 @@
 {
-  "count": 10,
+  "count": 9,
   "events": [
-    {
-      "category": "Film",
-      "date": "2026-11-29",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 55,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "Dodo",
-      "url": "https://indiahabitat.org/Events_details/1546",
-      "venue": "Gulmohar"
-    },
     {
       "category": "Book Talk",
       "date": "2026-11-30",
@@ -142,5 +128,5 @@
       "venue": "Lecture Room I, IIC Annexe"
     }
   ],
-  "generated_at": "2026-11-21"
+  "generated_at": "2026-11-22"
 }

@@ -1,62 +1,6 @@
 {
-  "count": 30,
+  "count": 27,
   "events": [
-    {
-      "category": "Book Talk",
-      "date": "2026-11-22",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 75,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "Dara Shukoh: The Faqir and the Throne of Thorns",
-      "url": "https://indiahabitat.org/Events_details/1533",
-      "venue": "Gulmohar"
-    },
-    {
-      "category": "Theatre",
-      "date": "2026-11-22",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 65,
-      "source": "ihc",
-      "tags": [],
-      "time": "3:00 PM",
-      "title": "Papa Man",
-      "url": "https://indiahabitat.org/Events_details/1532",
-      "venue": "The Stein Auditorium"
-    },
-    {
-      "category": "Theatre",
-      "date": "2026-11-22",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 65,
-      "source": "ihc",
-      "tags": [],
-      "time": "6:30 PM",
-      "title": "Papa Man",
-      "url": "https://indiahabitat.org/Events_details/1550",
-      "venue": "The Stein Auditorium"
-    },
-    {
-      "category": "Cultural",
-      "date": "2026-11-22",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-11/22%20November%202026_Website%20Spotlight.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "04:00 PM",
-      "title": "34th Annual Pt. Radhakrishna–Pt. Kartaram Mallick National Dhrupad Samaroh",
-      "url": "https://iicdelhi.in/programmes/34th-annual-pt-radhakrishna-pt-kartaram-mallick-national-dhrupad-samaroh",
-      "venue": "C.D. Deshmukh Auditorium, IIC main"
-    },
     {
       "category": "Book Talk",
       "date": "2026-11-23",
@@ -258,14 +202,14 @@
       "date": "2026-11-27",
       "description": "",
       "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-11/Website%20Programme%20Image_27%20November%202026_2.jpg",
+      "image": "https://aws-static.iicdelhi.in/2026-11/Website%20Programme%20Image_27%20November%202026_4.jpg",
       "score": 75,
       "source": "iic",
       "tags": [],
-      "time": "06:00 PM",
-      "title": "MUSIC APPRECIATION PROMOTION",
-      "url": "https://iicdelhi.in/programmes/music-appreciation-promotion-356",
-      "venue": "Lecture Room II, IIC Annexe"
+      "time": "02:00 PM",
+      "title": "Legacy for a Just World: Education, Science, and Culture in the Service of Humanity",
+      "url": "https://iicdelhi.in/programmes/legacy-just-world-education-science-and-culture-service-humanity",
+      "venue": "Conference Room I, IIC main"
     },
     {
       "category": "Dance",
@@ -420,7 +364,21 @@
       "title": "Yeh Kaisi Hawa Chali!",
       "url": "https://indiahabitat.org/Events_details/1545",
       "venue": "The Theatre"
+    },
+    {
+      "category": "Film",
+      "date": "2026-11-29",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 55,
+      "source": "ihc",
+      "tags": [],
+      "time": "7:00 PM",
+      "title": "Dodo",
+      "url": "https://indiahabitat.org/Events_details/1546",
+      "venue": "Gulmohar"
     }
   ],
-  "generated_at": "2026-11-21"
+  "generated_at": "2026-11-22"
 }
