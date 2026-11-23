@@ -1,62 +1,6 @@
 {
-  "count": 27,
+  "count": 29,
   "events": [
-    {
-      "category": "Book Talk",
-      "date": "2026-11-23",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 75,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "At the Feet of the Guru",
-      "url": "https://indiahabitat.org/Events_details/1535",
-      "venue": "Gulmohar"
-    },
-    {
-      "category": "Film",
-      "date": "2026-11-23",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-11/23%20November%202026_Website%20Spotlight_1.jpg",
-      "score": 55,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "FILM  -K G Subramanyan: A Language of My Own",
-      "url": "https://iicdelhi.in/programmes/film-k-g-subramanyan-language-my-own",
-      "venue": "C.D. Deshmukh Auditorium, IIC main"
-    },
-    {
-      "category": "Music & Dance",
-      "date": "2026-11-23",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 50,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "75th Anniversary of the Hungarian State Folk Ensemble",
-      "url": "https://indiahabitat.org/Events_details/1534",
-      "venue": "The Stein Auditorium"
-    },
-    {
-      "category": "Library Programmes",
-      "date": "2026-11-23",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-11/23%20November%202026_Website%20Spotlight.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "06:00 PM",
-      "title": "BOOK DISCUSSION GROUP  Stories the Fire Could Not Burn: A Personal Account of the Manipur Crisis 2023-25",
-      "url": "https://iicdelhi.in/programmes/book-discussion-group-stories-fire-could-not-burn-personal-account-manipur-crisis-2023",
-      "venue": "Conference Room II, IIC main"
-    },
     {
       "category": "Dance",
       "date": "2026-11-24",
@@ -210,6 +154,20 @@
       "title": "Legacy for a Just World: Education, Science, and Culture in the Service of Humanity",
       "url": "https://iicdelhi.in/programmes/legacy-just-world-education-science-and-culture-service-humanity",
       "venue": "Conference Room I, IIC main"
+    },
+    {
+      "category": "Book Talk",
+      "date": "2026-11-27",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-11/Website%20Programme%20Image_27%20November%202026_2.jpg",
+      "score": 75,
+      "source": "iic",
+      "tags": [],
+      "time": "06:00 PM",
+      "title": "MUSIC APPRECIATION PROMOTION",
+      "url": "https://iicdelhi.in/programmes/music-appreciation-promotion-356",
+      "venue": "Lecture Room II, IIC Annexe"
     },
     {
       "category": "Dance",
@@ -378,7 +336,77 @@
       "title": "Dodo",
       "url": "https://indiahabitat.org/Events_details/1546",
       "venue": "Gulmohar"
+    },
+    {
+      "category": "Book Talk",
+      "date": "2026-11-30",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-11/30%20November%202026_Website%20Spotlight.jpg",
+      "score": 75,
+      "source": "iic",
+      "tags": [],
+      "time": "06:00 PM",
+      "title": "BOOK DISCUSSION GROUP-The Jihad - Tech Complex",
+      "url": "https://iicdelhi.in/programmes/book-discussion-group-jihad-tech-complex",
+      "venue": "Conference Room I, IIC main"
+    },
+    {
+      "category": "Book Talk",
+      "date": "2026-11-30",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 75,
+      "source": "ihc",
+      "tags": [],
+      "time": "7:00 PM",
+      "title": "Deregulating Policy for Compounding Growth in Tourism and Hospitality Sector in India",
+      "url": "https://indiahabitat.org/Events_details/1548",
+      "venue": "Gulmohar"
+    },
+    {
+      "category": "Book Talk",
+      "date": "2026-11-30",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-11/Website%20Programme%20Image_30%20November%202026_1.jpg",
+      "score": 75,
+      "source": "iic",
+      "tags": [],
+      "time": "06:00 PM",
+      "title": "HIMALAYAN DIALOGUES",
+      "url": "https://iicdelhi.in/programmes/himalayan-dialogues-5",
+      "venue": "Lecture Room II, IIC Annexe"
+    },
+    {
+      "category": "Film",
+      "date": "2026-11-30",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-11/Website%20Programme%20Image_30%20November%202026_2.jpg",
+      "score": 55,
+      "source": "iic",
+      "tags": [],
+      "time": "04:00 PM",
+      "title": "European Union Film Festival -India (EUFF) (30th November)",
+      "url": "https://iicdelhi.in/programmes/european-union-film-festival-india-euff-30th-november",
+      "venue": "C.D. Deshmukh Auditorium, IIC main"
+    },
+    {
+      "category": "Dance & Music",
+      "date": "2026-11-30",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 50,
+      "source": "ihc",
+      "tags": [],
+      "time": "7:00 PM",
+      "title": "KATHA - Silent Echoes of Kuru Queens",
+      "url": "https://indiahabitat.org/Events_details/1547",
+      "venue": "The Stein Auditorium"
     }
   ],
-  "generated_at": "2026-11-22"
+  "generated_at": "2026-11-23"
 }

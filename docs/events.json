@@ -1,34 +1,6 @@
 {
-  "count": 45,
+  "count": 40,
   "events": [
-    {
-      "category": "Museum",
-      "date": "2026-11-15",
-      "description": "The IMAGINARIUM of Rudranil Mitra Curated by Uma Nair An exhibition showcasing the imaginative and sculptural creations of 13-year-old Rudranil Mitra, an artist with autism, ADHD and language impairment. His first solo exhibition celebrates unconventional creativity and the impor",
-      "end_date": "2026-11-22",
-      "image": "https://aws-static.iicdelhi.in/2026-11/15%20November%202026_Website%20Programme%20Image_1.jpg",
-      "score": 85,
-      "source": "iic",
-      "tags": [],
-      "time": "11:00 AM",
-      "title": "The IMAGINARIUM of Rudranil Mitra",
-      "url": "https://iicdelhi.in/programmes/imaginarium-rudranil-mitra",
-      "venue": "Art Gallery, IIC Annexe"
-    },
-    {
-      "category": "Museum",
-      "date": "2026-11-19",
-      "description": "",
-      "end_date": "2026-11-22",
-      "image": null,
-      "score": 85,
-      "source": "bikanerhouse",
-      "tags": [],
-      "time": null,
-      "title": "Chronicles in Colour",
-      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/11",
-      "venue": "Bikaner House"
-    },
     {
       "category": "Museum",
       "date": "2026-11-19",
@@ -70,62 +42,6 @@
       "title": "Unheard....Unspoken...",
       "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/11",
       "venue": "Bikaner House"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-11-22",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 75,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "Dara Shukoh: The Faqir and the Throne of Thorns",
-      "url": "https://indiahabitat.org/Events_details/1533",
-      "venue": "Gulmohar"
-    },
-    {
-      "category": "Theatre",
-      "date": "2026-11-22",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 65,
-      "source": "ihc",
-      "tags": [],
-      "time": "3:00 PM",
-      "title": "Papa Man",
-      "url": "https://indiahabitat.org/Events_details/1532",
-      "venue": "The Stein Auditorium"
-    },
-    {
-      "category": "Theatre",
-      "date": "2026-11-22",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 65,
-      "source": "ihc",
-      "tags": [],
-      "time": "6:30 PM",
-      "title": "Papa Man",
-      "url": "https://indiahabitat.org/Events_details/1550",
-      "venue": "The Stein Auditorium"
-    },
-    {
-      "category": "Cultural",
-      "date": "2026-11-22",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-11/22%20November%202026_Website%20Spotlight.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "04:00 PM",
-      "title": "34th Annual Pt. Radhakrishna–Pt. Kartaram Mallick National Dhrupad Samaroh",
-      "url": "https://iicdelhi.in/programmes/34th-annual-pt-radhakrishna-pt-kartaram-mallick-national-dhrupad-samaroh",
-      "venue": "C.D. Deshmukh Auditorium, IIC main"
     },
     {
       "category": "Book Talk",
@@ -336,6 +252,20 @@
       "title": "Legacy for a Just World: Education, Science, and Culture in the Service of Humanity",
       "url": "https://iicdelhi.in/programmes/legacy-just-world-education-science-and-culture-service-humanity",
       "venue": "Conference Room I, IIC main"
+    },
+    {
+      "category": "Book Talk",
+      "date": "2026-11-27",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-11/Website%20Programme%20Image_27%20November%202026_2.jpg",
+      "score": 75,
+      "source": "iic",
+      "tags": [],
+      "time": "06:00 PM",
+      "title": "MUSIC APPRECIATION PROMOTION",
+      "url": "https://iicdelhi.in/programmes/music-appreciation-promotion-356",
+      "venue": "Lecture Room II, IIC Annexe"
     },
     {
       "category": "Dance",
@@ -632,5 +562,5 @@
       "venue": "Lecture Room I, IIC Annexe"
     }
   ],
-  "generated_at": "2026-11-22"
+  "generated_at": "2026-11-23"
 }

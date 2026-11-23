@@ -1,34 +1,6 @@
 {
-  "count": 9,
+  "count": 7,
   "events": [
-    {
-      "category": "Museum",
-      "date": "2026-11-15",
-      "description": "The IMAGINARIUM of Rudranil Mitra Curated by Uma Nair An exhibition showcasing the imaginative and sculptural creations of 13-year-old Rudranil Mitra, an artist with autism, ADHD and language impairment. His first solo exhibition celebrates unconventional creativity and the impor",
-      "end_date": "2026-11-22",
-      "image": "https://aws-static.iicdelhi.in/2026-11/15%20November%202026_Website%20Programme%20Image_1.jpg",
-      "score": 85,
-      "source": "iic",
-      "tags": [],
-      "time": "11:00 AM",
-      "title": "The IMAGINARIUM of Rudranil Mitra",
-      "url": "https://iicdelhi.in/programmes/imaginarium-rudranil-mitra",
-      "venue": "Art Gallery, IIC Annexe"
-    },
-    {
-      "category": "Museum",
-      "date": "2026-11-19",
-      "description": "",
-      "end_date": "2026-11-22",
-      "image": null,
-      "score": 85,
-      "source": "bikanerhouse",
-      "tags": [],
-      "time": null,
-      "title": "Chronicles in Colour",
-      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/11",
-      "venue": "Bikaner House"
-    },
     {
       "category": "Museum",
       "date": "2026-11-19",
@@ -73,7 +45,7 @@
     },
     {
       "category": "Book Talk",
-      "date": "2026-11-22",
+      "date": "2026-11-23",
       "description": "",
       "end_date": null,
       "image": null,
@@ -81,52 +53,52 @@
       "source": "ihc",
       "tags": [],
       "time": "7:00 PM",
-      "title": "Dara Shukoh: The Faqir and the Throne of Thorns",
-      "url": "https://indiahabitat.org/Events_details/1533",
+      "title": "At the Feet of the Guru",
+      "url": "https://indiahabitat.org/Events_details/1535",
       "venue": "Gulmohar"
     },
     {
-      "category": "Theatre",
-      "date": "2026-11-22",
+      "category": "Film",
+      "date": "2026-11-23",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-11/23%20November%202026_Website%20Spotlight_1.jpg",
+      "score": 55,
+      "source": "iic",
+      "tags": [],
+      "time": "06:30 PM",
+      "title": "FILM  -K G Subramanyan: A Language of My Own",
+      "url": "https://iicdelhi.in/programmes/film-k-g-subramanyan-language-my-own",
+      "venue": "C.D. Deshmukh Auditorium, IIC main"
+    },
+    {
+      "category": "Music & Dance",
+      "date": "2026-11-23",
       "description": "",
       "end_date": null,
       "image": null,
-      "score": 65,
+      "score": 50,
       "source": "ihc",
       "tags": [],
-      "time": "3:00 PM",
-      "title": "Papa Man",
-      "url": "https://indiahabitat.org/Events_details/1532",
+      "time": "7:00 PM",
+      "title": "75th Anniversary of the Hungarian State Folk Ensemble",
+      "url": "https://indiahabitat.org/Events_details/1534",
       "venue": "The Stein Auditorium"
     },
     {
-      "category": "Theatre",
-      "date": "2026-11-22",
+      "category": "Library Programmes",
+      "date": "2026-11-23",
       "description": "",
       "end_date": null,
-      "image": null,
-      "score": 65,
-      "source": "ihc",
-      "tags": [],
-      "time": "6:30 PM",
-      "title": "Papa Man",
-      "url": "https://indiahabitat.org/Events_details/1550",
-      "venue": "The Stein Auditorium"
-    },
-    {
-      "category": "Cultural",
-      "date": "2026-11-22",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-11/22%20November%202026_Website%20Spotlight.jpg",
+      "image": "https://aws-static.iicdelhi.in/2026-11/23%20November%202026_Website%20Spotlight.jpg",
       "score": 50,
       "source": "iic",
       "tags": [],
-      "time": "04:00 PM",
-      "title": "34th Annual Pt. Radhakrishna–Pt. Kartaram Mallick National Dhrupad Samaroh",
-      "url": "https://iicdelhi.in/programmes/34th-annual-pt-radhakrishna-pt-kartaram-mallick-national-dhrupad-samaroh",
-      "venue": "C.D. Deshmukh Auditorium, IIC main"
+      "time": "06:00 PM",
+      "title": "BOOK DISCUSSION GROUP  Stories the Fire Could Not Burn: A Personal Account of the Manipur Crisis 2023-25",
+      "url": "https://iicdelhi.in/programmes/book-discussion-group-stories-fire-could-not-burn-personal-account-manipur-crisis-2023",
+      "venue": "Conference Room II, IIC main"
     }
   ],
-  "generated_at": "2026-11-22"
+  "generated_at": "2026-11-23"
 }
