@@ -1,48 +1,6 @@
 {
-  "count": 4,
+  "count": 6,
   "events": [
-    {
-      "category": "Book Talk",
-      "date": "2026-12-01",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-11/1%20December%202026_Website%20Programme%20Image_2.jpg",
-      "score": 75,
-      "source": "iic",
-      "tags": [],
-      "time": "06:00 PM",
-      "title": "Reading Latin America: Weaving words into poems\", celebrating the work of Aida Cartagena",
-      "url": "https://iicdelhi.in/programmes/reading-latin-america-weaving-words-poems-celebrating-work-aida-cartagena",
-      "venue": "Lecture Room II, IIC Annexe"
-    },
-    {
-      "category": "Film",
-      "date": "2026-12-01",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-11/1%20December%202026_Website%20Programme%20Image_1.jpg",
-      "score": 55,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "European Union Film Festival -India (EUFF) (1st December)",
-      "url": "https://iicdelhi.in/programmes/european-union-film-festival-india-euff-1st-december",
-      "venue": "Lecture Room I, IIC Annexe"
-    },
-    {
-      "category": "Cultural",
-      "date": "2026-12-01",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-11/1%20December%202026_Website%20Programme%20Image.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "06:00 PM",
-      "title": "The Quiet Storm",
-      "url": "https://iicdelhi.in/programmes/quiet-storm",
-      "venue": "C.D. Deshmukh Auditorium, IIC main"
-    },
     {
       "category": "Film",
       "date": "2026-12-02",
@@ -56,7 +14,77 @@
       "title": "European Union Film Festival -India (EUFF) (2nd December)",
       "url": "https://iicdelhi.in/programmes/european-union-film-festival-india-euff-2nd-december",
       "venue": "Lecture Room I, IIC Annexe"
+    },
+    {
+      "category": "Theatre",
+      "date": "2026-12-06",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 65,
+      "source": "ihc",
+      "tags": [],
+      "time": "7:30 PM",
+      "title": "Main Bhi Bachchan",
+      "url": "https://indiahabitat.org/Events_details/1552",
+      "venue": "The Stein Auditorium"
+    },
+    {
+      "category": "Film",
+      "date": "2026-12-11",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 55,
+      "source": "ihc",
+      "tags": [],
+      "time": "7:00 PM",
+      "title": "IHC 35mm Film Club Screening. Mahal",
+      "url": "https://indiahabitat.org/Events_details/1553",
+      "venue": "The Stein Auditorium"
+    },
+    {
+      "category": "Indian Classical",
+      "date": "2026-12-13",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 80,
+      "source": "ihc",
+      "tags": [],
+      "time": "10:30 AM",
+      "title": "IHC Morning Ragas",
+      "url": "https://indiahabitat.org/Events_details/1554",
+      "venue": "Amphitheatre"
+    },
+    {
+      "category": "Theatre",
+      "date": "2026-12-13",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 65,
+      "source": "ihc",
+      "tags": [],
+      "time": "7:30 PM",
+      "title": "Ek Shaam Rumani",
+      "url": "https://indiahabitat.org/Events_details/1555",
+      "venue": "The Stein Auditorium"
+    },
+    {
+      "category": "Theatre",
+      "date": "2026-12-20",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 65,
+      "source": "ihc",
+      "tags": [],
+      "time": "7:00 PM",
+      "title": "The Importance of Being Earnest",
+      "url": "https://indiahabitat.org/Events_details/1556",
+      "venue": "The Stein Auditorium"
     }
   ],
-  "generated_at": "2026-11-23"
+  "generated_at": "2026-11-24"
 }

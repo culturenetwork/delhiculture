@@ -1,5 +1,5 @@
 {
-  "count": 40,
+  "count": 41,
   "events": [
     {
       "category": "Museum",
@@ -42,62 +42,6 @@
       "title": "Unheard....Unspoken...",
       "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/11",
       "venue": "Bikaner House"
-    },
-    {
-      "category": "Book Talk",
-      "date": "2026-11-23",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 75,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "At the Feet of the Guru",
-      "url": "https://indiahabitat.org/Events_details/1535",
-      "venue": "Gulmohar"
-    },
-    {
-      "category": "Film",
-      "date": "2026-11-23",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-11/23%20November%202026_Website%20Spotlight_1.jpg",
-      "score": 55,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "FILM  -K G Subramanyan: A Language of My Own",
-      "url": "https://iicdelhi.in/programmes/film-k-g-subramanyan-language-my-own",
-      "venue": "C.D. Deshmukh Auditorium, IIC main"
-    },
-    {
-      "category": "Music & Dance",
-      "date": "2026-11-23",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 50,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "75th Anniversary of the Hungarian State Folk Ensemble",
-      "url": "https://indiahabitat.org/Events_details/1534",
-      "venue": "The Stein Auditorium"
-    },
-    {
-      "category": "Library Programmes",
-      "date": "2026-11-23",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-11/23%20November%202026_Website%20Spotlight.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "06:00 PM",
-      "title": "BOOK DISCUSSION GROUP  Stories the Fire Could Not Burn: A Personal Account of the Manipur Crisis 2023-25",
-      "url": "https://iicdelhi.in/programmes/book-discussion-group-stories-fire-could-not-burn-personal-account-manipur-crisis-2023",
-      "venue": "Conference Room II, IIC main"
     },
     {
       "category": "Dance",
@@ -560,7 +504,77 @@
       "title": "European Union Film Festival -India (EUFF) (2nd December)",
       "url": "https://iicdelhi.in/programmes/european-union-film-festival-india-euff-2nd-december",
       "venue": "Lecture Room I, IIC Annexe"
+    },
+    {
+      "category": "Theatre",
+      "date": "2026-12-06",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 65,
+      "source": "ihc",
+      "tags": [],
+      "time": "7:30 PM",
+      "title": "Main Bhi Bachchan",
+      "url": "https://indiahabitat.org/Events_details/1552",
+      "venue": "The Stein Auditorium"
+    },
+    {
+      "category": "Film",
+      "date": "2026-12-11",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 55,
+      "source": "ihc",
+      "tags": [],
+      "time": "7:00 PM",
+      "title": "IHC 35mm Film Club Screening. Mahal",
+      "url": "https://indiahabitat.org/Events_details/1553",
+      "venue": "The Stein Auditorium"
+    },
+    {
+      "category": "Indian Classical",
+      "date": "2026-12-13",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 80,
+      "source": "ihc",
+      "tags": [],
+      "time": "10:30 AM",
+      "title": "IHC Morning Ragas",
+      "url": "https://indiahabitat.org/Events_details/1554",
+      "venue": "Amphitheatre"
+    },
+    {
+      "category": "Theatre",
+      "date": "2026-12-13",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 65,
+      "source": "ihc",
+      "tags": [],
+      "time": "7:30 PM",
+      "title": "Ek Shaam Rumani",
+      "url": "https://indiahabitat.org/Events_details/1555",
+      "venue": "The Stein Auditorium"
+    },
+    {
+      "category": "Theatre",
+      "date": "2026-12-20",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 65,
+      "source": "ihc",
+      "tags": [],
+      "time": "7:00 PM",
+      "title": "The Importance of Being Earnest",
+      "url": "https://indiahabitat.org/Events_details/1556",
+      "venue": "The Stein Auditorium"
     }
   ],
-  "generated_at": "2026-11-23"
+  "generated_at": "2026-11-24"
 }
