@@ -1,20 +1,6 @@
 {
-  "count": 6,
+  "count": 5,
   "events": [
-    {
-      "category": "Film",
-      "date": "2026-12-02",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-11/2%20December%202026_Website%20Programme%20Image.jpg",
-      "score": 55,
-      "source": "iic",
-      "tags": [],
-      "time": "06:30 PM",
-      "title": "European Union Film Festival -India (EUFF) (2nd December)",
-      "url": "https://iicdelhi.in/programmes/european-union-film-festival-india-euff-2nd-december",
-      "venue": "Lecture Room I, IIC Annexe"
-    },
     {
       "category": "Theatre",
       "date": "2026-12-06",
@@ -86,5 +72,5 @@
       "venue": "The Stein Auditorium"
     }
   ],
-  "generated_at": "2026-11-24"
+  "generated_at": "2026-11-25"
 }

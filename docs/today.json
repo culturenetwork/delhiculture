@@ -16,47 +16,47 @@
       "venue": "Art Gallery, Kamaladevi Complex, IIC"
     },
     {
-      "category": "Museum",
-      "date": "2026-11-20",
-      "description": "",
-      "end_date": "2026-11-24",
-      "image": null,
-      "score": 85,
-      "source": "bikanerhouse",
-      "tags": [],
-      "time": null,
-      "title": "Ephemeral Echoes of the Earth",
-      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/11",
-      "venue": "Bikaner House"
-    },
-    {
-      "category": "Museum",
-      "date": "2026-11-20",
-      "description": "",
-      "end_date": "2026-11-24",
-      "image": null,
-      "score": 85,
-      "source": "bikanerhouse",
-      "tags": [],
-      "time": null,
-      "title": "Unheard....Unspoken...",
-      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/11",
-      "venue": "Bikaner House"
-    },
-    {
-      "category": "Dance",
-      "date": "2026-11-24",
+      "category": "Book Talk",
+      "date": "2026-11-25",
       "description": "",
       "end_date": null,
       "image": null,
-      "score": 70,
+      "score": 75,
+      "source": "ihc",
+      "tags": [],
+      "time": "6:00 PM",
+      "title": "Impact of Gulf’s Asymmetric Warfare on Trade Routes and Supply Chain",
+      "url": "https://indiahabitat.org/Events_details/1538",
+      "venue": "Gulmohar"
+    },
+    {
+      "category": "Film",
+      "date": "2026-11-25",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 55,
       "source": "ihc",
       "tags": [],
       "time": "7:00 PM",
-      "title": "The Game of Dice",
-      "url": "https://indiahabitat.org/Events_details/1536",
+      "title": "The Last Viking",
+      "url": "https://indiahabitat.org/Events_details/1539",
       "venue": "The Stein Auditorium"
+    },
+    {
+      "category": "Festivals",
+      "date": "2026-11-25",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-11/25%20November%202026_Website%20Programme%20Image_.jpg",
+      "score": 50,
+      "source": "iic",
+      "tags": [],
+      "time": "10:00 AM",
+      "title": "PEOPLE’S FESTIVAL OF INNOVATION 2026 Innovating for Inclusive Impact: Bridging Science and Society",
+      "url": "https://iicdelhi.in/programmes/peoples-festival-innovation-2026-innovating-inclusive-impact-bridging-science-and",
+      "venue": "C.D. Deshmukh Auditorium, IIC main"
     }
   ],
-  "generated_at": "2026-11-24"
+  "generated_at": "2026-11-25"
 }

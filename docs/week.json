@@ -1,48 +1,6 @@
 {
-  "count": 31,
+  "count": 29,
   "events": [
-    {
-      "category": "Book Talk",
-      "date": "2026-11-25",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 75,
-      "source": "ihc",
-      "tags": [],
-      "time": "6:00 PM",
-      "title": "Impact of Gulf’s Asymmetric Warfare on Trade Routes and Supply Chain",
-      "url": "https://indiahabitat.org/Events_details/1538",
-      "venue": "Gulmohar"
-    },
-    {
-      "category": "Film",
-      "date": "2026-11-25",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 55,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "The Last Viking",
-      "url": "https://indiahabitat.org/Events_details/1539",
-      "venue": "The Stein Auditorium"
-    },
-    {
-      "category": "Festivals",
-      "date": "2026-11-25",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-11/25%20November%202026_Website%20Programme%20Image_.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "10:00 AM",
-      "title": "PEOPLE’S FESTIVAL OF INNOVATION 2026 Innovating for Inclusive Impact: Bridging Science and Society",
-      "url": "https://iicdelhi.in/programmes/peoples-festival-innovation-2026-innovating-inclusive-impact-bridging-science-and",
-      "venue": "C.D. Deshmukh Auditorium, IIC main"
-    },
     {
       "category": "Museum",
       "date": "2026-11-26",
@@ -434,7 +392,21 @@
       "title": "The Quiet Storm",
       "url": "https://iicdelhi.in/programmes/quiet-storm",
       "venue": "C.D. Deshmukh Auditorium, IIC main"
+    },
+    {
+      "category": "Film",
+      "date": "2026-12-02",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-11/2%20December%202026_Website%20Programme%20Image.jpg",
+      "score": 55,
+      "source": "iic",
+      "tags": [],
+      "time": "06:30 PM",
+      "title": "European Union Film Festival -India (EUFF) (2nd December)",
+      "url": "https://iicdelhi.in/programmes/european-union-film-festival-india-euff-2nd-december",
+      "venue": "Lecture Room I, IIC Annexe"
     }
   ],
-  "generated_at": "2026-11-24"
+  "generated_at": "2026-11-25"
 }

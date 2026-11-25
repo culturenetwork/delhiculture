@@ -1,5 +1,5 @@
 {
-  "count": 41,
+  "count": 38,
   "events": [
     {
       "category": "Museum",
@@ -14,48 +14,6 @@
       "title": "EXHIBITION- Concerning the Spiritual",
       "url": "https://iicdelhi.in/programmes/exhibition-concerning-spiritual",
       "venue": "Art Gallery, Kamaladevi Complex, IIC"
-    },
-    {
-      "category": "Museum",
-      "date": "2026-11-20",
-      "description": "",
-      "end_date": "2026-11-24",
-      "image": null,
-      "score": 85,
-      "source": "bikanerhouse",
-      "tags": [],
-      "time": null,
-      "title": "Ephemeral Echoes of the Earth",
-      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/11",
-      "venue": "Bikaner House"
-    },
-    {
-      "category": "Museum",
-      "date": "2026-11-20",
-      "description": "",
-      "end_date": "2026-11-24",
-      "image": null,
-      "score": 85,
-      "source": "bikanerhouse",
-      "tags": [],
-      "time": null,
-      "title": "Unheard....Unspoken...",
-      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/11",
-      "venue": "Bikaner House"
-    },
-    {
-      "category": "Dance",
-      "date": "2026-11-24",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 70,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "The Game of Dice",
-      "url": "https://indiahabitat.org/Events_details/1536",
-      "venue": "The Stein Auditorium"
     },
     {
       "category": "Book Talk",
@@ -576,5 +534,5 @@
       "venue": "The Stein Auditorium"
     }
   ],
-  "generated_at": "2026-11-24"
+  "generated_at": "2026-11-25"
 }
