@@ -1,5 +1,5 @@
 {
-  "count": 38,
+  "count": 35,
   "events": [
     {
       "category": "Museum",
@@ -16,46 +16,18 @@
       "venue": "Art Gallery, Kamaladevi Complex, IIC"
     },
     {
-      "category": "Book Talk",
-      "date": "2026-11-25",
+      "category": "Museum",
+      "date": "2026-11-26",
       "description": "",
-      "end_date": null,
+      "end_date": "2026-11-27",
       "image": null,
-      "score": 75,
-      "source": "ihc",
+      "score": 85,
+      "source": "bikanerhouse",
       "tags": [],
-      "time": "6:00 PM",
-      "title": "Impact of Gulf’s Asymmetric Warfare on Trade Routes and Supply Chain",
-      "url": "https://indiahabitat.org/Events_details/1538",
-      "venue": "Gulmohar"
-    },
-    {
-      "category": "Film",
-      "date": "2026-11-25",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 55,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:00 PM",
-      "title": "The Last Viking",
-      "url": "https://indiahabitat.org/Events_details/1539",
-      "venue": "The Stein Auditorium"
-    },
-    {
-      "category": "Festivals",
-      "date": "2026-11-25",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-11/25%20November%202026_Website%20Programme%20Image_.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "10:00 AM",
-      "title": "PEOPLE’S FESTIVAL OF INNOVATION 2026 Innovating for Inclusive Impact: Bridging Science and Society",
-      "url": "https://iicdelhi.in/programmes/peoples-festival-innovation-2026-innovating-inclusive-impact-bridging-science-and",
-      "venue": "C.D. Deshmukh Auditorium, IIC main"
+      "time": null,
+      "title": "Divine Art Forms in Silver",
+      "url": "https://bikanerhouse.rajasthan.gov.in/upcoming-events/2026/11",
+      "venue": "Bikaner House"
     },
     {
       "category": "Museum",
@@ -202,7 +174,7 @@
       "date": "2026-11-27",
       "description": "",
       "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-11/27%20November%202026_Website%20Spotlight.jpg",
+      "image": "https://aws-static.iicdelhi.in/2026-11/Website%20Programme%20Image_27%20November%202026.jpg",
       "score": 50,
       "source": "iic",
       "tags": [],
@@ -294,20 +266,6 @@
       "title": "Jippie No More",
       "url": "https://indiahabitat.org/Events_details/1544",
       "venue": "Gulmohar"
-    },
-    {
-      "category": "Seminars",
-      "date": "2026-11-28",
-      "description": "",
-      "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-11/28%20November%202026_Website%20Programme%20Image_3.jpg",
-      "score": 50,
-      "source": "iic",
-      "tags": [],
-      "time": "09:30 AM",
-      "title": "One-Day National Seminar on \"The 5th Plenum of the 20th CPC Central Committee: Party, Army, and Governance\"",
-      "url": "https://iicdelhi.in/programmes/one-day-national-seminar-5th-plenum-20th-cpc-central-committee-party-army-and-governance",
-      "venue": "Conference Room II, IIC main"
     },
     {
       "category": "Talk & Theatre",
@@ -534,5 +492,5 @@
       "venue": "The Stein Auditorium"
     }
   ],
-  "generated_at": "2026-11-25"
+  "generated_at": "2026-11-26"
 }
