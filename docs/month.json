@@ -1,6 +1,20 @@
 {
-  "count": 5,
+  "count": 15,
   "events": [
+    {
+      "category": "Museum",
+      "date": "2026-12-05",
+      "description": "SPAND: From the Pulse of Creation to the Wholeness of Being By Sangeeta Gupta An exploration of the subtle rhythms of existence, where the primordial pulse of creation unfolds into the harmony and wholeness of being.",
+      "end_date": "2026-12-16",
+      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "score": 85,
+      "source": "iic",
+      "tags": [],
+      "time": "11:00 AM",
+      "title": "EXHIBITION- SPAND: From the Pulse of Creation to the Wholeness of Being",
+      "url": "https://iicdelhi.in/programmes/exhibition-spand-pulse-creation-wholeness-being",
+      "venue": "Art Gallery, Kamaladevi Complex, IIC"
+    },
     {
       "category": "Theatre",
       "date": "2026-12-06",
@@ -14,6 +28,132 @@
       "title": "Main Bhi Bachchan",
       "url": "https://indiahabitat.org/Events_details/1552",
       "venue": "The Stein Auditorium"
+    },
+    {
+      "category": "Book Talk",
+      "date": "2026-12-07",
+      "description": "",
+      "end_date": null,
+      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "score": 75,
+      "source": "iic",
+      "tags": [],
+      "time": "06:00 PM",
+      "title": "Building Brics of New World Order: Beyond North and South",
+      "url": "https://iicdelhi.in/programmes/building-brics-new-world-order-beyond-north-and-south",
+      "venue": "Lecture Room I, IIC Annexe"
+    },
+    {
+      "category": "Book Talk",
+      "date": "2026-12-07",
+      "description": "",
+      "end_date": null,
+      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "score": 75,
+      "source": "iic",
+      "tags": [],
+      "time": "06:00 PM",
+      "title": "INDIAN ARCHAEOLOGY -North-eastern Region of India",
+      "url": "https://iicdelhi.in/programmes/indian-archaeology-north-eastern-region-india",
+      "venue": "Conference Room II, IIC main"
+    },
+    {
+      "category": "Library Programmes",
+      "date": "2026-12-07",
+      "description": "",
+      "end_date": null,
+      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "score": 50,
+      "source": "iic",
+      "tags": [],
+      "time": "06:00 PM",
+      "title": "BOOK DISCUSSION GROUP  - Anger: Why We Get Angry and How We Should Respond to Provocation",
+      "url": "https://iicdelhi.in/programmes/book-discussion-group-anger-why-we-get-angry-and-how-we-should-respond-provocation",
+      "venue": "Conference Room I, IIC main"
+    },
+    {
+      "category": "Book Talk",
+      "date": "2026-12-08",
+      "description": "",
+      "end_date": null,
+      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "score": 75,
+      "source": "iic",
+      "tags": [],
+      "time": "06:00 PM",
+      "title": "Lying in Full Sight/Site: Utterances and Silences of Ananda K. Coomaraswamy",
+      "url": "https://iicdelhi.in/programmes/lying-full-sightsite-utterances-and-silences-ananda-k-coomaraswamy",
+      "venue": "Lecture Room II, IIC Annexe"
+    },
+    {
+      "category": "Book Talk",
+      "date": "2026-12-09",
+      "description": "",
+      "end_date": null,
+      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "score": 75,
+      "source": "iic",
+      "tags": [],
+      "time": "10:00 AM",
+      "title": "DIALOGUES IN HEALTH & WELLNESS",
+      "url": "https://iicdelhi.in/programmes/dialogues-health-wellness-1",
+      "venue": "Seminar Rooms 1,2,3"
+    },
+    {
+      "category": "Library Programmes",
+      "date": "2026-12-09",
+      "description": "",
+      "end_date": null,
+      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "score": 50,
+      "source": "iic",
+      "tags": [],
+      "time": "06:00 PM",
+      "title": "BOOK DISCUSSION GROUP-  Wages for Housework: India's Experiment with Unconditional Cash Transfers to Women",
+      "url": "https://iicdelhi.in/programmes/book-discussion-group-wages-housework-indias-experiment-unconditional-cash-transfers",
+      "venue": "Lecture Room I, IIC Annexe"
+    },
+    {
+      "category": "Cultural",
+      "date": "2026-12-09",
+      "description": "",
+      "end_date": null,
+      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "score": 50,
+      "source": "iic",
+      "tags": [],
+      "time": "05:30 PM",
+      "title": "IIC WINTER FESTIVAL OF DANCE",
+      "url": "https://iicdelhi.in/programmes/iic-winter-festival-dance-1",
+      "venue": "C.D. Deshmukh Auditorium, IIC main"
+    },
+    {
+      "category": "Book Talk",
+      "date": "2026-12-10",
+      "description": "",
+      "end_date": null,
+      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "score": 75,
+      "source": "iic",
+      "tags": [],
+      "time": "05:30 PM",
+      "title": "MID-YEAR REVIEW OF THE INDIAN ECONOMY 2026-27",
+      "url": "https://iicdelhi.in/programmes/mid-year-review-indian-economy-2026-27",
+      "venue": "Conference Room II, IIC main"
+    },
+    {
+      "category": "Book Talk",
+      "date": "2026-12-10",
+      "description": "",
+      "end_date": null,
+      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "score": 75,
+      "source": "iic",
+      "tags": [],
+      "time": "06:00 PM",
+      "title": "MUSIC APPRECIATION PROMOTION -Songs of the Dancing Women",
+      "url": "https://iicdelhi.in/programmes/music-appreciation-promotion-songs-dancing-women",
+      "venue": "Lecture Room II, IIC Annexe"
     },
     {
       "category": "Film",
@@ -72,5 +212,5 @@
       "venue": "The Stein Auditorium"
     }
   ],
-  "generated_at": "2026-11-26"
+  "generated_at": "2026-11-27"
 }

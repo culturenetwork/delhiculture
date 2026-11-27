@@ -1,5 +1,5 @@
 {
-  "count": 7,
+  "count": 9,
   "events": [
     {
       "category": "Museum",
@@ -45,60 +45,88 @@
     },
     {
       "category": "Book Talk",
-      "date": "2026-11-26",
+      "date": "2026-11-27",
       "description": "",
       "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-11/26%20November%202026_Website%20Programme%20Image_1.jpg",
+      "image": "https://aws-static.iicdelhi.in/2026-11/Website%20Programme%20Image_27%20November%202026_1.jpg",
       "score": 75,
       "source": "iic",
       "tags": [],
-      "time": "06:30 PM",
-      "title": "AAJ KAVITA",
-      "url": "https://iicdelhi.in/programmes/aaj-kavita-50",
-      "venue": "Lecture Room II, IIC Annexe"
+      "time": "06:00 PM",
+      "title": "Fourth Estate Rewired: The Changing Structure of Indian Media",
+      "url": "https://iicdelhi.in/programmes/fourth-estate-rewired-changing-structure-indian-media",
+      "venue": "Conference Room II, IIC main"
     },
     {
       "category": "Book Talk",
-      "date": "2026-11-26",
+      "date": "2026-11-27",
       "description": "",
       "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-11/26%20November%202026_Website%20Programme%20Image_2.jpg",
+      "image": "https://aws-static.iicdelhi.in/2026-11/Website%20Programme%20Image_27%20November%202026_4.jpg",
       "score": 75,
       "source": "iic",
       "tags": [],
-      "time": "10:00 AM",
-      "title": "COMMEMORATION OF CONSTITUTION DAY - 2026",
-      "url": "https://iicdelhi.in/programmes/commemoration-constitution-day-2026",
-      "venue": "C.D. Deshmukh Auditorium, IIC main"
+      "time": "02:00 PM",
+      "title": "Legacy for a Just World: Education, Science, and Culture in the Service of Humanity",
+      "url": "https://iicdelhi.in/programmes/legacy-just-world-education-science-and-culture-service-humanity",
+      "venue": "Conference Room I, IIC main"
     },
     {
-      "category": "Cultural",
-      "date": "2026-11-26",
+      "category": "Book Talk",
+      "date": "2026-11-27",
       "description": "",
       "end_date": null,
-      "image": "https://aws-static.iicdelhi.in/2026-11/26%20November%202026_Website%20Programme%20Image.jpg",
+      "image": "https://aws-static.iicdelhi.in/2026-11/Website%20Programme%20Image_27%20November%202026_2.jpg",
+      "score": 75,
+      "source": "iic",
+      "tags": [],
+      "time": "06:00 PM",
+      "title": "MUSIC APPRECIATION PROMOTION",
+      "url": "https://iicdelhi.in/programmes/music-appreciation-promotion-356",
+      "venue": "Lecture Room II, IIC Annexe"
+    },
+    {
+      "category": "Dance",
+      "date": "2026-11-27",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 70,
+      "source": "ihc",
+      "tags": [],
+      "time": "7:00 PM",
+      "title": "A Solo Bharatanatyam Margam",
+      "url": "https://indiahabitat.org/Events_details/1543",
+      "venue": "The Stein Auditorium"
+    },
+    {
+      "category": "Film",
+      "date": "2026-11-27",
+      "description": "",
+      "end_date": null,
+      "image": null,
+      "score": 55,
+      "source": "ihc",
+      "tags": [],
+      "time": "7:00 PM",
+      "title": "Maricel",
+      "url": "https://indiahabitat.org/Events_details/1542",
+      "venue": "Gulmohar"
+    },
+    {
+      "category": "Library Programmes",
+      "date": "2026-11-27",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-11/Website%20Programme%20Image_27%20November%202026.jpg",
       "score": 50,
       "source": "iic",
       "tags": [],
       "time": "06:00 PM",
-      "title": "IIC DOUBLE BILL: MUSIC & DANCE RECITALS",
-      "url": "https://iicdelhi.in/programmes/iic-double-bill-music-dance-recitals-6",
-      "venue": "C.D. Deshmukh Auditorium, IIC main"
-    },
-    {
-      "category": "Dance & Music",
-      "date": "2026-11-26",
-      "description": "",
-      "end_date": null,
-      "image": null,
-      "score": 50,
-      "source": "ihc",
-      "tags": [],
-      "time": "7:30 PM",
-      "title": "Tanmaya – The Odissi Experience",
-      "url": "https://indiahabitat.org/Events_details/1541",
-      "venue": "The Stein Auditorium"
+      "title": "BOOK DISCUSSION GROUP-  Democracy in Education",
+      "url": "https://iicdelhi.in/programmes/book-discussion-group-democracy-education",
+      "venue": "Conference Room I, IIC main"
     }
   ],
-  "generated_at": "2026-11-26"
+  "generated_at": "2026-11-27"
 }
