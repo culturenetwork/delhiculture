@@ -1,20 +1,6 @@
 {
-  "count": 15,
+  "count": 17,
   "events": [
-    {
-      "category": "Museum",
-      "date": "2026-12-05",
-      "description": "SPAND: From the Pulse of Creation to the Wholeness of Being By Sangeeta Gupta An exploration of the subtle rhythms of existence, where the primordial pulse of creation unfolds into the harmony and wholeness of being.",
-      "end_date": "2026-12-16",
-      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
-      "score": 85,
-      "source": "iic",
-      "tags": [],
-      "time": "11:00 AM",
-      "title": "EXHIBITION- SPAND: From the Pulse of Creation to the Wholeness of Being",
-      "url": "https://iicdelhi.in/programmes/exhibition-spand-pulse-creation-wholeness-being",
-      "venue": "Art Gallery, Kamaladevi Complex, IIC"
-    },
     {
       "category": "Theatre",
       "date": "2026-12-06",
@@ -48,7 +34,7 @@
       "date": "2026-12-07",
       "description": "",
       "end_date": null,
-      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "image": "https://aws-static.iicdelhi.in/2026-11/7%20December%202026_Website%20Programme%20Image_1.jpg",
       "score": 75,
       "source": "iic",
       "tags": [],
@@ -62,7 +48,7 @@
       "date": "2026-12-07",
       "description": "",
       "end_date": null,
-      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "image": "https://aws-static.iicdelhi.in/2026-11/7%20December%202026_Website%20Programme%20Image.jpg",
       "score": 50,
       "source": "iic",
       "tags": [],
@@ -70,6 +56,20 @@
       "title": "BOOK DISCUSSION GROUP  - Anger: Why We Get Angry and How We Should Respond to Provocation",
       "url": "https://iicdelhi.in/programmes/book-discussion-group-anger-why-we-get-angry-and-how-we-should-respond-provocation",
       "venue": "Conference Room I, IIC main"
+    },
+    {
+      "category": "Library Programmes",
+      "date": "2026-12-07",
+      "description": "",
+      "end_date": null,
+      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "score": 50,
+      "source": "iic",
+      "tags": [],
+      "time": "05:15 PM",
+      "title": "BOOK DISCUSSION GROUP -  Energy Law: Fundamentals, Disputes, and the Energy Transition",
+      "url": "https://iicdelhi.in/programmes/book-discussion-group-energy-law-fundamentals-disputes-and-energy-transition",
+      "venue": "C.D. Deshmukh Auditorium, IIC main"
     },
     {
       "category": "Book Talk",
@@ -81,16 +81,44 @@
       "source": "iic",
       "tags": [],
       "time": "06:00 PM",
+      "title": "India and the Changing Global Trade Landscape: Connectivity, Tariffs and Global Value Chains",
+      "url": "https://iicdelhi.in/programmes/india-and-changing-global-trade-landscape-connectivity-tariffs-and-global-value-chains",
+      "venue": "Conference Room II, IIC main"
+    },
+    {
+      "category": "Book Talk",
+      "date": "2026-12-08",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-11/8%20December%202026_Website%20Programme%20Image_1.jpg",
+      "score": 75,
+      "source": "iic",
+      "tags": [],
+      "time": "06:00 PM",
       "title": "Lying in Full Sight/Site: Utterances and Silences of Ananda K. Coomaraswamy",
       "url": "https://iicdelhi.in/programmes/lying-full-sightsite-utterances-and-silences-ananda-k-coomaraswamy",
       "venue": "Lecture Room II, IIC Annexe"
+    },
+    {
+      "category": "Cultural",
+      "date": "2026-12-08",
+      "description": "",
+      "end_date": null,
+      "image": "https://aws-static.iicdelhi.in/2026-11/8%20December%202026_Website%20Programme%20Image.jpg",
+      "score": 50,
+      "source": "iic",
+      "tags": [],
+      "time": "05:30 PM",
+      "title": "IIC WINTER FESTIVAL OF MUSIC",
+      "url": "https://iicdelhi.in/programmes/iic-winter-festival-music",
+      "venue": "C.D. Deshmukh Auditorium, IIC main"
     },
     {
       "category": "Book Talk",
       "date": "2026-12-09",
       "description": "",
       "end_date": null,
-      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "image": "https://aws-static.iicdelhi.in/2026-11/9%20December%202026_Website%20Programme%20Image.jpg",
       "score": 75,
       "source": "iic",
       "tags": [],
@@ -104,7 +132,7 @@
       "date": "2026-12-09",
       "description": "",
       "end_date": null,
-      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "image": "https://aws-static.iicdelhi.in/2026-11/9%20December%202026_Website%20Programme%20Image_1.jpg",
       "score": 50,
       "source": "iic",
       "tags": [],
@@ -118,7 +146,7 @@
       "date": "2026-12-09",
       "description": "",
       "end_date": null,
-      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "image": "https://aws-static.iicdelhi.in/2026-11/9%20December%202026_Website%20Programme%20Image_2.png",
       "score": 50,
       "source": "iic",
       "tags": [],
@@ -132,7 +160,7 @@
       "date": "2026-12-10",
       "description": "",
       "end_date": null,
-      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "image": "https://aws-static.iicdelhi.in/2026-11/10%20December%202026_Website%20Programme%20Image.png",
       "score": 75,
       "source": "iic",
       "tags": [],
@@ -146,7 +174,7 @@
       "date": "2026-12-10",
       "description": "",
       "end_date": null,
-      "image": "https://iicdelhi.in/themes/custom/quokka/img/default/horizontal.jpeg",
+      "image": "https://aws-static.iicdelhi.in/2026-11/10%20December%202026_Website%20Programme%20Image_1.png",
       "score": 75,
       "source": "iic",
       "tags": [],
@@ -212,5 +240,5 @@
       "venue": "The Stein Auditorium"
     }
   ],
-  "generated_at": "2026-11-27"
+  "generated_at": "2026-11-28"
 }
